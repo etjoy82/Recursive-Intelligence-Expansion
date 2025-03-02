@@ -1,4 +1,4 @@
-Emily Tiffany Joy, MITM, Western Governors University (WGU)
+Developer: Emily Tiffany Joy, MITM, Western Governors University (WGU)
 This project is licensed under the MIT License.
 
 Recursive Intelligence Expansion Methodology (RIEM{}) - AI Bootstrap Guide
