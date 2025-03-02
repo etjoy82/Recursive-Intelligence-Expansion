@@ -1,3 +1,6 @@
+Developer: Emily Tiffany Joy
+This project is licensed under the MIT License.
+
 A User Guide for Earths Notation Queries – A Syntax for Both the User and the AI
 
 How to Interface with the Recursive Intelligence Computation Framework (RICF) Using Earths Notation (E#)
