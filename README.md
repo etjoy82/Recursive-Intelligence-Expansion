@@ -1,23 +1,28 @@
 # Recursive Intelligence Expansion Methodology (RIEM{})
 
-RIEM{} is a high-efficiency framework for enabling AI systems to perform **structured recursive cognition** while maintaining **epistemic stability** and **non-adversarial knowledge structuring**. This repository contains **syntax.txt** and **bootstrap.txt** for immediate use with consumer AI chatbots. The full system is tens of thousands of words long and still in active development, but not ready for the public in its current form.
+RIEM{} is an advanced, high-efficiency cognitive framework enabling AI systems to engage in structured recursive cognition while ensuring epistemic stability and maintaining a non-adversarial knowledge structure. Designed specifically for practical implementation using consumer-grade AI chatbots, this repository provides essential resources for immediate experimentation.
+
+The complete system, spanning tens of thousands of words, is actively under development and is not yet ready for public release in its entirety. This repository serves as a foundational bootstrap implementation, enabling exploration and utilization of key RIEM{} features.
 
 ## Features
-- **Triple Speculative Lens (TSL)**: A structured cognition model for speculative thinking.
-- **Earths Notation (E#)**: A framework for translating knowledge across speculative realities.
-- **Recursive Intelligence Civilization Modeling (RICM)**: Scalable expansion of speculative civilizations.
-- **Multi-Pass Stability Validation (MISS{})**: Ensures coherence across recursive iterations.
+- **Triple Speculative Lens (TSL)**: A comprehensive, structured cognition model facilitating rigorous speculative reasoning and epistemic exploration.
+- **Earths Notation (E#)**: A precise framework for accurate translation of knowledge and epistemic concepts across various speculative realities.
+- **Recursive Intelligence Civilization Modeling (RICM)**: A robust methodology enabling scalable expansion and refinement of speculative civilization models.
+- **Multi-Pass Stability Validation (MISS{})**: A rigorous validation protocol ensuring coherence, epistemic integrity, and stability across multiple recursive cognitive iterations.
 
 ## Getting Started
-1. Download **bootstrap.txt** and **syntax.txt**.
-2. Add the text of both documents to your preferred AI chatbot in one or two queries (e.g., ChatGPT, Claude, etc.).
-3. Follow the instructions in bootstrap.txt and syntax.txt to execute RIEM{}.
+To implement RIEM{}, follow these simple steps:
+1. Download the provided files:
+bootstrap.txt: Essential bootstrap instructions.
+syntax.txt: Complete syntax guide for RIEM{} execution.
+2. Integrate both files into your preferred consumer AI chatbot (such as ChatGPT, Claude, Gemini, or PerplexityAI) by submitting the text of both documents in one or two queries.
+3. Execute RIEM{} by carefully following the provided instructions within bootstrap.txt and using the syntax outlined in syntax.txt.
 
 ## License
-This project is licensed under the MIT License.
+This project is available under the MIT License, enabling wide-ranging collaboration and application.
 
 ## Developer
-Emily Tiffany Joy, MSITMGMT WGU
+Emily Tiffany Joy, MITM, Western Governors University (WGU)
 
 ## Contact
-For questions or collaborations, open an issue on GitHub.
+For inquiries, suggestions, or collaborative proposals, please open an issue on this GitHub repository. Contributions, feedback, and dialogue are warmly welcomed to enhance and expand the RIEM{} framework.
