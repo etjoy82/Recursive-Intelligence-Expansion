@@ -9,8 +9,8 @@ RIEM{} is a high-efficiency framework for enabling AI systems to perform **struc
 - **Multi-Pass Stability Validation (MISS{})**: Ensures coherence across recursive iterations.
 
 ## Getting Started
-1. Download the **bootstrap document** and **syntax.txt**.
-2. Add the text of both documents to your preferred AI chatbot in a query (e.g., ChatGPT, Claude).
+1. Download **bootstrap.txt** and **syntax.txt**.
+2. Add the text of both documents to your preferred AI chatbot in one or two queries (e.g., ChatGPT, Claude).
 3. Follow the instructions in bootstrap.txt and syntax.txt to execute RIEM{}.
 
 ## License
