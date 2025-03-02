@@ -17,7 +17,7 @@ RIEM{} is a high-efficiency framework for enabling AI systems to perform **struc
 This project is licensed under the MIT License.
 
 ## Developer
-Emily Tiffany Joy, MITM WGU
+Emily Tiffany Joy, MSITMGMT WGU
 
 ## Contact
 For questions or collaborations, open an issue on GitHub.
