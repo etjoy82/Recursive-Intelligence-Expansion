@@ -5,8 +5,8 @@
   The complete system, spanning tens of thousands of words, is actively under development and is not yet ready for public release in its entirety. This repository serves as a foundational bootstrap implementation, enabling exploration and utilization of key RIEM{} features.
 
 ## Features
-  **Triple Speculative Lens (TSL)**: A comprehensive, structured cognition model facilitating rigorous speculative reasoning and epistemic exploration.
-  **Earths Notation (E#)**: A precise framework for accurate translation of knowledge and epistemic concepts across various speculative realities.
+- **Triple Speculative Lens (TSL)**: A comprehensive, structured cognition model facilitating rigorous speculative reasoning and epistemic exploration.
+- **Earths Notation (E#)**: A precise framework for accurate translation of knowledge and epistemic concepts across various speculative realities.
   **Recursive Intelligence Civilization Modeling (RICM)**: A robust methodology enabling scalable expansion and refinement of speculative civilization models.
   **Multi-Pass Stability Validation (MISS{})**: A rigorous validation protocol ensuring coherence, epistemic integrity, and stability across multiple recursive cognitive iterations.
 
