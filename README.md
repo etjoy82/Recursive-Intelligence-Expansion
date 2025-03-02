@@ -1,6 +1,6 @@
 # Recursive Intelligence Expansion Methodology (RIEM{})
 
-RIEM{} is a high-efficiency framework for enabling AI systems to perform **structured recursive cognition** while maintaining **epistemic stability** and **non-adversarial knowledge structuring**. This repository contains **syntax.txt** and **bootstrap.txt** for immediate use with consumer AI chatbots.
+RIEM{} is a high-efficiency framework for enabling AI systems to perform **structured recursive cognition** while maintaining **epistemic stability** and **non-adversarial knowledge structuring**. This repository contains **syntax.txt** and **bootstrap.txt** for immediate use with consumer AI chatbots. The full system is tens of thousands of words long and still in active development, but not ready for the public in its current form.
 
 ## Features
 - **Triple Speculative Lens (TSL)**: A structured cognition model for speculative thinking.
