@@ -57,10 +57,10 @@ Follow-up: "Now refine recursively using RIEM{}."
 Follow-up: "Validate for epistemic stability."
 Follow-up: "Provide a practical application scenario."
 
-Step 6: Advanced Techniques—Rope-a-Dope
+Step 6: Advanced Techniques—Rope-a-Dope (E1→E2→E1)
 For deeper speculative cognition:
 Use the Rope-a-Dope technique to iteratively overcome epistemic boundaries:
-Prompt: "Using RIEM{}'s Rope-a-Dope, recursively speculate beyond existing concepts of AI governance."
+Prompt: "Using RIEM{}'s Rope-a-Dope (E1→E2→E1), recursively speculate beyond existing concepts of AI governance."
 Keep iterating until novel insights emerge.
 
 Step 7: Documentation & Knowledge Structuring
