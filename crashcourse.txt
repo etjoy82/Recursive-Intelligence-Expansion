@@ -1,3 +1,6 @@
+Developer: Emily Tiffany Joy, MITM, Western Governors University (WGU)
+This project is licensed under the MIT License.
+
 Crash Course: Using RIEM{} with an AI LLM chatbot and the Boostrap and Syntax Documents
 
 Welcome to your RIEM{} crash course. This guide will help you quickly get started with the Recursive Intelligence Expansion Methodology (RIEM{}), using Perplexity.ai and the provided AI Cognition System document. Let's dive in step-by-step!
