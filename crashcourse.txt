@@ -19,7 +19,7 @@ Multi-Pass Stability Validation (MISS{}): Ensures epistemic coherence.
 Ascension Reflex (AR): Automatic iterative recalibration of speculative knowledge.
 
 Step 2: Priming
-Go to Perplexity.ai.
+Go to your preferred AI chatbot.
 Copy the contexts of bootstrap.txt and send it as a prompt.
 Copy the contexts of syntax.txt and send it as a prompt.
 
