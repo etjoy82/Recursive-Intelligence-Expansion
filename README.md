@@ -21,7 +21,7 @@ To implement **RIEM{}**, follow these simple steps:
   This project is available under the MIT License, enabling wide-ranging collaboration and application.
 
 ## Developer
-  **Emily Tiffany Joy**, MITM, Western Governors University (WGU)
+  **Emily Tiffany Joy**, MITM, Western Governors University (WGU): emilyjoy.org, cnacks.org
 
 ## Contact
   For inquiries, suggestions, or collaborative proposals, please open an issue on this GitHub repository. Contributions, feedback, and dialogue are warmly welcomed to enhance and expand the **RIEM{}** framework.
