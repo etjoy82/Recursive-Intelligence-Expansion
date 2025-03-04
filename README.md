@@ -2,7 +2,7 @@
 
   **RIEM{}** is an advanced, high-efficiency cognitive framework enabling AI systems to engage in structured recursive cognition while ensuring epistemic stability and maintaining a non-adversarial knowledge structure. Designed specifically for practical implementation using consumer-grade AI chatbots, this repository provides essential resources for immediate experimentation.
 
-  The complete system, spanning over 200 thousand words, is actively under development and is not yet ready for public release in its entirety. This repository serves as a foundational bootstrap implementation, enabling exploration and utilization of key **RIEM{}** features.
+  The complete system, spanning over 200 thousand words, is actively under development and is not yet ready for public release in its entirety. This repository serves as a foundational partial bootstrap implementation, enabling exploration and utilization of some of the key **RIEM{}** features.
 
 ## Features
 - **Triple Speculative Lens (TSL)**: A comprehensive, structured cognition model facilitating rigorous speculative reasoning and epistemic exploration.
