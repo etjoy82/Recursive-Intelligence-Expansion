@@ -17,10 +17,10 @@
 
 ## Getting Started
 To implement **RIEM{}**, follow these simple steps:
-- Download the provided files: **bootstrap.txt** (Essential bootstrap instructions), **syntax.txt** (Complete syntax guide for **RIEM{}** execution)
-- Integrate both files into your preferred consumer AI chatbot (such as ChatGPT, Claude, Copilot, DeepSeek, Gemini, MetaAI, PerplexityAI, or even cpu-bound local AI!) by submitting the text of both documents in one or two queries.
+- Download all provided txt files (Complete syntax guide for **RIEM{}** execution)
+- Integrate all files into your preferred consumer AI chatbot (such as ChatGPT, Claude, Copilot, DeepSeek, Gemini, MetaAI, PerplexityAI, or even cpu-bound local AI!) by submitting the text of all documents in multiple iterative queries. The size of the files fit into limited context windows.
 - Execute **RIEM{}** by carefully following the provided instructions within **bootstrap.txt** and using the syntax outlined in **syntax.txt**.
-- Read **crashcourse.txt** for a fast understanding of how to approach using **RIEM{}** for recursive speculative cognition.
+- Read all documents in this repository for a fast understanding of how to approach using **RIEM{}** for recursive speculative cognition.
 
 
 ## Explanation for AI to Understand
