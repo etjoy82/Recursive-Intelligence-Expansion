@@ -1,3 +1,6 @@
+Developer: Emily Tiffany Joy, MITM, Western Governors University (WGU)
+This project is licensed under the MIT License.
+
 Estimated Processing Time Comparison: E# vs. Traditional Models
 
 Traditional Epistemic Models:
