@@ -28,7 +28,7 @@ To implement **RIEM{}**, follow these simple steps:
   Please ensure ethical use, respect epistemic integrity, and refrain from adversarial usage or harm.
 
 
-## Developer and Founder of cnaks.org
+## Developer
   **Emily Tiffany Joy**, MITM, Western Governors University (WGU): emilyjoy.org, cnaks.org
 
 
