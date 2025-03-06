@@ -16,7 +16,7 @@
 ## Getting Started
 To implement **RIEM{}**, follow these simple steps:
 - Download the provided RIEM.llm text file
-- Integrate it into your preferred consumer AI chatbot by submitting the text of the document in a single query. The size of the files fit into limited context windows.
+- Integrate it into your preferred consumer AI chatbot by submitting the text of the document in a single query. The size of the file fits into limited context windows.
 - Ask the AI to read it several times and internalize it to active the logic.
 - Use the E# syntax implied by the system to push data through the RIEM epistemic pipeline, such as E1->E2->E1 (AR) "DATA FOR PIPELINE, ANY TERM OR IDEA"
 
