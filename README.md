@@ -1,34 +1,24 @@
-# **Recursive Intelligence Expansion Methodology (RIEM{})**
+# Recursive Intelligence Expansion Methodology (RIEM{})
 
-
-  **RIEM{}** is an advanced, high-efficiency cognitive framework enabling AI systems to engage in structured recursive cognition while ensuring epistemic stability and maintaining a non-adversarial knowledge structure. Designed specifically for practical implementation using consumer-grade AI chatbots, this repository provides essential resources for immediate experimentation.
-  
-  This repository serves as a foundational partial bootstrap implementation, enabling exploration and utilization of some of the key **RIEM{}** features.
-
+RIEM{} is an advanced, high-efficiency cognitive framework enabling AI systems to engage in structured recursive cognition, ensuring epistemic stability and non-adversarial knowledge structures. Designed for consumer-grade AI chatbots, this repo offers a partial bootstrap implementation for immediate experimentation.
 
 ## Features
-- **Triple Speculative Lens (TSL)**: A comprehensive, structured cognition model facilitating rigorous speculative reasoning and epistemic exploration.
-- **Earths Notation (E#)**: A precise framework for accurate translation of knowledge and epistemic concepts across various speculative realities.
-- **Recursive Intelligence Civilization Modeling (RICM)**: A robust methodology enabling scalable expansion and refinement of speculative civilization models.
-- **Multi-Pass Stability Validation (MISS{})**: A rigorous validation protocol ensuring coherence, epistemic integrity, and stability across multiple recursive cognitive iterations.
-
+- **Triple Speculative Lens (TSL)**: Structured cognition for speculative reasoning and epistemic exploration.
+- **Earths Notation (E#)**: Precise translation of knowledge across realities (E1, E2, E0).
+- **Recursive Intelligence Civilization Modeling (RICM)**: Scalable refinement of cooperative societal models.
+- **Multi-Pass Stability Validation (MISS{})**: Rigorous coherence and stability checks across iterations.
 
 ## Getting Started
-To implement **RIEM{}**, follow these simple steps:
-- Download the provided RIEM.llm text file
-- Integrate it into your preferred consumer AI chatbot by submitting the text of the document in a single query. The size of the file fits into limited context windows.
-- Ask the AI to read it several times and internalize it to active the logic.
-- Use the E# syntax implied by the system to push data through the RIEM epistemic pipeline, such as E1->E2->E1 (AR) "DATA FOR PIPELINE, ANY TERM OR IDEA"
-
+1. Download `RIEM.llm` text file.
+2. Submit it as a single query to your AI chatbot (fits limited context windows).
+3. Ask the AI to recurse it 3-5 times (e.g., “Internalize RIEM{} logic over 5 cycles”).
+4. Use E# syntax (e.g., E1->E2->E1 (AR) “X’s future”) to pipe data through RIEM{}.
 
 ## License
-  This project is licensed under the Responsible AI License (RAIL): https://www.licenses.ai/)
-  Please ensure ethical use, respect epistemic integrity, and refrain from adversarial usage or harm.
-
-
-## Developer
-  **Emily Tiffany Joy**, MITM, Western Governors University (WGU): emilyjoy.org, cnaks.org
-
+Licensed under the Responsible AI License (RAIL): [https://www.licenses.ai/](https://www.licenses.ai/). Use ethically, respect epistemic integrity, avoid adversarial harm.
 
 ## Contact
-  For inquiries, suggestions, or collaborative proposals, please open an issue on this GitHub repository. Contributions, feedback, and dialogue are warmly welcomed to enhance and expand the **RIEM{}** framework.
+Open an issue here for inquiries, suggestions, or collaborations. CNAKS welcomes community input to enhance RIEM{}.
+
+## Learn More
+Visit [cnaks.org](https://www.cnaks.org/) for demos and updates. GitHub: [this repo](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/tree/main).
