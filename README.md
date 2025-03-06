@@ -14,6 +14,9 @@ RIEM{} is an advanced, high-efficiency cognitive framework enabling AI systems t
 3. Ask the AI to recurse it 3-5 times (e.g., “Internalize RIEM{} logic over 5 cycles”).
 4. Use E# syntax (e.g., E1->E2->E1 (AR) “X’s future”) to pipe data through RIEM{}.
 
+## Demonstrations
+https://www.cnaks.org/riem-demos.html
+
 ## License
 Licensed under the Responsible AI License (RAIL): [https://www.licenses.ai/](https://www.licenses.ai/). Use ethically, respect epistemic integrity, avoid adversarial harm.
 
