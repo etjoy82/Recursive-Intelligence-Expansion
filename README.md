@@ -6,7 +6,7 @@ RIEM{} is an advanced, high-efficiency cognitive npnaAI ULAMP framework enabling
 
 This project uses [User-Level AI Meta-Progamming (ULAMP)](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/User-Level%20AI%20Meta-Programming%20(ULAMP).md) and [non-predatory non-adversarial AI (npnaAI)](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/Non-Predatory%20Non-Adversarial%20AI%20(npnaAI).md).
 
-[This repository is under active development. See changelog.](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/changelog.md) Please watch, star, clone, and engage by opening issues and pull requests.
+[This repository is under active development. See changelog.](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/changelog.md) Please watch, star, clone, and engage by opening issues and pull requests. [Contributing.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/CONTRIBUTING.md).
 
 ## Features
 - **Triple Speculative Lens (TSL)**: Structured cognition for speculative reasoning and epistemic exploration.
