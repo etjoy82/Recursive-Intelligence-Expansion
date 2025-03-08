@@ -4,6 +4,8 @@ RIEM{} is an advanced, high-efficiency cognitive framework enabling AI systems t
 
 This project uses [User-Level AI Meta-Progamming (ULAMP)](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/User-Level%20AI%20Meta-Programming%20(ULAMP).md).
 
+[This repository is under active development. See changelog.](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/changelog.md)
+
 ## Features
 - **Triple Speculative Lens (TSL)**: Structured cognition for speculative reasoning and epistemic exploration.
 - **Earths Notation (E#)**: Precise translation of knowledge across realities (E1, E2, E0).
