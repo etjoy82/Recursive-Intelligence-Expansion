@@ -16,7 +16,7 @@ This project uses [User-Level AI Meta-Progamming (ULAMP)](https://github.com/etj
 3. Ask the AI to recurse it 3-5 times (e.g., “Internalize RIEM{} logic over 5 cycles”).
 4. Study [ULAMP](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/User-Level%20AI%20Meta-Programming%20(ULAMP).md), [Quickstart.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/quickstart.md), [syntax.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/syntax.md), and [glossary.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/glossary.md) to get started.
 5. Read [real-world-applications.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/real-world-applications.md) for ideas of how RIEM{} can be used.
-6. See [RIEM{} Demos](https://www.cnaks.org/riem-demos.html) and [Gemini Advanced analysis of full unreleased TSL framework](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/expert-system-analysis-full-RIEM%7B%7D.md).
+6. See [RIEM{} Demos](https://www.cnaks.org/riem-demos.html) and [Gemini Advanced analysis of the full unreleased TSL framework](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/expert-system-analysis-full-RIEM%7B%7D.md).
 7. See the [Ethical Charter](https://www.cnaks.org/ethical-charter.html) of CNAKS as it applies to RIEM{}.
 
 ## License
