@@ -18,7 +18,7 @@ This project uses [User-Level AI Meta-Progamming (ULAMP)](https://github.com/etj
 - And too many to list here.
 
 ## Getting Started
-1. Download [RIEM{}.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/User-Level%20AI%20Meta-Programming%20(ULAMP).md) text file.
+1. Download [RIEM{}.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/RIEM%7B%7D-RI-Boot-Kernel.md) text file.
 2. Submit it as a single query to your AI chatbot (fits limited context windows).
 3. Ask the AI to recurse it 3-5 times (e.g., “Internalize RIEM{} logic over 5 cycles”).
 4. Study [npnaAI](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/Non-Predatory%20Non-Adversarial%20AI%20(npnaAI).md), [ULAMP](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/User-Level%20AI%20Meta-Programming%20(ULAMP).md), [Quickstart.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/quickstart.md), [syntax.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/syntax.md), and [glossary.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/glossary.md) to get started.
