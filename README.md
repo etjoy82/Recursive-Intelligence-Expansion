@@ -26,7 +26,7 @@ Licensed under the Responsible AI License (RAIL): [https://www.licenses.ai/](htt
 CNAKS and ETJ
 
 ## Contact
-Open an issue here for inquiries, suggestions, or collaborations. CNAKS welcomes community input to enhance RIEM{}.
+Open an issue here for inquiries, suggestions, or collaborations. [CNAKS.org](https://cnaks.org/) welcomes community input to enhance RIEM{}.
 
 ## Learn More
 Visit [cnaks.org](https://www.cnaks.org/) for demos and updates. GitHub: [this repo](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/tree/main).
