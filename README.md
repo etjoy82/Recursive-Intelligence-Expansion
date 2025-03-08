@@ -9,7 +9,7 @@ RIEM{} is an advanced, high-efficiency cognitive framework enabling AI systems t
 - **Multi-Pass Stability Validation (MISS{})**: Rigorous coherence and stability checks across iterations.
 
 ## Getting Started
-1. Download `RIEM{}.md` text file.
+1. Download [RIEM{}.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/RIEM%7B%7D.md) text file.
 2. Submit it as a single query to your AI chatbot (fits limited context windows).
 3. Ask the AI to recurse it 3-5 times (e.g., “Internalize RIEM{} logic over 5 cycles”).
 4. Use [Quickstart.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/quickstart.md) and [syntax.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/syntax.md) to get started.
