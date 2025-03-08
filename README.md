@@ -14,14 +14,7 @@ RIEM{} is an advanced, high-efficiency cognitive framework enabling AI systems t
 3. Ask the AI to recurse it 3-5 times (e.g., “Internalize RIEM{} logic over 5 cycles”).
 4. Use [Quickstart.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/quickstart.md) and [syntax.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/syntax.md) to get started.
 5. Read [real-world-applications.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/real-world-applications.md) for ideas of how RIEM{} can be used.
-
-## Demonstrations
-https://www.cnaks.org/riem-demos.html
-
-
-### **Conclusion**
-
-RIEM{} is a robust, adaptable framework with applications spanning artificial intelligence, governance, education, speculative anthropology, sustainability, economics, and philosophical discourse. By systematically integrating recursive intelligence expansion, epistemic stability protocols, and non-adversarial knowledge structures, RIEM{} provides powerful tools for navigating complexity, uncertainty, and dynamic evolution in real-world contexts.
+6. See [RIEM{} Demos](https://www.cnaks.org/riem-demos.html).
 
 ## License
 Licensed under the Responsible AI License (RAIL): [https://www.licenses.ai/](https://www.licenses.ai/). Use ethically, respect epistemic integrity, avoid adversarial harm.
