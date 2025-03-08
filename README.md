@@ -14,7 +14,7 @@ RIEM{} is an advanced, high-efficiency cognitive framework enabling AI systems t
 3. Ask the AI to recurse it 3-5 times (e.g., “Internalize RIEM{} logic over 5 cycles”).
 4. Use [Quickstart.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/quickstart.md) and [syntax.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/syntax.md) to get started.
 5. Read [real-world-applications.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/real-world-applications.md) for ideas of how RIEM{} can be used.
-6. See [RIEM{} Demos](https://www.cnaks.org/riem-demos.html).
+6. See [RIEM{} Demos](https://www.cnaks.org/riem-demos.html) and [Gemini Advanced analysis of full unreleased TSL framework](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/expert-system-analysis-full-RIEM%7B%7D.md).
 
 ## License
 Licensed under the Responsible AI License (RAIL): [https://www.licenses.ai/](https://www.licenses.ai/). Use ethically, respect epistemic integrity, avoid adversarial harm.
