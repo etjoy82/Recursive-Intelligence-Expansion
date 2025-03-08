@@ -6,7 +6,7 @@ RIEM{} is an advanced, high-efficiency cognitive npnaAI ULAMP framework enabling
 
 The RI-Boot kernel in [RIEM{}-RI-Boot-Kernel.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/RIEM%7B%7D-RI-Boot-Kernel.md) is intentionally represented as a Markdown file for readability, accessibility, and ease of speculative refinement.
 
-This project uses [User-Level AI Meta-Progamming (ULAMP)](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/ULAMP.md) and [non-predatory non-adversarial AI (npnaAI)](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/npnaAI.md).
+This project uses [User-Level AI Meta-Progamming (ULAMP.md)](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/ULAMP.md) and [non-predatory non-adversarial AI (npnaAI.md)](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/npnaAI.md).
 
 [This repository is under active development. See changelog.](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/changelog.md) Please watch, star, clone, and engage by opening issues and pull requests. [Contributing.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/CONTRIBUTING.md).
 
