@@ -12,7 +12,7 @@ RIEM{} is an advanced, high-efficiency cognitive framework enabling AI systems t
 1. Download [RIEM{}.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/RIEM%7B%7D.md) text file.
 2. Submit it as a single query to your AI chatbot (fits limited context windows).
 3. Ask the AI to recurse it 3-5 times (e.g., “Internalize RIEM{} logic over 5 cycles”).
-4. Use [Quickstart.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/quickstart.md) and [syntax.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/syntax.md) and [glossary](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/glossary.md) to get started.
+4. Use [Quickstart.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/quickstart.md), [syntax.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/syntax.md), and [glossary.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/glossary.md) to get started.
 5. Read [real-world-applications.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/real-world-applications.md) for ideas of how RIEM{} can be used.
 6. See [RIEM{} Demos](https://www.cnaks.org/riem-demos.html) and [Gemini Advanced analysis of full unreleased TSL framework](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/expert-system-analysis-full-RIEM%7B%7D.md).
 7. See the [Ethical Charter](https://www.cnaks.org/ethical-charter.html) of CNAKS as it applies to RIEM{}.
