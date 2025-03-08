@@ -13,18 +13,22 @@ Visuals or interactive demonstrations (diagrams, notebooks)
 #  Contribution Guidelines
 Step 1: Fork & Clone the Repository
 Fork this repository to your GitHub account.
-Clone your fork to your local development environment: git clone https://github.com/YOUR-USERNAME/Recursive-Intelligence-Expansion-Methodology.git
+Clone your fork to your local development environment:
+git clone https://github.com/YOUR-USERNAME/Recursive-Intelligence-Expansion-Methodology.git
 
 Step 2: Create a Branch
-Create a dedicated branch for your changes: git checkout -b feature/your-feature-name
+Create a dedicated branch for your changes:
+git checkout -b feature/your-feature-name
 
 Step 3: Make Your Changes
 Follow existing documentation styles for consistency.
 Clearly document and explain speculative changes or epistemic refinements.
 
 Step 4: Commit and Push
-Clearly describe your commit: git commit -m "Add example of recursive epistemic governance (NAKS{})"
-Push your changes to GitHub: git push origin feature/your-feature-name
+Clearly describe your commit:
+git commit -m "Add example of recursive epistemic governance (NAKS{})"
+Push your changes to GitHub:
+git push origin feature/your-feature-name
 
 Step 5: Submit a Pull Request (PR)
 Open a PR describing your changes clearly:
