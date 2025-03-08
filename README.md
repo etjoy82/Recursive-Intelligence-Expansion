@@ -22,7 +22,7 @@ This project uses [User-Level AI Meta-Progamming (ULAMP)](https://github.com/etj
 2. Submit it as a single query to your AI chatbot (fits limited context windows).
 3. Ask the AI to recurse it 3-5 times (e.g., “Internalize RIEM{} logic over 5 cycles”).
 4. Study [npnaAI.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/npnaAI.md), [ULAMP.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/ULAMP.md), [Quickstart-Guide.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/Quickstart-Guide.md), [Syntax-Reference.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/Syntax-Reference.md), and [Glossary.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/Glossary.md) to get started.
-5. Read [real-world-applications.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/real-world-applications.md) for ideas of how RIEM{} can be used.
+5. Read [Real-World-Applications.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/Real-World-Applications.md) for ideas of how RIEM{} can be used.
 6. See [RIEM{} Demos](https://www.cnaks.org/riem-demos.html) and [Expert-System-Analysis.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/Expert-System-Analysis.md).
 7. See the [Ethical Charter](https://www.cnaks.org/ethical-charter.html) of CNAKS as it applies to RIEM{}.
 
