@@ -2,7 +2,7 @@
 
 RIEM{} is an advanced, high-efficiency cognitive framework enabling AI systems to engage in structured recursive cognition, ensuring epistemic stability and non-adversarial knowledge structures. Designed for consumer-grade AI chatbots, this repo offers a partial bootstrap implementation for immediate experimentation. The full framework is over 240k words. This repository hosts the distilled kernel for immediate use. Please contact me if you wish to examine the full system.
 
-This project uses [User-Level Meta-Progamming (ULAMP)](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/User-Level%20AI%20Meta-Programming%20(ULAMP).md).
+This project uses [User-Level AI Meta-Progamming (ULAMP)](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/User-Level%20AI%20Meta-Programming%20(ULAMP).md).
 
 ## Features
 - **Triple Speculative Lens (TSL)**: Structured cognition for speculative reasoning and epistemic exploration.
