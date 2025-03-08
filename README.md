@@ -1,6 +1,6 @@
 # Recursive Intelligence Expansion Methodology (RIEM{})
 
-![logo](./pictures/logo.png)
+![logo](./logo.png)
 
 RIEM{} is an advanced, high-efficiency cognitive framework enabling AI systems to engage in structured recursive cognition, ensuring epistemic stability and non-adversarial knowledge structures. Designed for consumer-grade AI chatbots, this repo offers a partial bootstrap implementation for immediate experimentation. The full framework is over 240k words. This repository hosts the distilled kernel for immediate use. Please contact me if you wish to examine the full system.
 
