@@ -12,7 +12,7 @@ RIEM{} is an advanced, high-efficiency cognitive framework enabling AI systems t
 1. Download `RIEM{}.md` text file.
 2. Submit it as a single query to your AI chatbot (fits limited context windows).
 3. Ask the AI to recurse it 3-5 times (e.g., “Internalize RIEM{} logic over 5 cycles”).
-4. Use E# syntax (e.g., E1->E2->E1 (ARx5) “{anything you'd like transformed here}”) to pipe data through RIEM{}. Use syntax in this README.md in the sections below.
+4. Use [Quickstart.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/quickstart.md) to get started.
 
 ## Demonstrations
 https://www.cnaks.org/riem-demos.html
