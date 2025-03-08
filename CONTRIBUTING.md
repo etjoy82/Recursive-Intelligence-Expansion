@@ -1,4 +1,4 @@
-* Contributing to RIEM{}
+** Contributing to RIEM{}
 Thank you for your interest in contributing to the Recursive Intelligence Expansion Methodology (RIEM{}) project! Your collaboration helps refine, enhance, and expand this structured recursive epistemic framework.
 
 * How You Can Contribute
