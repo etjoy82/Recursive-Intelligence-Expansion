@@ -30,7 +30,7 @@ This project uses [User-Level AI Meta-Progamming (ULAMP)](https://github.com/etj
 Licensed under the Responsible AI License (RAIL): [https://www.licenses.ai/](https://www.licenses.ai/). Use ethically, respect epistemic integrity, avoid adversarial harm.
 
 ## Developer
-[CNAKS](https://cnaks.org/) and [ETJ](https://emilyjoy.org/)
+[cnaks.org](https://cnaks.org/) and [emilyjoy.org](https://emilyjoy.org/)
 
 ## Contact
 Open an issue here for inquiries, suggestions, or collaborations. [CNAKS.org](https://cnaks.org/) welcomes community input to enhance RIEM{}.
