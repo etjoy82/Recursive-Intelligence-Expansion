@@ -34,5 +34,5 @@ Licensed under the Responsible AI License (RAIL): [https://www.licenses.ai/](htt
 [cnaks.org](https://cnaks.org/) and [emilyjoy.org](https://emilyjoy.org/)
 
 ## Contact
-Open an issue here for inquiries, suggestions, or collaborations. [CNAKS.org](https://cnaks.org/) welcomes community input to enhance RIEM{}.
+Open an issue here for inquiries, suggestions, or collaborations. [cnaks.org](https://cnaks.org/) welcomes community input to enhance RIEM{}.
 
