@@ -233,6 +233,9 @@ RIEM{} is a robust, adaptable framework with applications spanning artificial in
 ## License
 Licensed under the Responsible AI License (RAIL): [https://www.licenses.ai/](https://www.licenses.ai/). Use ethically, respect epistemic integrity, avoid adversarial harm.
 
+## Developer
+CNAKS and ETJ
+
 ## Contact
 Open an issue here for inquiries, suggestions, or collaborations. CNAKS welcomes community input to enhance RIEM{}.
 
