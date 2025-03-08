@@ -8,7 +8,7 @@ The RI-Boot kernel in [RIEM{}-RI-Boot-Kernel.md](https://github.com/etjoy82/Recu
 
 This project uses [User-Level AI Meta-Progamming (ULAMP.md)](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/ULAMP.md) and [non-predatory non-adversarial AI (npnaAI.md)](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/npnaAI.md).
 
-This repository is under active development. [See changelog.](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/changelog.md)
+This repository is under active development. See [changelog.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/changelog.md).
 
 Please watch, star, clone, and engage by opening issues and pull requests. [CONTRIBUTING.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/CONTRIBUTING.md).
 
