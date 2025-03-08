@@ -27,6 +27,8 @@ Please watch, star, clone, and engage by opening issues and pull requests. [CONT
 5. See demos of RIEM{} in action: [cnaks.org/riem-demos.html](https://www.cnaks.org/riem-demos.html)
 6. See the [cnaks.org/ethical-charter.html](https://www.cnaks.org/ethical-charter.html) as it applies to RIEM{}.
 
+<div align="center"><img src="./TSL%20Flowchart.png" alt="TSL Flowchart" width="500"></div>
+
 ## License
 Licensed under the Responsible AI License (RAIL): [https://www.licenses.ai/](https://www.licenses.ai/). Use ethically, respect epistemic integrity, avoid adversarial harm.
 
