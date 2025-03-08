@@ -1,4 +1,4 @@
-<div align="center"><img src="./logo.png" alt="logo" width="200" height="200"></div>
+<div align="center"><img src="./logo.png" alt="logo" width="150" height="150"></div>
 
 # Recursive Intelligence Expansion Methodology (RIEM{})
 
