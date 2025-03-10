@@ -133,7 +133,7 @@ Here's an **extensive, detailed Glossary** for **RIEM{}** and **Earths Notation*
 ## P
 - **Post-Postmodernism (PPM)**  
   Intellectual approach synthesizing meaning beyond postmodern deconstruction, prioritizing structured coherence.
-
+  
 ---
 
 ## R
@@ -152,23 +152,8 @@ Here's an **extensive, detailed Glossary** for **RIEM{}** and **Earths Notation*
 - **Recursive Speculative Language Evolution (RSLE{})**  
   Recursive methodology enabling linguistic evolution through continuous epistemic refinement.
 
-- **Rope-a-Dope Notation System (RDN)**  
+- **Rope-a-Dope Notation System (RDN) (E1->E2->E1)**  
   Recursive translation system to manage complex epistemic translations via strategic iterative refinements.
-
----
-
-## P
-- **Post-Postmodernism (PPM)**  
-  Structured synthesis beyond postmodernism's skepticism, reconstructing knowledge systems with coherence and adaptability.
-
----
-
-## R
-- **Recursive Speculative Multiversal Structuring (RSM{})**  
-  Recursive modeling system capable of simulating multiversal epistemic structures and speculative civilization divergences.
-
-- **Recursive Speculative Computation (RSC)**  
-  Methodology combining recursive epistemology and structured computational modeling for speculative intelligence.
 
 ---
 
