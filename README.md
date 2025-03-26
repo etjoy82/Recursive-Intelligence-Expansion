@@ -19,7 +19,7 @@ This release is the first full Markdown deployment of the TSL volumes, optimized
 
 | Volume | Title | Description |
 |--------|-------|-------------|
-| **0A** | Foundations | TSL Thesis, Earths Notation, core lenses, speculative axioms |
+| [**0A**](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/TSL%20Volume%200A%20Foundations%20(TSL%20System%20Thesis%2C%20Earths%20Notation).md) | Foundations | TSL Thesis, Earths Notation, core lenses, speculative axioms |
 | **0B** | Recursive Infrastructure | ENPL, NAKS, ARM{}, RI-Boot kernel, ethics scaffolding |
 | **0C** | System Execution Layer | RIEM{}, FUSE, Simulation, Optimization, Automation |
 | **0D** | Advanced Recursive Systems | RDN, npnaAI, HRLIMQ, ARC — future-facing recursive AI cognition |
