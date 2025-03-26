@@ -120,12 +120,3 @@ See `CONTRIBUTING.md` for suggested protocols.
 
 Welcome to RIEM{}.
 
-
-## License
-Licensed under the Responsible AI License (RAIL): [https://www.licenses.ai/](https://www.licenses.ai/). Use ethically, respect epistemic integrity, avoid adversarial harm.
-
-## Developer
-[emilyjoy.org](https://emilyjoy.org/)
-
-## Contact
-Open an issue here for inquiries, suggestions, or collaborations.
