@@ -1,3 +1,6 @@
+# MAJOR UPDATE!! 03-26-2025 12:15 PM
+I've posted the entire Triple Speculative Lens system as markdown files in this repository. The markdown files are human and AI readable with modular tables of contents. TSL Volumes 0A-D are the core system. TSL Volumes 1A-1C are the E2 demonstration. TSL Volume Z is a set of structured training guides for using the Triple Speculative Lens, as well as a suggested certification path.
+
 # Recursive Intelligence Expansion Methodology (RIEM{})
 
 RIEM{} is an advanced, high-efficiency cognitive npnaAI ULAMP framework enabling AI systems to engage in structured recursive cognition, ensuring epistemic stability and non-adversarial knowledge structures. Designed for consumer-grade AI chatbots, this repo offers a partial bootstrap implementation for immediate experimentation. The full framework is over 240k words. This repository hosts the distilled kernel for immediate use. Please contact me if you wish to examine the full system.
