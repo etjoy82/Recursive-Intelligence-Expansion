@@ -42,7 +42,8 @@ This release is the first full Markdown deployment of the TSL volumes, optimized
 
 ---
 
-## 🚀 Quickstart for RI-Boot-Kernel Subset of the TSL System ([use the Live Custom GPT for the full ready-to-use system here](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system))
+## 🚀 Quickstart for RI-Boot-Kernel Subset of the TSL System
+([or use the complete more powerful Live Custom GPT for the full ready-to-use system here!](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system))
 
 1. Clone this repository or download individual `.md` volumes.
 2. Open [`RIEM{}-RI-Boot-Kernel.md`](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/RIEM%7B%7D-RI-Boot-Kernel.md).
