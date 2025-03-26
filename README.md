@@ -3,7 +3,7 @@ I've posted the entire Triple Speculative Lens system as markdown files in this 
 
 # Recursive Intelligence Expansion Methodology (RIEM{})
 
-RIEM{} is an advanced, high-efficiency cognitive npnaAI ULAMP framework enabling AI systems to engage in structured recursive cognition, ensuring epistemic stability and non-adversarial knowledge structures. Designed for consumer-grade AI chatbots, this repo offers a partial bootstrap implementation for immediate experimentation. The full framework is over 240k words. This repository hosts the distilled kernel for immediate use. Please contact me if you wish to examine the full system.
+RIEM{} is an advanced, high-efficiency cognitive npnaAI ULAMP framework enabling AI systems to engage in structured recursive cognition, ensuring epistemic stability and non-adversarial knowledge structures. Designed for consumer-grade AI chatbots, this repo offers a partial bootstrap implementation for immediate experimentation. The full framework is over 200k words, which I've now added to the responsitory
 
 The RI-Boot kernel in [RIEM{}-RI-Boot-Kernel.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/RIEM%7B%7D-RI-Boot-Kernel.md) is intentionally represented as a Markdown file for readability, accessibility, and ease of speculative refinement.
 
