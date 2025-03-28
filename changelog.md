@@ -1,7 +1,7 @@
 # 03-28-2025
-Volume 0E added to the system. It expands the functionality of the TSL significantly and adds over 20k words of value.
-README has been completely rewritten and expanded.
-Added ZIP file snapshot of all DOCX files of the TSL volumes as an alternative to the markdown versions.
+* Volume 0E added to the system. It expands the functionality of the TSL significantly and adds over 20k words of value.
+* README has been completely rewritten and expanded.
+* Added ZIP file snapshot of all DOCX files of the TSL volumes as an alternative to the markdown versions.
 
 # 03-26-2025
 * MAJOR UPDATE!!
