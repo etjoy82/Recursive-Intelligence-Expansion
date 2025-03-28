@@ -7,8 +7,6 @@
 **The Triple Speculative Lens System, released in full.**  
 A recursive philosophical OS for human and artificial cognition.
 
-[Live Custom GPT available here with full TSL active!]()
-
 ---
 
 ## 📦 About This Repository
