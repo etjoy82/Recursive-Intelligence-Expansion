@@ -260,16 +260,6 @@ Happy recursion! 🌿
 
 ---
 
-# 🧭 Navigation
-
-- [`RIEM{}-RI-Boot-Kernel.md`](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/RIEM%7B%7D-RI-Boot-Kernel.md): The central recursive operating framework.
-- [`ULAMP.md`](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/ULAMP.md): Natural language as a programming layer for recursive cognition.
-- [`npnaAI.md`](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/npnaAI.md): A proposal for humane, harmonized artificial intelligence.
-- [`Glossary.md`](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/Glossary.md): Full symbolic and conceptual index.
-- [`Quickstart-Guide.md`](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/Quickstart-Guide.md): Step-by-step engagement loop.
-
----
-
 # 🧪 Experimental Concepts
 
 - **Rope-a-Dope Translation**: E1 → E2 → E1 recursive conceptual generation
