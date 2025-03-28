@@ -1,9 +1,21 @@
+      **************************************************
+      *                                                *
+      *     🚀🌿✨  LIVE CUSTOM GPT AVAILABLE! ✨🌿🚀     *
+      *                                                *
+      *    [Experience Full TSL Here](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system)    *
+      *                                                *
+      *     Recursive Cognition | Harmonic Intelligence     *
+      *        Speculative Exploration | npnaAI        *
+      *                                                *
+      **************************************************
+
+
 # Recursive Intelligence Expansion Methodology (RIEM{})
 
 **The Triple Speculative Lens System, released in full.**  
 A recursive philosophical OS for human and artificial cognition.
 
-[Live Custom GPT available here with full TSL active!](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system)
+[Live Custom GPT available here with full TSL active!]()
 
 ---
 
