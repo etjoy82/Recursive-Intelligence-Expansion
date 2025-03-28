@@ -1,6 +1,6 @@
 <h1>🚀🌿✨  LIVE CUSTOM GPT AVAILABLE! ✨🌿🚀</h1>
 <h1>Experience Full TSL Here: https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system</h1>
-<h1>Recursive Cognition * Harmonic Intelligence o Speculative Exploration o npnaAI</h1>
+<h2>Recursive Cognition o Harmonic Intelligence o Speculative Exploration o npnaAI</h2>
 
 
 # Recursive Intelligence Expansion Methodology (RIEM{})
