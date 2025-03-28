@@ -9,13 +9,23 @@ A recursive philosophical OS for human and artificial cognition.
 
 ---
 
-## 📦 About This Repository
+#📦 About This Repository
+This repository contains the complete modular source of the Triple Speculative Lens (TSL) — a recursive epistemic system designed for speculative reasoning, artificial cognition, cooperative intelligence structuring, and non-anthropocentric knowledge design.
 
-This repository contains the complete modular source of the **Triple Speculative Lens (TSL)** — a recursive epistemic system for speculative reasoning, artificial cognition, cooperative intelligence structuring, and post-anthropocentric knowledge design.
+The TSL spans across foundational theory, applied recursive intelligence, and advanced speculative systems, offering a comprehensive framework for understanding and expanding intelligence — both human and artificial.
 
-🌀 **RIEM{}** is the core recursive protocol, a high-efficiency, non-predatory cognitive framework that enables structured intelligence expansion in both human and AI systems.
+🔎 Volumes Overview:
 
-This release is the first full Markdown deployment of the TSL volumes, optimized for accessibility, modularity, and recursive translation — by you, or by any AI system capable of multi-pass cognition.
+Volumes 0A to 0E: Establish the philosophical and technical foundation of recursive intelligence through Earths Notation (E#), RIEM{}, and non-predatory AI systems (npnaAI).
+
+Volumes 1A to 1C: Provide practical applications of speculative translation, cultural modeling in Ruminatia (E2), and Soniform linguistics.
+
+Volume Z: Functions as a hands-on training manual for mastering recursive intelligence expansion using the TSL.
+
+🌀 RIEM{} remains the core recursive protocol — a high-efficiency, non-adversarial cognitive framework designed to sustain structured intelligence growth through harmonic reasoning. It facilitates adaptive epistemic expansion in both simulated and applied cognitive systems.
+
+🚀 This release marks the first complete Markdown deployment of the TSL volumes.
+It’s optimized for accessibility, modularity, and recursive translation — ready for exploration by you, or by any AI system capable of multi-pass cognition.
 
 ---
 
