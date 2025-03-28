@@ -31,6 +31,20 @@ This release is the first full Markdown deployment of the TSL volumes, optimized
 | [**1C**](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/TSL%20Volume%201C%20E2%20Soniform%20Linguistics%20(Resonant%20Language%2C%20Echolocation%2C%20Knowledge%20Ecology).md) | E2 Soniform Linguistics | Echolocation, resonant cognition, knowledge ecology |
 | [**Z**](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/TSL%20Volume%20Z%20RIEM%20Training%20Manual.md)  | RIEM{} Training Manual | Structured exercises, certification logic, community alignment |
 
+### Current Word Count of the TSL Volumes (03-28-2025 1:03 PM)
+- **Volume 0A (Foundations)**: 26,404 words  
+- **Volume 0B (Recursive Infrastructure)**: 37,220 words  
+- **Volume 0C (System Execution Layer)**: 28,880 words  
+- **Volume 0D (Advanced Recursive Systems)**: 35,264 words  
+- **Volume 0E (High Complexity Expansion)**: 24,651 words  
+- **Volume 1A (E2 Literary Translations)**: 8,904 words  
+- **Volume 1B (E2 Encyclopedia)**: 35,602 words  
+- **Volume 1C (E2 Soniform Linguistics)**: 37,927 words  
+- **Volume Z (RIEM Training Manual)**: 9,157 words  
+
+### **Total Word Count Across All Volumes**:  
+📦 **244,009 words**  
+
 ---
 
 ## ⚙️ Core Concepts
