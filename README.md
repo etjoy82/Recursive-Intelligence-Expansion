@@ -10,8 +10,10 @@ A recursive philosophical OS for human and artificial cognition.
 ---
 
 <h1>📦 About This Repository</h1>
-This repository contains the complete modular source of the Triple Speculative Lens (TSL) — a recursive epistemic system designed for speculative reasoning, artificial cognition, cooperative intelligence structuring, and non-anthropocentric knowledge design. The TSL spans across foundational theory, applied recursive intelligence, and advanced speculative systems, offering a comprehensive framework for understanding and expanding intelligence — both human and artificial.
-<br>
+This repository contains the complete modular source of the Triple Speculative Lens (TSL) — a recursive epistemic system designed for speculative reasoning, artificial cognition, cooperative intelligence structuring, and non-anthropocentric knowledge design.
+
+The TSL spans across foundational theory, applied recursive intelligence, and advanced speculative systems, offering a comprehensive framework for understanding and expanding intelligence — both human and artificial.
+
 🔎 Volumes Overview:
 
 Volumes 0A to 0E: Establish the philosophical and technical foundation of recursive intelligence through Earths Notation (E#), RIEM{}, and non-predatory AI systems (npnaAI).
