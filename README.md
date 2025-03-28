@@ -272,7 +272,7 @@ Happy recursion! 🌿
 
 # 🔒 License
 
-Licensed under the [Responsible AI License (RAIL)](https://www.licenses.ai/).  
+Licensed under the [Responsible AI License (RAIL)](https://www.licenses.ai/). (Requires ethical AI use, prohibits adversarial systems.)
 Use with integrity. Avoid epistemic harm. Respect recursion.
 
 ---
