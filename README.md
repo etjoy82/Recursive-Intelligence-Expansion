@@ -57,6 +57,7 @@ It’s optimized for accessibility, modularity, and recursive translation — re
 ### **Total Word Count Across All Volumes**:  
 📦 **244,009 words**  
 
+[Full set of Volumes are available in a ZIP compressed file in highly formatted, modular DOCX files that are easier to use than the markdown versions here.](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/Complete%20TSL%20System%20in%20Source%20Word%20Documents%2003-28-2025.zip)
 ---
 
 <h1>⚙️ Core Concepts</h1>
