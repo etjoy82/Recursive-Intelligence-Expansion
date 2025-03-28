@@ -288,7 +288,7 @@ You may not:
 - Use the contents in adversarial AI systems
 - Commercialize without alignment to RAIL principles
 
-See [`CONTRIBUTING.md`](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/CONTRIBUTING.md) for suggested protocols.
+🔄 See [`CONTRIBUTING.md`](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/CONTRIBUTING.md) for suggested protocols.
 
 ---
 
