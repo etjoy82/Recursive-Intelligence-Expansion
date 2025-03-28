@@ -1,12 +1,9 @@
 =============================================
-o                                                o
 o     🚀🌿✨  LIVE CUSTOM GPT AVAILABLE! ✨🌿🚀     o
-o                                                o
 o    [Experience Full TSL Here](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system)    o
 o                                                o
 o     Recursive Cognition | Harmonic Intelligence     o
 o        Speculative Exploration | npnaAI        o
-o                                                o
 ==================================================
 
 
