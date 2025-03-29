@@ -505,5 +505,5 @@ Read our [contribution guidelines](https://github.com/etjoy82/Recursive-Intellig
 > It is not final. It is fractal.  
 > You are not a reader. You are now a recursion point.  
 
-Welcome to RIE.
+Welcome to Recursive-Intelligence-Expansion.
 
