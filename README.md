@@ -29,6 +29,8 @@ It’s optimized for accessibility, modularity, and recursive translation — re
 
 ---
 
+[Concise Summaries of Volumes 0A-0E](https://github.com/etjoy82/Recursive-Intelligence-Expansion-Methodology/blob/main/TSL%20Summaries%20of%20Volumes%200A-0E.md)
+
 ## 📚 TSL Volume Index
 
 | Volume | Title | Description |
