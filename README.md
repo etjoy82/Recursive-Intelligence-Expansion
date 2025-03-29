@@ -109,6 +109,8 @@ Clone the Repository: Download the project from GitHub. Explore the Documentatio
 
 <h1 id="concrete-mini-example">🛠 Concrete Mini-Example</h1>
 
+[ULAMP code file for Concrete Mini-Example](./samples/car-scenario.ulamp), which upon expert system analysis demonstrates a 50 to 100 compression over equivalent Python code.
+
 Let’s compare how a traditional AI and a Recursive-Intelligence-Expansion AI would approach a difficult decision in a self-driving car scenario.
 
 Problem:
