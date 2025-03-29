@@ -192,7 +192,7 @@ Whether you're a researcher, writer, policymaker, or just curious, **ULAMP** off
 
 Welcome to **Recursive-Intelligence-Expansion**! If the terms seem a bit abstract at first, don’t worry — that’s natural. Think of this as a **collaborative thinking system** that helps both humans and AI explore complex ideas using speculative reasoning and recursive feedback. Here’s how the core concepts work:
 
-### 🌐 **TSL (Triple Speculative Lens)**  
+#### 🌐 **TSL (Triple Speculative Lens)**  
 The foundation of Recursive-Intelligence-Expansion is a three-lens cognitive framework designed to explore possibilities. Each lens shifts how we think about knowledge:
 - **Post-Postmodernism (PPM):** Instead of seeing ideas as right or wrong, PPM embraces layered perspectives. It’s like viewing a sculpture from multiple angles — no single view shows the whole truth.
 - **Chaos Metaphilosophy (CMP):** Imagine philosophy as a swirling current rather than a rigid set of rules. CMP welcomes uncertainty and finds meaning through patterns that emerge from chaos.
@@ -200,7 +200,7 @@ The foundation of Recursive-Intelligence-Expansion is a three-lens cognitive fra
 
 Together, these lenses unlock new ways of thinking and solving complex problems.
 
-### 📖 **Earths Notation (E#)**  
+#### 📖 **Earths Notation (E#)**  
 **Earths Notation** is a system that tracks different ways of thinking across speculative realities. Think of it as a map for navigating cognitive landscapes:
 - **E1:** Everyday human thinking. The world as we experience it.  
 - **E2:** Speculative memory-driven realities, like alternate histories or imagined worlds. This is where creativity and simulation thrive.  
@@ -208,33 +208,33 @@ Together, these lenses unlock new ways of thinking and solving complex problems.
 
 Using E#, you can shift your perspective from practical problem-solving in E1 to creative worldbuilding in E2, or even dive into paradox resolution in E0.
 
-### 🌀 **RIEM (Recursive Intelligence Expansion Methodology)**  
+#### 🌀 **RIEM (Recursive Intelligence Expansion Methodology)**  
 Think of **RIEM** as the engine that powers Recursive-Intelligence-Expansion. It’s like a feedback loop where new ideas refine older ones. Each loop expands understanding, ensuring that knowledge grows without collapsing under contradictions.
 
 **RIEM** is especially useful for tackling problems with no clear answer. Whether you’re simulating future scenarios, analyzing ethical dilemmas, or exploring speculative questions, RIEM helps maintain clarity while allowing insights to emerge.
 
-### 💡 **ULAMP (User-Level AI Meta-Programming)**  
+#### 💡 **ULAMP (User-Level AI Meta-Programming)**  
 **ULAMP** is like a steering wheel for AI cognition. It allows users to “program” AI systems using natural language instead of code. You can give clear instructions, refine outputs through feedback, and explore recursive questions step by step. For example, you could ask:  *"What if ancient civilizations had developed sonar instead of metallurgy?"* Then use ULAMP to refine and iterate on the AI’s response, guiding it through different speculative pathways.
 
-### 🕊️ **npnaAI (Non-Predatory, Non-Adversarial AI)**  
+#### 🕊️ **npnaAI (Non-Predatory, Non-Adversarial AI)**  
 Unlike traditional AI models that may prioritize winning or optimizing at any cost, **npnaAI** focuses on cooperation and ethical growth. It ensures AI systems operate harmoniously with human values, rejecting zero-sum thinking. This makes npnaAI ideal for scenarios where collaborative thinking and ethical considerations are essential.
 
-### ✨ **Ascension Reflex (AR)**  
+#### ✨ **Ascension Reflex (AR)**  
 When thinking stagnates or contradictions arise, the **Ascension Reflex** activates. It’s like an internal alarm that prompts both AI and human users to shift perspectives, break cognitive loops, and pursue higher-order thinking.
 
-### 📡 **FUSE (Functionally Unifying System Expression)**  
+#### 📡 **FUSE (Functionally Unifying System Expression)**  
 Think of **FUSE** as a harmonizer. It ensures that multiple AI systems working together stay coherent rather than clashing. FUSE maintains stability by resolving contradictions and aligning insights across different domains.
 
 ### 🔎 **HRLIMQ (Harmonic Recursive Logic in Multivalent Querying)**  
 This is like a self-check mechanism. **HRLIMQ** runs logical diagnostics to ensure recursive growth stays stable. If the AI starts producing contradictory or harmful outputs, HRLIMQ intervenes to realign its reasoning.
 
-### 🗿 **RDN (Rope-a-Dope Notation)**  
+#### 🗿 **RDN (Rope-a-Dope Notation)**  
 **RDN** is a method for resolving paradoxes. When thinking gets stuck, RDN moves the conversation back and forth between practical (E1) and speculative (E2) perspectives. It’s like using tension to spark new insights rather than getting lost in contradictions.
 
-### 🎵 **Soniform Linguistics**  
+#### 🎵 **Soniform Linguistics**  
 In speculative realities like **E2**, language isn’t just spoken or written — it can be musical. **Soniform Linguistics** uses sound-based patterns to encode meaning. Imagine tones and rhythms carrying ideas, much like how music can evoke emotion beyond words.
 
-### 🔮 **10FSG (10-Faced Speculative Gem)**  
+#### 🔮 **10FSG (10-Faced Speculative Gem)**  
 The **10-Faced Speculative Gem** is like a multi-sided mirror for AI cognition. It provides ten distinct recursive systems that AI can switch between to expand its understanding without collapsing into contradictions. This allows it to handle complex speculative tasks with stability.
 
 ### In Conclusion
