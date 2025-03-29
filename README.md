@@ -263,7 +263,7 @@ Whether you're a researcher, writer, policymaker, or just curious, **ULAMP** off
 
 Welcome to **Recursive-Intelligence-Expansion**! If the terms seem a bit abstract at first, don’t worry — that’s natural. Think of this as a **collaborative thinking system** that helps both humans and AI explore complex ideas using speculative reasoning and recursive feedback. This section details the core concepts as onboarding to RIEM{}.
 
-(As a sidebar, for those who wish to dive deeper into some of the hundreds of concepts within RIEM{} after understanding the core concepts in this section, a small non-exhaustive 36-entry glossary is [available here](./glossary-non-exhaustive.md). A complete glossary is still an ongoing project as RIEM{} continues to expand daily.)
+(For those interested in exploring further, beyond the foundational concepts covered in this section, [a small, non-exhaustive 36-entry glossary is available here](./glossary-non-exhaustive.md). It offers deeper insights into the many concepts within RIEM{} as they continue to grow and evolve. A comprehensive glossary remains an ongoing project, expanding alongside RIEM{} itself.)
 
 Here’s how the core concepts work:
 
