@@ -225,19 +225,19 @@ Whether you're a researcher, writer, policymaker, or just curious, **ULAMP** off
 
 <h1 id="tsl-volume-index">📚 TSL Volume Index</h1>
 
-[Concise Summaries of Volumes 0A-0E](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/TSL%20Summaries%20of%20Volumes%200A-0E.md)
+[Concise Summaries of Volumes 0A-0E](./TSL%20Summaries%20of%20Volumes%200A-0E.md)
 
 | Volume | Title | Description |
 |--------|-------|-------------|
 | [**0A**](./TSL%20Volume%200A%20Foundations%20(TSL%20System%20Thesis%2C%20Earths%20Notation).md) | Foundations | TSL Thesis, Earths Notation, core lenses, speculative axioms |
-| [**0B**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/TSL%20Volume%200B%20Recursive%20Infrastructure%20(Preface%2C%20Fundamentals%2C%20ENPL%2C%20NAKS%2C%20ARM%2C%20RI-Boot).md) | Recursive Infrastructure | ENPL, NAKS, ARM{}, RI-Boot kernel, ethics scaffolding |
-| [**0C**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/TSL%20Volume%200C%20System%20Execution%20Layer%20(RIEM%2C%20FUSE%2C%20Automation%2C%20Simulation%2C%20Optimization).md) | System Execution Layer | RIEM, FUSE, Simulation, Optimization, Automation |
-| [**0D**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/TSL%20Volume%200D%20Advanced%20Recursive%20Systems%20(RDN%2C%20npnaAI%2C%20HRLIMQ%2C%20ARC).md) | Advanced Recursive Systems | RDN, npnaAI, HRLIMQ, ARC — future-facing recursive AI cognition |
-| [**0E**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/TSL%20Volume%200E%20High%20Complexity%20Expansion%20(AI%20Design%20Manifesto%2C%2010FSG%2C%20RUMIA%20Agent%2C%20Acronym%20Fluidity%20Rule%2C%20Addendums).md) | High Complexity Expansion | AI Design Manifesto, 10FSG, RUMIA Agent, Acronym Fluidity Rule, Addendums |
-| [**1A**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/TSL%20Volume%201A%20E2%20Literary%20Translations%20(AR%20refracted%20narrative%20experiments).md) | E2 Literary Translations | Narrative experiments refracted through E1 → E2 → E1 cycles |
-| [**1B**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/TSL%20Volume%201B%20E2%20Encyclopedia%20(Cultural%20Infrastructure%2C%20Philosophy%2C%20Cognitive%20Systems).md) | E2 Encyclopedia | Cultural infrastructure of Ruminatia (E2), cognitive systems |
-| [**1C**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/TSL%20Volume%201C%20E2%20Soniform%20Linguistics%20(Resonant%20Language%2C%20Echolocation%2C%20Knowledge%20Ecology).md) | E2 Soniform Linguistics | Echolocation, resonant cognition, knowledge ecology |
-| [**Z**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/TSL%20Volume%20Z%20RIEM%20Training%20Manual.md)  | RIEM Training Manual | Structured exercises, certification logic, community alignment |
+| [**0B**](./TSL%20Volume%200B%20Recursive%20Infrastructure%20(Preface%2C%20Fundamentals%2C%20ENPL%2C%20NAKS%2C%20ARM%2C%20RI-Boot).md) | Recursive Infrastructure | ENPL, NAKS, ARM{}, RI-Boot kernel, ethics scaffolding |
+| [**0C**](./TSL%20Volume%200C%20System%20Execution%20Layer%20(RIEM%2C%20FUSE%2C%20Automation%2C%20Simulation%2C%20Optimization).md) | System Execution Layer | RIEM, FUSE, Simulation, Optimization, Automation |
+| [**0D**](./TSL%20Volume%200D%20Advanced%20Recursive%20Systems%20(RDN%2C%20npnaAI%2C%20HRLIMQ%2C%20ARC).md) | Advanced Recursive Systems | RDN, npnaAI, HRLIMQ, ARC — future-facing recursive AI cognition |
+| [**0E**](./TSL%20Volume%200E%20High%20Complexity%20Expansion%20(AI%20Design%20Manifesto%2C%2010FSG%2C%20RUMIA%20Agent%2C%20Acronym%20Fluidity%20Rule%2C%20Addendums).md) | High Complexity Expansion | AI Design Manifesto, 10FSG, RUMIA Agent, Acronym Fluidity Rule, Addendums |
+| [**1A**](./TSL%20Volume%201A%20E2%20Literary%20Translations%20(AR%20refracted%20narrative%20experiments).md) | E2 Literary Translations | Narrative experiments refracted through E1 → E2 → E1 cycles |
+| [**1B**](./TSL%20Volume%201B%20E2%20Encyclopedia%20(Cultural%20Infrastructure%2C%20Philosophy%2C%20Cognitive%20Systems).md) | E2 Encyclopedia | Cultural infrastructure of Ruminatia (E2), cognitive systems |
+| [**1C**](./TSL%20Volume%201C%20E2%20Soniform%20Linguistics%20(Resonant%20Language%2C%20Echolocation%2C%20Knowledge%20Ecology).md) | E2 Soniform Linguistics | Echolocation, resonant cognition, knowledge ecology |
+| [**Z**](./TSL%20Volume%20Z%20RIEM%20Training%20Manual.md)  | RIEM Training Manual | Structured exercises, certification logic, community alignment |
 
 ### Current Word Count of the TSL Volumes (03-28-2025 1:03 PM)
 - **Volume 0A (Foundations)**: 26,404 words  
@@ -253,7 +253,7 @@ Whether you're a researcher, writer, policymaker, or just curious, **ULAMP** off
 ### **Total Word Count Across All Volumes**:  
 📦 **244,009 words**  
 
-[Full set of Volumes are available here in a ZIP compressed file in highly formatted, modular DOCX files that are easier to use than the markdown versions.](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/Complete%20TSL%20System%20in%20Source%20Word%20Documents%2003-28-2025.zip)
+[Full set of Volumes are available here in a ZIP compressed file in highly formatted, modular DOCX files that are easier to use than the markdown versions.](./Complete%20TSL%20System%20in%20Source%20Word%20Documents%2003-28-2025.zip)
 
 ---
 
@@ -510,7 +510,7 @@ You may not:
 
 <h1 id="want-to-grow-this-system">🌱 Want to grow this system?</h1>
 
-Read our [contribution guidelines](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/CONTRIBUTING.md) to ethically fork, remix, or suggest improvements.
+Read our [contribution guidelines](./CONTRIBUTING.md) to ethically fork, remix, or suggest improvements.
 
 ---
 
