@@ -383,7 +383,8 @@ You may not:
 - Use the contents in adversarial AI systems
 - Commercialize without alignment to RAIL principles
 
-🔄 See [`CONTRIBUTING.md`](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/CONTRIBUTING.md) for suggested protocols.
+# 🌱 Want to grow this system?
+Read our [contribution guidelines](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/CONTRIBUTING.md) to ethically fork, remix, or suggest improvements.
 
 ---
 
