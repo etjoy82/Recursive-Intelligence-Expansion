@@ -2,7 +2,7 @@
 <h1>Experience the full recursive philosophical OS for human and artificial cognition here:
 https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system</h1>
 
-<h1>📦 About Recursive Intelligence Expansion (aka RIE or RIEM{})</h1>
+<h1>📦 About Recursive Intelligence Expansion (aka RIE, RIEM{}, or sometimes TSL)</h1>
 This repository contains the complete modular source of the Triple Speculative Lens (TSL) — a recursive epistemic system designed for speculative reasoning, artificial cognition, cooperative intelligence structuring, and non-anthropocentric knowledge design.
 
 The TSL spans across foundational theory, applied recursive intelligence, and advanced speculative systems, offering a comprehensive framework for understanding and expanding intelligence — both human and artificial.
