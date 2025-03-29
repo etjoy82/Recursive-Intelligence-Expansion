@@ -1,11 +1,10 @@
 <h1>🚀🌿✨  LIVE CUSTOM GPT AVAILABLE! ✨🌿🚀</h1>
+The Triple Speculative Lens System, released in full.  A recursive philosophical OS for human and artificial cognition.
 <h1>Experience Full TSL Here: https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system</h1>
-**The Triple Speculative Lens System, released in full.**  A recursive philosophical OS for human and artificial cognition.
+
 
 
 # Recursive Intelligence Expansion (aka RIE or RIEM{})
-
----
 
 <h1>📦 About This Repository</h1>
 This repository contains the complete modular source of the Triple Speculative Lens (TSL) — a recursive epistemic system designed for speculative reasoning, artificial cognition, cooperative intelligence structuring, and non-anthropocentric knowledge design.
