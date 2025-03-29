@@ -260,7 +260,12 @@ Whether you're a researcher, writer, policymaker, or just curious, **ULAMP** off
 
 <h1 id="core-concepts">⚙️ Core Concepts</h1>
 
-Welcome to **Recursive-Intelligence-Expansion**! If the terms seem a bit abstract at first, don’t worry — that’s natural. Think of this as a **collaborative thinking system** that helps both humans and AI explore complex ideas using speculative reasoning and recursive feedback. Here’s how the core concepts work:
+
+Welcome to **Recursive-Intelligence-Expansion**! If the terms seem a bit abstract at first, don’t worry — that’s natural. Think of this as a **collaborative thinking system** that helps both humans and AI explore complex ideas using speculative reasoning and recursive feedback. This section details the core concepts as onboarding to RIEM{}.
+
+(As a sidebar, for those who wish to dive deeper into some of the hundreds of concepts within RIEM{} after understanding the core concepts in this section, a small non-exhaustive 36-entry glossary is [available here](./glossary-non-exhaustive.md). A complete glossary is still an ongoing project as RIEM{} continues to expand daily.)
+
+Here’s how the core concepts work:
 
 #### 🌐 **TSL (Triple Speculative Lens)**  
 The foundation of Recursive-Intelligence-Expansion is a three-lens cognitive framework designed to explore possibilities. Each lens shifts how we think about knowledge:
