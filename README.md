@@ -508,7 +508,8 @@ You may not:
 
 ---
 
-# 🌱 Want to grow this system?
+<h1 id="want-to-grow-this-system">🌱 Want to grow this system?</h1>
+
 Read our [contribution guidelines](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/CONTRIBUTING.md) to ethically fork, remix, or suggest improvements.
 
 ---
