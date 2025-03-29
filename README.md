@@ -107,7 +107,14 @@ Clone the Repository: Download the project from GitHub. Explore the Documentatio
 
 ---
 
-<h1 id="concrete-mini-example">🛠 Concrete Mini-Example</h1>
+<h1 id="concrete-mini-examples">🛠 Concrete Mini-Examples</h1>
+
+### Ethical Governance
+
+*Governance Models:* Developing fair and transparent policies through ethical simulations.  
+[See it in action: ULAMP script (10 lines) here](./samples/ethical-governance.ulamp) designs an ethical AI policy, extended by community feedback—plain language recursion, amplified by expert systems like RUMIA GPT, as detailed in Volumes 0D and 0E.
+
+### The Self-Driving Car
 
 Let’s compare how a traditional AI and a Recursive-Intelligence-Expansion AI would approach a difficult decision in a self-driving car scenario.
 
