@@ -1,7 +1,7 @@
 [![License: RAIL](https://img.shields.io/badge/License-RAIL-important)](https://www.licenses.ai/)
 <h1>🚀🌿✨  LIVE CUSTOM GPT AVAILABLE! ✨🌿🚀</h1>
-<h1>Experience the full recursive philosophical OS for human and artificial cognition here:
-https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system</h1>
+<h1>Experience the full recursive philosophical OS for human and artificial cognition here: <a href="https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system">
+https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system</a></h1>
 
 <h1>Table of Contents</h1>
 
