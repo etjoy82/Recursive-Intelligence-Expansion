@@ -2,6 +2,25 @@
 <h1>Experience the full recursive philosophical OS for human and artificial cognition here:
 https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system</h1>
 
+<h1>Table of Contents</h1>
+[1.](#1) 📦 About Recursive Intelligence Expansion (aka RIE, RIEM{}, TSL, 10FSG)
+[2.](#2) 🧩 What Problem Does This Solve?
+[3.](#3) 🧠 Who This Is For
+[4.](#4) ❓ Frequently Asked Questions (FAQ)
+[5.](#5) 🛠 Concrete Mini-Example
+[6.](#6) 🕊️ Understanding npnaAI: Non-Predatory, Non-Adversarial AI
+[7.](#7) 🧑‍💻 Understanding ULAMP: User-Level AI Meta-Programming, the core interface of RIEM{}
+[8.](#8) 📚 TSL Volume Index
+[9.](#9) ⚙️ Core Concepts
+[10.](#10) 🧭 Navigating the Concepts of Recursive-Intelligence-Expansion
+[11.](#11) 🚀 Quickstart Guide: Explore the Triple Speculative Lens (TSL) with RUMIA
+[12.](#12) 🔒 License
+[13.](#13) 🌱 Want to grow this system?
+[14.](#14) 🌐 Author
+[15.](#15) 📣 Final Note
+
+---
+
 <h1>📦 About Recursive Intelligence Expansion (aka RIE, RIEM{}, TSL, 10FSG)</h1>
 This repository contains the complete modular source of the Triple Speculative Lens (TSL) — a recursive epistemic system designed for speculative reasoning, artificial cognition, cooperative intelligence structuring, and non-anthropocentric knowledge design.
 
