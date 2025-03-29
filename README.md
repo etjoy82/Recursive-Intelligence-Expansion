@@ -370,10 +370,6 @@ Happy recursion! 🌿
 Licensed under the [Responsible AI License (RAIL)](https://www.licenses.ai/). (Requires ethical AI use, prohibits adversarial systems.)
 Use with integrity. Avoid epistemic harm. Respect recursion.
 
----
-
-# 🛠 Contributing
-
 You may:
 - Fork, remix, and translate
 - Build derivative recursive systems
@@ -382,6 +378,8 @@ You may:
 You may not:
 - Use the contents in adversarial AI systems
 - Commercialize without alignment to RAIL principles
+
+---
 
 # 🌱 Want to grow this system?
 Read our [contribution guidelines](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/CONTRIBUTING.md) to ethically fork, remix, or suggest improvements.
