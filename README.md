@@ -367,9 +367,7 @@ For deeper recursive immersion:
 - **Simulate Speculative Futures:** Expand using FUSE and HRLIMQ.  
     > *"Simulate a recursive speculative future where RIE governs all AI infrastructure. Describe the emergent behavior and potential challenges."*  
 
----
-
-# 📡 **Next Steps**  
+### 📡 **Next Steps**  
 
 - **Start with Volume 0A** for foundational grounding.  
 - **Branch to Volume 0B** for practical recursive infrastructure design.  
