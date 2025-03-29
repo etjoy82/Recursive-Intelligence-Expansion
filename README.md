@@ -80,7 +80,7 @@ Yes. Safety is a core principle of this framework. AI systems using Recursive-In
 Absolutely! The Recursive-Intelligence-Expansion framework is open for developers, researchers, and AI enthusiasts. Whether you’re working on conversational AI, decision-support systems, simulations, or complex AI models, the principles in this repository can enhance your projects. You’ll find tools and examples to help you integrate recursive reasoning into your AI applications.
 
 6. How can I get started?
-Clone the Repository: Download the project from GitHub. Explore the Documentation: Review detailed guides and examples. Try the Exercises: Learn how Recursive-Intelligence-Expansion operates using the provided sample exercises. Experiment: Apply recursive loops and reflective reasoning to your own AI systems. Need assistance? Check out the Quickstart Guide or open an issue for support. Happy exploring!
+Clone the Repository: Download the project from GitHub. Explore the Documentation: Review detailed guides and examples. Try the Exercises: Learn how Recursive-Intelligence-Expansion operates using the provided sample exercises. Experiment: Apply recursive loops and reflective reasoning to your own AI systems. Need assistance? Open an issue for support. Happy exploring!
 
 
 ---
