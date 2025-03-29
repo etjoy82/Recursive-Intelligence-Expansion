@@ -3,21 +3,21 @@
 https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system</h1>
 
 <h1>Table of Contents</h1>
-- [1](#1) 📦 About Recursive Intelligence Expansion (aka RIE, RIEM{}, TSL, 10FSG)
-- [2](#2) 🧩 What Problem Does This Solve?
-- [3](#3) 🧠 Who This Is For
-- [4](#4) ❓ Frequently Asked Questions (FAQ)
-- [5](#5) 🛠 Concrete Mini-Example
-- [6](#6) 🕊️ Understanding npnaAI: Non-Predatory, Non-Adversarial AI
-- [7](#7) 🧑‍💻 Understanding ULAMP: User-Level AI Meta-Programming, the core interface of RIEM{}
-- [8](#8) 📚 TSL Volume Index
-- [9](#9) ⚙️ Core Concepts
-- [10](#10) 🧭 Navigating the Concepts of Recursive-Intelligence-Expansion
-- [11](#11) 🚀 Quickstart Guide: Explore the Triple Speculative Lens (TSL) with RUMIA
-- [12](#12) 🔒 License
-- [13](#13) 🌱 Want to grow this system?
-- [14](#14) 🌐 Author
-- [15](#15) 📣 Final Note
+- [1: 📦 About Recursive Intelligence Expansion (aka RIE, RIEM{}, TSL, 10FSG)](#about)
+- [2: 🧩 What Problem Does This Solve?](#solve)
+- [3: 🧠 Who This Is For](#who)
+- [4: ❓ Frequently Asked Questions (FAQ)](#faq)
+- [5: 🛠 Concrete Mini-Example](#example)
+- [6: 🕊️ Understanding npnaAI: Non-Predatory, Non-Adversarial AI](#npnaai)
+- [7: 🧑‍💻 Understanding ULAMP: User-Level AI Meta-Programming, the core interface of RIEM{}](#ulamp)
+- [8: 📚 TSL Volume Index](#volumeindex)
+- [9: ⚙️ Core Concepts](#concepts)
+- [10: 🧭 Navigating the Concepts of Recursive-Intelligence-Expansion](#navigating)
+- [11: 🚀 Quickstart Guide: Explore the Triple Speculative Lens with RUMIA](#quickstart)
+- [12: 🔒 License](#license)
+- [13: 🌱 Want to grow this system?](#contribute)
+- [14: 🌐 Author](#author)
+- [15: 📣 Final Note](#finalnote)
 
 ---
 
