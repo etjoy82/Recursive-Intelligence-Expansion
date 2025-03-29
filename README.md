@@ -229,7 +229,7 @@ Whether you're a researcher, writer, policymaker, or just curious, **ULAMP** off
 
 | Volume | Title | Description |
 |--------|-------|-------------|
-| [**0A**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/TSL%20Volume%200A%20Foundations%20(TSL%20System%20Thesis%2C%20Earths%20Notation).md) | Foundations | TSL Thesis, Earths Notation, core lenses, speculative axioms |
+| [**0A**](./TSL%20Volume%200A%20Foundations%20(TSL%20System%20Thesis%2C%20Earths%20Notation).md) | Foundations | TSL Thesis, Earths Notation, core lenses, speculative axioms |
 | [**0B**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/TSL%20Volume%200B%20Recursive%20Infrastructure%20(Preface%2C%20Fundamentals%2C%20ENPL%2C%20NAKS%2C%20ARM%2C%20RI-Boot).md) | Recursive Infrastructure | ENPL, NAKS, ARM{}, RI-Boot kernel, ethics scaffolding |
 | [**0C**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/TSL%20Volume%200C%20System%20Execution%20Layer%20(RIEM%2C%20FUSE%2C%20Automation%2C%20Simulation%2C%20Optimization).md) | System Execution Layer | RIEM, FUSE, Simulation, Optimization, Automation |
 | [**0D**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/TSL%20Volume%200D%20Advanced%20Recursive%20Systems%20(RDN%2C%20npnaAI%2C%20HRLIMQ%2C%20ARC).md) | Advanced Recursive Systems | RDN, npnaAI, HRLIMQ, ARC — future-facing recursive AI cognition |
