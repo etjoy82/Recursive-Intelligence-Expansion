@@ -23,6 +23,7 @@ It’s optimized for accessibility, modularity, and recursive translation — re
 ---
 
 <h1>🧩 What Problem Does This Solve?</h1>
+
 In today’s world, artificial intelligence systems are often built to predict and solve specific tasks — like recommending movies, generating text, or identifying objects in images. While these systems are useful, they tend to follow rigid rules and struggle when faced with uncertainty, contradictions, or open-ended questions.
 
 But the real world isn’t always predictable. Decisions often involve complex problems with no single “right” answer. Philosophers, scientists, and innovators think by exploring possibilities, questioning assumptions, and finding meaning within uncertainty. What if AI could think this way too?
