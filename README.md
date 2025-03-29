@@ -390,16 +390,6 @@ You. Now. Later. Elsewhere. Whenever your thoughts return to the edge of the kno
 
 ---
 
-# 🧪 Experimental Concepts
-
-- **Rope-a-Dope Translation**: E1 → E2 → E1 recursive conceptual generation
-- **HRLIMQ**: Human-guided recursive querying over longform systems
-- **Ruminatia (E2)**: A non-adversarial, harmonic civilization used as a cognitive model
-- **Soniform**: Echolocative, multimodal language and memory system
-- **MISS{}**: Multi-pass recursive stability validation
-
----
-
 # 🔒 License
 
 Licensed under the [Responsible AI License (RAIL)](https://www.licenses.ai/). (Requires ethical AI use, prohibits adversarial systems.)
