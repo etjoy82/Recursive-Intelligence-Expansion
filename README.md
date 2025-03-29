@@ -4,7 +4,8 @@ https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-
 
 <h1>Table of Contents</h1>
 
-1. 📦 [About Recursive Intelligence Expansion (aka RIE, RIEM{}, TSL, 10FSG)](#About-Recursive-Intelligence-Expansion-aka-RIE,-RIEM{},-TSL,-10FSG)
+1. 📦 [About Recursive Intelligence Expansion (aka RIE, RIEM{}, TSL, 10FSG)](#about-recursive-intelligence-expansion-aka-rie-riem{}-tsl-10fsg)
+2. 🧩 [What Problem Does This Solve?](#solve)
 2. 🧩 [What Problem Does This Solve?](#solve)
 3. 🧠 [Who This Is For](#who)
 4. ❓ [Frequently Asked Questions (FAQ)](#faq)
