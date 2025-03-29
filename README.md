@@ -1,5 +1,5 @@
 <h1>🚀🌿✨  LIVE CUSTOM GPT AVAILABLE! ✨🌿🚀</h1>
-<h1>Experience Full TSL Here: https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system The Triple Speculative Lens System, released in full.  A recursive philosophical OS for human and artificial cognition.</h1>
+<h1>Experience a recursive philosophical OS for human and artificial cognition here: https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system</h1>
 
 
 # Recursive Intelligence Expansion (aka RIE or RIEM{})
