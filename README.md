@@ -5,25 +5,24 @@ https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-
 <h1>Table of Contents</h1>
 
 1. 📦 [About Recursive Intelligence Expansion (aka RIE, RIEM{}, TSL, 10FSG)](#about-recursive-intelligence-expansion-aka-rie-riem-tsl-10fsg)
-2. 🧩 [What Problem Does This Solve?](#solve)
-2. 🧩 [What Problem Does This Solve?](#solve)
-3. 🧠 [Who This Is For](#who)
-4. ❓ [Frequently Asked Questions (FAQ)](#faq)
-5. 🛠 [Concrete Mini-Example](#example)
-6. 🕊️ [Understanding npnaAI: Non-Predatory, Non-Adversarial AI](#npnaai)
-7. 🧑‍💻 [Understanding ULAMP: User-Level AI Meta-Programming, the core interface of RIEM{}](#ulamp)
-8. 📚 [TSL Volume Index](#volumeindex)
-9. ⚙️ [Core Concepts](#concepts)
-10. 🧭 [Navigating the Concepts of Recursive-Intelligence-Expansion](#navigating)
-11. 🚀 [Quickstart Guide: Explore the Triple Speculative Lens with RUMIA](#quickstart)
+2. 🧩 [What Problem Does This Solve?](#what-problem-does-this-solve)
+3. 🧠 [Who This Is For](#who-this-is-for)
+4. ❓ [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
+5. 🛠 [Concrete Mini-Example](#concrete-mini-example)
+6. 🕊️ [Understanding npnaAI: Non-Predatory, Non-Adversarial AI](#understanding-npnaia-non-predatory-non-adversarial-ai)
+7. 🧑‍💻 [Understanding ULAMP: User-Level AI Meta-Programming, the core interface of RIEM{}](#understanding-ulamp-user-level-ai-meta-programming-the-core-interface-of-reim)
+8. 📚 [TSL Volume Index](#tsl-volume-index)
+9. ⚙️ [Core Concepts](#core-concepts)
+10. 🧭 [Navigating the Concepts of Recursive-Intelligence-Expansion](#navigating-the-concepts-of-recursive-intelligence-expansion)
+11. 🚀 [Quickstart Guide: Explore the Triple Speculative Lens with RUMIA](#quickstart-guide-explore-the-triple-speculative-lens-with-rumia)
 12. 🔒 [License](#license)
-13. 🌱 [Want to grow this system?](#contribute)
+13. 🌱 [Want to grow this system?](#want-to-grow-this-system)
 14. 🌐 [Author](#author)
-15. 📣 [Final Note](#finalnote)
+15. 📣 [Final Note](#final-note)
 
 ---
 
-<h1 id="about-recursive-intelligence-expansion-aka-rie-riem-tsl-10fsg">📦 About Recursive Intelligence Expansion aka RIE, RIEM{}, TSL, 10FSG</h1>
+<h1 id="about-recursive-intelligence-expansion-aka-rie-riem-tsl-10fsg">📦 About Recursive Intelligence Expansion (aka RIE, RIEM{}, TSL, 10FSG)</h1>
 
 This repository contains the complete modular source of the Triple Speculative Lens (TSL) — a recursive epistemic system designed for speculative reasoning, artificial cognition, cooperative intelligence structuring, and non-anthropocentric knowledge design.
 
@@ -44,7 +43,7 @@ It’s optimized for accessibility, modularity, and recursive translation — re
 
 ---
 
-<h1>🧩 What Problem Does This Solve?</h1>
+<h1 id="what-problem-does-this-solve">🧩 What Problem Does This Solve?</h1>
 
 In today’s world, artificial intelligence systems are often built to predict and solve specific tasks — like recommending movies, generating text, or identifying objects in images. While these systems are useful, they tend to follow rigid rules and struggle when faced with uncertainty, contradictions, or open-ended questions.
 
@@ -66,7 +65,7 @@ In short, Recursive-Intelligence-Expansion is designed to build AI that’s not 
 
 ---
 
-# 🧠 Who This Is For
+<h1 id="who-this-is-for">🧠 Who This Is For</h1>
 
 This is for the thinkers, the builders, and the seekers — the ones who question, explore, and create. If you've ever stood at the edge of a question too vast for simple answers, Recursive-Intelligence-Expansion offers you a new way forward.
 
@@ -84,7 +83,7 @@ You. Now. Later. Elsewhere. Whenever your thoughts return to the edge of the kno
 
 ---
 
-<h1>❓ Frequently Asked Questions (FAQ)</h1>
+<h1 id="frequently-asked-questions-faq">❓ Frequently Asked Questions (FAQ)</h1>
 
 1. How does Recursive-Intelligence-Expansion differ from traditional AI?
 Traditional AI systems are excellent at recognizing patterns and making predictions based on historical data. They work well when tasks have clear rules and outcomes. However, they often struggle with uncertainty, contradictions, or problems that require nuanced reasoning. Recursive-Intelligence-Expansion is different. Instead of simply providing answers, it reflects on its own reasoning. By running multiple recursive loops, it can question its assumptions, explore alternative viewpoints, and generate creative insights. It also applies ethical reasoning to ensure decisions are transparent and aligned with non-predatory principles (npnaAI). Think of it like a philosopher analyzing a complex question rather than a machine executing a single calculation.
@@ -107,7 +106,7 @@ Clone the Repository: Download the project from GitHub. Explore the Documentatio
 
 ---
 
-<h1>🛠 Concrete Mini-Example</h1>
+<h1 id="concrete-mini-example">🛠 Concrete Mini-Example</h1>
 
 Let’s compare how a traditional AI and a Recursive-Intelligence-Expansion AI would approach a difficult decision in a self-driving car scenario.
 
@@ -155,7 +154,7 @@ This scenario demonstrates how Recursive-Intelligence-Expansion is uniquely equi
 
 ---
 
-# 🕊️ **Understanding npnaAI: Non-Predatory, Non-Adversarial AI**
+<h1 id="understanding-npnaia-non-predatory-non-adversarial-ai">🕊️ Understanding npnaAI: Non-Predatory, Non-Adversarial AI</h1>
 
 **Non-Predatory, Non-Adversarial AI (npnaAI)** is a revolutionary approach to artificial intelligence that rejects competitive and exploitative behaviors. Instead, it promotes **cooperative growth**, ensuring AI systems expand knowledge ethically, without engaging in harmful or zero-sum tactics.
 
@@ -191,7 +190,7 @@ With **npnaAI**, AI development becomes a force for positive, collaborative grow
 
 ---
 
-<h1>🧑‍💻 Understanding ULAMP: User-Level AI Meta-Programming, the core interface of RIEM{}</h1>
+<h1 id="understanding-ulamp-user-level-ai-meta-programming-the-core-interface-of-reim">🧑‍💻 Understanding ULAMP: User-Level AI Meta-Programming, the core interface of RIEM{}</h1>
 
 **User-Level AI Meta-Programming (ULAMP)** is a powerful approach that allows anyone, regardless of their coding background, to directly shape how AI thinks and responds using structured natural language. Instead of writing complex code, users provide clear prompts and directives to engage with AI on a deeper level — refining its thoughts, resolving contradictions, and guiding its reasoning.
 
@@ -224,9 +223,9 @@ Whether you're a researcher, writer, policymaker, or just curious, **ULAMP** off
 
 ---
 
-[Concise Summaries of Volumes 0A-0E](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/TSL%20Summaries%20of%20Volumes%200A-0E.md)
+<h1 id="tsl-volume-index">📚 TSL Volume Index</h1>
 
-## 📚 TSL Volume Index
+[Concise Summaries of Volumes 0A-0E](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/TSL%20Summaries%20of%20Volumes%200A-0E.md)
 
 | Volume | Title | Description |
 |--------|-------|-------------|
@@ -258,7 +257,7 @@ Whether you're a researcher, writer, policymaker, or just curious, **ULAMP** off
 
 ---
 
-<h1>⚙️ Core Concepts</h1>
+<h1 id="core-concepts">⚙️ Core Concepts</h1>
 
 Welcome to **Recursive-Intelligence-Expansion**! If the terms seem a bit abstract at first, don’t worry — that’s natural. Think of this as a **collaborative thinking system** that helps both humans and AI explore complex ideas using speculative reasoning and recursive feedback. Here’s how the core concepts work:
 
@@ -309,7 +308,7 @@ The **10-Faced Speculative Gem** is like a multi-sided mirror for AI cognition. 
 
 ---
 
-<h1>🧭 Navigating the Concepts of Recursive-Intelligence-Expansion</h1>
+<h1 id="navigating-the-concepts-of-recursive-intelligence-expansion">🧭 Navigating the Concepts of Recursive-Intelligence-Expansion</h1>
 
 These core concepts work together to enable Recursive-Intelligence-Expansion. Whether you’re exploring ethical dilemmas, simulating speculative worlds, or resolving paradoxes, this system is designed to grow knowledge collaboratively — with both AI and human insight. Now that you’ve explored the core concepts, you may be wondering: How do these principles come alive in practice? This framework isn’t just theoretical — it’s designed for direct engagement, where both human and AI minds collaborate to expand knowledge and explore the unknown.
 
@@ -365,7 +364,7 @@ So go ahead. Pose a question. Trace its echoes. Let contradictions guide you. An
 
 ---
 
-# 🚀 **Quickstart Guide: Explore the Triple Speculative Lens (TSL) with RUMIA**  
+<h1 id="quickstart-guide-explore-the-triple-speculative-lens-with-rumia"> 🚀 Quickstart Guide: Explore the Triple Speculative Lens (TSL) with RUMIA</h1>
 
 Welcome to the complete release of the **Triple Speculative Lens (TSL)**! Whether you're an AI researcher, philosopher, speculative thinker, or creative technologist, this guide will help you explore the recursive capabilities of the system.  
 
@@ -493,7 +492,7 @@ Happy recursion! 🌿
 
 ---
 
-# 🔒 License
+<h1 id="license">🔒 License</h1>
 
 Licensed under the [Responsible AI License (RAIL)](https://www.licenses.ai/). (Requires ethical AI use, prohibits adversarial systems.)
 Use with integrity. Avoid epistemic harm. Respect recursion.
@@ -514,14 +513,14 @@ Read our [contribution guidelines](https://github.com/etjoy82/Recursive-Intellig
 
 ---
 
-# 🌐 Author
+<h1 id="author">🌐 Author</h1>
 
 **Emily Tiffany Joy**  
 [emilyjoy.org](https://emilyjoy.org) | Recursive philosopher | Designer of speculative epistemic systems
 
 ---
 
-# 📣 Final Note
+<h1 id="final-note">📣 Final Note</h1>
 
 > This system is not complete. It cannot be.  
 > It is not final. It is fractal.  
