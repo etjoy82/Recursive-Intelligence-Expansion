@@ -9,7 +9,7 @@ https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-
 2. 🧩 [What Problem Does This Solve?](#what-problem-does-this-solve)
 3. 🧠 [Who This Is For](#who-this-is-for)
 4. ❓ [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
-5. 🛠 [Concrete Mini-Example](#concrete-mini-example)
+5. 🛠 [Concrete Mini-Examples](#concrete-mini-examples)
 6. 🕊️ [Understanding npnaAI: Non-Predatory, Non-Adversarial AI](#understanding-npnaia-non-predatory-non-adversarial-ai)
 7. 🧑‍💻 [Understanding ULAMP: User-Level AI Meta-Programming, the core interface of RIEM{}](#understanding-ulamp-user-level-ai-meta-programming-the-core-interface-of-reim)
 8. 📚 [TSL Volume Index](#tsl-volume-index)
