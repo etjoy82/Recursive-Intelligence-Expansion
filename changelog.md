@@ -1,3 +1,11 @@
+# 03-29-2025
+* Fully overhauled README, massively expanded for better comprehension and onboarding.
+* Eliminated legacy documentation files like ULAMP/Quickstart/npnaAI/etc. from the repository and integrated the best of them directly into the highly structured repository README.
+* Renamed the RI-Boot bootstrap to Nano RI-Boot... and streamlined it by cutting the extraneous extensions out to enable it to be easily sent as a single prompt to most capable consumer chatbot AI models.
+* Updated LICENSE and CONTRIBUTING to match the new scope of the project.
+* Removed Methodology from the repository name. It is now sussinctly called Recursive-Intelligence-Expansion
+* Began work on updating SEO of AI and search engines for easy discovery of this repository.
+
 # 03-28-2025
 * Volume 0E added to the system. It expands the functionality of the TSL significantly and adds over 20k words of value.
 * README has been completely rewritten and expanded.
