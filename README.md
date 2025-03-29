@@ -51,6 +51,7 @@ In short, Recursive-Intelligence-Expansion is designed to build AI that’s not 
 ---
 
 <h1>❓ Frequently Asked Questions (FAQ)</h1>
+
 1. What is Recursive-Intelligence-Expansion?
 Recursive-Intelligence-Expansion is a framework that enables artificial intelligence to think more like a human by continuously expanding its understanding through reflection, questioning, and iteration. Instead of just solving tasks or providing answers, it recursively refines its thoughts, explores multiple possibilities, and works through contradictions — like a philosopher or scientist might.
 
