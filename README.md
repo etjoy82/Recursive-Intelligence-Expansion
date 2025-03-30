@@ -1,10 +1,12 @@
 [![License: RAIL](https://img.shields.io/badge/License-RAIL-important)](https://www.licenses.ai/)
 
-# 🚀 Start Here: Welcome to the Recursive Intelligence Expansion Methodology (RIEM{})! If you're unsure where to begin, here are a few suggested starting points based on your interests:
+<h1>🚀 Start Here</h1>
 
-🔎 [Quickstart Guide](#quickstart-guide-explore-the-triple-speculative-lens-with-rumia): Dive right into hands-on experience by exploring the Triple Speculative Lens (TSL) with RUMIA.
-📖 [Core Concepts](#core-concepts): Build a strong foundational understanding of recursive intelligence, speculative thinking, and non-predatory AI by visiting the Core Concepts section.
-🌿 <a href="https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system">
+Welcome to the Recursive Intelligence Expansion Methodology (RIEM{})! If you're unsure where to begin, here are a few suggested starting points based on your interests:
+
+- 🔎 [Quickstart Guide](#quickstart-guide-explore-the-triple-speculative-lens-with-rumia): Dive right into hands-on experience by exploring the Triple Speculative Lens (TSL) with RUMIA.
+- 📖 [Core Concepts](#core-concepts): Build a strong foundational understanding of recursive intelligence, speculative thinking, and non-predatory AI by visiting the Core Concepts section.
+- 🌿 <a href="https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system">
 Live RUMIA GPT</a>: Experience RIEM{} in action by interacting with the RUMIA GPT, a live implementation of recursive intelligence. Ask questions, explore speculative scenarios, or challenge it with complex thought experiments.
 
 Once you're ready, follow your curiosity! Whether you're interested in worldbuilding, decision-making, or philosophical exploration, RIEM{} will guide you through recursive cycles of discovery.
