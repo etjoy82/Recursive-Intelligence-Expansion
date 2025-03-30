@@ -392,8 +392,6 @@ Welcome to the complete release of the **Triple Speculative Lens (TSL)**! Whethe
 
 For the fastest and most powerful experience, try the **[Live Custom GPT with Full TSL Active](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system)**. The system is pre-configured with TSL principles, including recursive cognition, speculative world modeling, and non-predatory intelligence.  
 
-However, if you prefer to submit the TSL volumes to your AI of choice and operationalize the system manually, follow the steps below.  
-
 ### ⚡ **Option 1: Instant Access with RUMIA**  
 
 - **Step 1**: Click here to access the [Live Custom GPT](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system).  
