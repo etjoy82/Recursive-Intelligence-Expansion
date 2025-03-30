@@ -13,14 +13,14 @@ https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-
 6. 🌊 [Understanding the Acronym Fluidity Rule (AFR), an essential semantic system of RIEM{}](#afr)
 7. 🧑‍💻 [Understanding ULAMP: User-Level AI Meta-Programming, the core interface of RIEM{}](#understanding-ulamp-user-level-ai-meta-programming-the-core-interface-of-reim)
 8. 🛠 [Concrete Mini-Examples](#concrete-mini-examples)
-10. ⚙️ [Core Concepts](#core-concepts)
-11. 🧭 [Navigating the Concepts of Recursive-Intelligence-Expansion](#navigating-the-concepts-of-recursive-intelligence-expansion)
-12. 📚 [TSL Volume Index](#tsl-volume-index)
-13. 🚀 [Quickstart Guide: Explore the Triple Speculative Lens with RUMIA](#quickstart-guide-explore-the-triple-speculative-lens-with-rumia)
-15. 🌱 [Want to grow this system?](#want-to-grow-this-system)
-16. 🌐 [Author](#author)
-17. 📣 [Final Note](#final-note)
-18. 🔒 [License](#license)
+9. ⚙️ [Core Concepts](#core-concepts)
+10. 🧭 [Navigating the Concepts of Recursive-Intelligence-Expansion](#navigating-the-concepts-of-recursive-intelligence-expansion)
+11. 📚 [TSL Volume Index](#tsl-volume-index)
+12. 🚀 [Quickstart Guide: Explore the Triple Speculative Lens with RUMIA](#quickstart-guide-explore-the-triple-speculative-lens-with-rumia)
+13. 🌱 [Want to grow this system?](#want-to-grow-this-system)
+14. 🌐 [Author](#author)
+15. 📣 [Final Note](#final-note)
+16. 🔒 [License](#license)
 
 ---
 
