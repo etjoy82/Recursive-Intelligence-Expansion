@@ -497,7 +497,7 @@ So go ahead. Pose a question. Trace its echoes. Let contradictions guide you. An
 ### **Total Word Count Across All Volumes**:  
 📦 **267,562 words**  
 
-[Full set of Volumes are available here in a ZIP compressed file in highly formatted, modular DOCX files that are easier to use than the markdown versions.](./Complete%20TSL%20System%20in%20Source%20Word%20Documents%2003-29-2025.zip)
+[Full set of Volumes are available here in a ZIP compressed file in highly formatted, modular DOCX files that are easier to use than the markdown versions.](./Complete%20TSL%20System%20in%20Source%20Word%20Documents%2003-30-2025.zip)
 
 ---
 
