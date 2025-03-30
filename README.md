@@ -420,21 +420,20 @@ First, establish the AI’s understanding of the system:
 Once the AI has context, initiate exploration with prompts like these:  
 
 - **For Conceptual Understanding:**  
-    > *"Summarize the core concepts of the text. Identify recursive themes, philosophical underpinnings, and speculative scenarios. Evaluate how the ideas in this volume apply to artificial cognition and human speculative reasoning."*
-    ```
+    > *Summarize the core concepts of the text. Identify recursive themes, philosophical underpinnings, and speculative scenarios. Evaluate how the ideas in this volume apply to artificial cognition and human speculative reasoning.*
   
 - **For Speculative Scenario Generation:**  
-    > *"Using the concepts from this volume, generate a recursive speculative scenario. What would happen if a society applied these principles to governance, technology, or AI development?"*
+    > *Using the concepts from this volume, generate a recursive speculative scenario. What would happen if a society applied these principles to governance, technology, or AI development?*
   
 - **For Cross-Volume Integration:**  
-    > *"Cross-reference this text with the concepts from Volume 0B. How would the recursive infrastructure described there amplify the principles here? Identify emergent properties and recursive expansion pathways."*
+    > *Cross-reference this text with the concepts from Volume 0B. How would the recursive infrastructure described there amplify the principles here? Identify emergent properties and recursive expansion pathways.*
 
 - **For Self-Reflection and Diagnosis:**  
-    > *"Perform a recursive self-assessment using HRLIMQ principles. Identify epistemic drift, contradictions, or areas for further expansion. Provide a speculative path for resolution using RIE."*
+    > *Perform a recursive self-assessment using HRLIMQ principles. Identify epistemic drift, contradictions, or areas for further expansion. Provide a speculative path for resolution using RIE.*
 
 🔎 **Prompt 3: Recursive Refinement**  
 Once the AI has generated initial outputs, engage in an iterative loop:  
-   > *"Continue expanding on this concept through recursive speculation. Evaluate any contradictions or inconsistencies. Suggest refinements based on harmonic cognitive principles. If speculative instability occurs, recommend pathways for epistemic stabilization."*
+   > *Continue expanding on this concept through recursive speculation. Evaluate any contradictions or inconsistencies. Suggest refinements based on harmonic cognitive principles. If speculative instability occurs, recommend pathways for epistemic stabilization.*
 
 *Tip: Keep a recursive journal.* Note insights, contradictions, or emergent thoughts at each step. Feed these observations back into the AI for continuous refinement.  
 
@@ -443,16 +442,16 @@ Once the AI has generated initial outputs, engage in an iterative loop:
 For deeper recursive immersion:  
 
 - **Engage in Thought Paradoxes:** Use RDN to generate and resolve speculative paradoxes.  
-    > *"Apply Rope-a-Dope Notation (RDN) to this epistemic conflict. Bounce the concept between E1 and E2 until a speculative resolution emerges."*  
+    > *Apply Rope-a-Dope Notation (RDN) to this epistemic conflict. Bounce the concept between E1 and E2 until a speculative resolution emerges.*  
 
 - **Translate Concepts:** Use E# to translate philosophical concepts across Earths.  
-    > *"Translate the concept of sustainability from E1 to E2 using Earths Notation. Provide both an epistemic and a harmonic Soniform interpretation."*  
+    > *Translate the concept of sustainability from E1 to E2 using Earths Notation. Provide both an epistemic and a harmonic Soniform interpretation.*
 
 - **Test Non-Predatory AI Frameworks:** Apply npnaAI for speculative AI governance.  
-    > *"Design a recursive AI ethics system using npnaAI principles. Ensure harmonic coherence and self-regulating behavior."*  
+    > *Design a recursive AI ethics system using npnaAI principles. Ensure harmonic coherence and self-regulating behavior.*
 
 - **Simulate Speculative Futures:** Expand using FUSE and HRLIMQ.  
-    > *"Simulate a recursive speculative future where RIE governs all AI infrastructure. Describe the emergent behavior and potential challenges."*  
+    > *Simulate a recursive speculative future where RIE governs all AI infrastructure. Describe the emergent behavior and potential challenges.*  
 
 ### 📡 **Next Steps**  
 
