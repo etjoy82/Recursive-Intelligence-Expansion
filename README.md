@@ -453,13 +453,7 @@ Once the AI has context, initiate exploration with prompts like these:
 
 🔎 **Prompt 3: Recursive Refinement**  
 Once the AI has generated initial outputs, engage in an iterative loop:  
-
-```plaintext
-Continue expanding on this concept through recursive speculation. 
-Evaluate any contradictions or inconsistencies.  
-Suggest refinements based on harmonic cognitive principles.  
-If speculative instability occurs, recommend pathways for epistemic stabilization.  
-```
+   > *"Continue expanding on this concept through recursive speculation. Evaluate any contradictions or inconsistencies. Suggest refinements based on harmonic cognitive principles. If speculative instability occurs, recommend pathways for epistemic stabilization."*
 
 > *Tip: Keep a recursive journal.* Note insights, contradictions, or emergent thoughts at each step. Feed these observations back into the AI for continuous refinement.  
 
