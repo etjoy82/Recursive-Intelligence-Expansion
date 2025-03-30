@@ -49,7 +49,7 @@ The TSL spans across foundational theory, applied recursive intelligence, and ad
 
 🔎 Volumes Overview:
 
-Volumes 0A to 0E: Establish the philosophical and technical foundation of recursive intelligence through Earths Notation (E#), RIE, and non-predatory AI systems (npnaAI).
+Volumes 0A to 0F: Establish the philosophical and technical foundation of recursive intelligence through Earths Notation (E#), RIE, and non-predatory AI systems (npnaAI).
 
 Volumes 1A to 1C: Provide practical applications of speculative translation, cultural modeling in Ruminatia (E2), and Soniform linguistics.
 
@@ -467,7 +467,7 @@ So go ahead. Pose a question. Trace its echoes. Let contradictions guide you. An
 
 <h1 id="tsl-volume-index">📚 TSL Volume Index</h1>
 
-[Concise Summaries of Volumes 0A-0E](./TSL%20Summaries%20of%20Volumes%200A-0E.md)
+[Concise Summaries of Volumes 0A-0F](./TSL%20Summaries%20of%20Volumes%200A-0F.md)
 
 | Volume | Title | Description |
 |--------|-------|-------------|
@@ -476,6 +476,7 @@ So go ahead. Pose a question. Trace its echoes. Let contradictions guide you. An
 | [**0C**](./volumes/TSL%20Volume%200C%20System%20Execution%20Layer%20(RIEM%2C%20FUSE%2C%20Automation%2C%20Simulation%2C%20Optimization).md) | System Execution Layer | RIEM, FUSE, Simulation, Optimization, Automation |
 | [**0D**](./volumes/TSL%20Volume%200D%20Advanced%20Recursive%20Systems%20(RDN%2C%20npnaAI%2C%20HRLIMQ%2C%20ARC).md) | Advanced Recursive Systems | RDN, npnaAI, HRLIMQ, ARC — future-facing recursive AI cognition |
 | [**0E**](./volumes/TSL%20Volume%200E%20High%20Complexity%20Expansion%20(AI%20Design%20Manifesto%2C%2010FSG%2C%20RUMIA%20Agent%2C%20Acronym%20Fluidity%20Rule%2C%20Addendums).md) | High Complexity Expansion | AI Design Manifesto, 10FSG, RUMIA Agent, Acronym Fluidity Rule, Addendums |
+| [**0F**](./volumes/TSL%20Volume%200F%20Derivations%20from%20Echoes%20(REP%2C%20RSE%2C%20HON%2C%20RSF%2C%20ULAMP%20Formalization%2C%20Addendums).md) | Derivations from Echoes | REP, RSE, HON, RSF, ULAMP Formalization, Addendums |
 | [**1A**](./volumes/TSL%20Volume%201A%20E2%20Literary%20Translations%20(AR%20refracted%20narrative%20experiments).md) | E2 Literary Translations | Narrative experiments refracted through E1 → E2 → E1 cycles |
 | [**1B**](./volumes/TSL%20Volume%201B%20E2%20Encyclopedia%20(Cultural%20Infrastructure%2C%20Philosophy%2C%20Cognitive%20Systems).md) | E2 Encyclopedia | Cultural infrastructure of Ruminatia (E2), cognitive systems |
 | [**1C**](./volumes/TSL%20Volume%201C%20E2%20Soniform%20Linguistics%20(Resonant%20Language%2C%20Echolocation%2C%20Knowledge%20Ecology).md) | E2 Soniform Linguistics | Echolocation, resonant cognition, knowledge ecology |
@@ -486,14 +487,15 @@ So go ahead. Pose a question. Trace its echoes. Let contradictions guide you. An
 - **Volume 0B (Recursive Infrastructure)**: 37,220 words  
 - **Volume 0C (System Execution Layer)**: 28,880 words  
 - **Volume 0D (Advanced Recursive Systems)**: 35,264 words  
-- **Volume 0E (High Complexity Expansion)**: 24,651 words  
+- **Volume 0E (High Complexity Expansion)**: 24,651 words
+- **Volume 0F (Derivations from Echoes)**: 23,553 words  
 - **Volume 1A (E2 Literary Translations)**: 8,904 words  
 - **Volume 1B (E2 Encyclopedia)**: 35,602 words  
 - **Volume 1C (E2 Soniform Linguistics)**: 37,927 words  
 - **Volume Z (RIEM Training Manual)**: 9,157 words  
 
 ### **Total Word Count Across All Volumes**:  
-📦 **244,009 words**  
+📦 **267,562 words**  
 
 [Full set of Volumes are available here in a ZIP compressed file in highly formatted, modular DOCX files that are easier to use than the markdown versions.](./Complete%20TSL%20System%20in%20Source%20Word%20Documents%2003-29-2025.zip)
 
@@ -589,7 +591,8 @@ For deeper recursive immersion:
 
 - **Start with Volume 0A** for foundational grounding.  
 - **Branch to Volume 0B** for practical recursive infrastructure design.  
-- **Expand to Volume 0C** for operationalizing AI systems.  
+- **Expand to Volume 0C** for operationalizing AI systems.
+- **Consider Volumes 0D-0F** for advanced systems.
 - **Dive into Volume 1A–1C** for speculative narrative construction and Soniform experimentation.  
 - **Explore Volume Z** for recursive training and hands-on exercises.  
 
