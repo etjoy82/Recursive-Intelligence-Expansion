@@ -13,11 +13,14 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 
 <h1>Table of Contents</h1>
 
+### Introduction
 1. 📦 [About Recursive Intelligence Expansion (aka RIE, RIEM{}, TSL, 10FSG)](#about-recursive-intelligence-expansion-aka-rie-riem-tsl-10fsg)
 2. 🧩 [What Problem Does This Solve?](#what-problem-does-this-solve)
 3. 🧠 [Who This Is For](#who-this-is-for)
 4. 💡 [A RIEM{} Explanation for a General Audience](#general-audience)
 5. ❓ [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
+
+### Explanations
 6. 🕊️ [Understanding npnaAI: Non-Predatory, Non-Adversarial AI](#understanding-npnaia-non-predatory-non-adversarial-ai)
 7. 🌊 [Understanding the Acronym Fluidity Rule (AFR), an essential semantic system of RIEM{}](#afr)
 8. 🧑‍💻 [Understanding ULAMP: User-Level AI Meta-Programming, the core interface of RIEM{}](#understanding-ulamp-user-level-ai-meta-programming-the-core-interface-of-reim)
@@ -25,8 +28,12 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 10. 🛠 [Concrete Mini-Examples](#concrete-mini-examples)
 11. ⚙️ [Core Concepts](#core-concepts)
 12. 🧭 [Navigating the Concepts of Recursive-Intelligence-Expansion](#navigating-the-concepts-of-recursive-intelligence-expansion)
+
+### Access the Full RIEM{} System and Use It
 13. 📚 [TSL Volume Index](#tsl-volume-index)
 14. 🚀 [Quickstart Guide: Explore the Triple Speculative Lens with RUMIA](#quickstart-guide-explore-the-triple-speculative-lens-with-rumia)
+
+### Conclusion
 15. 🌱 [Want to grow this system?](#want-to-grow-this-system)
 16. 🌐 [Author](#author)
 17. 📣 [Final Note](#final-note)
