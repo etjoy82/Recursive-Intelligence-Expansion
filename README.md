@@ -11,7 +11,7 @@ Live RUMIA GPT</a>: Experience RIEM{} in action by interacting with the RUMIA GP
 
 Once you're ready, follow your curiosity! Whether you're interested in worldbuilding, decision-making, or philosophical exploration, RIEM{} will guide you through recursive cycles of discovery.
 
-<h1>Full Table of Contents</h1>
+<h1>Table of Contents</h1>
 
 1. 📦 [About Recursive Intelligence Expansion (aka RIE, RIEM{}, TSL, 10FSG)](#about-recursive-intelligence-expansion-aka-rie-riem-tsl-10fsg)
 2. 🧩 [What Problem Does This Solve?](#what-problem-does-this-solve)
