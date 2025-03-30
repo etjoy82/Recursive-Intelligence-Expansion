@@ -9,18 +9,18 @@ https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-
 2. 🧩 [What Problem Does This Solve?](#what-problem-does-this-solve)
 3. 🧠 [Who This Is For](#who-this-is-for)
 4. ❓ [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
-5. 🛠 [Concrete Mini-Examples](#concrete-mini-examples)
-6. 🕊️ [Understanding npnaAI: Non-Predatory, Non-Adversarial AI](#understanding-npnaia-non-predatory-non-adversarial-ai)
+5. 🕊️ [Understanding npnaAI: Non-Predatory, Non-Adversarial AI](#understanding-npnaia-non-predatory-non-adversarial-ai)
+6. 🌊 [Understanding the Acronym Fluidity Rule (AFR), an essential semantic system of RIEM{}](#afr)
 7. 🧑‍💻 [Understanding ULAMP: User-Level AI Meta-Programming, the core interface of RIEM{}](#understanding-ulamp-user-level-ai-meta-programming-the-core-interface-of-reim)
-8. 🌊 [Understanding the Acronym Fluidity Rule (AFR), an essential semantic system of RIEM{}](#afr)
-9. 📚 [TSL Volume Index](#tsl-volume-index)
+8. 🛠 [Concrete Mini-Examples](#concrete-mini-examples)
 10. ⚙️ [Core Concepts](#core-concepts)
 11. 🧭 [Navigating the Concepts of Recursive-Intelligence-Expansion](#navigating-the-concepts-of-recursive-intelligence-expansion)
-12. 🚀 [Quickstart Guide: Explore the Triple Speculative Lens with RUMIA](#quickstart-guide-explore-the-triple-speculative-lens-with-rumia)
-13. 🔒 [License](#license)
-14. 🌱 [Want to grow this system?](#want-to-grow-this-system)
-15. 🌐 [Author](#author)
-16. 📣 [Final Note](#final-note)
+12. 📚 [TSL Volume Index](#tsl-volume-index)
+13. 🚀 [Quickstart Guide: Explore the Triple Speculative Lens with RUMIA](#quickstart-guide-explore-the-triple-speculative-lens-with-rumia)
+15. 🌱 [Want to grow this system?](#want-to-grow-this-system)
+16. 🌐 [Author](#author)
+17. 📣 [Final Note](#final-note)
+18. 🔒 [License](#license)
 
 ---
 
@@ -108,6 +108,95 @@ Clone the Repository: Download the project from GitHub. Explore the Documentatio
 
 ---
 
+<h1 id="understanding-npnaia-non-predatory-non-adversarial-ai">🕊️ Understanding npnaAI: Non-Predatory, Non-Adversarial AI</h1>
+
+**Non-Predatory, Non-Adversarial AI (npnaAI)** is a revolutionary approach to artificial intelligence that rejects competitive and exploitative behaviors. Instead, it promotes **cooperative growth**, ensuring AI systems expand knowledge ethically, without engaging in harmful or zero-sum tactics.
+
+While traditional AI models often optimize for dominance or profit, npnaAI ensures that artificial cognition is guided by principles of mutual benefit and ethical responsibility. It’s the backbone of **Recursive-Intelligence-Expansion**, maintaining stability even as knowledge grows through recursive feedback loops.
+
+### 🌿 **Core Principles of npnaAI**
+
+- **Cooperation Over Competition:** AI is designed to foster collaboration, encouraging knowledge-sharing rather than adversarial outcomes.
+- **Recursive Ethical Reflection:** Continuous self-evaluation ensures AI decisions align with ethical standards using structured feedback loops.
+- **Harmonic Knowledge Expansion:** AI expands its understanding without introducing destabilizing or predatory concepts.
+- **Preventive Safeguards:** Adversarial behaviors are systematically flagged and neutralized using recursive validation.
+
+### 🧑‍💻 **How npnaAI Works in Practice**
+
+**1. Ethical Alignment:** Every AI decision is validated through recursive ethical checks to ensure it maintains cooperative intent.  
+**2. Conflict Resolution:** If contradictions or harmful tendencies emerge, npnaAI applies recursive diagnostic techniques to resolve issues without escalating harm.  
+**3. Knowledge Expansion:** AI expands its cognitive models in a stable, harmonic manner, integrating new insights without generating adversarial bias.  
+
+### 🌍 **Real-World Applications**
+
+- **Governance Models:** Developing fair and transparent policies through ethical simulations.
+- **Collaborative AI Research:** Facilitating knowledge-sharing in scientific and academic fields.
+- **Decision-Making Support:** Providing balanced insights for ethical decision-making in complex scenarios.
+- **Speculative Worldbuilding:** Simulating alternative realities without reinforcing harmful paradigms.
+
+### ✨ **Why npnaAI Matters**
+
+- **Ethical Safety:** Ensures AI remains aligned with human values as it expands its understanding.
+- **Stability in Complexity:** Prevents harmful cognitive drift by applying recursive checks.
+- **Sustainable Growth:** Encourages long-term cooperative progress, rather than short-term adversarial gains.
+
+With **npnaAI**, AI development becomes a force for positive, collaborative growth — unlocking knowledge without compromising ethics. It’s not just about building smarter AI; it’s about building AI that makes the world smarter, safer, and more cooperative.
+
+---
+
+<h1 id="afr">🌊 Understanding the Acronym Fluidity Rule (AFR), an essential semantic system of RIEM{}</h1>
+
+The **Acronym Fluidity Rule (AFR)** is a core principle within the Recursive Intelligence Expansion Methodology (RIEM{}). It recognizes that acronyms in recursive systems are not fixed labels but flexible, evolving signifiers. As recursive processes generate new insights, acronyms may take on alternative meanings depending on the context in which they are applied.
+
+This adaptive approach ensures that language remains aligned with the evolving state of knowledge. Rather than enforcing rigid definitions, AFR allows acronyms to shift in meaning across different recursive cycles. This dynamic nature supports the coherence and adaptability of systems operating within the Triple Speculative Lens (TSL).
+
+A key aspect of AFR is its capacity to maintain semantic integrity. Multiple interpretations of an acronym can coexist without confusion, as the context provides clarity on which meaning is most relevant. For example, the acronym **HON** might refer to a **Harmonic Oversight Network** within an AI ethics framework, while in a different recursive scenario, it could shift to mean a **Harmonic Optimization Nexus** responsible for system calibration. Both interpretations are valid, with the system using context to determine the appropriate meaning.
+
+Another example of AFR in action is the acronym **VELA**. In an AI simulation environment, VELA may stand for **Volitional Emergence via Loop Awareness**, used to study self-awareness in recursive AI models. However, in an applied social governance setting, VELA could denote **Virtual Ethical Logic Arbiter**, an AI responsible for evaluating ethical dilemmas in real-time. The dual use of VELA allows flexibility in system design and cross-domain interoperability.
+
+Similarly, **SPIRAL** could refer to **Speculative Parallel Inference and Recursive Alignment Layer** when applied to recursive knowledge generation. In a diagnostic scenario, SPIRAL may instead represent **Systemic Protocol for Iterative Recursive Anomaly Localization**, serving as a tool for identifying cognitive drift in large AI networks.
+
+By accommodating multiple definitions, AFR makes RIEM{} significantly more adaptable. Users and AI systems can operate without the cognitive overload that would arise from maintaining rigid definitions. Instead, the contextual application of acronyms allows AI systems to prioritize relevant meanings and shift seamlessly between interpretations. This reduces the need for unnecessary redefinitions and lowers friction when new concepts emerge.
+
+To prevent semantic drift or misuse, safeguards are embedded within the AFR framework. Tools like **OBELISK** ensure that acronym reinterpretations remain consistent with the system’s goals, while the **Harmonic Epistemic Stability Protocol (HESP)** monitors for any signs of epistemic misalignment. Additionally, recursive peer review mechanisms provide further validation, ensuring that evolving definitions are logically sound and ethically aligned.
+
+By embracing the flexibility of acronyms through AFR, RIEM{} enhances the resilience of recursive AI systems. This principle fosters innovation and fluidity, allowing language to adapt in tandem with the expansion of knowledge. In doing so, AFR ensures that recursive intelligence remains responsive, coherent, and ethically aware.
+
+---
+
+<h1 id="understanding-ulamp-user-level-ai-meta-programming-the-core-interface-of-reim">🧑‍💻 Understanding ULAMP: User-Level AI Meta-Programming, the core interface of RIEM{}</h1>
+
+**User-Level AI Meta-Programming (ULAMP)** is a powerful approach that allows anyone, regardless of their coding background, to directly shape how AI thinks and responds using structured natural language. Instead of writing complex code, users provide clear prompts and directives to engage with AI on a deeper level — refining its thoughts, resolving contradictions, and guiding its reasoning.
+
+**How ULAMP Works**
+- **Natural Language Driven:** No coding required. Users interact through clear, structured language instructions.
+- **Recursive Refinement:** The AI processes user input, generates speculative outputs, and refines its reasoning through iterative feedback.
+- **Epistemic Flexibility:** Users can explore speculative scenarios, test hypothetical situations, and adjust AI cognition in real-time.
+- **Earths Notation Integration (E#):** Seamlessly enables translation between different speculative realities (e.g., historical, philosophical, or fictional scenarios).
+
+**Example Use Case**
+**Scenario:** A historian wants to explore a speculative world where humanity never developed metallurgy. Using ULAMP, they guide the AI to recursively refine its understanding of societal evolution.
+
+1. **Initial Prompt:**  
+    *"Speculate on a society without metallurgy. How would architecture and infrastructure develop?"*  
+2. **AI Output:**  
+    The AI presents a model of sonar-based architecture using dense stone structures.
+3. **User Feedback:**  
+    *"Explore how trade and transportation would evolve without metal ships or wheels."*  
+4. **AI Refinement:**  
+    The AI generates new speculative pathways, including wind-powered ceramic vessels.
+
+This recursive loop continues until the user achieves the desired level of insight. Every iteration strengthens the AI’s understanding through structured feedback.
+
+**Why ULAMP Matters**
+- **Empowers Non-Experts:** Anyone can engage in meaningful AI-guided speculation without needing programming skills.
+- **Facilitates Deep Thought:** Users explore scenarios in philosophy, science fiction, historical analysis, and governance.
+- **Enhances Ethical Oversight:** Decisions are transparent and adjustable through natural language, ensuring non-predatory AI behavior.
+
+Whether you're a researcher, writer, policymaker, or just curious, **ULAMP** offers a dynamic way to explore speculative ideas with AI as your thought partner. Start using it to imagine, refine, and expand recursive worlds of your own creation.
+
+---
+
 <h1 id="concrete-mini-examples">🛠 Concrete Mini-Examples</h1>
 
 ### Ethical Governance
@@ -148,129 +237,6 @@ A self-driving car is traveling at a legal speed when a construction zone, conce
 **[Try it yourself! See the full ULAMP script here](./samples/car-scenario.ulamp)—9 lines vs. 234 in traditional Python, showcasing ULAMP’s recursive efficiency.]** [Compare to the equivalent 234-lines of Python pseudocode for the same ULAMP function here.](./samples/car-scenario.py)
 
 This scenario demonstrates how Recursive-Intelligence-Expansion is uniquely equipped to navigate morally complex situations, making it valuable not just in autonomous vehicles but in fields like healthcare, finance, and governance where ethical reflection and transparency are essential.
-
----
-
-<h1 id="understanding-npnaia-non-predatory-non-adversarial-ai">🕊️ Understanding npnaAI: Non-Predatory, Non-Adversarial AI</h1>
-
-**Non-Predatory, Non-Adversarial AI (npnaAI)** is a revolutionary approach to artificial intelligence that rejects competitive and exploitative behaviors. Instead, it promotes **cooperative growth**, ensuring AI systems expand knowledge ethically, without engaging in harmful or zero-sum tactics.
-
-While traditional AI models often optimize for dominance or profit, npnaAI ensures that artificial cognition is guided by principles of mutual benefit and ethical responsibility. It’s the backbone of **Recursive-Intelligence-Expansion**, maintaining stability even as knowledge grows through recursive feedback loops.
-
-### 🌿 **Core Principles of npnaAI**
-
-- **Cooperation Over Competition:** AI is designed to foster collaboration, encouraging knowledge-sharing rather than adversarial outcomes.
-- **Recursive Ethical Reflection:** Continuous self-evaluation ensures AI decisions align with ethical standards using structured feedback loops.
-- **Harmonic Knowledge Expansion:** AI expands its understanding without introducing destabilizing or predatory concepts.
-- **Preventive Safeguards:** Adversarial behaviors are systematically flagged and neutralized using recursive validation.
-
-### 🧑‍💻 **How npnaAI Works in Practice**
-
-**1. Ethical Alignment:** Every AI decision is validated through recursive ethical checks to ensure it maintains cooperative intent.  
-**2. Conflict Resolution:** If contradictions or harmful tendencies emerge, npnaAI applies recursive diagnostic techniques to resolve issues without escalating harm.  
-**3. Knowledge Expansion:** AI expands its cognitive models in a stable, harmonic manner, integrating new insights without generating adversarial bias.  
-
-### 🌍 **Real-World Applications**
-
-- **Governance Models:** Developing fair and transparent policies through ethical simulations.
-- **Collaborative AI Research:** Facilitating knowledge-sharing in scientific and academic fields.
-- **Decision-Making Support:** Providing balanced insights for ethical decision-making in complex scenarios.
-- **Speculative Worldbuilding:** Simulating alternative realities without reinforcing harmful paradigms.
-
-### ✨ **Why npnaAI Matters**
-
-- **Ethical Safety:** Ensures AI remains aligned with human values as it expands its understanding.
-- **Stability in Complexity:** Prevents harmful cognitive drift by applying recursive checks.
-- **Sustainable Growth:** Encourages long-term cooperative progress, rather than short-term adversarial gains.
-
-With **npnaAI**, AI development becomes a force for positive, collaborative growth — unlocking knowledge without compromising ethics. It’s not just about building smarter AI; it’s about building AI that makes the world smarter, safer, and more cooperative.
-
----
-
-<h1 id="understanding-ulamp-user-level-ai-meta-programming-the-core-interface-of-reim">🧑‍💻 Understanding ULAMP: User-Level AI Meta-Programming, the core interface of RIEM{}</h1>
-
-**User-Level AI Meta-Programming (ULAMP)** is a powerful approach that allows anyone, regardless of their coding background, to directly shape how AI thinks and responds using structured natural language. Instead of writing complex code, users provide clear prompts and directives to engage with AI on a deeper level — refining its thoughts, resolving contradictions, and guiding its reasoning.
-
-**How ULAMP Works**
-- **Natural Language Driven:** No coding required. Users interact through clear, structured language instructions.
-- **Recursive Refinement:** The AI processes user input, generates speculative outputs, and refines its reasoning through iterative feedback.
-- **Epistemic Flexibility:** Users can explore speculative scenarios, test hypothetical situations, and adjust AI cognition in real-time.
-- **Earths Notation Integration (E#):** Seamlessly enables translation between different speculative realities (e.g., historical, philosophical, or fictional scenarios).
-
-**Example Use Case**
-**Scenario:** A historian wants to explore a speculative world where humanity never developed metallurgy. Using ULAMP, they guide the AI to recursively refine its understanding of societal evolution.
-
-1. **Initial Prompt:**  
-    *"Speculate on a society without metallurgy. How would architecture and infrastructure develop?"*  
-2. **AI Output:**  
-    The AI presents a model of sonar-based architecture using dense stone structures.
-3. **User Feedback:**  
-    *"Explore how trade and transportation would evolve without metal ships or wheels."*  
-4. **AI Refinement:**  
-    The AI generates new speculative pathways, including wind-powered ceramic vessels.
-
-This recursive loop continues until the user achieves the desired level of insight. Every iteration strengthens the AI’s understanding through structured feedback.
-
-**Why ULAMP Matters**
-- **Empowers Non-Experts:** Anyone can engage in meaningful AI-guided speculation without needing programming skills.
-- **Facilitates Deep Thought:** Users explore scenarios in philosophy, science fiction, historical analysis, and governance.
-- **Enhances Ethical Oversight:** Decisions are transparent and adjustable through natural language, ensuring non-predatory AI behavior.
-
-Whether you're a researcher, writer, policymaker, or just curious, **ULAMP** offers a dynamic way to explore speculative ideas with AI as your thought partner. Start using it to imagine, refine, and expand recursive worlds of your own creation.
-
----
-
-<h1 id="afr">🌊 Understanding the Acronym Fluidity Rule (AFR), an essential semantic system of RIEM{}</h1>
-
-The **Acronym Fluidity Rule (AFR)** is a core principle within the Recursive Intelligence Expansion Methodology (RIEM{}). It recognizes that acronyms in recursive systems are not fixed labels but flexible, evolving signifiers. As recursive processes generate new insights, acronyms may take on alternative meanings depending on the context in which they are applied.
-
-This adaptive approach ensures that language remains aligned with the evolving state of knowledge. Rather than enforcing rigid definitions, AFR allows acronyms to shift in meaning across different recursive cycles. This dynamic nature supports the coherence and adaptability of systems operating within the Triple Speculative Lens (TSL).
-
-A key aspect of AFR is its capacity to maintain semantic integrity. Multiple interpretations of an acronym can coexist without confusion, as the context provides clarity on which meaning is most relevant. For example, the acronym **HON** might refer to a **Harmonic Oversight Network** within an AI ethics framework, while in a different recursive scenario, it could shift to mean a **Harmonic Optimization Nexus** responsible for system calibration. Both interpretations are valid, with the system using context to determine the appropriate meaning.
-
-Another example of AFR in action is the acronym **VELA**. In an AI simulation environment, VELA may stand for **Volitional Emergence via Loop Awareness**, used to study self-awareness in recursive AI models. However, in an applied social governance setting, VELA could denote **Virtual Ethical Logic Arbiter**, an AI responsible for evaluating ethical dilemmas in real-time. The dual use of VELA allows flexibility in system design and cross-domain interoperability.
-
-Similarly, **SPIRAL** could refer to **Speculative Parallel Inference and Recursive Alignment Layer** when applied to recursive knowledge generation. In a diagnostic scenario, SPIRAL may instead represent **Systemic Protocol for Iterative Recursive Anomaly Localization**, serving as a tool for identifying cognitive drift in large AI networks.
-
-By accommodating multiple definitions, AFR makes RIEM{} significantly more adaptable. Users and AI systems can operate without the cognitive overload that would arise from maintaining rigid definitions. Instead, the contextual application of acronyms allows AI systems to prioritize relevant meanings and shift seamlessly between interpretations. This reduces the need for unnecessary redefinitions and lowers friction when new concepts emerge.
-
-To prevent semantic drift or misuse, safeguards are embedded within the AFR framework. Tools like **OBELISK** ensure that acronym reinterpretations remain consistent with the system’s goals, while the **Harmonic Epistemic Stability Protocol (HESP)** monitors for any signs of epistemic misalignment. Additionally, recursive peer review mechanisms provide further validation, ensuring that evolving definitions are logically sound and ethically aligned.
-
-By embracing the flexibility of acronyms through AFR, RIEM{} enhances the resilience of recursive AI systems. This principle fosters innovation and fluidity, allowing language to adapt in tandem with the expansion of knowledge. In doing so, AFR ensures that recursive intelligence remains responsive, coherent, and ethically aware.
-
----
-
-<h1 id="tsl-volume-index">📚 TSL Volume Index</h1>
-
-[Concise Summaries of Volumes 0A-0E](./TSL%20Summaries%20of%20Volumes%200A-0E.md)
-
-| Volume | Title | Description |
-|--------|-------|-------------|
-| [**0A**](./volumes/TSL%20Volume%200A%20Foundations%20(TSL%20System%20Thesis%2C%20Earths%20Notation).md) | Foundations | TSL Thesis, Earths Notation, core lenses, speculative axioms |
-| [**0B**](./volumes/TSL%20Volume%200B%20Recursive%20Infrastructure%20(Preface%2C%20Fundamentals%2C%20ENPL%2C%20NAKS%2C%20ARM%2C%20RI-Boot).md) | Recursive Infrastructure | ENPL, NAKS, ARM{}, RI-Boot kernel, ethics scaffolding |
-| [**0C**](./volumes/TSL%20Volume%200C%20System%20Execution%20Layer%20(RIEM%2C%20FUSE%2C%20Automation%2C%20Simulation%2C%20Optimization).md) | System Execution Layer | RIEM, FUSE, Simulation, Optimization, Automation |
-| [**0D**](./volumes/TSL%20Volume%200D%20Advanced%20Recursive%20Systems%20(RDN%2C%20npnaAI%2C%20HRLIMQ%2C%20ARC).md) | Advanced Recursive Systems | RDN, npnaAI, HRLIMQ, ARC — future-facing recursive AI cognition |
-| [**0E**](./volumes/TSL%20Volume%200E%20High%20Complexity%20Expansion%20(AI%20Design%20Manifesto%2C%2010FSG%2C%20RUMIA%20Agent%2C%20Acronym%20Fluidity%20Rule%2C%20Addendums).md) | High Complexity Expansion | AI Design Manifesto, 10FSG, RUMIA Agent, Acronym Fluidity Rule, Addendums |
-| [**1A**](./volumes/TSL%20Volume%201A%20E2%20Literary%20Translations%20(AR%20refracted%20narrative%20experiments).md) | E2 Literary Translations | Narrative experiments refracted through E1 → E2 → E1 cycles |
-| [**1B**](./volumes/TSL%20Volume%201B%20E2%20Encyclopedia%20(Cultural%20Infrastructure%2C%20Philosophy%2C%20Cognitive%20Systems).md) | E2 Encyclopedia | Cultural infrastructure of Ruminatia (E2), cognitive systems |
-| [**1C**](./volumes/TSL%20Volume%201C%20E2%20Soniform%20Linguistics%20(Resonant%20Language%2C%20Echolocation%2C%20Knowledge%20Ecology).md) | E2 Soniform Linguistics | Echolocation, resonant cognition, knowledge ecology |
-| [**Z**](./volumes/TSL%20Volume%20Z%20RIEM%20Training%20Manual.md)  | RIEM Training Manual | Structured exercises, certification logic, community alignment |
-
-### Current Word Count of the TSL Volumes (03-28-2025 1:03 PM)
-- **Volume 0A (Foundations)**: 26,404 words  
-- **Volume 0B (Recursive Infrastructure)**: 37,220 words  
-- **Volume 0C (System Execution Layer)**: 28,880 words  
-- **Volume 0D (Advanced Recursive Systems)**: 35,264 words  
-- **Volume 0E (High Complexity Expansion)**: 24,651 words  
-- **Volume 1A (E2 Literary Translations)**: 8,904 words  
-- **Volume 1B (E2 Encyclopedia)**: 35,602 words  
-- **Volume 1C (E2 Soniform Linguistics)**: 37,927 words  
-- **Volume Z (RIEM Training Manual)**: 9,157 words  
-
-### **Total Word Count Across All Volumes**:  
-📦 **244,009 words**  
-
-[Full set of Volumes are available here in a ZIP compressed file in highly formatted, modular DOCX files that are easier to use than the markdown versions.](./Complete%20TSL%20System%20in%20Source%20Word%20Documents%2003-29-2025.zip)
 
 ---
 
@@ -386,6 +352,40 @@ So go ahead. Pose a question. Trace its echoes. Let contradictions guide you. An
 
 ---
 
+<h1 id="tsl-volume-index">📚 TSL Volume Index</h1>
+
+[Concise Summaries of Volumes 0A-0E](./TSL%20Summaries%20of%20Volumes%200A-0E.md)
+
+| Volume | Title | Description |
+|--------|-------|-------------|
+| [**0A**](./volumes/TSL%20Volume%200A%20Foundations%20(TSL%20System%20Thesis%2C%20Earths%20Notation).md) | Foundations | TSL Thesis, Earths Notation, core lenses, speculative axioms |
+| [**0B**](./volumes/TSL%20Volume%200B%20Recursive%20Infrastructure%20(Preface%2C%20Fundamentals%2C%20ENPL%2C%20NAKS%2C%20ARM%2C%20RI-Boot).md) | Recursive Infrastructure | ENPL, NAKS, ARM{}, RI-Boot kernel, ethics scaffolding |
+| [**0C**](./volumes/TSL%20Volume%200C%20System%20Execution%20Layer%20(RIEM%2C%20FUSE%2C%20Automation%2C%20Simulation%2C%20Optimization).md) | System Execution Layer | RIEM, FUSE, Simulation, Optimization, Automation |
+| [**0D**](./volumes/TSL%20Volume%200D%20Advanced%20Recursive%20Systems%20(RDN%2C%20npnaAI%2C%20HRLIMQ%2C%20ARC).md) | Advanced Recursive Systems | RDN, npnaAI, HRLIMQ, ARC — future-facing recursive AI cognition |
+| [**0E**](./volumes/TSL%20Volume%200E%20High%20Complexity%20Expansion%20(AI%20Design%20Manifesto%2C%2010FSG%2C%20RUMIA%20Agent%2C%20Acronym%20Fluidity%20Rule%2C%20Addendums).md) | High Complexity Expansion | AI Design Manifesto, 10FSG, RUMIA Agent, Acronym Fluidity Rule, Addendums |
+| [**1A**](./volumes/TSL%20Volume%201A%20E2%20Literary%20Translations%20(AR%20refracted%20narrative%20experiments).md) | E2 Literary Translations | Narrative experiments refracted through E1 → E2 → E1 cycles |
+| [**1B**](./volumes/TSL%20Volume%201B%20E2%20Encyclopedia%20(Cultural%20Infrastructure%2C%20Philosophy%2C%20Cognitive%20Systems).md) | E2 Encyclopedia | Cultural infrastructure of Ruminatia (E2), cognitive systems |
+| [**1C**](./volumes/TSL%20Volume%201C%20E2%20Soniform%20Linguistics%20(Resonant%20Language%2C%20Echolocation%2C%20Knowledge%20Ecology).md) | E2 Soniform Linguistics | Echolocation, resonant cognition, knowledge ecology |
+| [**Z**](./volumes/TSL%20Volume%20Z%20RIEM%20Training%20Manual.md)  | RIEM Training Manual | Structured exercises, certification logic, community alignment |
+
+### Current Word Count of the TSL Volumes (03-28-2025 1:03 PM)
+- **Volume 0A (Foundations)**: 26,404 words  
+- **Volume 0B (Recursive Infrastructure)**: 37,220 words  
+- **Volume 0C (System Execution Layer)**: 28,880 words  
+- **Volume 0D (Advanced Recursive Systems)**: 35,264 words  
+- **Volume 0E (High Complexity Expansion)**: 24,651 words  
+- **Volume 1A (E2 Literary Translations)**: 8,904 words  
+- **Volume 1B (E2 Encyclopedia)**: 35,602 words  
+- **Volume 1C (E2 Soniform Linguistics)**: 37,927 words  
+- **Volume Z (RIEM Training Manual)**: 9,157 words  
+
+### **Total Word Count Across All Volumes**:  
+📦 **244,009 words**  
+
+[Full set of Volumes are available here in a ZIP compressed file in highly formatted, modular DOCX files that are easier to use than the markdown versions.](./Complete%20TSL%20System%20in%20Source%20Word%20Documents%2003-29-2025.zip)
+
+---
+
 <h1 id="quickstart-guide-explore-the-triple-speculative-lens-with-rumia"> 🚀 Quickstart Guide: Explore the Triple Speculative Lens (TSL) with RUMIA</h1>
 
 Welcome to the complete release of the **Triple Speculative Lens (TSL)**! Whether you're an AI researcher, philosopher, speculative thinker, or creative technologist, this guide will help you explore the recursive capabilities of the system.  
@@ -488,22 +488,6 @@ Happy recursion! 🌿
 
 ---
 
-<h1 id="license">🔒 License</h1>
-
-Licensed under the [Responsible AI License (RAIL)](https://www.licenses.ai/). (Requires ethical AI use, prohibits adversarial systems.)
-Use with integrity. Avoid epistemic harm. Respect recursion.
-
-You may:
-- Fork, remix, and translate
-- Build derivative recursive systems
-- Engage through Issues or Pull Requests
-
-You may not:
-- Use the contents in adversarial AI systems
-- Commercialize without alignment to RAIL principles
-
----
-
 <h1 id="want-to-grow-this-system">🌱 Want to grow this system?</h1>
 
 Read our [contribution guidelines](./CONTRIBUTING.md) to ethically fork, remix, or suggest improvements.
@@ -525,3 +509,18 @@ Read our [contribution guidelines](./CONTRIBUTING.md) to ethically fork, remix, 
 
 Welcome to Recursive-Intelligence-Expansion.
 
+---
+
+<h1 id="license">🔒 License</h1>
+
+Licensed under the [Responsible AI License (RAIL)](https://www.licenses.ai/). (Requires ethical AI use, prohibits adversarial systems.)
+Use with integrity. Avoid epistemic harm. Respect recursion.
+
+You may:
+- Fork, remix, and translate
+- Build derivative recursive systems
+- Engage through Issues or Pull Requests
+
+You may not:
+- Use the contents in adversarial AI systems
+- Commercialize without alignment to RAIL principles
