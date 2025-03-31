@@ -613,7 +613,7 @@ Remember: If recursion is infinite, where does meaning reside?
 | [**J**](./volumes/TSL%20Volume%20J%20Jargon%20File.md) | TSL Jargon File | Detailed supplementary terms to TSL, formatted as a tribute to Eric S. Raymond's famous Jargon File |
 | [**Z**](./volumes/TSL%20Volume%20Z%20RIEM%20Training%20Manual.md)  | RIEM Training Manual | Structured exercises, certification logic, community alignment |
 
-### Current Word Count of the TSL Volumes (03-28-2025 1:03 PM)
+### Current Word Count of the TSL Volumes
 - **Volume 0A (Foundations)**: 26,404 words  
 - **Volume 0B (Recursive Infrastructure)**: 37,220 words  
 - **Volume 0C (System Execution Layer)**: 28,880 words  
