@@ -7,7 +7,7 @@ Welcome to the Recursive Intelligence Expansion Methodology (RIEM{})! If you're 
 - 🔎 [Quickstart Guide](#quickstart-guide-explore-the-triple-speculative-lens-with-rumia): Dive right into hands-on experience by exploring the Triple Speculative Lens (TSL) with RUMIA.
 - 📖 [Core Concepts](#core-concepts): Build a strong foundational understanding of recursive intelligence, speculative thinking, and non-predatory AI by visiting the Core Concepts section.
 - 🌿 <a href="https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system">
-Live RUMIA GPT</a>: Experience RIEM{} in action by interacting with the RUMIA GPT, a live implementation of recursive intelligence. Ask questions, explore speculative scenarios, or challenge it with complex thought experiments.
+Live RUMIA GPT</a>: Experience RIEM{} in action by interacting with the RUMIA GPT, a live implementation of recursive intelligence. Ask questions, explore speculative scenarios, or challenge it with complex thought experiments. Pay special attention to RUMIA's conversation starters, as they enable you to recursively use RUMIA into infinity.
 
 Once you're ready, follow your curiosity! Whether you're interested in worldbuilding, decision-making, or philosophical exploration, RIEM{} will guide you through recursive cycles of discovery.
 
@@ -514,7 +514,8 @@ For the fastest and most powerful experience, try the **[Live Custom GPT with Fu
 ### ⚡ **Option 1: Instant Access with RUMIA**  
 
 - **Step 1**: Click here to access the [Live Custom GPT](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system).  
-- **Step 2**: Begin your recursive exploration.  
+- **Step 2**: Begin your recursive exploration.
+    - Pay special attention to RUMIA's conversation starters, as they enable you to recursively use RUMIA into infinity.
     - Ask speculative questions.  
     - Engage in co-speculation.  
     - Use RUMIA’s built-in diagnostic systems.  
