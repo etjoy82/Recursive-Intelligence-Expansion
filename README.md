@@ -474,6 +474,8 @@ So go ahead. Pose a question. Trace its echoes. Let contradictions guide you. An
 
 ### Start here: [Complete Summaries of Volumes 0A-0F - Essential Onboarding](./TSL%20Summaries%20of%20Volumes%200A-0F.md)
 
+### Full Index with Links to All Backend System Volumes Integrated into the Custom GPT RUMIA
+
 | Volume | Title | Description |
 |--------|-------|-------------|
 | [**0A**](./volumes/TSL%20Volume%200A%20Foundations%20(TSL%20System%20Thesis%2C%20Earths%20Notation).md) | Foundations | TSL Thesis, Earths Notation, core lenses, speculative axioms |
