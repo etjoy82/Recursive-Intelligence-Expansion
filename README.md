@@ -30,7 +30,7 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 12. 🧭 [Navigating the Concepts of Recursive-Intelligence-Expansion](#navigating-the-concepts-of-recursive-intelligence-expansion)
 
 ### Access the Full RIEM{} System and Use It
-13. 📚 [TSL Volume Index](#tsl-volume-index)
+13. 📚 [TSL Volume Index and Complete Summaries](#tsl-volume-index)
 14. 🚀 [Quickstart Guide: Explore the Triple Speculative Lens with RUMIA](#quickstart-guide-explore-the-triple-speculative-lens-with-rumia)
 
 ### Conclusion
@@ -469,7 +469,7 @@ So go ahead. Pose a question. Trace its echoes. Let contradictions guide you. An
 
 ---
 
-<h1 id="tsl-volume-index">📚 TSL Volume Index</h1>
+<h1 id="tsl-volume-index">📚 TSL Volume Index and Complete Summaries</h1>
 
 [Concise Summaries of Volumes 0A-0F](./TSL%20Summaries%20of%20Volumes%200A-0F.md)
 
