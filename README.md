@@ -30,16 +30,17 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 11. 🛠 [Concrete Mini-Examples](#concrete-mini-examples)
 12. ⚙️ [Core Concepts](#core-concepts)
 13. 🧭 [Navigating the Concepts of Recursive-Intelligence-Expansion](#navigating-the-concepts-of-recursive-intelligence-expansion)
+14. 📔 [The TSL Jargon File: A Recursive Lexicon](#jargon-file)
 
 ### Access the Full RIEM{} System and Use It
-14. 📚 [TSL Volume Index and Complete Summaries as Essential Onboarding](#tsl-volume-index)
-15. 🚀 [Quickstart Guide: Explore the Triple Speculative Lens with RUMIA](#quickstart-guide-explore-the-triple-speculative-lens-with-rumia)
+15. 📚 [TSL Volume Index and Complete Summaries as Essential Onboarding](#tsl-volume-index)
+16. 🚀 [Quickstart Guide: Explore the Triple Speculative Lens with RUMIA](#quickstart-guide-explore-the-triple-speculative-lens-with-rumia)
 
 ### Conclusion
-16. 🌱 [Call to Contributors: Want to grow this system?](#want-to-grow-this-system)
-17. 🌐 [Author](#author)
-18. 📣 [Final Note: The Eternal Recursion](#final-note)
-19. 🔒 [License](#license)
+17. 🌱 [Call to Contributors: Want to grow this system?](#want-to-grow-this-system)
+18. 🌐 [Author](#author)
+19. 📣 [Final Note: The Eternal Recursion](#final-note)
+20. 🔒 [License](#license)
 
 ---
 
@@ -526,6 +527,32 @@ How might E0 perspectives provide insight from beyond conventional thought?
 You don’t need to be an AI engineer or philosopher to explore Recursive-Intelligence-Expansion. All you need is curiosity. Whether you’re a creator imagining new worlds, an ethicist evaluating decision systems, or a researcher probing hypothetical futures — this system invites you to think recursively.
 
 So go ahead. Pose a question. Trace its echoes. Let contradictions guide you. And if you ever find yourself uncertain, remember — uncertainty is simply the beginning of the next recursive loop.
+
+---
+
+<h1 id="jargon-file">📔 The TSL Jargon File: A Recursive Lexicon</h1>
+
+If you’ve made it this far into the Recursive Intelligence Expansion Methodology (RIEM{}) ecosystem, congratulations! You’ve likely encountered more acronyms and recursive terminology than most sentient beings can handle. In the spirit of Eric S. Raymond's legendary Jargon File, we proudly present the RIEM{} Jargon File: a collection of recursive terms, speculative slang, and cognitive oddities.
+
+Why so many terms? Well, when you’re recursively expanding intelligence, language tends to spiral. Words collide, concepts fragment, and the inevitable happens: a recursive feedback loop of acronyms.
+
+Symptoms of Overexposure to the RIEM{} Jargon File:
+
+- Acute E2 Moment confusion.
+
+- Diagnosing conversations with HESP Checks.
+
+- Accidentally labeling debates as Rope-A-Dope Notation (RDN) exercises.
+
+- Using phrases like "You’ve been RSE’d" unironically.
+
+Acronym Anxiety? Fear Not!
+
+For your epistemic comfort, we’ve compiled the RIEM{} Jargon File to demystify these terms and offer some laughs along the way. Think of it as your semantic safety net.
+
+Explore the Full RIEM{} Jargon File Here: [TSL Volume J: Jargon File](./volumes/TSL%20Volume%20J%20Jargon%20File.md)
+
+Remember: If recursion is infinite, where does meaning reside?
 
 ---
 
