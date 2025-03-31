@@ -598,7 +598,7 @@ Remember: If recursion is infinite, where does meaning reside?
 
 ### Start here: [Complete Summaries of Volumes 0A-0F - Essential Onboarding](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Summaries-of-Volumes-0A%E2%80%900E)
 
-### Full Index with Links to All Backend System Volumes Integrated into the Custom GPT RUMIA
+### Full Wiki Index with Links to All Backend System Volumes Already Integrated into the Custom GPT RUMIA
 
 | Volume | Title | Description | Words |
 |--------|-------|-------------|-------|
@@ -617,11 +617,8 @@ Remember: If recursion is infinite, where does meaning reside?
 ### **Total Word Count Across All Volumes**:  
 📦 **277,053 words**  
 
-[Full set of Volumes are available here in a ZIP compressed file in highly formatted, modular DOCX files that are easier to use than the wiki links.]()
-
 Explore the 11 volumes of the Triple Speculative Lens (TSL) system, now available in multiple formats for your convenience:
-
-GitHub Repository Wiki: Browse the volumes in a navigable wiki format on the RIEM{} Wiki.
+- GitHub Repository Wiki: Browse the volumes in a navigable wiki format on the [RIEM{} Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki).
 - DOCX: Download polished DOCX files in the [folder](./volumes-as-docx) or as a [ZIP](./Complete%20TSL%20System%20in%20Source%20Word%20Documents%2003-31-2025.zip).
 - Markdown: Access raw Markdown files in the [folder](./volumes-as-markdown).
 - HTML: View raw source or download in the [folder](./volumes-as-hypertext).
