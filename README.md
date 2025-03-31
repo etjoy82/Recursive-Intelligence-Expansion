@@ -4,6 +4,7 @@
 
 Welcome to the Recursive Intelligence Expansion Methodology (RIEM{})! If you're unsure where to begin, here are a few suggested starting points based on your interests:
 
+- 😊 [Plain and Simple Practical Explanation of RIEM{}](#general-audience): Intended for anyone to understand.
 - 🔎 [Quickstart Guide](#quickstart-guide-explore-the-triple-speculative-lens-with-rumia): Dive right into hands-on experience by exploring the Triple Speculative Lens (TSL) with RUMIA.
 - 📖 [Core Concepts](#core-concepts): Build a strong foundational understanding of recursive intelligence, speculative thinking, and non-predatory AI by visiting the Core Concepts section.
 - 🌿 <a href="https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system">
