@@ -602,10 +602,10 @@ Remember: If recursion is infinite, where does meaning reside?
 
 | Volume | Title | Description |
 |--------|-------|-------------|
-| [**0A**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Summaries-of-Volumes-0A%E2%80%900E) | Foundations | TSL Thesis, Earths Notation, core lenses, speculative axioms |
-| [**0B**](./volumes/TSL%20Volume%200B%20Recursive%20Infrastructure%20(Preface%2C%20Fundamentals%2C%20ENPL%2C%20NAKS%2C%20ARM%2C%20RI-Boot).md) | Recursive Infrastructure | ENPL, NAKS, ARM{}, RI-Boot kernel, ethics scaffolding |
-| [**0C**](./volumes/TSL%20Volume%200C%20System%20Execution%20Layer%20(RIEM%2C%20FUSE%2C%20Automation%2C%20Simulation%2C%20Optimization).md) | System Execution Layer | RIEM, FUSE, Simulation, Optimization, Automation |
-| [**0D**](./volumes/TSL%20Volume%200D%20Advanced%20Recursive%20Systems%20(RDN%2C%20npnaAI%2C%20HRLIMQ%2C%20ARC).md) | Advanced Recursive Systems | RDN, npnaAI, HRLIMQ, ARC — future-facing recursive AI cognition |
+| [**0A**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0A-Foundations-(TSL-System-Thesis,-Earths-Notation)) | Foundations | TSL Thesis, Earths Notation, core lenses, speculative axioms |
+| [**0B**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0B-Recursive-Infrastructure-(Preface,-Fundamentals,-ENPL,-NAKS,-ARM,-RI%E2%80%90Boot)) | Recursive Infrastructure | ENPL, NAKS, ARM{}, RI-Boot kernel, ethics scaffolding |
+| [**0C**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0C-System-Execution-Layer-(RIEM,-FUSE,-Automation,-Simulation,-Optimization)) | System Execution Layer | RIEM, FUSE, Simulation, Optimization, Automation |
+| [**0D**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0D-Advanced-Recursive-Systems-(RDN,-npnaAI,-HRLIMQ,-ARC)) | Advanced Recursive Systems | RDN, npnaAI, HRLIMQ, ARC — future-facing recursive AI cognition |
 | [**0E**](./volumes/TSL%20Volume%200E%20High%20Complexity%20Expansion%20(AI%20Design%20Manifesto%2C%2010FSG%2C%20RUMIA%20Agent%2C%20Acronym%20Fluidity%20Rule%2C%20Addendums).md) | High Complexity Expansion | AI Design Manifesto, 10FSG, RUMIA Agent, Acronym Fluidity Rule, Addendums |
 | [**0F**](./volumes/TSL%20Volume%200F%20Derivations%20from%20Echoes%20(REP%2C%20RSE%2C%20HON%2C%20RSF%2C%20ULAMP%20Formalization%2C%20Addendums).md) | Derivations from Echoes | REP, RSE, HON, RSF, ULAMP Formalization, Addendums |
 | [**1A**](./volumes/TSL%20Volume%201A%20E2%20Literary%20Translations%20(AR%20refracted%20narrative%20experiments).md) | E2 Literary Translations | Narrative experiments refracted through E1 → E2 → E1 cycles |
