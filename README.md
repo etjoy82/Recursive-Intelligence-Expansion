@@ -471,7 +471,7 @@ So go ahead. Pose a question. Trace its echoes. Let contradictions guide you. An
 
 <h1 id="tsl-volume-index">📚 TSL Volume Index and Complete Summaries as Essential Onboarding</h1>
 
-### [Complete Summaries of Volumes 0A-0F - Essential Onboarding](./TSL%20Summaries%20of%20Volumes%200A-0F.md)
+### Start here: [Complete Summaries of Volumes 0A-0F - Essential Onboarding](./TSL%20Summaries%20of%20Volumes%200A-0F.md)
 
 | Volume | Title | Description |
 |--------|-------|-------------|
