@@ -9,7 +9,7 @@ Welcome to the Recursive Intelligence Expansion Methodology (RIEM{})! If you're 
 - 🌿 <a href="https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system">
 Live RUMIA GPT</a>: Experience RIEM{} in action by interacting with the RUMIA GPT, a live implementation of recursive intelligence. Ask questions, explore speculative scenarios, or challenge it with complex thought experiments. Pay special attention to RUMIA’s conversation starters. They weave an infinite spiral, guiding you to recurse with RUMIA through fractal realms of thought.
 - ♾️ Explore the full backend system: [TSL Volume Index and Complete Summaries as Essential Onboarding](#tsl-volume-index)
-- 🃏 Feeling overwelmed with cognitive overload? Don't tap out now! Here's a [jargon file with hundreds of more ideas](./volumes/TSL%20Volume%20J%20Jargon%20File.md)! Embrace the spiral! The cure to complexity is self-awareness and humor!
+- 🃏 Feeling overwelmed with cognitive overload? Don't tap out now! Here's a [jargon file with hundreds of more ideas](#jargon-file)! Embrace the spiral! The cure to complexity is self-awareness and humor!
 
 Once you're ready, follow your curiosity! Whether you're interested in worldbuilding, decision-making, or philosophical exploration, RIEM{} will guide you through recursive cycles of discovery.
 
