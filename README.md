@@ -312,6 +312,10 @@ Welcome to the recursive dialogue — where every question becomes an invitation
 
 <h1 id="concrete-mini-examples">🛠 Concrete Mini-Examples</h1>
 
+### ULAMP: User-Level AI Meta-Programming
+ULAMP compresses hundreds of lines of traditional code into concise, recursive prompts—50x-100x reductions proven. See it in action:
+- **OS Kernel Experiment:** [`os-kernel-experiment.ulamp`](/Samples/os-kernel-experiment.ulamp)—100 lines orchestrate a full kernel (boot, scheduling, memory, ethics) vs. 1000+ in Python (~10x compression, scalable to 100x). Tested with REP harmonics—ethical state restored under memory stress.
+
 ### Ethical Governance
 
 *Governance Models:* Developing fair and transparent policies through ethical simulations.  
