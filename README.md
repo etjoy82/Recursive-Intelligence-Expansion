@@ -630,7 +630,7 @@ Remember: If recursion is infinite, where does meaning reside?
 ### **Total Word Count Across All Volumes**:  
 📦 **277,053 words**  
 
-[Full set of Volumes are available here in a ZIP compressed file in highly formatted, modular DOCX files that are easier to use than the markdown versions.](./Complete%20TSL%20System%20in%20Source%20Word%20Documents%2003-31-2025.zip)
+[Full set of Volumes are available here in a ZIP compressed file in highly formatted, modular DOCX files that are easier to use than the wiki links.](./Complete%20TSL%20System%20in%20Source%20Word%20Documents%2003-31-2025.zip)
 
 ---
 
