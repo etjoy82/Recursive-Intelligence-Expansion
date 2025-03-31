@@ -1,7 +1,6 @@
 [![License: RAIL](https://img.shields.io/badge/License-RAIL-important)](https://www.licenses.ai/)
 
 
-[test link](../../wiki/TSL-Extended-Non%E2%80%90Exhaustive-Glossary-of-the-Recursive-Intelligence-Expansion)
 <h1 id="start-here">🚀 Start Here</h1>
 
 Welcome to the Recursive Intelligence Expansion Methodology (RIEM{})! If you're unsure where to begin, here are a few suggested starting points based on your interests:
@@ -460,7 +459,7 @@ This scenario demonstrates how Recursive-Intelligence-Expansion is uniquely equi
 
 Welcome to **Recursive-Intelligence-Expansion**! If the terms seem a bit abstract at first, don’t worry — that’s natural. Think of this as a **collaborative thinking system** that helps both humans and AI explore complex ideas using speculative reasoning and recursive feedback. This section details the core concepts as onboarding to RIEM{}.
 
-(For those interested in exploring further, beyond the foundational concepts covered in this section, [a small, non-exhaustive 36-entry glossary is available here](./glossary-non-exhaustive.md). It offers deeper insights into the many concepts within RIEM{} as they continue to grow and evolve. A comprehensive glossary remains an ongoing project, expanding alongside RIEM{} itself.)
+(For those interested in exploring further, beyond the foundational concepts covered in this section, [a small, non-exhaustive 36-entry glossary is available here](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Extended-Non%E2%80%90Exhaustive-Glossary-of-the-Recursive-Intelligence-Expansion). It offers deeper insights into the many concepts within RIEM{} as they continue to grow and evolve. A comprehensive glossary remains an ongoing project, expanding alongside RIEM{} itself.)
 
 Here’s how the core concepts work:
 
