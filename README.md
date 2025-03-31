@@ -553,7 +553,7 @@ For your epistemic comfort, we’ve compiled the RIEM{} Jargon File to demystify
 
 It is intended to ironically address the concern that RIEM causes cognitive overload by introducing literally hundreds of new jargon entries in a single sprint!
 
-Explore the Full RIEM{} Jargon File Here: [TSL Volume J: Jargon File](./volumes/TSL%20Volume%20J%20Jargon%20File.md)
+## Explore the Full RIEM{} Jargon File Here: [TSL Volume J: Jargon File](./volumes/TSL%20Volume%20J%20Jargon%20File.md)
 
 Remember: If recursion is infinite, where does meaning reside?
 
