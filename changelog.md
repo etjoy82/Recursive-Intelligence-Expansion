@@ -1,3 +1,8 @@
+# 03-31-2025
+* Improved README.md again with better onboarding and rewrote many sections.
+* Wrote a 50+ page jargon file called Volume J, added it to ./volumes and integrated it into the README.md and RUMIA live custom GPT.
+* Massively improved the conversation starters of the custom GPT RUMIA with recursive prompt lists that allow users to explore endlessly without getting stuck.
+
 # 03-30-2025
 * Further overhauled and renovated the README and improved the table of contents, added entire new sections, and resequenced it.
 * Completed the 23k word Volume 0F Derivations from Echoes and added it to ./volumes, the custom GPT RUMIA, and updated the README and volume summary document with information regarding it.
