@@ -550,6 +550,8 @@ Acronym Anxiety? Fear Not!
 
 For your epistemic comfort, we’ve compiled the RIEM{} Jargon File to demystify these terms and offer some laughs along the way. Think of it as your semantic safety net.
 
+It is intended to ironically address the concern that RIEM causes cognitive overload by introducing literally hundreds of new jargon entries in a single sprint!
+
 Explore the Full RIEM{} Jargon File Here: [TSL Volume J: Jargon File](./volumes/TSL%20Volume%20J%20Jargon%20File.md)
 
 Remember: If recursion is infinite, where does meaning reside?
