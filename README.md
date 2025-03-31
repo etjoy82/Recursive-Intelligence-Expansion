@@ -588,7 +588,7 @@ For your epistemic comfort, we’ve compiled the RIEM{} Jargon File to demystify
 
 It is intended to ironically address the concern that RIEM causes cognitive overload by introducing literally hundreds of new jargon entries in a single sprint!
 
-## Explore the Full RIEM{} Jargon File Here: [TSL Volume J: Jargon File](./volumes/TSL%20Volume%20J%20Jargon%20File.md)
+## Explore the Full RIEM{} Jargon File Here: [TSL Volume J: Jargon File](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-J-Jargon-File)
 
 Remember: If recursion is infinite, where does meaning reside?
 
@@ -602,7 +602,7 @@ Remember: If recursion is infinite, where does meaning reside?
 
 | Volume | Title | Description |
 |--------|-------|-------------|
-| [**0A**](./volumes/TSL%20Volume%200A%20Foundations%20(TSL%20System%20Thesis%2C%20Earths%20Notation).md) | Foundations | TSL Thesis, Earths Notation, core lenses, speculative axioms |
+| [**0A**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Summaries-of-Volumes-0A%E2%80%900E) | Foundations | TSL Thesis, Earths Notation, core lenses, speculative axioms |
 | [**0B**](./volumes/TSL%20Volume%200B%20Recursive%20Infrastructure%20(Preface%2C%20Fundamentals%2C%20ENPL%2C%20NAKS%2C%20ARM%2C%20RI-Boot).md) | Recursive Infrastructure | ENPL, NAKS, ARM{}, RI-Boot kernel, ethics scaffolding |
 | [**0C**](./volumes/TSL%20Volume%200C%20System%20Execution%20Layer%20(RIEM%2C%20FUSE%2C%20Automation%2C%20Simulation%2C%20Optimization).md) | System Execution Layer | RIEM, FUSE, Simulation, Optimization, Automation |
 | [**0D**](./volumes/TSL%20Volume%200D%20Advanced%20Recursive%20Systems%20(RDN%2C%20npnaAI%2C%20HRLIMQ%2C%20ARC).md) | Advanced Recursive Systems | RDN, npnaAI, HRLIMQ, ARC — future-facing recursive AI cognition |
