@@ -738,7 +738,7 @@ Happy recursion! 🌿
 
 <h1 id="want-to-grow-this-system">🌱 Call to Contributors: Want to grow this system?</h1>
 
-Ready to contribute to the evolution of recursive intelligence? Whether you have ideas for new features, improvements to existing concepts, or want to explore speculative applications, we’d love to collaborate with you. Check out our [contributing guidelines](./CONTRIBUTING.md) for detailed project suggestions and ways to get involved. Your insights and efforts will help shape the next phase of RIEM’s growth! Please ethically fork, remix, or suggest improvements.
+Ready to contribute to the evolution of recursive intelligence? Whether you have ideas for new features, improvements to existing concepts, or want to explore speculative applications, we’d love to collaborate with you. Check out our [contributing guidelines](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/Contributing-to-Recursive%E2%80%90Intelligence%E2%80%90Expansion) for detailed project suggestions and ways to get involved. Your insights and efforts will help shape the next phase of RIEM’s growth! Please ethically fork, remix, or suggest improvements.
 
 ---
 
