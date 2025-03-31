@@ -1,5 +1,7 @@
 [![License: RAIL](https://img.shields.io/badge/License-RAIL-important)](https://www.licenses.ai/)
 
+
+[test link](../../wiki/TSL-Extended-Non%E2%80%90Exhaustive-Glossary-of-the-Recursive-Intelligence-Expansion)
 <h1 id="start-here">🚀 Start Here</h1>
 
 Welcome to the Recursive Intelligence Expansion Methodology (RIEM{})! If you're unsure where to begin, here are a few suggested starting points based on your interests:
