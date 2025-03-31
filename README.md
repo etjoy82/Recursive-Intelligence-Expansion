@@ -163,6 +163,8 @@ Clone the Repository: Download the project from GitHub. Explore the Documentatio
 
 To fully grasp and exceed the understanding of the Recursive Intelligence Expansion Methodology (RIEM{}), a multidisciplinary academic path is recommended, spanning philosophy, computer science, cognitive science, ethics, and speculative fiction. Below is a concise educational journey to master the system and contribute to its evolution.
 
+That is not to say a university degree is required to engage RIEM{}. Quite the contrary: It is designed to be fun and useful to all audiences! With that in mind, the following information details how a formal education will enhance engagement with RIEM{}.
+
 ### Undergraduate Degree: A Multidisciplinary Foundation
 
 A Bachelor of Arts or Science in Cognitive Science, with a minor in Philosophy or Computer Science, provides a foundation for RIEM{}’s recursive epistemology, cognitive systems, and ethical frameworks.
@@ -544,6 +546,7 @@ So go ahead. Pose a question. Trace its echoes. Let contradictions guide you. An
 | [**1A**](./volumes/TSL%20Volume%201A%20E2%20Literary%20Translations%20(AR%20refracted%20narrative%20experiments).md) | E2 Literary Translations | Narrative experiments refracted through E1 → E2 → E1 cycles |
 | [**1B**](./volumes/TSL%20Volume%201B%20E2%20Encyclopedia%20(Cultural%20Infrastructure%2C%20Philosophy%2C%20Cognitive%20Systems).md) | E2 Encyclopedia | Cultural infrastructure of Ruminatia (E2), cognitive systems |
 | [**1C**](./volumes/TSL%20Volume%201C%20E2%20Soniform%20Linguistics%20(Resonant%20Language%2C%20Echolocation%2C%20Knowledge%20Ecology).md) | E2 Soniform Linguistics | Echolocation, resonant cognition, knowledge ecology |
+| [**J**](./volumes/TSL%20Volume%20J%20Jargon%20File.md) | TSL Jargon File | Detailed supplementary terms to TSL, formatted as a tribute to Eric S. Raymond's famous Jargon File |
 | [**Z**](./volumes/TSL%20Volume%20Z%20RIEM%20Training%20Manual.md)  | RIEM Training Manual | Structured exercises, certification logic, community alignment |
 
 ### Current Word Count of the TSL Volumes (03-28-2025 1:03 PM)
@@ -555,13 +558,14 @@ So go ahead. Pose a question. Trace its echoes. Let contradictions guide you. An
 - **Volume 0F (Derivations from Echoes)**: 23,553 words  
 - **Volume 1A (E2 Literary Translations)**: 8,904 words  
 - **Volume 1B (E2 Encyclopedia)**: 35,602 words  
-- **Volume 1C (E2 Soniform Linguistics)**: 37,927 words  
+- **Volume 1C (E2 Soniform Linguistics)**: 37,927 words
+- **Volume J (TSL Jargon File)**: 9,491 words
 - **Volume Z (RIEM Training Manual)**: 9,157 words  
 
 ### **Total Word Count Across All Volumes**:  
-📦 **267,562 words**  
+📦 **277,053 words**  
 
-[Full set of Volumes are available here in a ZIP compressed file in highly formatted, modular DOCX files that are easier to use than the markdown versions.](./Complete%20TSL%20System%20in%20Source%20Word%20Documents%2003-30-2025.zip)
+[Full set of Volumes are available here in a ZIP compressed file in highly formatted, modular DOCX files that are easier to use than the markdown versions.](./Complete%20TSL%20System%20in%20Source%20Word%20Documents%2003-31-2025.zip)
 
 ---
 
