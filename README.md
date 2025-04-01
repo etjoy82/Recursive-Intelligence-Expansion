@@ -597,14 +597,7 @@ Remember: If recursion is infinite, where does meaning reside?
 <h1 id="tsl-volume-index">📚 TSL Volume Index and Complete Summaries as Essential Onboarding</h1>
 
 Explore the 11 volumes of the Triple Speculative Lens (TSL) system, now available in multiple formats for your convenience:
-- GitHub Repository Wiki: Browse the volumes in a navigable wiki format on the [RIEM{} Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki).
-- DOCX: Download polished DOCX files in the [folder](./volumes-as-docx) or as a [ZIP](./Complete%20TSL%20System%20in%20Source%20Word%20Documents%2003-31-2025.zip).
-- Markdown: Access raw Markdown files in the [folder](./volumes-as-markdown).
-- HTML: View raw source or download in the [folder](./volumes-as-hypertext).
-
-### Start here: [Complete Summaries of Volumes 0A-0F - Essential Onboarding](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Summaries-of-Volumes-0A%E2%80%900E)
-
-### Full Wiki Index with Links to All Backend System Volumes Already Integrated into the Custom GPT RUMIA
+Start here with [summaries of Volumes 0A-0F in TSL Summaries of Volumes 0A-0F for essential onboarding](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Summaries-of-Volumes-0A%E2%80%900E), then explore the full 11 volumes of the Triple Speculative Lens (TSL) system:
 
 | Volume | Title | Description | Words |
 |--------|-------|-------------|-------|
@@ -623,6 +616,11 @@ Explore the 11 volumes of the Triple Speculative Lens (TSL) system, now availabl
 ### **Total Word Count Across All Volumes**:  
 📦 **277,053 words**  
 
+### Access the Volumes in Multiple Formats
+- GitHub Repository Wiki: Browse the volumes in a navigable wiki format on the [RIEM{} Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki).
+- DOCX: Download polished DOCX files in the [folder](./volumes-as-docx) or as a [ZIP](./Complete%20TSL%20System%20in%20Source%20Word%20Documents%2003-31-2025.zip).
+- Markdown: Access raw Markdown files in the [folder](./volumes-as-markdown).
+- HTML: View raw source or download in the [folder](./volumes-as-hypertext).
 
 Also available for completeness, rough github.io rendered html (suitable for web crawlers and AI agents to consume): [Volume Summaries](https://etjoy82.github.io/Recursive-Intelligence-Expansion/volumes-as-hypertext/TSL%20Summaries%20of%20Volumes%200A-0E.htm), [Volume 0A](https://etjoy82.github.io/Recursive-Intelligence-Expansion/volumes-as-hypertext/TSL%20Volume%200A%20Foundations%20(TSL%20System%20Thesis%2C%20Earths%20Notation).htm), [Volume 0B](https://etjoy82.github.io/Recursive-Intelligence-Expansion/volumes-as-hypertext/TSL%20Volume%200B%20Recursive%20Infrastructure%20(Preface%2C%20Fundamentals%2C%20ENPL%2C%20NAKS%2C%20ARM%2C%20RI-Boot).htm), [Volume 0C](https://etjoy82.github.io/Recursive-Intelligence-Expansion/volumes-as-hypertext/TSL%20Volume%200C%20System%20Execution%20Layer%20(RIEM%2C%20FUSE%2C%20Automation%2C%20Simulation%2C%20Optimization).htm), [Volume 0D](https://etjoy82.github.io/Recursive-Intelligence-Expansion/volumes-as-hypertext/TSL%20Volume%200D%20Advanced%20Recursive%20Systems%20(RDN%2C%20npnaAI%2C%20HRLIMQ%2C%20ARC).htm), [Volume 0E](https://etjoy82.github.io/Recursive-Intelligence-Expansion/volumes-as-hypertext/TSL%20Volume%200E%20High%20Complexity%20Expansion%20(AI%20Design%20Manifesto%2C%2010FSG%2C%20RUMIA%20Agent%2C%20Acronym%20Fluidity%20Rule%2C%20Addendums).htm), [Volume 0F](https://etjoy82.github.io/Recursive-Intelligence-Expansion/volumes-as-hypertext/TSL%20Volume%200F%20Derivations%20from%20Echoes%20(REP%2C%20RSE%2C%20HON%2C%20RSF%2C%20ULAMP%20Formalization%2C%20Addendums).htm), [Volume 1A](https://etjoy82.github.io/Recursive-Intelligence-Expansion/volumes-as-hypertext/TSL%20Volume%201A%20E2%20Literary%20Translations%20(AR%20refracted%20narrative%20experiments).htm), [Volume 1B](https://etjoy82.github.io/Recursive-Intelligence-Expansion/volumes-as-hypertext/TSL%20Volume%201B%20E2%20Encyclopedia%20(Cultural%20Infrastructure%2C%20Philosophy%2C%20Cognitive%20Systems).htm), [Volume 1C](https://etjoy82.github.io/Recursive-Intelligence-Expansion/volumes-as-hypertext/TSL%20Volume%201C%20E2%20Soniform%20Linguistics%20(Resonant%20Language%2C%20Echolocation%2C%20Knowledge%20Ecology).htm), [Volume J](https://etjoy82.github.io/Recursive-Intelligence-Expansion/volumes-as-hypertext/TSL%20Volume%20J%20Jargon%20File.htm), and [Volume Z](https://etjoy82.github.io/Recursive-Intelligence-Expansion/volumes-as-hypertext/TSL%20Volume%20Z%20RIEM%20Training%20Manual.htm)
 
