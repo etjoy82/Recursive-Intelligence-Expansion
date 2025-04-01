@@ -1,5 +1,5 @@
 [![License: RAIL](https://img.shields.io/badge/License-RAIL-important)](https://www.licenses.ai/)
-
+RAIL Licensed Project: Requires ethical use, bans adversarial systems
 
 <h1 id="start-here">🚀 Start Here</h1>
 
