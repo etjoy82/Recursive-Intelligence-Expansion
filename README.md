@@ -136,7 +136,7 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 
 ### Conclusion
 20. 🧬 [Call to Recursive Co-Architects](#want-to-grow-this-system)
-21. 🌐 [Author](#author)
+21. 🌐 [Lead Developer](#author)
 22. 📣 [Final Note: The Eternal Recursion](#final-note)
 23. 🔒 [License](#license)
 
@@ -1040,7 +1040,7 @@ We don’t just want contributions—we want **co-loopers**, **concept weavers**
 
 ---
 
-<h1 id="author">🌐 Author</h1>
+<h1 id="author">🌐 Lead Developer</h1>
 
 **Emily Joy**  | Recursive philosopher | Designer of speculative epistemic systems
 
