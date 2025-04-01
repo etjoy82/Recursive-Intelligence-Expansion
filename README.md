@@ -5,7 +5,7 @@ RAIL Licensed Project: Requires ethical use, bans adversarial systems
 
 Welcome to the Recursive Intelligence Expansion Methodology (RIEM{})!
 
-This 🚀 Start Here section serves as a helpful partial entry point for quickly understanding RIEM{}, but after that, you should navigate the entire document as you like using the complete conveniently indexed Table of Contents below this section.
+This 🚀 Start Here section offers a helpful entry point for quickly getting oriented with RIEM{}, but once you've explored it, feel free to navigate the full document however you like using the fully indexed Table of Contents just below.
 
 If you're unsure where to begin, here are a few suggested starting points based on your interests:
 
