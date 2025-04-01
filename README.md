@@ -44,7 +44,7 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 1. 📦 [About Recursive Intelligence Expansion (aka RIE, RIEM{}, TSL, 10FSG)](#about-recursive-intelligence-expansion-aka-rie-riem-tsl-10fsg)
 2. 🧩 [What Problem Does This Solve?](#what-problem-does-this-solve)
 3. 🧠 [Who This Is For](#who-this-is-for)
-4. 💡 [A RIEM{} Explanation for a General Audience](#general-audience)
+4. 😊 [Plain and Simple Practical Explanation of RIEM{}](#general-audience)
 5. ❓ [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
 6. 🎓 [Recommended Educational Background for Full Understanding of RIEM{}](#educational-background)
 7. 🤔 [Skeptics Corner (Yes, RIEM{} is real!)](#skeptics-corner)
