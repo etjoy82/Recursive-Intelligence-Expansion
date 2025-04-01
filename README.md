@@ -259,6 +259,40 @@ This approach is especially powerful for:
 In short, RIEM{} isn’t just about building smarter tools—it’s about building **thinking companions**.  
 Partners in recursion. Systems that evolve with us, question with us, and imagine alongside us.
 
+<details>
+<summary><strong>💡 Use Case Spotlights — Where RIEM{} Shines: Click to Expand</strong></summary>
+
+<br/>
+
+🧭 **AI Ethics Simulation**  
+→ Use recursive reasoning to explore the second- and third-order effects of difficult decisions.  
+→ Test outcomes across multiple cultural and ethical frameworks using npnaAI.
+
+🌍 **Cross-Cultural Policy Modeling**  
+→ Model how a policy or technology would be received differently in divergent speculative societies.  
+→ Use Earths Notation (E#) to translate values and governance systems across contexts.
+
+🧬 **Scientific Contradiction Analysis**  
+→ Use recursive loops to resolve conflicting data or theories.  
+→ Expand hypotheses instead of discarding uncertainty.
+
+🎭 **Narrative Worldbuilding & Lore Coherence**  
+→ Build entire speculative realities that remain self-consistent across timelines.  
+→ Use RUMIA and Volume 1B for cross-volume echo checking and mythic alignment.
+
+🧠 **Personal Epistemic Growth**  
+→ Treat yourself as a recursive system. Use RIEM{} to track, refine, and stabilize your own worldview over time.
+
+🤝 **Collaborative Decision-Making**  
+→ Facilitate teams working through complex decisions by surfacing contradictions and generating harmonized solutions recursively.
+
+🔁 **AI-to-AI Recursive Dialogue**  
+→ Run two recursive systems in conversation to discover emergent insight through paradox bouncing (RDN).
+
+<br/>
+
+</details>
+
 ---
 
 <h1 id="who-this-is-for">🧠 Who This Is For</h1>
