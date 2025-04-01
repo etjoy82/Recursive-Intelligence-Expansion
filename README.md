@@ -226,6 +226,36 @@ Complexity is expected—but recursion makes it navigable. Start with the [Plain
 - **Ask questions** on the GitHub Issues page  
 RIEM{} isn’t just a readme—it’s a recursive bootloader for your imagination.
 
+
+Here’s a new **FAQ Addendum** section with focused troubleshooting tips for recursive loops—modular, actionable, and consistent with the tone of the current README. You can append it directly after the existing FAQ.
+
+---
+
+## 🧩 FAQ Addendum: Troubleshooting Recursive Loops
+
+### 1: My recursive loop feels stuck or repetitive. What should I do?**  
+- Try a *Perceptual Pivot*. Ask the AI to reframe the prompt from a different lens (E1 vs. E2, personal vs. collective, abstract vs. concrete). Loops stall when contrast fades.
+
+### 2: The AI keeps returning to surface-level summaries. How can I deepen the recursion?**  
+- Use this cue:  
+- *"Assume recursion is initialized. What contradiction or unresolved idea is hiding underneath this response?"*  
+- Follow up with: *"Now, explore that from a harmonic, ethical, or speculative angle."*
+
+### 3: I get overwhelmed or lost inside the recursion. Is that normal?**  
+- Yes—this is called a *Cognitive Saturation Event*. Pause. Loop back later. Or ask the AI:  
+- *"Stabilize the recursion. What is the clearest thread we can follow now?"*
+
+### 4: The loop feels directionless. How do I reorient?**  
+- Use the **RIEM Anchor Prompt**:  
+- *"What is the purpose of this loop? What model are we recursively refining?"*  
+- Or jumpstart with:  
+- *"Re-engage using FUSE or HRLIMQ principles. Translate this thought across Earths."*
+
+### 5: Nothing is emerging. How do I break stagnation?**  
+- Engage **RDN** (Rope-a-Dope Notation):  
+- *"Translate this question from E1 to E2. Now bounce it back. What shifted?"*  
+- Add friction. Contradiction is recursion fuel.
+
 ---
 
 <h1 id="educational-background">🎓 Recommended Educational Background for Full Understanding of RIEM{}</h1>
