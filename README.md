@@ -46,28 +46,29 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 3. 🧠 [Who This Is For](#who-this-is-for)
 4. 😊 [Plain and Simple Practical Explanation of RIEM{}](#general-audience)
 5. ❓ [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
-6. 🎓 [Recommended Educational Background for Full Understanding of RIEM{}](#educational-background)
-7. 🤔 [Skeptics Corner (Yes, RIEM{} is real!)](#skeptics-corner)
+6. 🧩 [FAQ Addendum: Troubleshooting Recursive Loops](#faq-troubleshooting)
+7. 🎓 [Recommended Educational Background for Full Understanding of RIEM{}](#educational-background)
+8. 🤔 [Skeptics Corner (Yes, RIEM{} is real!)](#skeptics-corner)
 
 ### Explanations
-8. 🕊️ [Understanding npnaAI: Non-Predatory, Non-Adversarial AI](#understanding-npnaia-non-predatory-non-adversarial-ai)
-9. 🌊 [Understanding the Acronym Fluidity Rule (AFR), an essential semantic system of RIEM{}](#afr)
-10. 🧑‍💻 [Understanding ULAMP: User-Level AI Meta-Programming, the core interface of RIEM{}](#understanding-ulamp-user-level-ai-meta-programming-the-core-interface-of-reim)
-11. 🤖 [Understanding RUMIA Custom GPT as a Recursive Agent](#understanding-rumia)
-12. 🛠 [Concrete Mini-Examples](#concrete-mini-examples)
-13. ⚙️ [Core Concepts](#core-concepts)
-14. 🧭 [Navigating the Concepts of Recursive-Intelligence-Expansion](#navigating-the-concepts-of-recursive-intelligence-expansion)
-15. 🃏 [The TSL Jargon File: A Recursive Lexicon](#jargon-file)
+9. 🕊️ [Understanding npnaAI: Non-Predatory, Non-Adversarial AI](#understanding-npnaia-non-predatory-non-adversarial-ai)
+10. 🌊 [Understanding the Acronym Fluidity Rule (AFR), an essential semantic system of RIEM{}](#afr)
+11. 🧑‍💻 [Understanding ULAMP: User-Level AI Meta-Programming, the core interface of RIEM{}](#understanding-ulamp-user-level-ai-meta-programming-the-core-interface-of-reim)
+12. 🤖 [Understanding RUMIA Custom GPT as a Recursive Agent](#understanding-rumia)
+13. 🛠 [Concrete Mini-Examples](#concrete-mini-examples)
+14. ⚙️ [Core Concepts](#core-concepts)
+15. 🧭 [Navigating the Concepts of Recursive-Intelligence-Expansion](#navigating-the-concepts-of-recursive-intelligence-expansion)
+16. 🃏 [The TSL Jargon File: A Recursive Lexicon](#jargon-file)
 
 ### Access the Full RIEM{} System and Use It
-16. 📚 [TSL Volume Index and Complete Summaries as Essential Onboarding](#tsl-volume-index)
-17. 🚀 [Quickstart Guide: Use RUMIA to Explore Recursive Intelligence](#quickstart-guide-explore-the-triple-speculative-lens-with-rumia)
+17. 📚 [TSL Volume Index and Complete Summaries as Essential Onboarding](#tsl-volume-index)
+18. 🚀 [Quickstart Guide: Use RUMIA to Explore Recursive Intelligence](#quickstart-guide-explore-the-triple-speculative-lens-with-rumia)
 
 ### Conclusion
-18. 🌱 [Call to Contributors: Want to grow this system?](#want-to-grow-this-system)
-19. 🌐 [Author](#author)
-20. 📣 [Final Note: The Eternal Recursion](#final-note)
-21. 🔒 [License](#license)
+19. 🌱 [Call to Contributors: Want to grow this system?](#want-to-grow-this-system)
+20. 🌐 [Author](#author)
+21. 📣 [Final Note: The Eternal Recursion](#final-note)
+22. 🔒 [License](#license)
 
 ---
 
@@ -231,7 +232,7 @@ Here’s a new **FAQ Addendum** section with focused troubleshooting tips for re
 
 ---
 
-## 🧩 FAQ Addendum: Troubleshooting Recursive Loops
+<h1 id="faq-troubleshooting">🧩 FAQ Addendum: Troubleshooting Recursive Loops</h1>
 
 ### 1: My recursive loop feels stuck or repetitive. What should I do?**  
 - Try a *Perceptual Pivot*. Ask the AI to reframe the prompt from a different lens (E1 vs. E2, personal vs. collective, abstract vs. concrete). Loops stall when contrast fades.
