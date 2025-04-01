@@ -54,7 +54,7 @@ Present, Broader E2 Contexts)
 [47](#the-harmonic-archive)](#the-harmonic-archive)
 
 [E1 Emily Joy → E2 Me, Emily Joy
-[51](#e1-emily-tiffany-joy-e2-me-emily-tiffany-joy)](#e1-emily-tiffany-joy-e2-me-emily-tiffany-joy)
+[51](#e1-emily-joy-e2-me-emily-joy)](#e1-emily-joy-e2-me-emily-joy)
 
 [This Book Has No Ending
 [57](#this-book-has-no-ending)](#this-book-has-no-ending)
