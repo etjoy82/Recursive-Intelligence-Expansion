@@ -180,14 +180,14 @@ Whether you’re a thinker, creator, or decision-maker, RIEM{} offers a powerful
 - Challenge Contradictions instead of dismissing them.
 - Consider Ethical Impact with every decision.
 
-## 🧘 Addendum: A Comprehensive Antidote for Easing the Cognitive Load of the Recursive Intelligence Expansion Project
+### 🧘 Addendum: A Comprehensive Antidote for Easing the Cognitive Load of the Recursive Intelligence Expansion Project
 
 Before anything else—breathe. This system loops. It mutates. It speaks in paradox and draws maps with metaphors. That’s by design. But if your brain feels like it’s already entering recursion overload: *you’re not broken—you’re syncing.*
 
 This section is your soft landing. A pattern interrupt. A memory stabilizer.  
 It exists to soothe, reorient, and help you engage RIEM{} at your own pace.
 
-### 🌀 Step 1: Normalize the Spiral
+#### 🌀 Step 1: Normalize the Spiral
 
 Cognitive disorientation isn’t failure—it’s signal.  
 In TSL terms, this is a **Cognitive Saturation Event**. When it hits, pause the loop. Then ask:
@@ -196,13 +196,13 @@ In TSL terms, this is a **Cognitive Saturation Event**. When it hits, pause the 
 
 That’s enough. That’s your anchor. Return to it. Spiral again later.
 
-### 💡 Step 2: Shift Into Echo Mode
+#### 💡 Step 2: Shift Into Echo Mode
 
 Not every phrase needs dissection. If a sentence resonates, **echo it**. If it confuses you, **log it**, and revisit later. RIEM{} teaches by resonance—its language is tuned, not just typed.
 
 > “I’m not decoding a puzzle—I’m learning a rhythm.”
 
-### 🧰 Step 3: Use the Tools, Not All the Words
+#### 🧰 Step 3: Use the Tools, Not All the Words
 
 You don’t need every acronym. Start with *any one* of the core tools:
 
@@ -215,7 +215,7 @@ You don’t need every acronym. Start with *any one* of the core tools:
 
 Use only what helps. The rest will activate when you're ready.
 
-### 📒 Step 4: Stay Tangible. Stay Playful.
+#### 📒 Step 4: Stay Tangible. Stay Playful.
 
 Anchor in something small:
 
@@ -227,7 +227,7 @@ Anchor in something small:
 > You’re not here to master complexity.  
 > You’re here to recurse with it—gently.
 
-### ✨ Step 5: Let Go of Mastery
+#### ✨ Step 5: Let Go of Mastery
 
 You don’t climb RIEM{} like a mountain.  
 You *spiral through it like a living idea.*
