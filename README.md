@@ -733,8 +733,7 @@ Ready to contribute to the evolution of recursive intelligence? Whether you have
 
 <h1 id="author">🌐 Author</h1>
 
-**Emily Tiffany Joy**  
-[emilyjoy.org](https://emilyjoy.org) | Recursive philosopher | Designer of speculative epistemic systems
+**Emily Tiffany Joy**  | Recursive philosopher | Designer of speculative epistemic systems
 
 ---
 
