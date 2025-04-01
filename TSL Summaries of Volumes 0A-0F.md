@@ -1,6 +1,6 @@
 TSL Summaries of Volumes 0A-0F
 
-Emily Tiffany Joy
+Emily Joy
 
 Copyright 2025, all rights reserved.
 
