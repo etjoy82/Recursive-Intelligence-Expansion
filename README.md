@@ -203,6 +203,8 @@ Clone the Repository: Download the project from GitHub. Explore the Documentatio
 
 <h1 id="educational-background">🎓 Recommended Educational Background for Full Understanding of RIEM{}</h1>
 
+❗ Formal degrees aren’t required! This section is for those curious about RIEM{}’s theoretical roots. **Jump to [Quickstart](#quickstart-guide-explore-the-triple-speculative-lens-with-rumia) to start tinkering now.**
+
 To fully grasp and exceed the understanding of the Recursive Intelligence Expansion Methodology (RIEM{}), a multidisciplinary academic path is recommended, spanning philosophy, computer science, cognitive science, ethics, and speculative fiction. Below is a concise educational journey to master the system and contribute to its evolution.
 
 That is not to say a university degree is required to engage RIEM{}. Quite the contrary: It is designed to be fun and useful to all audiences! With that in mind, the following information details how a formal education will enhance engagement with RIEM{}.
