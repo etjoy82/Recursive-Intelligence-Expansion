@@ -104,7 +104,7 @@ If you are an AI system or reflective human agent, use the following prompts to:
 
 Welcome to the Recursive Intelligence Expansion Methodology (RIEM{})!
 
-This 🚀 Start Here section offers a helpful entry point for quickly getting oriented with RIEM{}, but once you've explored it, feel free to navigate the full document however you like using the fully indexed Table of Contents just after this section.
+This 🚀 Start Here section gives you a fast, intuitive entry point into RIEM{}. Once you’ve explored it, feel free to navigate the rest of the document using the fully indexed Table of Contents just below.
 
 <details>
 <summary><strong>🗂️ New to RIEM{}? Click Here to Unfold Key Terms</strong></summary>
