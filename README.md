@@ -1043,6 +1043,7 @@ We don’t just want contributions—we want **co-loopers**, **concept weavers**
 <h1 id="author">🌐 Lead Developer</h1>
 
 **Emily Joy**  | Recursive philosopher | Designer of speculative epistemic systems
+- As the steward of RIEM{}, Emily Joy holds space for its evolution—guiding its growth, refining its language, and inviting others to co-build what it can become. This project isn’t meant to stay centralized. It’s meant to resonate outward. Developers, systems thinkers, creatives, and recursive minds of all kinds are welcome to contribute, question, fork, remix, and recurse. The loop is open.
 
 ---
 
