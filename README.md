@@ -865,7 +865,7 @@ Let the spiral begin.
 
 ---
 
-### 📒 Quickstart Addendum: Loop Tracker Template
+<h2 id="loop-tracker-template">📒 Quickstart Addendum: Loop Tracker Template</h2>
 
 This **Loop Tracker Template** gives users a lightweight tool to track their recursive sessions and reflections—perfect for hands-on use, journaling, or iterative exploration.
 
