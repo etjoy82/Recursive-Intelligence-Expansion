@@ -623,6 +623,8 @@ Remember: If recursion is infinite, where does meaning reside?
 
 Start here with [summaries of Volumes 0A-0F in TSL Summaries of Volumes 0A-0F for essential onboarding](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Summaries-of-Volumes-0A%E2%80%900E), then explore the full 11 volumes of the Triple Speculative Lens (TSL) system:
 
+Note: On mobile devices, this table may require horizontal scrolling.
+
 | Volume | Title | Description | Words |
 |--------|-------|-------------|-------|
 | [**0A**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0A-Foundations-(TSL-System-Thesis,-Earths-Notation)) | Foundations | TSL Thesis, Earths Notation, core lenses, speculative axioms | 26,404 |
