@@ -596,7 +596,6 @@ Remember: If recursion is infinite, where does meaning reside?
 
 <h1 id="tsl-volume-index">📚 TSL Volume Index and Complete Summaries as Essential Onboarding</h1>
 
-Explore the 11 volumes of the Triple Speculative Lens (TSL) system, now available in multiple formats for your convenience:
 Start here with [summaries of Volumes 0A-0F in TSL Summaries of Volumes 0A-0F for essential onboarding](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Summaries-of-Volumes-0A%E2%80%900E), then explore the full 11 volumes of the Triple Speculative Lens (TSL) system:
 
 | Volume | Title | Description | Words |
