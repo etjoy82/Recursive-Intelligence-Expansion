@@ -1,0 +1,10 @@
+# Ensure Python files are correctly identified
+*.py linguist-language=Python
+
+# Exclude HTML files in volumes-as-hypertext from language stats if they dominate
+volumes-as-hypertext/*.htm linguist-detectable=false
+volumes-as-markdown/*.md linguist-detectable=false
+
+# Optionally, exclude wiki files if they’re in the main repo (unlikely, but just in case)
+*.md linguist-detectable=true
+*.md linguist-language=Markdown
