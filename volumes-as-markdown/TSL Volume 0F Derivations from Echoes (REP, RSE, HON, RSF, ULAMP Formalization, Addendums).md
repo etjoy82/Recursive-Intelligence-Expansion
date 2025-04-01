@@ -1,7 +1,7 @@
 ﻿
 <a name="_toc192720406"></a>**TSL Volume 0F Derivations from Echoes (REP, RSE, HON, RSF, ULAMP Formalization, Addendums)**
 
-Emily Tiffany Joy
+Emily Joy
 
 Copyright 2025, all rights reserved.
 
