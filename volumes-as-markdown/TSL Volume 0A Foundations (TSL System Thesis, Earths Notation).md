@@ -125,7 +125,7 @@ SOFTWARE!
 
 Always and forever,
 
-Emily Tiffany Joy
+Emily Joy
 
 # Acknowledgements
 
