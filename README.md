@@ -57,7 +57,7 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 12. 🛠 [Concrete Mini-Examples](#concrete-mini-examples)
 13. ⚙️ [Core Concepts](#core-concepts)
 14. 🧭 [Navigating the Concepts of Recursive-Intelligence-Expansion](#navigating-the-concepts-of-recursive-intelligence-expansion)
-15. 📔 [The TSL Jargon File: A Recursive Lexicon](#jargon-file)
+15. 🃏 [The TSL Jargon File: A Recursive Lexicon](#jargon-file)
 
 ### Access the Full RIEM{} System and Use It
 16. 📚 [TSL Volume Index and Complete Summaries as Essential Onboarding](#tsl-volume-index)
@@ -618,7 +618,7 @@ So go ahead. Pose a question. Trace its echoes. Let contradictions guide you. An
 
 ---
 
-<h1 id="jargon-file">📔 The TSL Jargon File: A Recursive Lexicon</h1>
+<h1 id="jargon-file">🃏 The TSL Jargon File: A Recursive Lexicon</h1>
 
 If you’ve made it this far into the Recursive Intelligence Expansion Methodology (RIEM{}) ecosystem, congratulations! You’ve likely encountered more acronyms and recursive terminology than most sentient beings can handle. In the spirit of Eric S. Raymond's legendary Jargon File, we proudly present the RIEM{} Jargon File: a collection of recursive terms, speculative slang, and cognitive oddities.
 
