@@ -120,8 +120,6 @@ You. Now. Later. Elsewhere. Whenever your thoughts return to the edge of the kno
 
 <h1 id="general-audience">A RIEM{} Explanation for a General Audience</h1>
 
-The Recursive Intelligence Expansion Methodology (RIEM{})
-
 The Recursive Intelligence Expansion Methodology (RIEM{}) is a new way of thinking about how artificial intelligence (AI) and humans can explore complex ideas, solve difficult problems, and generate new insights. Instead of simply providing a single answer, RIEM{} encourages continuous thinking and learning — just like how people often rethink and refine their thoughts.
 
 🌿 The Story of Ruminatia: An Alternative Evolution
