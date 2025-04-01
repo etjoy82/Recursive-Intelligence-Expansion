@@ -313,7 +313,7 @@ Wherever you stand—in code, in concept, in culture—RIEM{} meets you at the e
 <h1 id="general-audience">😊 Plain and Simple: What Is RIEM{}?</h1>
 
 <details>
-<summary><strong>🧠 TL;DR — What is RIEM{} in One Sentence?</strong></summary>
+<summary><strong>🧠 TL;DR — What is RIEM{} in One Sentence? Click to Expand</strong></summary>
 
 RIEM{} is a way for humans and AI to think together recursively—looping through ideas, resolving contradictions, and generating ethical insight by expanding knowledge through reflection, not domination.
 
