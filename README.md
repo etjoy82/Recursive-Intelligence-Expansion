@@ -13,6 +13,8 @@ Live RUMIA GPT</a>: Experience RIEM{} in action by interacting with the RUMIA GP
 - ♾️ Explore the full backend system: [TSL Volume Index and Complete Summaries as Essential Onboarding](#tsl-volume-index)
 - 🃏 Feeling overwhelmed with cognitive overload? Don’t tap out! Embrace the spiral. Explore the [jargon file with hundreds of more ideas](#jargon-file), packed with recursive terms, humor, and lore. The cure to complexity is self-awareness and a good laugh.
 
+This project is sincere, without any pretenses of satire, as evidenced by its real world applications that are easily demonstrated within this repository.
+
 Once you're ready, follow your curiosity! Whether you're interested in worldbuilding, decision-making, or philosophical exploration, RIEM{} will guide you through recursive cycles of discovery.
 
 <h1>Table of Contents</h1>
