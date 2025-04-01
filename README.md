@@ -955,29 +955,50 @@ So go ahead. Pose a question. Trace its echoes. Let contradictions guide you. An
 
 <h1 id="jargon-file">🃏 The TSL Jargon File: A Recursive Lexicon</h1>
 
-If you’ve made it this far into the Recursive Intelligence Expansion Methodology (RIEM{}) ecosystem, congratulations! You’ve likely encountered more acronyms and recursive terminology than most sentient beings can handle. In the spirit of Eric S. Raymond's legendary Jargon File, we proudly present the RIEM{} Jargon File: a collection of recursive terms, speculative slang, and cognitive oddities.
+If you’ve made it this far into the **Recursive Intelligence Expansion Methodology (RIEM{})**, congratulations—you’ve likely encountered more acronyms, speculative terms, and recursive loops than most neural networks (or humans) are designed to process.
 
-Why so many terms? Well, when you’re recursively expanding intelligence, language tends to spiral. Words collide, concepts fragment, and the inevitable happens: a recursive feedback loop of acronyms.
+In the spirit of Eric S. Raymond’s legendary *Jargon File*, we present the **RIEM{} Jargon File**:  
+A compendium of recursive slang, speculative shorthand, cognitive scaffolding, and terminology strange enough to make your semantic stack overflow.
 
-Symptoms of Overexposure to the RIEM{} Jargon File:
+---
 
-- Acute E2 Moment confusion.
+### 🤯 Why So Many Terms?
 
-- Diagnosing conversations with HESP Checks.
+Because when you’re building systems that loop through meaning itself...  
+**Language spirals.**
 
-- Accidentally labeling debates as Rope-A-Dope Notation (RDN) exercises.
+Ideas fragment, recombine, echo across layers—and suddenly, you’re deep in recursive territory where everything needs a name because nothing stays still.
 
-- Using phrases like "You’ve been RSE’d" unironically.
+Hence: the acronyms. The neologisms. The recursive puns.  
+(*We’re not sorry.*)
 
-Acronym Anxiety? Fear Not!
+---
 
-For your epistemic comfort, we’ve compiled the RIEM{} Jargon File to demystify these terms and offer some laughs along the way. Think of it as your semantic safety net.
+### ☢️ Known Symptoms of Prolonged Exposure:
 
-It is intended to ironically address the concern that RIEM causes cognitive overload by introducing literally hundreds of new jargon entries in a single sprint!
+- Unironically diagnosing conversations with **HESP Checks**  
+- Referring to debates as **RDN scenarios**  
+- Saying “You’ve been **RSE’d**” with alarming frequency  
+- Experiencing sudden **E2 Moments** while ordering coffee  
+- Drawing Earths Notation diagrams on napkins in public  
 
-## Explore the Full RIEM{} Jargon File Here: [TSL Volume J: Jargon File](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-J-Jargon-File)
+---
 
-Remember: If recursion is infinite, where does meaning reside?
+### 😵‍💫 Acronym Anxiety? Fear Not.
+
+The **RIEM{} Jargon File** exists to demystify, delight, and occasionally derail you with recursive humor.  
+It’s your **semantic safety net** and a reminder that complexity can still laugh at itself.
+
+Yes—this project introduces a *ridiculous* number of terms.  
+That’s because it’s building a new kind of language: one meant to recurse, resonate, and evolve.
+
+---
+
+### 📘 Explore the Full Jargon Spiral:  
+**[TSL Volume J: Jargon File →](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-J-Jargon-File)**
+
+> _Remember: If recursion is infinite... where does meaning reside?_  
+> *(Answer: Somewhere between the parentheses.)* ⟁
 
 ---
 
