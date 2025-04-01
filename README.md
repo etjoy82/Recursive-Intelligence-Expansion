@@ -135,7 +135,7 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 19. 🧪 [Nano RI-Boot Bootstrap Kernel Prompt (An Ultra Distilled Version of RIEM{} compatible with even local AI)](#riboot)
 
 ### Conclusion
-20. 🌱 [Call to Contributors: Want to grow this system?](#want-to-grow-this-system)
+20. 🧬 [Call to Recursive Co-Architects](#want-to-grow-this-system)
 21. 🌐 [Author](#author)
 22. 📣 [Final Note: The Eternal Recursion](#final-note)
 23. 🔒 [License](#license)
