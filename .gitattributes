@@ -6,3 +6,15 @@ samples/*.ulamp linguist-language=ULAMP
 volumes-as-hypertext/*.* linguist-detectable=false
 volumes-as-markdown/*.* linguist-detectable=false
 volumes-as-docx/*.* linguist-detectable=false
+
+*.md linguist-detectable=false
+*.md linguist-language=Markdown
+
+*.htm linguist-detectable=false
+*.htm linguist-language=HTML
+
+*.ulamp linguist-detectable=true
+*.ulamp linguist-language=ULAMP
+
+*.py linguist-detectable=true
+*.py linguist-language=Python
