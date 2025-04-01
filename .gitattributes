@@ -1,16 +1,1 @@
-# Ensure Python files are correctly identified
-samples/*.py linguist-language=Python
-
-# Exclude HTML files in volumes-as-hypertext from language stats if they dominate
-volumes-as-hypertext/*.* linguist-detectable=false
-volumes-as-markdown/*.* linguist-detectable=false
-volumes-as-docx/*.* linguist-detectable=false
-
-*.md linguist-detectable=false
-*.md linguist-language=Markdown
-
-*.htm linguist-detectable=false
-*.htm linguist-language=HTML
-
-*.py linguist-detectable=true
-*.py linguist-language=Python
+* linguist-detectable=false
