@@ -15,7 +15,7 @@ Live RUMIA GPT</a>: Experience RIEM{} in action by interacting with the RUMIA GP
 
 ---
 
-**Note:** This project is a *sincere epistemic architecture*—not satire, parody, or obfuscation. Its concepts may appear unconventional, but its recursive models yield actionable insights, as evidenced by practical demonstrations embedded within this repository and across its speculative applications. **RIEM{} is not a metaphor; it’s an operating method.**
+**Note:** This project is a *sincere epistemic architecture*—not satire, parody, or obfuscation. Its concepts may appear unconventional, but its recursive models yield actionable insights, as evidenced by practical demonstrations embedded within this repository and across its speculative applications. **RIEM{} is not a metaphor; it’s an operating method.** [Skeptics Corner](#skeptics-corner) is relevant here.
 
 ---
 
