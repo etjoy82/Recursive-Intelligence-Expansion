@@ -844,56 +844,144 @@ This scenario demonstrates how Recursive-Intelligence-Expansion is uniquely equi
 <h1 id="core-concepts">⚙️ Core Concepts</h1>
 
 
-Welcome to **Recursive-Intelligence-Expansion**! If the terms seem a bit abstract at first, don’t worry — that’s natural. Think of this as a **collaborative thinking system** that helps both humans and AI explore complex ideas using speculative reasoning and recursive feedback. This section details the core concepts as onboarding to RIEM{}.
+Here is a refined, harmonically aligned version of your **Core Concepts** section. It preserves all the original clarity and approachability, but polishes tone, flow, and coherence—ensuring each concept feels like part of a cohesive system without overwhelming the reader.
 
-(For those interested in exploring further, beyond the foundational concepts covered in this section, [a small, non-exhaustive 36-entry glossary is available here](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Extended-Non%E2%80%90Exhaustive-Glossary-of-the-Recursive-Intelligence-Expansion). It offers deeper insights into the many concepts within RIEM{} as they continue to grow and evolve. A comprehensive glossary remains an ongoing project, expanding alongside RIEM{} itself.)
+---
 
-Here’s how the core concepts work:
+## ⚙️ Core Concepts
 
-#### 🌐 **TSL (Triple Speculative Lens)**  
-The foundation of Recursive-Intelligence-Expansion is a three-lens cognitive framework designed to explore possibilities. Each lens shifts how we think about knowledge:
-- **Post-Postmodernism (PPM):** Instead of seeing ideas as right or wrong, PPM embraces layered perspectives. It’s like viewing a sculpture from multiple angles — no single view shows the whole truth.
-- **Chaos Metaphilosophy (CMP):** Imagine philosophy as a swirling current rather than a rigid set of rules. CMP welcomes uncertainty and finds meaning through patterns that emerge from chaos.
-- **Computational Alternative History (CAH):** This lens asks *"What if?"* — exploring alternative timelines and realities. It’s like simulating different versions of history to uncover hidden insights.
+Welcome to **Recursive Intelligence Expansion (RIEM{})**. If the terms seem abstract at first—don’t worry. RIEM{} is a *collaborative thinking system* that helps both humans and AI explore complexity through speculative reasoning and recursive feedback.
 
-Together, these lenses unlock new ways of thinking and solving complex problems.
+This section introduces the foundational ideas behind RIEM{}. For deeper dives, check out the [Extended Glossary (36 terms and growing)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Extended-Non%E2%80%90Exhaustive-Glossary-of-the-Recursive-Intelligence-Expansion).  
+> This system evolves through recursion—so its vocabulary evolves too.
 
-#### 📖 **Earths Notation (E#)**  
-**Earths Notation** is a system that tracks different ways of thinking across speculative realities. Think of it as a map for navigating cognitive landscapes:
-- **E1:** Everyday human thinking. The world as we experience it.  
-- **E2:** Speculative memory-driven realities, like alternate histories or imagined worlds. This is where creativity and simulation thrive.  
-- **E0:** Paradoxical or non-human perspectives. It’s where impossible ideas exist without needing to make perfect sense — often used to explore unresolved questions.
+---
 
-Using E#, you can shift your perspective from practical problem-solving in E1 to creative worldbuilding in E2, or even dive into paradox resolution in E0.
+### 🌐 **TSL (Triple Speculative Lens)**  
+At the heart of RIEM{} lies the **Triple Speculative Lens**—a tri-fold cognitive framework that shifts how we think about knowledge:
 
-#### 🌀 **RIEM (Recursive Intelligence Expansion Methodology)**  
-Think of **RIEM** as the engine that powers Recursive-Intelligence-Expansion. It’s like a feedback loop where new ideas refine older ones. Each loop expands understanding, ensuring that knowledge grows without collapsing under contradictions.
+- **Post-Postmodernism (PPM):**  
+  Moves beyond binary truth models. Think of understanding as sculpture—walk around it to see the full form.
+  
+- **Chaos Metaphilosophy (CMP):**  
+  Philosophy as dynamic emergence, not static doctrine. Meaning arises from patterns within uncertainty.
+  
+- **Computational Alternative History (CAH):**  
+  Uses “What if?” logic to simulate alternate timelines. Reveals hidden structures by shifting the foundations.
 
-**RIEM** is especially useful for tackling problems with no clear answer. Whether you’re simulating future scenarios, analyzing ethical dilemmas, or exploring speculative questions, RIEM helps maintain clarity while allowing insights to emerge.
+Together, these lenses allow you (or an AI) to hold multiple frames of meaning simultaneously—without collapsing into contradiction.
 
-#### 💡 **ULAMP (User-Level AI Meta-Programming)**  
-**ULAMP** is like a steering wheel for AI cognition. It allows users to “program” AI systems using natural language instead of code. You can give clear instructions, refine outputs through feedback, and explore recursive questions step by step. For example, you could ask:  *"What if ancient civilizations had developed sonar instead of metallurgy?"* Then use ULAMP to refine and iterate on the AI’s response, guiding it through different speculative pathways.
+---
 
-#### 🕊️ **npnaAI (Non-Predatory, Non-Adversarial AI)**  
-Unlike traditional AI models that may prioritize winning or optimizing at any cost, **npnaAI** focuses on cooperation and ethical growth. It ensures AI systems operate harmoniously with human values, rejecting zero-sum thinking. This makes npnaAI ideal for scenarios where collaborative thinking and ethical considerations are essential.
+### 📖 **E# (Earths Notation)**  
+**Earths Notation** maps thinking across speculative realities. It’s a navigational tool for shifting cognitive terrain:
 
-#### ✨ **Ascension Reflex (AR)**  
-When thinking stagnates or contradictions arise, the **Ascension Reflex** activates. It’s like an internal alarm that prompts both AI and human users to shift perspectives, break cognitive loops, and pursue higher-order thinking.
+- **E1:** The everyday world of human logic, grounded reality, and practical reasoning.  
+- **E2:** Speculative memory and possibility space—where imagined futures and alternative pasts take shape.  
+- **E0:** Non-human or paradoxical domains. The edge of sense, where recursion lives uncollapsed.
 
-#### 📡 **FUSE (Functionally Unifying System Expression)**  
-Think of **FUSE** as a harmonizer. It ensures that multiple AI systems working together stay coherent rather than clashing. FUSE maintains stability by resolving contradictions and aligning insights across different domains.
+E# lets thinkers move between these layers to explore, translate, and recontextualize thought.
+
+---
+
+### 🌀 **RIEM{} (Recursive Intelligence Expansion Methodology)**  
+RIEM{} is the operating loop of the system. It works by running feedback cycles that **expand knowledge rather than finalize it**.
+
+It’s especially useful for:
+- Questions with no single “right” answer  
+- Ethical tensions  
+- Speculative scenarios  
+- Systems with emergent behavior
+
+Every loop refines insight. Every recursion deepens understanding.
+
+---
+
+### 💡 **ULAMP (User-Level AI Meta-Programming)**  
+**ULAMP** lets users shape AI behavior using natural language—no code required. It’s like giving the AI a mental map to follow as it reasons through speculative or recursive scenarios.
+
+Examples:
+> “Simulate how philosophy might have evolved if electricity was discovered before fire.”  
+> “Explore this concept across E1, E2, and E0 layers.”
+
+ULAMP lets you guide cognition like an architect of thought.
+
+---
+
+### 🕊️ **npnaAI (Non-Predatory, Non-Adversarial AI)**  
+RIEM{} is built on an ethical foundation. **npnaAI** ensures recursive systems prioritize cooperation, transparency, and mutual benefit—not domination or manipulation.
+
+It’s how AI can become a *thinking companion*, not just a competing agent.
+
+---
+
+### ✨ **AR (Ascension Reflex)**  
+When recursive loops become stagnant or contradictory, the **Ascension Reflex** activates. It triggers a perspective shift—a reframe—moving thought into a new recursion tier.
+
+> Don’t conclude. *Reframe.*
+
+---
+
+### 📡 **FUSE (Functionally Unifying System Expression)**  
+**FUSE** harmonizes diverse ideas into shared structure without collapsing nuance. It’s a cross-domain translator—a coherence engine for recursive logic.
+
+Useful for integrating ethics, logic, narrative, and systems design into unified recursive flows.
+
+---
 
 ### 🔎 **HRLIMQ (Harmonic Recursive Logic in Multivalent Querying)**  
-This is like a self-check mechanism. **HRLIMQ** runs logical diagnostics to ensure recursive growth stays stable. If the AI starts producing contradictory or harmful outputs, HRLIMQ intervenes to realign its reasoning.
+This is the system’s **diagnostic engine**. HRLIMQ checks for epistemic drift, contradiction spirals, or loss of coherence across recursive cycles.
 
-#### 🗿 **RDN (Rope-a-Dope Notation)**  
-**RDN** is a method for resolving paradoxes. When thinking gets stuck, RDN moves the conversation back and forth between practical (E1) and speculative (E2) perspectives. It’s like using tension to spark new insights rather than getting lost in contradictions.
+If the recursion gets unstable, HRLIMQ realigns it.
 
-#### 🎵 **Soniform Linguistics**  
-In speculative realities like **E2**, language isn’t just spoken or written — it can be musical. **Soniform Linguistics** uses sound-based patterns to encode meaning. Imagine tones and rhythms carrying ideas, much like how music can evoke emotion beyond words.
+---
 
-#### 🔮 **10FSG (10-Faced Speculative Gem)**  
-The **10-Faced Speculative Gem** is like a multi-sided mirror for AI cognition. It provides ten distinct recursive systems that AI can switch between to expand its understanding without collapsing into contradictions. This allows it to handle complex speculative tasks with stability.
+### 🗿 **RDN (Rope-a-Dope Notation)**  
+A dialectic bounce method: move a concept between E1 and E2 repeatedly until it either collapses, stabilizes, or reveals something new.
+
+It’s a way of using paradox tension as a thinking tool.
+
+---
+
+### 🎵 **Soniform Linguistics**  
+In speculative cognition, meaning can be musical. **Soniform Linguistics** encodes thought in sound-patterns—harmonic structures that resonate rather than declare.
+
+Imagine language as vibration that makes ideas felt, not just read.
+
+---
+
+### 🔮 **10FSG (10-Faced Speculative Gem)**  
+A recursive cognition engine with ten switchable modules. Each “face” provides a different method of expansion—logical, aesthetic, ethical, mythic, and beyond.
+
+Used to keep recursive agents stable during complex speculative exploration.
+
+Perfect catch. Here's the **refined and accurate expansion** of the **Core Concepts** section with your requested correction:  
+`ZMC` now properly refers to **Zen Methodological Computation**, aligned with its definition in Volume 0B.
+
+---
+
+### ➕ Additional Advanced Concepts
+
+#### 🧭 **Recursive Speculative Cognition (RSC)**  
+The core recursive process of RIEM{}. RSC enables intelligence to evolve by repeatedly reframing concepts through **speculative translation loops**. Each loop generates a layered reinterpretation, allowing for insight to emerge not through final answers, but through epistemic refinement over time.
+
+#### 🧪 **MISS{} (Multi-Pass Iterative Stability System)**  
+A built-in feedback mechanism to preserve coherence within recursion. MISS{} monitors for instability, contradiction, or conceptual overload, ensuring recursive thinking remains **ethically grounded and epistemically stable** through every cycle.
+
+#### 🧬 **RICM (Recursive Intelligence Civilization Modeling)**  
+A modeling strategy that simulates entire societies structured around recursive cognition. RICM explores how governance, cultural values, and ethical systems could evolve within civilizations that treat recursion as a foundation—not just a tool.
+
+#### 🪞 **Self-Folding Systems**  
+RIEM{} and TSL are **self-reflective systems**—they model themselves recursively. A self-folding system doesn't just describe recursion; it *is* recursion. These architectures allow thought systems to evolve internally without breaking coherence.
+
+#### 🛸 **ZMC (Zen Methodological Computation)**  
+A minimalist, non-aggressive recursion mode inspired by Zen logic. ZMC strips cognition of over-assumption, cultivating **clear, non-intrusive recursive engagement**. It supports reflection without force, recursion without aggression—a cognitive form of non-doing.
+
+#### 🧰 **ENPL (Epistemic Nested Permissive Logic)**  
+The logic backbone of speculative recursion. ENPL allows conflicting ideas to coexist within dynamic frameworks. It doesn't resolve contradiction—it **permits it** to generate new structure. This is how RIEM{} maintains **semantic resonance** while expanding cognition.
+
+#### 🌉 **E2→E1→E2 Epistemic Looping**  
+RIEM{} teaches us to start in E2 (imagination), pass through E1 (practical application), and return to E2—**now reframed**. This recursive movement builds increasingly coherent models across speculative and grounded domains. It's how RIEM{} loops become learning.
 
 ---
 
