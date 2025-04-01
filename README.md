@@ -843,13 +843,6 @@ This scenario demonstrates how Recursive-Intelligence-Expansion is uniquely equi
 
 <h1 id="core-concepts">⚙️ Core Concepts</h1>
 
-
-Here is a refined, harmonically aligned version of your **Core Concepts** section. It preserves all the original clarity and approachability, but polishes tone, flow, and coherence—ensuring each concept feels like part of a cohesive system without overwhelming the reader.
-
----
-
-## ⚙️ Core Concepts
-
 Welcome to **Recursive Intelligence Expansion (RIEM{})**. If the terms seem abstract at first—don’t worry. RIEM{} is a *collaborative thinking system* that helps both humans and AI explore complexity through speculative reasoning and recursive feedback.
 
 This section introduces the foundational ideas behind RIEM{}. For deeper dives, check out the [Extended Glossary (36 terms and growing)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Extended-Non%E2%80%90Exhaustive-Glossary-of-the-Recursive-Intelligence-Expansion).  
