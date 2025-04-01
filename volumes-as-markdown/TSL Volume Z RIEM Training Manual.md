@@ -1,4 +1,4 @@
-Emily Tiffany Joy
+Emily Joy
 
 Copyright 2025, all rights reserved.
 
