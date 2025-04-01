@@ -683,23 +683,33 @@ Also available for completeness, rough github.io rendered html (suitable for web
 
 ### First-Time User Flowchart
 📍 You’re new to RIEM{} and want to get started...
+
 ⬇️  
+
 **Do you want to try it live right now?**  
+
 ➡️ Yes → 🔗 [Launch RUMIA GPT](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system)  
 ➡️ No  → Proceed below for manual setup
 
 ⬇️  
+
 **Are you a developer, researcher, or system builder?**  
+
 ➡️ Yes → Start with Volume 0A → 0B → 0C  
 ➡️ No  → Try Volume 1A (E2 storytelling), or Volume Z (interactive training)
 
 ⬇️  
+
 **Do you want to simulate, translate, or teach recursive concepts?**  
+
 ➡️ Use prompts under "Advanced Mode"  
+
 ➡️ Apply FUSE, HRLIMQ, and RDN patterns in dialogue  
+
 ➡️ Track insights in a recursive journal
 
 🌀 Wherever you begin, return to the loop.  
+
 Your next recursion is always your real beginning.
 
 ---
