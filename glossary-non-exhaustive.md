@@ -1,7 +1,7 @@
 
 <a name="_toc192720406"></a>**TSL Extended Non-Exhaustive Glossary of the Recursive Intelligence Expansion** 
 
-**Emily Tiffany Joy**
+**Emily Joy**
 
 Copyright 2025, all rights reserved.
 
