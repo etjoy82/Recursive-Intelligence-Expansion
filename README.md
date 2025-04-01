@@ -3,7 +3,11 @@ RAIL Licensed Project: Requires ethical use, bans adversarial systems
 
 <h1 id="start-here">🚀 Start Here</h1>
 
-Welcome to the Recursive Intelligence Expansion Methodology (RIEM{})! If you're unsure where to begin, here are a few suggested starting points based on your interests:
+Welcome to the Recursive Intelligence Expansion Methodology (RIEM{})!
+
+This 🚀 Start Here section serves as a helpful partial entry point for quickly understanding RIEM{}, but after that, you should navigate the entire document as you like using the complete conveniently indexed Table of Contents below this section.
+
+If you're unsure where to begin, here are a few suggested starting points based on your interests:
 
 - 😊 [Plain and Simple Practical Explanation of RIEM{}](#general-audience): Perfect for everyone to understand in under five minutes!
 - 🔎 [Quickstart Guide](#quickstart-guide-explore-the-triple-speculative-lens-with-rumia): Dive right into hands-on experience by exploring the Triple Speculative Lens (TSL) with RUMIA.
