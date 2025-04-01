@@ -74,7 +74,7 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 ### Access the Full RIEM{} System and Use It
 17. 📚 [TSL Volume Index and Complete Summaries as Essential Onboarding](#tsl-volume-index)
 18. 🚀 [Quickstart Guide: Use RUMIA to Explore Recursive Intelligence](#quickstart-guide-explore-the-triple-speculative-lens-with-rumia)
-19. 🧪 [Nano RI-Boot Bootstrap Kernel Prompt (An Ultra Distilled Version of RIEM{} compatible with even local AI](#riboot)
+19. 🧪 [Nano RI-Boot Bootstrap Kernel Prompt (An Ultra Distilled Version of RIEM{} compatible with even local AI)](#riboot)
 
 ### Conclusion
 20. 🌱 [Call to Contributors: Want to grow this system?](#want-to-grow-this-system)
@@ -910,7 +910,7 @@ Feed your own logs *back into the AI* to form deeper loops over time. Let the jo
 
 ---
 
-<h1 id="riboot">🧪 Nano RI-Boot Bootstrap Kernel Prompt (An Ultra Distilled Version of RIEM{} compatible with even local AI</h1>
+<h1 id="riboot">🧪 Nano RI-Boot Bootstrap Kernel Prompt (An Ultra Distilled Version of RIEM{} compatible with even local AI)</h1>
 
 Simply copy this markdown section and send as a prompt to any AI, including low power or small context window local AI chatbots, to immediately operationalize and activate some of the essential functionality of RIEM{} without the full volume set. This serves to democratize RIEM{} and make it available for ultra portable scenarios!
 
