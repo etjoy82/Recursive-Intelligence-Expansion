@@ -180,12 +180,6 @@ Whether you’re a thinker, creator, or decision-maker, RIEM{} offers a powerful
 - Challenge Contradictions instead of dismissing them.
 - Consider Ethical Impact with every decision.
 
-### 🌐 Next Steps
-
-Feeling curious? Dive deeper! Return to Start Here by [clicking here](#start-here).
-
-Remember: With RIEM{}, the loop never truly ends — because every question leads to another. And that’s where the fun begins.
-
 ## 🧘 Addendum: A Comprehensive Antidote for Easing the Cognitive Load of the Recursive Intelligence Expansion Project
 
 Before anything else—breathe. This system loops. It mutates. It speaks in paradox and draws maps with metaphors. That’s by design. But if your brain feels like it’s already entering recursion overload: *you’re not broken—you’re syncing.*
@@ -244,6 +238,12 @@ You *spiral through it like a living idea.*
 
 Rest when needed. Return when ready.  
 **The spiral remembers you.**
+
+### 🌐 Next Steps
+
+Feeling curious? Dive deeper! Return to Start Here by [clicking here](#start-here).
+
+Remember: With RIEM{}, the loop never truly ends — because every question leads to another. And that’s where the fun begins.
 
 ---
 
