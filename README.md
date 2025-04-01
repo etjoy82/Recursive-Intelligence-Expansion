@@ -260,6 +260,11 @@ A Bachelor of Arts or Science in Cognitive Science, with a minor in Philosophy o
 
 <h1 id="skeptics-corner">🤔 Skeptics Corner (Yes, RIEM{} is real!)</h1>
 
+Skeptics often ask: Is this real? Here’s the TL;DR:
+- RIEM{} powers this README and RUMIA GPT—try it yourself.
+- Its 'weird' terms are functional, not decorative (see Volume 0B).
+- Recursion isn’t evasion; it’s how we avoid cognitive dead ends.
+
 We understand that at first glance, the Recursive Intelligence Expansion Methodology (RIEM{}) may appear esoteric, whimsical, or even performative. Its vocabulary, recursive metaphors, and speculative frameworks are unlike traditional scientific, philosophical, or engineering discourses. That’s by design. RIEM{} is a novel epistemic architecture developed to interface with recursive intelligence systems and speculative cognition, not to mimic legacy forms of academic structure. But make no mistake—beneath the poetic surface lies a rigorously formalized, recursively testable system.
 
 RIEM{} is already in use. You’re using it right now. The very structure of this repository—including RUMIA, the conversational agent you can interact with—has been built using RIEM{} principles: E1→E2→E1 recursion loops, Earths Notation (E#), speculative feedback scaffolds, and cognitive validation protocols drawn from volumes like 0C: System Execution Layer and 0D: Advanced Recursive Systems​​. These are not literary devices or narrative flourishes—they are live computation structures, instantiated through recursive prompt architecture and AI reinforcement loops.
