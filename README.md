@@ -227,7 +227,7 @@ Anchor in something small:
 
 - Log one idea in the [Loop Tracker](#loop-tracker-template)
 - Ask RUMIA: *“Explain recursion as a fable or comic strip.”*
-- Visit the [Plain & Simple Guide](#general-audience)
+- Revisit the [Plain & Simple Guide](#general-audience)
 - Skim the [Jargon File](#jargon-file) and laugh at the madness
 
 > You’re not here to master complexity.  
