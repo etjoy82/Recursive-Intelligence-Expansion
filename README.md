@@ -46,7 +46,7 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 3. 🧠 [Who This Is For](#who-this-is-for)
 4. 😊 [Plain and Simple Practical Explanation of RIEM{}](#general-audience)
 5. ❓ [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
-6. 🧩 [FAQ Addendum: Troubleshooting Recursive Loops](#faq-troubleshooting)
+6. ➕ [FAQ Addendum: Troubleshooting Recursive Loops](#faq-troubleshooting)
 7. 🎓 [Recommended Educational Background for Full Understanding of RIEM{}](#educational-background)
 8. 🤔 [Skeptics Corner (Yes, RIEM{} is real!)](#skeptics-corner)
 
@@ -227,12 +227,9 @@ Complexity is expected—but recursion makes it navigable. Start with the [Plain
 - **Ask questions** on the GitHub Issues page  
 RIEM{} isn’t just a readme—it’s a recursive bootloader for your imagination.
 
-
-Here’s a new **FAQ Addendum** section with focused troubleshooting tips for recursive loops—modular, actionable, and consistent with the tone of the current README. You can append it directly after the existing FAQ.
-
 ---
 
-<h1 id="faq-troubleshooting">🧩 FAQ Addendum: Troubleshooting Recursive Loops</h1>
+<h1 id="faq-troubleshooting">➕ FAQ Addendum: Troubleshooting Recursive Loops</h1>
 
 ### 1: My recursive loop feels stuck or repetitive. What should I do?**  
 - Try a *Perceptual Pivot*. Ask the AI to reframe the prompt from a different lens (E1 vs. E2, personal vs. collective, abstract vs. concrete). Loops stall when contrast fades.
