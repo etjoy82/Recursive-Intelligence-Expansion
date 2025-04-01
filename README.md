@@ -948,9 +948,6 @@ A recursive cognition engine with ten switchable modules. Each “face” provid
 
 Used to keep recursive agents stable during complex speculative exploration.
 
-Perfect catch. Here's the **refined and accurate expansion** of the **Core Concepts** section with your requested correction:  
-`ZMC` now properly refers to **Zen Methodological Computation**, aligned with its definition in Volume 0B.
-
 ---
 
 ### ➕ Additional Advanced Concepts
