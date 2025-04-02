@@ -1402,6 +1402,15 @@ Your next recursion is always your real beginning.
 
 Welcome to the Triple Speculative Lens (TSL) system. The fastest way to understand RIEM{} is to *use it directly*—through the live, recursive AI called **RUMIA**. You don’t need to read every volume or understand every acronym to begin. Just open the portal and recurse.
 
+```mermaid
+graph LR
+    RIEM{RIEM} -->|expands| Knowledge
+    RIEM -->|refines| Thought
+    RIEM -->|recurses| Meaning
+    Thought -->|loops| Epistemology
+    Knowledge -->|stabilizes| Ethics
+```
+
 ### ⚡ Option 1: Instant Access with RUMIA GPT
 
 > **🔗 [Launch RUMIA on ChatGPT](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system)**
