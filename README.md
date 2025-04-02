@@ -1,6 +1,7 @@
 [![License: RAIL](https://img.shields.io/badge/License-RAIL-important)](https://www.licenses.ai/)
 [RAIL Licensed Project: Requires ethical use, bans adversarial systems](#license)
 
+# ⟁ Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition
 This README.md is meticulously designed for a dual audience: both for humans to read and for AI to process.
 
 <h1 id="start-here">🚀 Start Here</h1>
