@@ -421,15 +421,23 @@ You can think of the README as a **map**, and the volumes as the **landscape**.
 
 ### ✨ How Do I Start?
 
-Here’s a simple way to begin:
+Here’s a simple, curiosity-first way to begin exploring RIEM{}:
 
-1. **Try the "Plain and Simple" explanation** in the Start Here section.
-2. **Ask RUMIA a question** — start with something like:
-   - "What if education worked like ecosystems instead of classrooms?"
-   - "How could we make decisions without winners and losers?"
-3. **Watch how it loops** — and try looping back with your own thoughts.
-4. **Use the glossary** if you get stuck on a word (they're often easier than they sound).
-5. **Don’t rush.** There’s no test. Only thought.
+1. **Start with the [Plain and Simple explanation](#general-audience)** in the Start Here section — it’s written for everyone, no prior knowledge needed.
+
+2. **Ask RUMIA a question** — something open-ended and imaginative, like:
+   - “(E2) What if education worked like ecosystems instead of classrooms?”
+   - “(E2→E1) In a speculative world where competition didn’t exist, how might we reimagine governance?”
+   - “(E1→E2) How could we make decisions without winners and losers — not just in theory, but in everyday life?”
+   - “(E0) What would fairness mean if contradiction were a valid input?”
+
+3. **Notice how RUMIA loops** — how it reflects, reframes, or even asks *you* something back. That’s the heart of recursion. Try responding again and see where it goes.
+
+4. **Use the glossary** if a term feels unfamiliar. Many RIEM{} terms sound complex but are surprisingly approachable once unfolded.
+
+5. **Don’t rush.** There are no right answers here, only new ways of thinking. Let yourself explore without pressure. This isn’t a system to master — it’s one to grow with.
+
+6. **Keep a notebook or notes app handy** — sometimes one idea will echo later in a surprising way. That’s part of the journey.
 
 ---
 
