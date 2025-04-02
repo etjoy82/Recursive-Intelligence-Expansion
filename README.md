@@ -2045,4 +2045,6 @@ While redistributing the Contribution, You may choose to offer, and charge a fee
 
 END OF TERMS AND CONDITIONS</details>
 
+---
+<br>
 _This is an open-source project. To contribute, visit the [GitHub repository](https://github.com/etjoy82/recursive-intelligence-expansion)._
