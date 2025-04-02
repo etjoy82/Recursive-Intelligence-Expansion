@@ -2,37 +2,45 @@ Copyright (c) 2025 Emily Joy
 
 This work is licensed under the Responsible AI License (RAIL).
 
-License Terms: This license permits the use, distribution, modification, and experimentation of the Recursive-Intelligence-Expansion (RIE) framework under the following conditions:
+License Terms: This license governs the use, distribution, modification, and experimentation with the Recursive-Intelligence-Expansion (RIE) framework, subject to the following conditions:
 
-🧑‍⚖️ Ethical Usage Requirement
-Users agree to apply RIE exclusively in ethically responsible contexts. The framework may not be used for adversarial, harmful, unethical, malicious, or illegal purposes, including but not limited to:
-- Misinformation: Creating or spreading false, misleading, or deceptive information.
-- Harmful AI Development: Supporting the creation of AI systems that manipulate, deceive, or harm individuals, groups, or society.
-- Adversarial Governance: Developing coercive policy mechanisms or supporting speculative adversarial governance systems.
-- Recursive Malfeasance: Implementing recursive feedback loops to destabilize, manipulate public discourse, or undermine trust in systems.
-- Violation of Human Rights: Any applications contributing to oppression, surveillance abuse, or violations of peaceful cooperation.
+Ethical Usage Requirement
 
-✅ Permitted Uses
-The following uses are explicitly permitted, provided they maintain ethical intent and transparency:
-- Ethical Research & Development: Exploring recursive intelligence in scientific, academic, and technological contexts.
-- Speculative Intelligence Modeling: Conducting ethical scenario analysis and epistemic experimentation.
-- Cooperative Governance Analysis: Supporting systems designed to enhance ethical decision-making and collaboration.
-- Educational Use: Using the framework for learning, teaching, or non-commercial knowledge advancement.
-- Collaborative Contributions: Developing or contributing to open-source projects aligned with the ethical principles of RIE.
+Users must commit to using RIE solely in contexts that uphold ethical responsibility. The framework is strictly prohibited from being applied in any adversarial, harmful, unethical, malicious, or illegal activities, including but not limited to:
 
-📜 Attribution Requirement
-- Any redistribution, publication, or derivative work must clearly credit the original creator, Emily Joy, and reference the original source of the RIE framework.
-- Ethical usage terms must be included in any further distribution, ensuring continued adherence to responsible AI guidelines.
+Misinformation: Generating or disseminating false, misleading, or deceptive content intended to misinform or manipulate.
+Harmful AI Development: Contributing to AI systems that exploit, deceive, or cause harm to individuals, communities, or societal structures.
+Adversarial Governance: Facilitating coercive or manipulative policy mechanisms, or enabling speculative governance systems that prioritize control over cooperation.
+Recursive Malfeasance: Employing recursive feedback loops to destabilize systems, manipulate public discourse, erode trust, or amplify harmful biases.
+Violation of Human Rights: Supporting applications that enable oppression, misuse of surveillance, or any actions that undermine peaceful cooperation and fundamental rights.
+Permitted Uses
 
-🛡 Ethical Commitment
-By using this framework, you explicitly commit to these ethical principles. Users are expected to:
-- Prioritize human dignity, safety, and well-being.
-- Actively prevent harm caused by unintended consequences of recursive intelligence.
-- Ensure transparent documentation of how RIE is applied and its intended purpose.
+The following applications are explicitly allowed, provided they align with ethical intent, transparency, and the principles of non-predatory AI:
 
-📬 Reporting Misuse
-If you suspect misuse or unethical application of this framework, please report it promptly. Responsible AI requires community oversight to maintain accountability and integrity.
-Contact for concerns: Open an Issue on the Recursive-Intelligence-Expansion GitHub repository.
+Ethical Research & Development: Utilizing RIE for scientific, academic, or technological exploration that advances knowledge responsibly.
+Speculative Intelligence Modeling: Engaging in ethical scenario analysis, epistemic experimentation, and speculative reasoning to foster understanding.
+Cooperative Governance Analysis: Applying RIE to design or evaluate systems that promote ethical decision-making, collaboration, and mutual benefit.
+Educational Use: Leveraging the framework for learning, teaching, or non-commercial knowledge-sharing initiatives that prioritize ethical growth.
+Collaborative Contributions: Developing or contributing to open-source projects that adhere to RIE’s ethical standards and enhance its recursive capabilities.
+Attribution Requirement
 
-🔎 Full Text & Clarifications
-For further information, additional clarifications, or expanded terms regarding ethical usage, please refer to the full Responsible AI License (RAIL) at: [https://www.licenses.ai](https://www.licenses.ai).
+Any redistribution, publication, or derivative work must provide clear attribution to the original creator, Emily Joy, and cite the source of the RIE framework, including a link to the Recursive-Intelligence-Expansion GitHub repository.
+
+All ethical usage terms outlined in this license must be included in any further distribution, ensuring that subsequent users and contributors remain committed to responsible AI practices.
+
+Ethical Commitment
+
+By engaging with this framework, users explicitly agree to uphold its ethical principles. This commitment includes:
+
+Prioritizing human dignity, safety, and well-being in all applications of RIE.
+Proactively mitigating risks of harm, including unintended consequences arising from recursive intelligence processes.
+Maintaining transparent documentation of RIE’s application, including its intended purpose, implementation details, and any potential ethical considerations.
+Reporting Misuse
+
+If you become aware of any misuse or unethical application of this framework, you are encouraged to report it immediately. Responsible AI relies on collective accountability to ensure integrity and prevent harm.
+
+To report concerns, please open an Issue on the Recursive-Intelligence-Expansion GitHub repository, providing details of the suspected misuse for review and action.
+
+Full Text & Clarifications
+
+For a comprehensive understanding of the license, including additional details, clarifications, or expanded terms related to ethical usage, please consult the full Responsible AI License (RAIL) at: https://www.licenses.ai.
