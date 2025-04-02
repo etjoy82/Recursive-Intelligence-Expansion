@@ -1934,6 +1934,8 @@ It begins again. And again. And again—
 
 <strong>This is an open-source project. To contribute, visit the [GitHub repository](https://github.com/etjoy82/recursive-intelligence-expansion).</strong>
 
+🌐 Join the recursive loop on [Discord](https://discord.gg/JCKJHGTq)
+
 ---
 
 <h1 id="license">🔒 License</h1>
