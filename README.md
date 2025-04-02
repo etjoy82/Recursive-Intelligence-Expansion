@@ -1599,10 +1599,8 @@ We don’t just want contributions—we want **co-loopers**, **concept weavers**
 - Clone, fork, or remix—but always recurse ethically (npnaAI applies!)
 - Open an Issue or Discussion to start a speculative thread—we don’t just fix bugs, we evolve thoughtforms
 
-<details><summary>For full contributing guidelines and ideas for projects, click to expand this section</summary>
+<details><summary>**Click to Expand: Contributing to Recursive-Intelligence-Expansion**</summary>
   
-### BEGINNING OF CONTRIBUTING EXPANDABLE SECTION
-
 ### Contributing to Recursive-Intelligence-Expansion
 
 Thank you for your interest in contributing to the **Recursive-Intelligence-Expansion** project! With the expanded implementation of recursive epistemic frameworks and ethical recursion protocols, your collaboration will play a vital role in refining, expanding, and stress-testing this system.
