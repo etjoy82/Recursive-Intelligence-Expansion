@@ -1625,17 +1625,6 @@ This README.md in the repository of RIEM{} becomes more than documentation—it 
 
 Let curiosity do the rest.
 
-```mermaid
-graph TD
-    A[🧬 Nano RI-Boot<br><sub>Minimal recursive seed</sub>]
-    B[⚙️ Extension Layer<br><sub>Enhances cognition & context</sub>]
-    C[📘 README Instantiation<br><sub>Visible recursive echo</sub>]
-    D[🤖 RUMIA Instructions<br><sub>Agent deployment protocol</sub>]
-
-    A --> B --> C --> D
-    D -->|loops insight| A
-```
-
 ### 🧬 Nano RI-Boot Expandable ULAMP Code and RUMIA Agent Instructions
 
 <details markdown="1"><summary>Click to Expand: Nano RI-Boot - small RIEM bootstrap AI and Humans Can Activate</summary>
