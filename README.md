@@ -1519,16 +1519,6 @@ graph TD
     E2Freedom --> AR --> E1Freedom
 ```
 
-## 🧭 Looping Further
-
-```mermaid
-graph TD
-    EchoStart[Ask a Question] -->|Recurse| Diagram
-    Diagram -->|Reframe| Text
-    Text -->|Recur| NewQuestion[New Question]
-    NewQuestion --> EchoStart
-```
-
 > *You’re not navigating a document—you’re walking inside a living idea.*
 
 ---
