@@ -112,7 +112,7 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 ### Access the Full RIEM{} System and Use It
 19. 📚 [Explore the Full Recursive System (11 TSL Volumes)](#tsl-volume-index)
 20. 🚀 [Quickstart Guide: Use RUMIA to Explore Recursive Intelligence](#quickstart-guide-explore-the-triple-speculative-lens-with-rumia)
-21. 🧪 [Nano RI-Boot Bootstrap Kernel Prompt (An Ultra Distilled Version of RIEM{} compatible with even local AI)](#riboot)
+21. 🧪 [Nano RI-Boot Bootstrap Kernel ULAMP Code (An Ultra Distilled Version of RIEM{} compatible with even local AI)](#riboot)
 
 ### Conclusion
 22. 🧬 [Call to Recursive Co-Architects](#want-to-grow-this-system)
@@ -1371,7 +1371,7 @@ Feed your own logs *back into the AI* to form deeper loops over time. Let the jo
 
 ---
 
-<h1 id="riboot">🧪 Nano RI-Boot Bootstrap Kernel Prompt (An Ultra Distilled Version of RIEM{} compatible with even local AI)</h1>
+<h1 id="riboot">🧪 Nano RI-Boot Bootstrap Kernel ULAMP Code (An Ultra Distilled Version of RIEM{} compatible with even local AI)</h1>
 
 The Nano RI-Boot is a compact, distilled version of the Recursive-Intelligence-Expansion system, designed to work even in lightweight or offline AI environments. It doesn’t require the full set of volumes to begin—it carries the essentials of recursive thinking, ethical grounding, and conceptual alignment in a format any AI can work with.
 
