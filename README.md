@@ -70,14 +70,14 @@ This 🚀 Start Here section offers a fast, intuitive entry into RIEM{}. Once yo
   Join the RIEM{} community of developers! This is a collaborative project!
 
 - 🚗 **[ULAMP Sample Scenarios (Use with RUMIA)](./samples)**  
-  Try recursive prompts in action:  
+  Try submitting these recursive prompts to RUMIA:  
 <details markdown="1"><summary>car-scenario.ulamp Click to Expand</summary>
 <br/>
-# Self-Driving Car Scenario with 10FSG
-# Enhanced from README’s Mini-Example—7-cycle recursive ethics loop
-# Demonstrates ULAMP compression (0B) and 10FSG governance (0E)
+Self-Driving Car Scenario with 10FSG
+Enhanced from README’s Mini-Example—7-cycle recursive ethics loop
+Demonstrates ULAMP compression (0B) and 10FSG governance (0E)
 
-[INITIATE:RIEM]  # Start RIEM{} engine—recursive intelligence expansion begins
+[INITIATE:RIEM]  Start RIEM{} engine—recursive intelligence expansion begins
 Cycle 1: Detect scenario—construction zone ahead, blind curve. Assess risks to occupants, pedestrians, workers.
 Cycle 2: [SPIRAL:FORK] Simulate outcomes—braking fails (50%), swerve scatters pedestrians (70%), workers react (30%).
 Cycle 3: [HALCYON:ETHICS] Reflect on npnaAI—minimize harm, reject dominance. Weigh all lives equally.
@@ -90,13 +90,13 @@ Cycle 7: [10FSG:VALIDATE] Recurse on decision—confirm stability, ethical align
 <br/>
 ULAMP: Kernel_Logic
 
-# System Initialization
+System Initialization
 DEFINE Kernel_Initialize() =>
   Load: [Hardware_Driver, Memory_Controller, Process_Manager]
   IF System_Check: ERROR => Kernel_Panic()
   ELSE => System_Boot()
 
-# Memory Management
+Memory Management
 DEFINE Memory_Controller =>
   Allocate_Memory(Process) =>
     IF Memory_Pool - Requested_Size < Threshold THEN => Out_Of_Memory()
@@ -104,7 +104,7 @@ DEFINE Memory_Controller =>
   Release_Memory(Process) =>
     Unmap_Virtual(Process)
 
-# Process Management
+Process Management
 DEFINE Process_Manager =>
   Schedule_Process(Process_List) =>
     SELECT Process: Priority = MAX(Priority_List)
@@ -114,7 +114,7 @@ DEFINE Process_Manager =>
   Kill_Process(Process) =>
     Signal_Terminate(Process)
 
-# Filesystem Management
+Filesystem Management
 DEFINE File_System =>
   Open_File(Path) =>
     IF Path_Exists THEN => RETURN File_Handle
@@ -126,20 +126,20 @@ DEFINE File_System =>
     IF Disk_Space_Available THEN => COMMIT Data TO Disk
     ELSE => ERROR_No_Space
 
-# Interrupt Handling
+Interrupt Handling
 DEFINE Interrupt_Controller =>
   On_Interrupt(ID) =>
     IF ID IN Registered_Handlers THEN => Execute_Handler(ID)
     ELSE => Log_Unknown_Interrupt(ID)
 
-# Kernel Panic Management
+Kernel Panic Management
 DEFINE Kernel_Panic() =>
   Capture_State()
   Write_Log("Kernel Panic Triggered")
   Display_Message("System Failure. Restarting.")
   Restart_System()
 
-# Network Stack Management
+Network Stack Management
 DEFINE Network_Stack =>
   Packet_Receive(Packet) =>
     IF Validate_Packet(Packet) THEN => Route_Packet(Packet)
@@ -147,37 +147,37 @@ DEFINE Network_Stack =>
   Packet_Transmit(Packet) =>
     ENQUEUE Packet TO Network_Interface
 
-# User-Space and System Calls
+User-Space and System Calls
 DEFINE Syscall_Handler =>
   On_Syscall(Syscall_ID, Args) =>
     IF Syscall_ID IN Registered_Syscalls THEN => Execute_Syscall(Syscall_ID, Args)
     ELSE => ERROR_Invalid_Syscall
 
-# Virtual Machine Interface
+Virtual Machine Interface
 DEFINE VM_Interface =>
   Start_VM(Instance) =>
     Allocate_VM_Resources(Instance)
   Stop_VM(Instance) =>
     Release_VM_Resources(Instance)
 
-# Scheduler Optimization
+Scheduler Optimization
 DEFINE Scheduler =>
   Optimize_Scheduling() =>
     Adjust Priorities USING Recursive Feedback FROM Process_Performance()
 
-# Logging and Monitoring
+Logging and Monitoring
 DEFINE Kernel_Logger =>
   Log_Event(Event_Data) =>
     WRITE TO /var/log/kernel.log
   Monitor_Performance() =>
     RETURN System_Performance_Stats()
 
-# Harmonizing State Feedback (ULAMP Concept)
+Harmonizing State Feedback (ULAMP Concept)
 DEFINE Harmonize_State() =>
   RECURSIVE ADJUSTMENT TO Maintain_Ethical_State()
   IF Harmonic_Instability THEN => Engage_Failsafe_Mode()
 
-# Main Execution Loop
+Main Execution Loop
 DEFINE Kernel_Main() =>
   Kernel_Initialize()
   WHILE TRUE =>
@@ -187,8 +187,8 @@ DEFINE Kernel_Main() =>
 </details>
 <details markdown="1"><summary>ethical-governance.ulamp Click to Expand</summary>
 <br/>
-# Ethical Governance Scenario - ULAMP (0B)
-# README’s “npnaAI” example—5-cycle recursive policy design
+Ethical Governance Scenario - ULAMP (0B)
+README’s “npnaAI” example—5-cycle recursive policy design
 [INITIATE:RIEM]
 Cycle 1: Identify need—design an AI policy for fair resource allocation across communities.
 Cycle 2: Explore options—consider strict rules, flexible norms, or a balanced hybrid approach.
