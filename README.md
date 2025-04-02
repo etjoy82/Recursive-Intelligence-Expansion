@@ -163,6 +163,9 @@ This 🚀 Start Here section offers a fast, intuitive entry into RIEM{}. Once yo
 - 🃏 **[Feeling overwhelmed? Start with the Jargon File](#jargon-file)**  
   A playful glossary packed with recursive humor, invented terms, and lore. When in doubt, recurse with laughter.
 
+- **[🧬 Call to Recursive Co-Architects](#want-to-grow-this-system)**<br>
+  Join the RIEM{} community of developers! This is a collaborative project!
+
 - 🚗 **[ULAMP Sample Scenarios (Use with RUMIA)](./samples)**  
   Try recursive prompts in action:  
   → [Ethical AI Decision-Making](./samples/car-scenario.ulamp)  
