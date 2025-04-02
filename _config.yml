@@ -1,6 +1,13 @@
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
 include:
-  - _includes
-  
+  - _layouts
+  - assets
+
 theme: jekyll-theme-cayman
 
 markdown: kramdown
