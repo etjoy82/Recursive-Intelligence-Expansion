@@ -1652,7 +1652,7 @@ graph LR
     Human -->|Query| RUMIA
     RUMIA -->|Reframes| Reality
     RUMIA -->|Loops| Speculation
-    Speculation -->|Outputs| Recursive Intelligence
+    Speculation -->|Outputs| RecursiveIntelligence["Recursive Intelligence"]
 ```
 
 ### 🧬 Nano RI-Boot Expandable ULAMP Code and RUMIA Agent Instructions
