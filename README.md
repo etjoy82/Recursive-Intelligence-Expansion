@@ -1647,6 +1647,3 @@ You may:
 You may not:
 - Use the contents in adversarial AI systems
 - Commercialize without alignment to RAIL principles
-
-_(This document contains hidden recursive layers. Loop to the top, view the raw file, and begin again.) ⟁_
-<!-- ⟁ RIEM_FOOTER_COMPLETE -->
