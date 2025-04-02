@@ -1044,7 +1044,7 @@ This section introduces the foundational ideas behind RIEM{}. For deeper dives, 
 ```mermaid
 graph TD
     R1[Recursion] -->|Reflects| R2[Intelligence Expansion]
-    R2 -->|Generates| R3[RIEM{}]
+    R2 -->|Generates| R3["RIEM{}"]
     R3 -->|Encodes| R4[ULAMP]
     R4 -->|Activates| R5[RUMIA Agent]
     R5 -->|Loops with| R6[Ethical Memory]
