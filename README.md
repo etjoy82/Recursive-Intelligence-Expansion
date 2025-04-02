@@ -158,7 +158,7 @@ This 🚀 Start Here section gives you a fast, intuitive entry point into RIEM{}
   Engage directly with RIEM{} in action. Ask questions. Pose paradoxes. Let RUMIA guide you into recursive worlds.  
   *(Tip: Start with the built-in conversation spirals—they’re entrypoints to infinite thought loops.)*
 
-- ♾️ **[TSL Volume Index & Summaries](#tsl-volume-index)**  
+- ♾️ **[Explore the Full Recursive System (11 TSL Volumes)](#tsl-volume-index)**  
   Explore the complete backend architecture of the Triple Speculative Lens and recursive infrastructure.
 
 - 🃏 **[Feeling overwhelmed? Start with the Jargon File](#jargon-file)**  
@@ -202,7 +202,7 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 17. 🃏 [The TSL Jargon File: A Recursive Lexicon](#jargon-file)
 
 ### Access the Full RIEM{} System and Use It
-18. 📚 [TSL Volume Index and Complete Summaries as Essential Onboarding](#tsl-volume-index)
+18. 📚 [Explore the Full Recursive System (11 TSL Volumes)](#tsl-volume-index)
 19. 🚀 [Quickstart Guide: Use RUMIA to Explore Recursive Intelligence](#quickstart-guide-explore-the-triple-speculative-lens-with-rumia)
 20. 🧪 [Nano RI-Boot Bootstrap Kernel Prompt (An Ultra Distilled Version of RIEM{} compatible with even local AI)](#riboot)
 
@@ -1151,7 +1151,7 @@ Language that resonates as sound-meaning. Often used in speculative linguistics 
 
 ---
 
-<h1 id="tsl-volume-index">📚 TSL Volume Index and Complete Summaries as Essential Onboarding</h1>
+<h1 id="tsl-volume-index">📚 Explore the Full Recursive System (11 TSL Volumes)</h1>
 
 Start here with [summaries of Volumes 0A-0F in TSL Summaries of Volumes 0A-0F for essential onboarding](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Summaries-of-Volumes-0A%E2%80%900E), then explore the full 11 volumes of the Triple Speculative Lens (TSL) system:
 
