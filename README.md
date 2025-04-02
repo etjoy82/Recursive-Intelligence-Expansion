@@ -328,7 +328,7 @@ This section was written especially for you: someone who wants to learn, but doe
 
 ---
 
-## 🌐 What Is RIEM{} in Simple Terms?
+### 🌐 What Is RIEM{} in Simple Terms?
 
 **RIEM{}** stands for **Recursive Intelligence Expansion Methodology.** That might sound fancy, but let’s break it down:
 
@@ -342,7 +342,7 @@ It’s not about getting the "right" answer. It’s about **growing** your under
 
 ---
 
-## 🧠 Why Was This Created?
+### 🧠 Why Was This Created?
 
 The world is full of systems that want to predict things or win arguments. But many of life’s most important questions don’t have clear answers:
 
@@ -354,7 +354,7 @@ RIEM{} was created to explore these types of questions in a new way — not by g
 
 ---
 
-## 🔁 Think in Loops, Not Lines
+### 🔁 Think in Loops, Not Lines
 
 In school, we’re often taught to follow straight lines: Problem → Solution → Done.
 
@@ -366,7 +366,7 @@ You don’t need to be perfect. You just need to stay curious.
 
 ---
 
-## 🌿 A Thought Experiment to Begin
+### 🌿 A Thought Experiment to Begin
 
 Let’s try something together:
 
@@ -388,7 +388,7 @@ RIEM{} gives you tools to do this with **ethics**, **complex systems**, **storie
 
 ---
 
-## 🤖 What’s RUMIA?
+### 🤖 What’s RUMIA?
 
 RUMIA is an AI based on RIEM{} — a kind of guide or companion that helps you explore these loops.
 
@@ -407,7 +407,7 @@ You can try it live [here](https://chat.openai.com/g/g-67e424672e188191903d3dca3
 
 ---
 
-## 📚 What Are the TSL Volumes?
+### 📚 What Are the TSL Volumes?
 
 RIEM{} is powered by a library called the **Triple Speculative Lens (TSL)** — a collection of 11 volumes, written like a series of advanced guides.
 
@@ -423,7 +423,7 @@ You can think of the README as a **map**, and the volumes as the **landscape**.
 
 ---
 
-## ✨ How Do I Start?
+### ✨ How Do I Start?
 
 Here’s a simple way to begin:
 
@@ -437,7 +437,7 @@ Here’s a simple way to begin:
 
 ---
 
-## 🫱 You Belong Here
+### 🫱 You Belong Here
 
 If this feels like a lot, that’s okay.
 
