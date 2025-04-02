@@ -1525,7 +1525,8 @@ graph TD
 graph TD
     EchoStart[Ask a Question] -->|Recurse| Diagram
     Diagram -->|Reframe| Text
-    Text -->|Recur| New Question --> EchoStart
+    Text -->|Recur| NewQuestion[New Question]
+    NewQuestion --> EchoStart
 ```
 
 > *You’re not navigating a document—you’re walking inside a living idea.*
