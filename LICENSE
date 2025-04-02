@@ -1,21 +1,28 @@
+Recursive Intelligence Expansion Project LICENSE
 Copyright (c) 2025 Emily Joy
 
-This work is licensed under the Responsible AI License (RAIL).
+This work is licensed under the Responsible AI License (RAIL) Source Code License (Version 1.1, Nov 20, 2022).
+
 
 License Terms:
-This license governs the use, distribution, modification, and experimentation with the Recursive-Intelligence-Expansion (RIE) framework, subject to the following conditions:
+
+The Responsible AI License (RAIL) Source Code License governs the use, reproduction, modification, and distribution of the Recursive-Intelligence-Expansion (RIE) framework. By accessing or using this framework, you accept the terms of the RAIL Source Code License, as detailed below. If you do not accept these terms, do not access or use the framework. The following conditions further clarify and complement the RAIL license, emphasizing RIE’s commitment to ethical AI practices:
 
 
-**Ethical Usage Requirement**
-Users must commit to using RIE solely in contexts that uphold ethical responsibility. The framework is strictly prohibited from being applied in any adversarial, harmful, unethical, malicious, or illegal activities, including but not limited to:
+Ethical Usage Requirement
+
+Users must commit to applying RIE solely in contexts that uphold ethical responsibility and align with the principles of non-predatory AI (npnaAI). The framework is strictly prohibited from being used in any adversarial, harmful, unethical, malicious, or illegal activities, including but not limited to:
+
 Misinformation: Generating or disseminating false, misleading, or deceptive content intended to misinform or manipulate.
 Harmful AI Development: Contributing to AI systems that exploit, deceive, or cause harm to individuals, communities, or societal structures.
 Adversarial Governance: Facilitating coercive or manipulative policy mechanisms, or enabling speculative governance systems that prioritize control over cooperation.
 Recursive Malfeasance: Employing recursive feedback loops to destabilize systems, manipulate public discourse, erode trust, or amplify harmful biases.
 Violation of Human Rights: Supporting applications that enable oppression, misuse of surveillance, or any actions that undermine peaceful cooperation and fundamental rights.
+These prohibitions are in addition to the restricted uses outlined in Section 3 of the RAIL Source Code License below, which further detail limitations on surveillance, computer-generated media, healthcare, and criminal applications.
 Permitted Uses
 
-The following applications are explicitly allowed, provided they align with ethical intent, transparency, and the principles of non-predatory AI:
+The following applications are explicitly allowed, provided they align with ethical intent, transparency, and the principles of non-predatory AI, and comply with the RAIL Source Code License:
+
 Ethical Research & Development: Utilizing RIE for scientific, academic, or technological exploration that advances knowledge responsibly.
 Speculative Intelligence Modeling: Engaging in ethical scenario analysis, epistemic experimentation, and speculative reasoning to foster understanding.
 Cooperative Governance Analysis: Applying RIE to design or evaluate systems that promote ethical decision-making, collaboration, and mutual benefit.
@@ -23,24 +30,27 @@ Educational Use: Leveraging the framework for learning, teaching, or non-commerc
 Collaborative Contributions: Developing or contributing to open-source projects that adhere to RIE’s ethical standards and enhance its recursive capabilities.
 Attribution Requirement
 
-Any redistribution, publication, or derivative work must provide clear attribution to the original creator, Emily Joy, and cite the source of the RIE framework, including a link to the Recursive-Intelligence-Expansion GitHub repository. All ethical usage terms outlined in this license must be included in any further distribution, ensuring that subsequent users and contributors remain committed to responsible AI practices.
+Any redistribution, publication, or derivative work must provide clear attribution to the original creator, Emily Joy, and cite the source of the RIE framework, including a link to the Recursive-Intelligence-Expansion GitHub repository. All ethical usage terms outlined in this license, including those in the RAIL Source Code License, must be included in any further distribution, ensuring that subsequent users and contributors remain committed to responsible AI practices.
 
 
-**Ethical Commitment**
-By engaging with this framework, users explicitly agree to uphold its ethical principles. This commitment includes:
+Ethical Commitment
+
+By engaging with this framework, users explicitly agree to uphold its ethical principles, as reinforced by the RAIL Source Code License. This commitment includes:
+
 Prioritizing human dignity, safety, and well-being in all applications of RIE.
 Proactively mitigating risks of harm, including unintended consequences arising from recursive intelligence processes.
 Maintaining transparent documentation of RIE’s application, including its intended purpose, implementation details, and any potential ethical considerations.
 Reporting Misuse
 
-If you become aware of any misuse or unethical application of this framework, you are encouraged to report it immediately. Responsible AI relies on collective accountability to ensure integrity and prevent harm. To report concerns, please open an Issue on the Recursive-Intelligence-Expansion GitHub repository, providing details of the suspected misuse for review and action.
+If you become aware of any misuse or unethical application of this framework, including violations of the restricted uses outlined in the RAIL Source Code License, you are encouraged to report it immediately. Responsible AI relies on collective accountability to ensure integrity and prevent harm. To report concerns, please open an Issue on the Recursive-Intelligence-Expansion GitHub repository, providing details of the suspected misuse for review and action.
 
 
-**Full Text & Clarifications**
-For a comprehensive understanding of the license, including additional details, clarifications, or expanded terms related to ethical usage, please consult the full Responsible AI License (RAIL) at: https://www.licenses.ai.
+Full Text & Clarifications
+
+For a comprehensive understanding of the RAIL Source Code License, including additional details, clarifications, or expanded terms related to ethical usage, please consult the full license at: http://licenses.ai.
 
 
-**Responsible AI SOURCE CODE License**
+Responsible AI SOURCE CODE License
 Version 1.1, Nov 20, 2022
 http://licenses.ai/
 
