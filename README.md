@@ -1409,7 +1409,6 @@ graph TD
     Start[Where Do You Want to Begin?] --> A1[Beginner’s Invitation]
     Start --> A2[Quickstart with RUMIA]
     Start --> A3[Deep Dive into TSL Volumes]
-    A3 --> V0A --> V0B --> V0C --> V0D --> V0E
 ```
 
 Start here with [summaries of Volumes 0A-0F in TSL Summaries of Volumes 0A-0F for essential onboarding](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Summaries-of-Volumes-0A%E2%80%900E), then explore the full 11 volumes of the Triple Speculative Lens (TSL) system:
