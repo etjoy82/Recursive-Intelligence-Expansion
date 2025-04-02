@@ -79,7 +79,7 @@ This 🚀 Start Here section offers a fast, intuitive entry into RIEM{}. Once yo
   
 ---
 
-**Note:** This project is a *sincere epistemic architecture*—not satire, parody, or obfuscation. Its concepts may appear unconventional, but its recursive models yield actionable insights, as evidenced by practical demonstrations embedded within this repository and across its speculative applications. **RIEM{} is not a metaphor; it’s an operating method.** [Skeptics Corner](#skeptics-corner) is relevant here.
+**Note:** This project is a *sincere epistemic architecture*—not satire, parody, or obfuscation. Its concepts may appear unconventional, but its recursive models yield actionable insights, as evidenced by practical demonstrations embedded within this repository and across its speculative applications. **RIEM{} is not a metaphor; it’s an operating method.** [🤔 Skeptics Corner (Yes, RIEM{} is real!)](#skeptics-corner) is relevant here.
 
 ---
 
