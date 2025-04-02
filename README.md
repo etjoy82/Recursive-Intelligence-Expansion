@@ -167,7 +167,7 @@ This 🚀 Start Here section gives you a fast, intuitive entry point into RIEM{}
 - 🚗 **[ULAMP Sample Scenarios (Use with RUMIA)](./samples)**  
   Try recursive prompts in action:  
   → [Ethical AI Decision-Making](./samples/car-scenario.ulamp)  
-  → [Speculative Worldbuilding](./samples/os-kernel-experiment.ulamp)  
+  → [OS Kernel Thought Experiment](./samples/os-kernel-experiment.ulamp)  
   → [Policy Simulation](./samples/ethical-governance.ulamp)
   
 ---
