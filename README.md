@@ -8,7 +8,7 @@ Built on the **Triple Speculative Lens (TSL)**, it uses **User-Level AI Meta-Pro
 
 ```mermaid
 flowchart TD
-    Start([🚀 RIEM"{}" Activation]) --> TSL(Triple Speculative Lens)
+    Start(["🚀 RIEM{} Activation]") --> TSL(Triple Speculative Lens)
     TSL --> ULAMP(User-Level AI Meta-Programming)
     TSL --> ESharp(Earths Notation)
     ULAMP --> RUMIA(RUMIA Agent)
