@@ -2,7 +2,7 @@
 [RAIL Licensed Project: Requires ethical use, bans adversarial systems](#license)
 
 # ⟁ Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition
-This README.md is meticulously designed for a dual audience: both for humans to read and for AI to process.
+Recursive Intelligence Expansion (RIEM{}) is a non-predatory AI framework that helps humans & AI think together through recursive loops, ethical reasoning & cooperative intelligence. Built on the Triple Speculative Lens (TSL), it uses ULAMP to enable adaptive reasoning across real & imagined worlds. Explore, reflect & co-create with us!
 
 <h1 id="start-here">🚀 Start Here</h1>
 
