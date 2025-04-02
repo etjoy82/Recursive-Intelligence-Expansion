@@ -1602,7 +1602,7 @@ We don’t just want contributions—we want **co-loopers**, **concept weavers**
 - Clone, fork, or remix—but always recurse ethically (npnaAI applies!)
 - Open an Issue or Discussion to start a speculative thread—we don’t just fix bugs, we evolve thoughtforms
 
-<details><summary><strong>Click to Expand: Contributing to Recursive-Intelligence-Expansion</strong></summary>
+<details><summary><strong>Click to Expand: 🧬 Co-Architect Entry Protocol (CONTRIBUTING.md)</strong></summary>
   
 ### Contributing to Recursive-Intelligence-Expansion
 
