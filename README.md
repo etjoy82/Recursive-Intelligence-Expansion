@@ -142,8 +142,7 @@ This 🚀 Start Here section offers a fast, intuitive entry into RIEM{}. Once yo
 ### Not sure where to begin? Start here—choose your path by interest:
 
 - 🌱 **[For Absolute Beginners: A Gentle Invitation into Recursive-Intelligence-Expansion (RIEM{})](#beginners)**
-
-  This system is for everyone.
+  No background needed. If you’re curious, this system is already yours — designed to unfold through exploration, one question at a time.
   
 - 😊 **[Plain & Simple: What is RIEM{}?](#general-audience)**  
   A quick, practical explanation anyone can understand in under five minutes.
