@@ -1,1 +1,18 @@
-<link rel="stylesheet" href="/assets/css/dark.css">
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Import GitHub Pages Cayman base styles -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    
+    <!-- 🔮 Import your Dark Override -->
+    <link rel="stylesheet" href="{{ '/assets/css/dark.css' | relative_url }}">
+
+  </head>
+  <body>
+    {{ content }}
+  </body>
+</html>
