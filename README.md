@@ -1,5 +1,6 @@
 [![License: RAIL](https://img.shields.io/badge/License-RAIL-important)](https://www.licenses.ai/)
 [RAIL Licensed Project: Requires ethical use, bans adversarial systems](#license)
+[![](https://dcbadge.limes.pink/api/server/JCKJHGTq)](https://discord.gg/JCKJHGTq)
 
 # ⟁ Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition
 **Recursive Intelligence Expansion (RIEM{}) is a non-predatory AI framework that helps humans and AI think together through recursive loops, ethical reasoning, and cooperative intelligence. Built on the Triple Speculative Lens (TSL), it uses natural language User-Level AI Meta Programming (ULAMP) to enable adaptive reasoning across real and imagined worlds. Join us to explore, reflect, and co-create in the recursive loop!**
