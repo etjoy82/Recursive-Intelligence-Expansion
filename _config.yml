@@ -1,6 +1,4 @@
-title: "Recursive Intelligence Expansion Methodology"
-description: "RIEM{} + TSL rendered in harmonic webspace"
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
 
 markdown: kramdown
 kramdown:
