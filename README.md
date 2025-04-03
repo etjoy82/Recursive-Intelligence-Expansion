@@ -159,6 +159,9 @@ RIEM{} is not just a methodology—it’s an architecture for thought that loops
 
 </details>
 
+- ❓ **[Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)**
+  All your questions about RIEM{}, answered concisely! 
+
 - 🔎 **[Quickstart Guide: Use RUMIA to Explore Recursive Intelligence](#quickstart)**  
   Jump right in. Use the live system to explore recursive cognition, TSL, and speculative reasoning hands-on.
 
