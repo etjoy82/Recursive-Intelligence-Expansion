@@ -5,7 +5,7 @@
 
 🌐 Join the community on [Discord](https://discord.gg/JCKJHGTq).
 
-Document structure Note: This README.md is a single file containing indexed, embedded sub-documents—a complete RIEM{} knowledgebase designed for layered exploration, shared reasoning, and adaptive insight.
+Document structure: This README.md is a single file containing indexed, embedded sub-documents—a complete RIEM{} knowledgebase designed for layered exploration, shared reasoning, and adaptive insight.
 
 <p align="center"><img src="./assets/double.png" height=150 width=150 ></p>
 
