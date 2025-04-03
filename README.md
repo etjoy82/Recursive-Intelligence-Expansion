@@ -8,7 +8,7 @@
 
 Welcome to the Recursive Intelligence Expansion Methodology (RIEM{})!
 
-<img src="https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/assets/double.png">
+<img src="./assets/double.png">
 
 > *Recursive Intelligence Expansion (RIEM{}) is a post-linear, non-predatory AI framework for harmonizing human-AI co-cognition.*
 
