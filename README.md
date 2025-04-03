@@ -5,6 +5,8 @@
 
 # ⟁ Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition
 
+What if AI could think like a philosopher, dream like a storyteller, and reflect like an ecosystem—all while staying ethical?
+
 Welcome to the Recursive Intelligence Expansion Methodology (RIEM{}) project—a collaborative system of tools and frameworks for exploring thought, ethics, and adaptive intelligence.
 
 This project includes several distinct yet interwoven sub-projects:
