@@ -443,7 +443,7 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 
 ---
 
-<h1 id="abbreviations">🔮 Core Abbreviations: Concisely and Rapidly Detailed: Use as a Quick Reference as You Encounter Them Throughout the Text</h1>
+<h1 id="abbreviations">🔮 Core Abbreviations: Concisely and Rapidly Detailed - Use as a Quick Reference as You Encounter Them Throughout the Text</h1>
 
 - RIEM{} = Recursive Intelligence Expansion Methodology: A framework for reflective reasoning, speculative modeling, and collaborative cognition.
 - TSL = Triple Speculative Lens: A triadic interpretive system made of PPM, CMP, and CAH, enabling layered meaning and multi-angle analysis.
