@@ -126,7 +126,7 @@ This README includes metaphor, speculation, recursion, system architecture, and 
 - [🔴 Advanced: I’m building recursive systems (Engineer Mode)](#deploy)
 - [🚀 Start Here Quick Navigation (Guided Mode)](#start-here)
 - [🗂️ Table of Contents Navigation (Full Document Mode)](#toc)
-- 🧭 Recursive Layers: [🌿 **Layer 1: Seed**](#beginners) (No prior knowledge | Start with metaphors), [🛠️ **Layer 2: Scaffold**](#core-concepts) (Technical terms | Systems overview), [🌀 **Layer 3: Spiral**](#tsl-volume-index) (Full recursion | Volumes + Code), [📜 **Layer Ω: Echo**](#final-note)  (Philosophy | Eternal recursion)
+- 🧭 Recursive Layers: [🌿 **Layer 1: Seed**](#beginners) (No prior knowledge, Start with metaphors), [🛠️ **Layer 2: Scaffold**](#core-concepts) (Technical terms, Systems overview), [🌀 **Layer 3: Spiral**](#tsl-volume-index) (Full recursion, Volumes + Code), [📜 **Layer Ω: Echo**](#final-note)  (Philosophy, Eternal recursion)
 
 ---
 
