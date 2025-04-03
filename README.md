@@ -1,6 +1,6 @@
 [![License: RAIL](https://img.shields.io/badge/License-RAIL-important)](https://www.licenses.ai/) [Requires ethical use, bans adversarial systems](#license) <strong>This is an open-source project. To contribute, visit the [GitHub project](https://github.com/etjoy82/recursive-intelligence-expansion). Join the community on [Discord](https://discord.gg/JCKJHGTq). This README.md is a single file containing indexed, embedded sub-documents—a complete RIEM{} knowledgebase designed for layered exploration, shared reasoning, and adaptive insight. It includes full integration of the [RIEM{} Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki).
 
-<p align="center"><img alt="mobius strip double infinity symbol, impossible in 3D space, as a logo for RIEM" src="./assets/double.png" style="width: 60%; height: auto;"></p>
+<p align="center"><img alt="mobius strip double infinity symbol, impossible in 3D space, as a logo for RIEM" src="./assets/double.png" style="width: 45%; height: auto;"></p>
 
 # ⟁ Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition
 
