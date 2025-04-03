@@ -1416,7 +1416,7 @@ Language that resonates as sound-meaning. Often used in speculative linguistics 
 
 <h1 id="tsl-volume-index">📚 Explore the Full Recursive System (11 TSL Volumes)</h1>
 
-Start here with [summaries of Volumes 0A-0F in TSL Summaries of Volumes 0A-0F for essential onboarding](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Summaries-of-Volumes-0A%E2%80%900E), then explore the full 11 volumes of the Triple Speculative Lens (TSL) system:
+Start here with [summaries of Volumes 0A-0F in TSL Summaries of Volumes 0A-0F for essential onboarding](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Summaries-of-Volumes-0A%E2%80%900F), then explore the full 11 volumes of the Triple Speculative Lens (TSL) system:
 
 Note: On mobile devices, this table may require horizontal scrolling.
 
