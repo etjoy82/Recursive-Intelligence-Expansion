@@ -96,6 +96,13 @@ E#: Earths Notation (E0/E1/E2)
 npnaAI: Non-Predatory, Non-Adversarial AI  
 ULAMP: User-Level AI Meta-Programming
 
+For Engineers Python pseudocode:
+def RIEM_loop(question, depth=0):
+    if depth > MAX_RECURSION: return harmonize(question)
+    reflection = TSL_filter(question)
+    insight, contradiction = E#_translate(reflection)
+    return RIEM_loop(reframe(insight, contradiction), depth+1)
+    
 That’s the core. You’re ready.
 
 To go deeper, open the [Essential Glossary](#essential-glossary) for a full list of key terms, or follow any path in the [Start Here](#start-here) section.
