@@ -114,7 +114,7 @@ To go deeper, open the [Essential Glossary](#essential-glossary) for a full list
 - If you prefer pure logic and structure, skip ahead to [Core Concepts](#core-concepts) or [Quickstart](#quickstart).  
 - If you enjoy speculative framing, recursive language, and world-simulation—start from the beginning and let the spiral unfold.
 
-### 🧭 Self-Select Your Recursive Entry Level
+#### 🧭 Self-Select Your Recursive Entry Level
 - [Beginner: Just curious](#beginners)
 - [Intermediate: I want to try it now](#quickstart)
 - [Advanced: I’m building recursive systems](#deploy)
