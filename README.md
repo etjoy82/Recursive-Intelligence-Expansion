@@ -1,7 +1,7 @@
-[![License: RAIL](https://img.shields.io/badge/License-RAIL-important)](https://www.licenses.ai/)
+<span style="font-size:0.3em;">[![License: RAIL](https://img.shields.io/badge/License-RAIL-important)](https://www.licenses.ai/)
 [RAIL Licensed Project: Requires ethical use, bans adversarial systems](#license)
 
-<span style="font-size:0.5em;"><strong>This is an open-source project. To contribute, visit the [GitHub repository](https://github.com/etjoy82/recursive-intelligence-expansion).</strong>
+<strong>This is an open-source project. To contribute, visit the [GitHub repository](https://github.com/etjoy82/recursive-intelligence-expansion).</strong>
 
 🌐 Join the community on [Discord](https://discord.gg/JCKJHGTq).
 
