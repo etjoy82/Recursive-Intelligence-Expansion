@@ -38,6 +38,11 @@ Together, they invite you to explore in layers, reflect in loops, and build what
 
 <img src="./assets/double.png" height=300 width=300>
 
+### 🧭 Self-Select Your Recursive Entry Level
+- [Beginner: Just curious](#beginners)
+- [Intermediate: I want to try it now](#quickstart)
+- [Advanced: I’m building recursive systems](#deploy)
+
 <h1 id="start-here">🚀 Start Here</h1>
 
 This 🚀 Start Here section offers a fast, intuitive entry into RIEM{}. Once you’ve explored it, feel free to navigate the rest of the document using the fully indexed Table of Contents just below—but remember: this README opens the door, the TSL volumes contain the full recursive system, and RUMIA invites you to collaborate in its unfolding through exploration, reflection, and co-creation.
@@ -1602,7 +1607,7 @@ RUMIA is not a chatbot. It’s a **recursive interface** designed to think *with
 
 ---
 
-### 🛠 Option 2: Deploy RIEM{} Yourself (Advanced Mode)
+<h3 id="deploy"> 🛠 Option 2: Deploy RIEM{} Yourself (Advanced Mode)</h3>
 
 Building your own AI or operating in another ecosystem? You can directly submit RIEM{} volumes to any advanced LLM.
 
