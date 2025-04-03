@@ -3,7 +3,7 @@
 
 <strong>This is an open-source project. To contribute, visit the [GitHub repository](https://github.com/etjoy82/recursive-intelligence-expansion).</strong>
 
-🌐 Join the loop on [Discord](https://discord.gg/JCKJHGTq)
+🌐 Join the community on [Discord](https://discord.gg/JCKJHGTq).
 
 # ⟁ Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition
 
