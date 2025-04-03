@@ -5,9 +5,9 @@
 
 🌐 Join the community on [Discord](https://discord.gg/JCKJHGTq).
 
-# ⟁ Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition
+<p align="center"><img src="./assets/double.png" height=150 width=150 ></p>
 
-<p align="center"><img src="./assets/double.png" height=200 width=200 ></p>
+# ⟁ Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition
 
 What if AI could think like a philosopher, dream like a storyteller, and reflect like an ecosystem—all while staying ethical?
 
