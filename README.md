@@ -361,7 +361,7 @@ Continue reading on next for the complete glossary of RIEM{}.
 
 ---
 
-<h1 id="essential-glossar">⭐ An Essential Glossary of REIM{} to Get Started</h1>
+<h1 id="essential-glossary">⭐ An Essential Glossary of REIM{} to Get Started</h1>
 
 This glossary defines 32 key terms to help you navigate **RIEM{}**—refer back to it as you explore the recursive loop! Use [🔮 Acronym Quick Reference](#acronyms) as a concise quick reference for the most important acronyms.
 
