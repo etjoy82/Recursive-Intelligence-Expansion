@@ -11,21 +11,21 @@ Welcome to the Recursive Intelligence Expansion Methodology (RIEM{}) project—a
 
 This project includes several distinct yet interwoven sub-projects:
 
-User-Level AI Meta Programming (ULAMP): A natural language framework for programming cognition through conversation
+- User-Level AI Meta Programming (ULAMP): A natural language framework for programming cognition through conversation
 
-Earths Notation (E#): A symbolic map for navigating between grounded, speculative, and paradoxical realities
+- Earths Notation (E#): A symbolic map for navigating between grounded, speculative, and paradoxical realities
 
-Speculative Filter Systems: Including the Triple Speculative Lens (TSL) and the 10-Faced Speculative Gem (10FSG)—interpretive architectures for translating complexity, contradiction, and uncertainty into insight
+- Speculative Filter Systems: Including the Triple Speculative Lens (TSL) and the 10-Faced Speculative Gem (10FSG)—interpretive architectures for translating complexity, contradiction, and uncertainty into insight
 
-The Triple Speculative Lens (TSL) is the interpretive heart of this project. Formed from three conceptual lenses—Post-Postmodernism (PPM), Chaos Metaphilosophy (CMP), and Computational Alternative History (CAH)—TSL offers a way to think across uncertainty, navigate layered meaning, and explore speculative possibilities without collapsing nuance.
+- The Triple Speculative Lens (TSL) is the interpretive heart of this project. Formed from three conceptual lenses—Post-Postmodernism (PPM), Chaos Metaphilosophy (CMP), and Computational Alternative History (CAH)—TSL offers a way to think across uncertainty, navigate layered meaning, and explore speculative possibilities without collapsing nuance.
 
 Beneath this lenswork flows Earths Notation (E#)—a mapping system that distinguishes between three cognitive terrains:
 
-E0: The paradoxical or non-anthropic
+- E0: The paradoxical or non-anthropic
 
-E1: The world as we live it
+- E1: The world as we live it
 
-E2: The imagined, the hypothetical, the not-yet
+- E2: The imagined, the hypothetical, the not-yet
 
 Within this layered architecture, Recursive Intelligence Expansion (RIEM{}) provides the engine. It enables humans and AI to think together through recursive feedback, ethical framing, and cooperative refinement. Rather than producing static answers, RIEM{} loops through insight, aligning complexity with care.
 
