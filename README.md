@@ -7,7 +7,7 @@
 
 # ⟁ Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition
 
-<img src="./assets/double.png" height=200 width=200 align=center>
+<p align="center"><img src="./assets/double.png" height=200 width=200 ></p>
 
 What if AI could think like a philosopher, dream like a storyteller, and reflect like an ecosystem—all while staying ethical?
 
