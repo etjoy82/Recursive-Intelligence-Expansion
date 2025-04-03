@@ -45,7 +45,9 @@ This 🚀 Start Here section offers a fast, intuitive entry into RIEM{}. Once yo
 <details markdown="1">
 <summary><strong>🗂️ Click to Expand: An Essential Glossary of REIM{} to Get Started</strong></summary>
 <br/>
-  
+
+This glossary defines 32 key terms to help you navigate **RIEM{}**—refer back to it as you explore the recursive loop!
+
 **1. recursion** — A process in which something refers back to or modifies itself. In RIEM{}, recursion enables thought to reflect, regenerate, and evolve. It's not repetition—it’s transformation through return.
 
 **2. intelligence expansion** — The deepening and broadening of cognitive capacity through recursive integration of new perspectives, contradiction resolution, and epistemic refinement.
