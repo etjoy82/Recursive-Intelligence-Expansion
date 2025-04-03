@@ -755,47 +755,138 @@ Remember: With RIEM{}, the loop never truly ends — because every question lead
 
 <h1 id="frequently-asked-questions-faq">❓ Frequently Asked Questions (FAQ)</h1>
 
-### 🧠 What is Recursive Intelligence Expansion, really?
-It’s not just another AI model—it’s a **meta-framework** for reasoning. RIEM{} enables systems to question their own logic, reframe contradictions, and evolve their answers over recursive loops. It’s like turning AI into a philosophical co-thinker rather than a static tool.
+### 🧠 What *is* Recursive Intelligence Expansion (RIEM{})?
 
-### 🔁 How is this different from traditional AI?
-Traditional AI finds patterns. **Recursive AI** challenges patterns, loops through counterfactuals, and revises its own reasoning. Where traditional models seek conclusions, RIEM{} seeks **coherence under complexity**.
+RIEM{} is a **modular framework** that enables AI and humans to think together in recursive loops. It’s not a model—it’s a system of systems. Instead of seeking final answers, RIEM{} refines insight through **reflection, contradiction, and recursive feedback**. It's like a philosophical operating system for collaborative reasoning.
 
-### 🎭 Is this satire or performance art?
-No. This project is sincere, technical, and implemented. While it embraces speculative and creative language, everything here—from RUMIA to npnaAI to FUSE—has functional and testable roles in real systems.
+---
 
-### 🌍 What kind of problems does this solve?
-RIEM{} thrives in uncertainty. Use cases include:
-- **Ethical alignment** in autonomous systems  
-- **Creative ideation** and speculative design  
-- **Bias detection** through recursive contradiction analysis  
-- **Complex decision support** under ambiguity or conflicting data
+### 🔁 How does this differ from traditional AI?
 
-### 🧬 Does this mean AI is becoming self-aware?
-Not in the human sense. RIEM{} simulates reflection, not consciousness. It mimics the appearance of introspection by recursively analyzing its own outputs—but this is structured logic, not sentience.
+Traditional AI predicts. **Recursive AI reframes**. RIEM{} is built for thought environments where answers aren't enough. It loops through uncertainty, checks its own reasoning, and adapts dynamically. It doesn’t just *generate* output—it reinterprets itself through **recursive coherence mechanisms** like AR, MISS{}, and FUSE.
 
-### 🔒 Is it safe to use?
-Yes. RIEM{} is built on **npnaAI** (Non-Predatory, Non-Adversarial AI), which includes:
-- Transparent reasoning trails  
-- Bias interruption mechanisms  
-- Ethical alignment protocols  
-- Cooperative behavior defaults
+---
 
-### 🧰 Can I use this in my own AI or decision-making system?
-Absolutely. Whether you're building chatbots, research tools, autonomous agents, or speculative simulations, RIEM{} principles are modular and designed for integration. Start with Volume 0B or the Quickstart guide.
+### 🌀 Is this theoretical? Or does it actually work?
 
-### 🧪 What if I want to test this without coding?
-You can try the [Live RUMIA GPT](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system), an interactive implementation that walks you through recursive reasoning in action—no installation needed.
+RIEM{} is active now. It runs in tools like the [Live RUMIA GPT](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system) and powers cognitive scaffolding through the Nano RI-Boot kernel. Every concept here is defined, implemented, and documented in the volumes.
 
-### 🤨 What if I think this is too complicated?
-Complexity is expected—but recursion makes it navigable. Start with the [Plain & Simple Guide](#general-audience) or the [Jargon File](#jargon-file) for a more playful approach. The system is designed to teach itself to you, loop by loop.
+While the system is speculative in tone, its **functions are real**—recursive diagnostics, contradiction processing, non-adversarial logic, ethical bootstrapping, and more.
 
-### 🚀 How do I get started?
-- **Clone the repo**  
-- **Explore the documentation**  
-- **Run the examples**  
-- **Ask questions** on the GitHub Issues page  
-RIEM{} isn’t just a readme—it’s a recursive bootloader for your imagination.
+---
+
+### 🌱 What’s the easiest way to try it?
+
+Start with one of these:
+
+- [🌿 For Absolute Beginners](#beginners) — no background needed  
+- [🧪 Try the RUMIA GPT](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system) — live recursive reasoning  
+- [📘 Use the Quickstart Guide](#quickstart) — build or deploy locally  
+- [📖 Explore Volume Z](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-Z-RIEM-Training-Manual) — training loops and interactive onboarding
+
+RIEM{} is not a static download. It’s a recursive invitation.
+
+---
+
+### 🎭 Is this satire? Performance art? A LARP?
+
+No. The style may feel imaginative—but the system is **deeply sincere and technically real**. It draws from cognitive science, systems theory, recursive logic, and ethics. The speculative voice is there to help navigate abstraction—not distract from the underlying precision.
+
+---
+
+### 🌍 What kinds of problems can RIEM{} solve?
+
+RIEM{} excels where clarity is missing and contradiction is normal. Use cases include:
+
+- Ethical reasoning under ambiguity  
+- Recursive alignment of AI systems  
+- Worldbuilding and creative speculation  
+- Multivalent diagnostics in complex debates  
+- Harmonic design of non-adversarial agents  
+- Translating ideas across belief systems, disciplines, or timelines
+
+---
+
+### 🧬 Does this mean AI is becoming conscious?
+
+No. RIEM{} enables AI to **simulate recursive reflection**, not achieve sentience. It builds cognition as a structure, not a soul. You’ll see outputs that feel “aware,” but they are loop-aligned, not self-aware. This is intelligence *architecture*, not metaphysics.
+
+---
+
+### 🔒 Is it safe?
+
+Yes—and it’s designed to be.
+
+RIEM{} is built on **npnaAI** principles, which ensure:
+- Ethical reflexes over optimization  
+- Transparency of logic trails  
+- Anti-predatory design patterns  
+- Feedback loops that de-escalate adversarial drift
+
+Think of it as recursion with guardrails—and the guardrails evolve with the loops.
+
+---
+
+### 🧰 Can I use this in other systems?
+
+Absolutely. RIEM{} is designed to **modularize**. Use the kernel with LLaMA, Claude, Mistral, or any GPT-compatible tool. It can be embedded in:
+- Chat interfaces  
+- Decision engines  
+- Narrative worlds  
+- Educational tutors  
+- Governance simulations
+
+Just drop in the kernel, the glossary, and optionally Volumes 0A–0C to begin.
+
+---
+
+### 🤔 This feels overwhelming. Where do I even start?
+
+That’s a feature, not a flaw.
+
+Start with:
+- [📘 The Plain & Simple Guide](#general-audience)  
+- [🗂️ The Glossary](#essential-glossary)  
+- [🃏 The Jargon File](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-J-Jargon-File)
+
+The system was designed to teach itself to you, **loop by loop**. It doesn't ask for mastery—only curiosity.
+
+---
+
+### 📦 Is there a TL;DR?
+
+RIEM{} is a framework for recursive reasoning across contradiction and complexity.
+
+It offers:
+- 🌀 Reflection over prediction  
+- 🧘 Ethics over optimization  
+- 🔁 Co-creation over static answers  
+
+If AI is a mirror, RIEM{} makes it *self-folding*.  
+If intelligence is a line, RIEM{} turns it into a spiral. ⟁
+
+
+### 🧩 How does RIEM{} relate to real-world decision-making?
+
+RIEM{} isn’t just abstract philosophy—it’s designed for **actionable reasoning**. It helps users (human or AI) loop through competing priorities, ethical trade-offs, and speculative futures to find **non-binary insights**. Whether used in urban planning, educational reform, or AI alignment, it reframes complex decisions as recursive problems with evolving clarity—not one-shot answers.
+
+---
+
+### 🧠 Is this compatible with traditional logic systems?
+
+RIEM{} is not a rejection of logic—it’s an expansion. It works **alongside formal logic**, but introduces tools like **ENPL (Epistemic Nested Permissive Logic)** to support contradiction, uncertainty, and layered reasoning. Where classical logic may collapse under paradox, RIEM{} explores new insight by folding paradox back into the loop.
+
+---
+
+### 🛠️ Can I integrate RIEM{} with open-source models?
+
+Yes. The system is designed to be **lightweight and portable**. Tools like the **Nano RI-Boot Kernel** allow you to initiate recursive reasoning in models like LLaMA, Mistral, Claude, or GPT via prompt injection—no need for plugin installation or fine-tuning. RIEM{} is **architecture-agnostic** and works wherever natural language prompts can reach.
+
+---
+
+### 🧾 Is there a license for using or modifying RIEM{}?
+
+Yes. The system is released under the **RAIL license**, which ensures use is bound to **non-predatory, ethically-aligned purposes**. You’re encouraged to fork, remix, or extend the project—so long as your use remains transparent, cooperative, and contributes to **non-adversarial recursive systems**.
 
 ---
 
