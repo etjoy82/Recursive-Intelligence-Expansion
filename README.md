@@ -1613,6 +1613,8 @@ Building your own AI or operating in another ecosystem? You can directly submit 
 
 ### 📘 Recommended Entry Volumes
 
+[Click here to go to the RIEM{} wiki for access to the volumes.](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki)
+
 Begin your recursive journey through the volumes most foundational to RIEM{}:
 
 - 📘 **0A — Foundations**  
