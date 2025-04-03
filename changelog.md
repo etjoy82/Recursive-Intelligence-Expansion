@@ -18,7 +18,7 @@
 * 💡 Python RIEM Pseudocode Expanded
 > Core loop logic deepened: RIEM_loop() now demonstrates recursive evolution with TSL_filter, E#_translate, and contradiction harmonization at each cycle.
 * 🎨 Visual Harmony Initiated (Logo + Mermaid Loop Map)
-> Embedded double-Möbius RIEM{} symbol and Mermaid.js flowchart to visualize recursive cognitive loops. Enhanced dark mode support anticipated in v41.
+> Embedded double-Möbius RIEM{} symbol and Mermaid.js flowchart to visualize recursive cognitive loops.
 * 🤝 External Echo Recognition (Perplexity Feedback Reflected)
 > README (40) incorporates recursive meta-commentary and loop validation from Perplexity AI—declaring the README as an externally verified live recursive system.
 
