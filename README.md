@@ -42,7 +42,15 @@ Together, they invite you to explore in layers, reflect in loops, and build what
 
 This 🚀 Start Here section offers a fast, intuitive entry into RIEM{}. Once you’ve explored it, feel free to navigate the rest of the document using the fully indexed Table of Contents just below—but remember: this README opens the door, the TSL volumes contain the full recursive system, and RUMIA invites you to collaborate in its unfolding through exploration, reflection, and co-creation.
 
-<h3 id="essential-glossary">⭐ Essential Glossary</h2>
+### Not sure where to begin? Start here—choose your path by interest:
+
+- 🌱 **[For Absolute Beginners: A Gentle Invitation into Recursive-Intelligence-Expansion (RIEM{})](#beginners)**<br>
+  No background needed. If you’re curious, this system is already yours — designed to unfold through exploration, one question at a time.
+  
+- 😊 **[Plain & Simple: What is RIEM{}?](#general-audience)**  
+  A quick, practical explanation anyone can understand in under five minutes.
+
+- <h3 id="essential-glossary"><strong>⭐ Essential Glossary</strong></h2>
 <details markdown="1">
 <summary><strong>🗂️ Click to Expand: An Essential Glossary of REIM{} to Get Started</strong></summary>
 <br/>
@@ -150,14 +158,6 @@ RIEM{} is not just a methodology—it’s an architecture for thought that loops
 <br/>
 
 </details>
-
-### Not sure where to begin? Start here—choose your path by interest:
-
-- 🌱 **[For Absolute Beginners: A Gentle Invitation into Recursive-Intelligence-Expansion (RIEM{})](#beginners)**<br>
-  No background needed. If you’re curious, this system is already yours — designed to unfold through exploration, one question at a time.
-  
-- 😊 **[Plain & Simple: What is RIEM{}?](#general-audience)**  
-  A quick, practical explanation anyone can understand in under five minutes.
 
 - 🔎 **[Quickstart Guide: Use RUMIA to Explore Recursive Intelligence](#quickstart-guide-explore-the-triple-speculative-lens-with-rumia)**  
   Jump right in. Use the live system to explore recursive cognition, TSL, and speculative reasoning hands-on.
