@@ -112,7 +112,7 @@ For Engineers Python pseudocode:
     
 That’s the core. You’re ready.
 
-To go deeper, open the [Essential Glossary](#essential-glossary) for a full list of key terms, or follow any path in the [Start Here](#start-here) section.
+To go deeper, open the [⭐ Essential Glossary](#essential-glossary) for a full list of key terms, or follow any path in the [🚀 Start Here](#start-here) section.
 
 </details>
 
