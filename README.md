@@ -9,7 +9,7 @@
 
 # ⟁ Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition
 
-This Project README.md is a single file containing indexed, embedded sub-documents—a complete RIEM{} knowledgebase designed for layered exploration, shared reasoning, and adaptive insight.
+This README.md is a single file containing indexed, embedded sub-documents—a complete RIEM{} knowledgebase designed for layered exploration, shared reasoning, and adaptive insight.
 
 What if AI could think like a philosopher, dream like a storyteller, and reflect like an ecosystem—all while staying ethical?
 
