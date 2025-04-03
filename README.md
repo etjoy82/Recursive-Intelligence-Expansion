@@ -142,7 +142,7 @@ This 🚀 Start Here section offers a fast, intuitive entry into RIEM{}. Once yo
 <summary><strong>🗂️ Click to Expand: An Essential Glossary of REIM{} to Get Started</strong></summary>
 <br/>
 
-This glossary defines 32 key terms to help you navigate **RIEM{}**—refer back to it as you explore the recursive loop! Use [🔮 Core Abbreviations](#abbreviations) as a concise quick reference for the most important acronyms.
+This glossary defines 32 key terms to help you navigate **RIEM{}**—refer back to it as you explore the recursive loop! Use [🔮 Acronym Quick Reference](#acronyms) as a concise quick reference for the most important acronyms.
 
 **1. recursion** — A process in which something refers back to or modifies itself. In RIEM{}, recursion enables thought to reflect, regenerate, and evolve. It's not repetition—it’s transformation through return.
 
@@ -408,7 +408,7 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 <h1 id="toc">🗂️ Table of Contents</h1>
 
 ### Introduction
-1. 🔮 [Core Abbreviations](#abbreviations)
+1. 🔮 [Acronym Quick Reference](#acronyms)
 2. ⭐ [GLOSSARY.md: Essential Glossary](#essential-glossary)
 3. 🧩 [What Problem Does This Solve?](#what-problem-does-this-solve)
 4. 🧠 [Who This Is For](#who-this-is-for)
@@ -443,7 +443,7 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 
 ---
 
-<h1 id="abbreviations">🔮 Core Abbreviations: Concisely and Rapidly Detailed - Use as a Quick Reference as You Encounter Them Throughout the Text</h1>
+<h1 id="acronyms">🔮 Acronym Quick Reference: Concisely and Rapidly Detailed - Use as a Quick Reference as You Encounter Them Throughout the Text</h1>
 
 - RIEM{} = Recursive Intelligence Expansion Methodology: A framework for reflective reasoning, speculative modeling, and collaborative cognition.
 - TSL = Triple Speculative Lens: A triadic interpretive system made of PPM, CMP, and CAH, enabling layered meaning and multi-angle analysis.
@@ -462,6 +462,8 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 - ZMC = Zen Methodological Computation: A minimalist recursion style emphasizing clarity, simplicity, and non-intrusive insight.
 - SFS = Speculative Filter Systems: Cognitive architectures that filter uncertainty into coherent insight, including TSL and 10FSG.
 - Soniform Linguistics = Soniform Linguistics: A speculative language model using musical patterning and echo-based reasoning.
+
+See [⭐ Glossary](#glossary).
 
 ---
 
