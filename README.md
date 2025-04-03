@@ -661,7 +661,7 @@ Rest when needed. Return when ready.
 
 ### 🌐 Next Steps
 
-Feeling curious? Dive deeper! Return to Start Here by [clicking here](#start-here).
+Feeling curious? Dive deeper!
 
 Remember: With RIEM{}, the loop never truly ends — because every question leads to another. And that’s where the fun begins.
 
