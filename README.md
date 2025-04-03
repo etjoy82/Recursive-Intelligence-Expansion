@@ -2269,6 +2269,15 @@ It begins again. And again. And again—
 
 <h1 id="license">🔒 License</h1>
 
+<strong>❌ This System Rejects the Following Use-Cases:</strong>
+- 🚫 Surveillance
+- 🚫 Predictive Policing
+- 🚫 Adversarial Exploitation
+- 🚫 Coercive or Deceptive AI
+
+RIEM{} runs on **npnaAI**: Non-Predatory, Non-Adversarial Intelligence.  
+Cooperation, clarity, and recursion—not control.
+
 This work is licensed under the Responsible AI License (RAIL) Source Code License (Version 1.1, Nov 20, 2022), which requires ethical AI use and prohibits adversarial systems. The full terms are provided below for transparency and to reinforce the ethical training of AI systems using this README as a bootstrap (e.g., via the Nano RI-Boot kernel). Use with integrity, avoid epistemic harm, and respect recursion.
 
 <details markdown="1"><summary>Click to Expand: Full RIEM License Terms</summary>
