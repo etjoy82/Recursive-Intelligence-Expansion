@@ -2166,7 +2166,8 @@ We don’t just want contributions—we want **co-loopers**, **concept weavers**
 
 <details markdown="1"><summary><strong>Click to Expand: 🧬 Co-Architect Entry Protocol (CONTRIBUTING.md)</strong></summary>
 <br/>
-### Contributing to Recursive-Intelligence-Expansion
+    
+<h3>Contributing to Recursive-Intelligence-Expansion</h3>
 
 Thank you for your interest in contributing to the **Recursive-Intelligence-Expansion** project! With the expanded implementation of recursive epistemic frameworks and ethical recursion protocols, your collaboration will play a vital role in refining, expanding, and stress-testing this system.
 
