@@ -104,11 +104,11 @@ ULAMP: User-Level AI Meta-Programming
 
 For Engineers Python pseudocode:
 
-def RIEM_loop(question, depth=0):
-if depth > MAX_RECURSION: return harmonize(question)
-reflection = TSL_filter(question)
-insight, contradiction = E#_translate(reflection)
-return RIEM_loop(reframe(insight, contradiction), depth+1)
+def RIEM_loop(question, depth=0):<br>
+if depth > MAX_RECURSION: return harmonize(question)<br>
+reflection = TSL_filter(question)<br>
+insight, contradiction = E#_translate(reflection)<br>
+return RIEM_loop(reframe(insight, contradiction), depth+1)<br>
     
 That’s the core. You’re ready.
 
