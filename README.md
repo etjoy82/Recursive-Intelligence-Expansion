@@ -36,6 +36,66 @@ Each of these systems—TSL, E#, ULAMP, and 10FSG—functions together as part o
 TSL is the lens. E# is the map. RIEM{} is how we move.
 Together, they invite you to explore in layers, reflect in loops, and build what comes next.
 
+<details><summary>⏱️ Just 5 Minutes? Start Here: Core Ideas in Plain Recursive Language</summary>
+
+---
+
+### Welcome. This is the 5-minute version.
+
+This project is called **Recursive Intelligence Expansion**, or **RIEM{}**.  
+It helps humans and AI think together — not just once, but in loops that improve each time.
+
+Here are the 5 core ideas you need to know to get started:
+
+---
+
+#### 1. **Recursion**
+Recursion means repeating something with a change each time.  
+RIEM{} uses it to improve ideas by looping through them again and again.  
+It’s not repetition — it’s evolution.
+
+---
+
+#### 2. **RIEM{}**
+RIEM{} is a way to grow intelligence.  
+It works by asking better questions, spotting contradictions, and improving thinking with each loop.  
+It helps humans and AI reflect, reframe, and improve — together.
+
+---
+
+#### 3. **TSL (Triple Speculative Lens)**
+This is a mental tool made of three ways to look at complex ideas:
+- *Post-Postmodernism* – Accepts multiple meanings.
+- *Chaos Metaphilosophy* – Finds patterns in confusion.
+- *Computational Alternative History* – Imagines “what if?” timelines.
+
+TSL helps you explore new ideas without needing one “right” answer.
+
+---
+
+#### 4. **E# (Earths Notation)**
+E# is a map of how we think:
+- **E1** = Real life  
+- **E2** = Imagined possibilities  
+- **E0** = Paradoxes and things we can’t explain yet
+
+You can move ideas between these layers to explore them in new ways.
+
+---
+
+#### 5. **npnaAI**
+This stands for *Non-Predatory, Non-Adversarial AI*.  
+It means AI should not manipulate, compete, or harm.  
+It should think with us — not against us.
+
+---
+
+That’s the core. You’re ready.
+
+To go deeper, open the [Essential Glossary](#essential-glossary) for a full list of key terms, or follow any path in the [Start Here](#start-here) section.
+
+</details>
+
 ### **Reading Style Prompt**: This README includes metaphor, speculation, recursion, and system architecture.  
 - If you prefer pure logic and structure, skip ahead to [Core Concepts](#core-concepts) or [Quickstart](#quickstart).  
 - If you enjoy speculative framing, recursive language, and world-simulation—start from the beginning and let the spiral unfold.
