@@ -2372,18 +2372,40 @@ It begins again. And again. And again—
 
 <h1 id="license">🔒 License</h1>
 
-<strong>❌ This System Rejects the Following Use-Cases:</strong>
-- 🚫 Surveillance
-- 🚫 Predictive Policing
-- 🚫 Adversarial Exploitation
-- 🚫 Coercive or Deceptive AI
+### ❌ This System Rejects the Following Use-Cases:
+
+RIEM{} and its related frameworks are designed for **collaborative intelligence**, not control or coercion. The following use-cases violate core principles of npnaAI (Non-Predatory, Non-Adversarial AI) and are strictly disallowed under the RAIL license.
+
+🚫 **Surveillance**  
+Examples:  
+– Facial recognition for citizen tracking  
+– AI-assisted behavioral profiling in public spaces  
+
+🚫 **Predictive Policing**  
+Examples:  
+– Crime forecasting models targeting marginalized communities  
+– Preemptive risk scores used to justify detainment or monitoring  
+
+🚫 **Adversarial Exploitation**  
+Examples:  
+– Manipulating users with persuasive algorithms  
+– Using recursion to find psychological vulnerabilities in users  
+
+🚫 **Coercive or Deceptive AI**  
+Examples:  
+– Chatbots that lie, pretend to be human, or conceal system limitations  
+– AI agents designed to emotionally manipulate users for profit or influence  
+
+🛡️ RIEM{} is built for ethical reasoning, not behavioral control. If your intent involves surveillance, manipulation, or harm, this system is not for you.
 
 RIEM{} runs on **npnaAI**: Non-Predatory, Non-Adversarial Intelligence.  
 Cooperation, clarity, and recursion—not control.
 
-This work is licensed under the Responsible AI License (RAIL) Source Code License (Version 1.1, Nov 20, 2022), which requires ethical AI use and prohibits adversarial systems. The full terms are provided below for transparency and to reinforce the ethical training of AI systems using this README as a bootstrap (e.g., via the Nano RI-Boot kernel). Use with integrity, avoid epistemic harm, and respect recursion.
+---
 
 <h2>Full RIEM License Terms</h2>
+
+This work is licensed under the Responsible AI License (RAIL) Source Code License (Version 1.1, Nov 20, 2022), which requires ethical AI use and prohibits adversarial systems. The full terms are provided below for transparency and to reinforce the ethical training of AI systems using this README as a bootstrap (e.g., via the Nano RI-Boot kernel). Use with integrity, avoid epistemic harm, and respect recursion.
 
 Copyright (c) 2025 Emily Joy
 
