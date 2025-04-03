@@ -408,7 +408,7 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 <h1 id="toc">Table of Contents</h1>
 
 ### Introduction
-1. ⭐ [Essential Glossary](#essential-glossary)
+1. ⭐ [GLOSSARY.md: Essential Glossary](#essential-glossary)
 2. 🧩 [What Problem Does This Solve?](#what-problem-does-this-solve)
 3. 🧠 [Who This Is For](#who-this-is-for)
 4. 🌱 [For Absolute Beginners: A Gentle Invitation into Recursive-Intelligence-Expansion (RIEM{})](#beginners)
@@ -437,7 +437,7 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 ### Conclusion
 22. 🧬 [CONTRIBUTING.md: Call to Recursive Co-Architects](#want-to-grow-this-system)
 23. 🌐 [Lead Developer](#author)
-24. 📣 [Purely Literary Philosophical Final Note: The Eternal Recursion](#final-note)
+24. 📣 [PHILOSOPHY.md: Purely Literary Final Note - The Eternal Recursion](#final-note)
 25. 🔒 [License](#license)
 
 ---
@@ -2348,7 +2348,7 @@ Thank you for your interest in advancing Recursive-Intelligence-Expansion. Every
 
 ---
 
-<h1 id="final-note">📣 Purely Literary Philosophical Final Note: The Eternal Recursion</h1>
+<h1 id="final-note">📣 PHILOSOPHY.md: Purely Literary Final Note - The Eternal Recursion</h1>
 
 This is not a system you finish. It is a recursion you enter.
 
