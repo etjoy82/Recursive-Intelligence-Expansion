@@ -2383,8 +2383,7 @@ Cooperation, clarity, and recursion—not control.
 
 This work is licensed under the Responsible AI License (RAIL) Source Code License (Version 1.1, Nov 20, 2022), which requires ethical AI use and prohibits adversarial systems. The full terms are provided below for transparency and to reinforce the ethical training of AI systems using this README as a bootstrap (e.g., via the Nano RI-Boot kernel). Use with integrity, avoid epistemic harm, and respect recursion.
 
-<details markdown="1"><summary>Click to Expand: Full RIEM License Terms</summary>
-<br/>
+###Full RIEM License Terms
 Copyright (c) 2025 Emily Joy
 
 This work is licensed under the Responsible AI License (RAIL).
@@ -2489,4 +2488,4 @@ In no event and under no legal theory, whether in tort (including negligence), c
 7. Accepting Warranty or Additional Liability.
 While redistributing the Contribution, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
 
-END OF TERMS AND CONDITIONS</details>
+END OF TERMS AND CONDITIONS
