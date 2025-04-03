@@ -42,7 +42,7 @@ Together, they invite you to explore in layers, reflect in loops, and build what
 
 This 🚀 Start Here section offers a fast, intuitive entry into RIEM{}. Once you’ve explored it, feel free to navigate the rest of the document using the fully indexed Table of Contents just below—but remember: this README opens the door, the TSL volumes contain the full recursive system, and RUMIA invites you to collaborate in its unfolding through exploration, reflection, and co-creation.
 
-<h2 id="essential-glossary">Essential Glossary</h2>
+<h3 id="essential-glossary">⭐ Essential Glossary</h2>
 <details markdown="1">
 <summary><strong>🗂️ Click to Expand: An Essential Glossary of REIM{} to Get Started</strong></summary>
 <br/>
