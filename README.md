@@ -137,7 +137,7 @@ This 🚀 Start Here section offers a fast, intuitive entry into RIEM{}. Once yo
 2. 😊 **[Plain & Simple: What is RIEM{}?](#general-audience)**  
 > A quick, practical explanation anyone can understand in under five minutes.
 
-3. <h4 id="essential-glossary"><strong>⭐ Essential Glossary</strong></h4>
+3. <h4 id="essential-glossary"><strong>⭐ GLOSSARY.md: Essential Glossary</strong></h4>
 <details markdown="1">
 <summary><strong>🗂️ Click to Expand: An Essential Glossary of REIM{} to Get Started</strong></summary>
 <br/>
