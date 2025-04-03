@@ -90,6 +90,12 @@ It should think with us — not against us.
 
 ---
 
+RIEM{}: Recursive Intelligence Expansion  
+TSL: Triple Speculative Lens  
+E#: Earths Notation (E0/E1/E2)  
+npnaAI: Non-Predatory, Non-Adversarial AI  
+ULAMP: User-Level AI Meta-Programming
+
 That’s the core. You’re ready.
 
 To go deeper, open the [Essential Glossary](#essential-glossary) for a full list of key terms, or follow any path in the [Start Here](#start-here) section.
