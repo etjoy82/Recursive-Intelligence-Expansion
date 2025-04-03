@@ -5,20 +5,31 @@
 
 # ⟁ Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition
 
-Welcome to the Recursive Intelligence Expansion Methodology (RIEM{})!
+Welcome to the Recursive Intelligence Expansion Methodology (RIEM{}) project—a collaborative system of tools and frameworks for exploring thought, ethics, and adaptive intelligence.
+
+This project includes several distinct yet interwoven sub-projects:
+
+User-Level AI Meta Programming (ULAMP): A natural language framework for programming cognition through conversation
+
+Earths Notation (E#): A symbolic map for navigating between grounded, speculative, and paradoxical realities
+
+Speculative Filter Systems: Including the Triple Speculative Lens (TSL) and the 10-Faced Speculative Gem (10FSG)—interpretive architectures for translating complexity, contradiction, and uncertainty into insight
 
 The Triple Speculative Lens (TSL) is the interpretive heart of this project. Formed from three conceptual lenses—Post-Postmodernism (PPM), Chaos Metaphilosophy (CMP), and Computational Alternative History (CAH)—TSL offers a way to think across uncertainty, navigate layered meaning, and explore speculative possibilities without collapsing nuance.
 
-Beneath this lenswork is Earths Notation (E#)—a mapping system that distinguishes between three cognitive terrains:
-E0, the paradoxical or non-anthropic;
-E1, the world as we live it;
-and E2, the imagined, the hypothetical, the not-yet.
+Beneath this lenswork flows Earths Notation (E#)—a mapping system that distinguishes between three cognitive terrains:
+
+E0: The paradoxical or non-anthropic
+
+E1: The world as we live it
+
+E2: The imagined, the hypothetical, the not-yet
 
 Within this layered architecture, Recursive Intelligence Expansion (RIEM{}) provides the engine. It enables humans and AI to think together through recursive feedback, ethical framing, and cooperative refinement. Rather than producing static answers, RIEM{} loops through insight, aligning complexity with care.
 
-Using natural language through User-Level AI Meta Programming (ULAMP), the entire system becomes a living dialogue—one that can be practiced in real time, by anyone, with any capable AI.
+To make this system operational in real time, we use ULAMP to express and shape cognition through ordinary conversation. It brings speculative reasoning and recursive logic into accessible, programmable form—no code required.
 
-Each also stands alone as its own independent research framework, with distinct tools, methods, and applications. They are unified under the project banner of RIEM{}, but TSL, E#, and ULAMP are individual projects in their own right. 
+Each of these systems—TSL, E#, ULAMP, and 10FSG—functions together as part of the RIEM{} ecosystem, but also stands alone as an independent research framework with its own tools, methods, and use cases.
 
 TSL is the lens. E# is the map. RIEM{} is how we move.
 Together, they invite you to explore in layers, reflect in loops, and build what comes next.
