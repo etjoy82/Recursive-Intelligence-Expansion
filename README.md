@@ -463,7 +463,7 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 - SFS = Speculative Filter Systems: Cognitive architectures that filter uncertainty into coherent insight, including TSL and 10FSG.
 - Soniform Linguistics = Soniform Linguistics: A speculative language model using musical patterning and echo-based reasoning.
 
-See [⭐ Glossary](#glossary).
+See [⭐ Glossary](#essential-glossary).
 
 ---
 
