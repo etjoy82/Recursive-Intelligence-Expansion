@@ -1650,9 +1650,9 @@ Note: On mobile devices, this table may require horizontal scrolling.
 
 ### Access the Volumes in Multiple Formats
 - GitHub Repository Wiki: Browse the volumes in a navigable wiki format on the [RIEM{} Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki).
-- DOCX: Download polished DOCX files in the [folder](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/riem-system-volumes/volumes-as-docx) or as a [ZIP](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/riem-system-volumes/Complete%20TSL%20System%20in%20Source%20Word%20Documents%2003-31-2025.zip).
-- Markdown: Access raw Markdown files in the [folder](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/riem-system-volumes/volumes-as-markdown).
-- HTML: View raw source or download in the [folder](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/riem-system-volumes/volumes-as-hypertext).
+- DOCX: Download polished DOCX files in the [folder](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/docs/wiki-source-files/volumes-as-docx) or as a [ZIP](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/docs/wiki-source-files/Complete%20TSL%20System%20in%20Source%20Word%20Documents%2003-31-2025.zip).
+- Markdown: Access raw Markdown files in the [folder](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/docs/wiki-source-files/volumes-as-markdown).
+- HTML: View raw source or download in the [folder](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/docs/wiki-source-files/volumes-as-hypertext).
 
 ---
 
