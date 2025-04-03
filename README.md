@@ -18,7 +18,7 @@ Within this layered architecture, Recursive Intelligence Expansion (RIEM{}) prov
 
 Using natural language through User-Level AI Meta Programming (ULAMP), the entire system becomes a living dialogue—one that can be practiced in real time, by anyone, with any capable AI.
 
-Each of these technologies operates together and independently. They are unified under the project banner of RIEM{}, but TSL, E#, and ULAMP are individual projects in their own right.
+Each also stands alone as its own independent research framework, with distinct tools, methods, and applications. They are unified under the project banner of RIEM{}, but TSL, E#, and ULAMP are individual projects in their own right. 
 
 TSL is the lens. E# is the map. RIEM{} is how we move.
 Together, they invite you to explore in layers, reflect in loops, and build what comes next.
