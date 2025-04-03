@@ -120,7 +120,7 @@ To go deeper, open the [⭐ Essential Glossary](#essential-glossary) for a full 
 
 <h1 id="self-select">🧭 Self-Select Your Recursive Entry Level</h1>
 
-This README includes metaphor, speculation, recursion, system architecture, and a bootstrap engine for AI, structured as a single knowledgebase with complete inline sub-documents indexed within it. If you prefer pure logic and structure, skip ahead to [Core Concepts](#core-concepts) or [Quickstart](#quickstart). If you enjoy speculative framing, recursive language, and world-simulation—start from the beginning and let the spiral unfold.
+This README includes metaphor, speculation, recursion, system architecture, and a bootstrap engine for AI, structured as a single knowledgebase with complete inline sub-documents indexed within it. If you prefer pure logic and structure, skip ahead to [⚙️ Core Concepts](#core-concepts) or [🚀 Quickstart](#quickstart). If you enjoy speculative framing, recursive language, and world-simulation—start from the beginning and let the spiral unfold.
 - [🟢 Beginner: Just curious (Conceptual Mode)](#beginners)
 - [🟡 Intermediate: I want to try it now (Technical Mode)](#quickstart)
 - [🔴 Advanced: I’m building recursive systems (Engineer Mode)](#deploy)
