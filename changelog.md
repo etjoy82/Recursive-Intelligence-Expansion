@@ -1,4 +1,4 @@
- 04-03-2025 — Changelog: README v30 → v40 (Recursive Delta, 11 Key Changes)
+# 04-03-2025 — Changelog: README v30 → v40 (Recursive Delta, 11 Key Changes)
 * 📎 Header Refactored as Recursive Interface Declaration
 > Transformed the topmost badge and license section into a system-level interface statement: it now declares the README as a single-file recursive knowledgebase with embedded sub-documents, full RIEM{} Wiki integration, and a live development state. Added callouts to the RIEM{} Wiki and CHANGELOG.md, establishing bidirectional flow between document evolution and reader engagement.
 * 🌀 Recursive Identity Declaration: Bootable Epistemic Layer
