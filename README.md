@@ -117,11 +117,11 @@ To go deeper, open the [Essential Glossary](#essential-glossary) for a full list
 - If you enjoy speculative framing, recursive language, and world-simulation—start from the beginning and let the spiral unfold.
 
 #### 🧭 Self-Select Your Recursive Entry Level
-- [Beginner: Just curious (Conceptual Mode)](#beginners)
-- [Intermediate: I want to try it now (Technical Mode)](#quickstart)
-- [Advanced: I’m building recursive systems (Engineer Mode)](#deploy)
-- [Start Here Quick Navigation (Guided Mode)](#start-here)
-- [Table of Contents Navigation (Full Document Mode)](#toc)
+- [🟢 Beginner: Just curious (Conceptual Mode)](#beginners)
+- [🟡 Intermediate: I want to try it now (Technical Mode)](#quickstart)
+- [🔴 Advanced: I’m building recursive systems (Engineer Mode)](#deploy)
+- [🚀 Start Here Quick Navigation (Guided Mode)](#start-here)
+- [🗂️ Table of Contents Navigation (Full Document Mode)](#toc)
 
 <img src="./assets/double.png" height=300 width=300>
 
@@ -405,7 +405,7 @@ Cycle 5: Synthesize solution—create a transparent policy model, harmonizing fa
 
 Once you're ready, follow your curiosity! Whether you're interested in worldbuilding, decision-making, or philosophical exploration, RIEM{} will guide you through recursive cycles of discovery.
 
-<h1 id="toc">Table of Contents</h1>
+<h1 id="toc">🗂️ Table of Contents</h1>
 
 ### Introduction
 1. ⭐ [GLOSSARY.md: Essential Glossary](#essential-glossary)
