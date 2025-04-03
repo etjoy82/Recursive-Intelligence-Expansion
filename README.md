@@ -50,7 +50,7 @@ This 🚀 Start Here section offers a fast, intuitive entry into RIEM{}. Once yo
 - 😊 **[Plain & Simple: What is RIEM{}?](#general-audience)**  
   A quick, practical explanation anyone can understand in under five minutes.
 
-- <h3 id="essential-glossary"><strong>⭐ Essential Glossary</strong></h2>
+- <h4 id="essential-glossary"><strong>⭐ Essential Glossary</strong></h2>
 <details markdown="1">
 <summary><strong>🗂️ Click to Expand: An Essential Glossary of REIM{} to Get Started</strong></summary>
 <br/>
