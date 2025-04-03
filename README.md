@@ -52,7 +52,7 @@ This 🚀 Start Here section offers a fast, intuitive entry into RIEM{}. Once yo
 
 3. <h4 id="essential-glossary"><strong>⭐ Essential Glossary</strong></h4>
 <details markdown="1">
-> <summary><strong>🗂️ Click to Expand: An Essential Glossary of REIM{} to Get Started</strong></summary>
+<summary><strong>🗂️ Click to Expand: An Essential Glossary of REIM{} to Get Started</strong></summary>
 <br/>
 
 This glossary defines 32 key terms to help you navigate **RIEM{}**—refer back to it as you explore the recursive loop!
