@@ -1,11 +1,7 @@
-<font size="1">[![License: RAIL](https://img.shields.io/badge/License-RAIL-important)](https://www.licenses.ai/)
-[RAIL Licensed Project: Requires ethical use, bans adversarial systems](#license)
+[![License: RAIL](https://img.shields.io/badge/License-RAIL-important)](https://www.licenses.ai/)
+<font size="2">[RAIL Licensed Project: Requires ethical use, bans adversarial systems](#license)</font>
 
-<strong>This is an open-source project. To contribute, visit the [GitHub repository](https://github.com/etjoy82/recursive-intelligence-expansion).</font>
-
-🌐 Join the community on [Discord](https://discord.gg/JCKJHGTq).
-
-Document structure: This README.md is a single file containing indexed, embedded sub-documents—a complete RIEM{} knowledgebase designed for layered exploration, shared reasoning, and adaptive insight.</span>
+<font size="2"><strong>This is an open-source project. To contribute, visit the [GitHub repository](https://github.com/etjoy82/recursive-intelligence-expansion). 🌐 Join the community on [Discord](https://discord.gg/JCKJHGTq). Document structure: This README.md is a single file containing indexed, embedded sub-documents—a complete RIEM{} knowledgebase designed for layered exploration, shared reasoning, and adaptive insight.</font>
 
 <p align="center"><img src="./assets/double.png" height=150 width=150 ></p>
 
