@@ -42,9 +42,9 @@ Together, they invite you to explore in layers, reflect in loops, and build what
 
 ---
 
-<details><summary>⏱️ Just 5 Minutes? Start Here: Core Ideas in Plain Recursive Language</summary>
+<details markdown=1><summary>⏱️ Just 5 Minutes? Start Here: Core Ideas in Plain Recursive Language</summary>
 
----
+<br/>
 
 ### Welcome. This is the 5-minute version.
 
