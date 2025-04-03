@@ -132,7 +132,7 @@ This README includes metaphor, speculation, recursion, system architecture, and 
 
 <h1 id="start-here">🚀 Start Here: Easy Onboarding Navigation Path of the Table of Contents</h1>
 
-This 🚀 Start Here section offers a fast, intuitive entry into RIEM{}. Once you’ve explored it, feel free to navigate the rest of the document using the fully indexed [Table of Contents](#toc)—but remember: this README opens the door, the TSL volumes contain the full recursive system, and RUMIA invites you to collaborate in its unfolding through exploration, reflection, and co-creation.
+This 🚀 Start Here section offers a fast, intuitive entry into RIEM{}. Once you’ve explored it, feel free to navigate the rest of the document using the fully indexed [🗂️ Table of Contents](#toc)—but remember: this README opens the door, the TSL volumes contain the full recursive system, and RUMIA invites you to collaborate in its unfolding through exploration, reflection, and co-creation.
 
 ### Not sure where to begin? Start here—choose your path by interest:
 
