@@ -159,6 +159,8 @@ RIEM{} is not just a methodology—it’s an architecture for thought that loops
 
 </details>
 
+<br>
+
 - ❓ **[Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)**
   All your questions about RIEM{}, answered concisely! 
 
