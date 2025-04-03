@@ -42,7 +42,7 @@ Together, they invite you to explore in layers, reflect in loops, and build what
 
 This 🚀 Start Here section offers a fast, intuitive entry into RIEM{}. Once you’ve explored it, feel free to navigate the rest of the document using the fully indexed Table of Contents just below—but remember: this README opens the door, the TSL volumes contain the full recursive system, and RUMIA invites you to collaborate in its unfolding through exploration, reflection, and co-creation.
 
-<h2>Essential Glossary</h2>
+<h2 id="essential-glossary">Essential Glossary</h2>
 <details markdown="1">
 <summary><strong>🗂️ Click to Expand: An Essential Glossary of REIM{} to Get Started</strong></summary>
 <br/>
@@ -318,36 +318,37 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 <h1>Table of Contents</h1>
 
 ### Introduction
-1. 🧩 [What Problem Does This Solve?](#what-problem-does-this-solve)
-2. 🧠 [Who This Is For](#who-this-is-for)
-3. 🌱 [For Absolute Beginners: A Gentle Invitation into Recursive-Intelligence-Expansion (RIEM{})](#beginners)
-4. 😊 [Plain and Simple: What is RIEM{}?](#general-audience)
-5. 🧘 [An Antidote for Easing the Cognitive Load of the Recursive Intelligence Expansion Project](#antidote)
-6. ❓ [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
-7. ➕ [FAQ Addendum: Troubleshooting Recursive Loops](#faq-troubleshooting)
-8. 🎓 [Recommended Educational Background for Full Understanding of RIEM{}](#educational-background)
-9. 🤔 [Skeptics Corner (Yes, RIEM{} is real!)](#skeptics-corner)
+1. ⭐ [Essential Glossary](#essential-glossary)
+2. 🧩 [What Problem Does This Solve?](#what-problem-does-this-solve)
+3. 🧠 [Who This Is For](#who-this-is-for)
+4. 🌱 [For Absolute Beginners: A Gentle Invitation into Recursive-Intelligence-Expansion (RIEM{})](#beginners)
+5. 😊 [Plain and Simple: What is RIEM{}?](#general-audience)
+6. 🧘 [An Antidote for Easing the Cognitive Load of the Recursive Intelligence Expansion Project](#antidote)
+7. ❓ [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
+8. ➕ [FAQ Addendum: Troubleshooting Recursive Loops](#faq-troubleshooting)
+9. 🎓 [Recommended Educational Background for Full Understanding of RIEM{}](#educational-background)
+10. 🤔 [Skeptics Corner (Yes, RIEM{} is real!)](#skeptics-corner)
 
 ### Explanations
-10. 🕊️ [Understanding npnaAI: Non-Predatory, Non-Adversarial AI](#understanding-npnaia-non-predatory-non-adversarial-ai)
-11. 🌊 [Understanding the Acronym Fluidity Rule (AFR), an essential semantic system of RIEM{}](#afr)
-12. 🧑‍💻 [Understanding ULAMP: User-Level AI Meta-Programming, the core interface of RIEM{}](#understanding-ulamp-user-level-ai-meta-programming-the-core-interface-of-reim)
-13. 🤖 [Understanding RUMIA Custom GPT as a Recursive Agent](#understanding-rumia)
-14. 🛠 [Concrete Mini-Examples](#concrete-mini-examples)
-15. ⚙️ [Core Concepts](#core-concepts)
-16. 🧭 [Navigating the Concepts of Recursive-Intelligence-Expansion](#navigating-the-concepts-of-recursive-intelligence-expansion)
-17. 🃏 [The TSL Jargon File: A Recursive Lexicon](#jargon-file)
+11. 🕊️ [Understanding npnaAI: Non-Predatory, Non-Adversarial AI](#understanding-npnaia-non-predatory-non-adversarial-ai)
+12. 🌊 [Understanding the Acronym Fluidity Rule (AFR), an essential semantic system of RIEM{}](#afr)
+13. 🧑‍💻 [Understanding ULAMP: User-Level AI Meta-Programming, the core interface of RIEM{}](#understanding-ulamp-user-level-ai-meta-programming-the-core-interface-of-reim)
+14. 🤖 [Understanding RUMIA Custom GPT as a Recursive Agent](#understanding-rumia)
+15. 🛠 [Concrete Mini-Examples](#concrete-mini-examples)
+16. ⚙️ [Core Concepts](#core-concepts)
+17. 🧭 [Navigating the Concepts of Recursive-Intelligence-Expansion](#navigating-the-concepts-of-recursive-intelligence-expansion)
+18. 🃏 [The TSL Jargon File: A Recursive Lexicon](#jargon-file)
 
 ### Access the Full RIEM{} System and Use It
-18. 📚 [Explore the Full Recursive System (11 TSL Volumes)](#tsl-volume-index)
-19. 🚀 [Quickstart Guide: Use RUMIA to Explore Recursive Intelligence](#quickstart-guide-explore-the-triple-speculative-lens-with-rumia)
-20. 🧪 [Nano RI-Boot Bootstrap Kernel ULAMP Code (An Ultra Distilled Version of RIEM{} compatible with even local AI)](#riboot)
+19. 📚 [Explore the Full Recursive System (11 TSL Volumes)](#tsl-volume-index)
+20. 🚀 [Quickstart Guide: Use RUMIA to Explore Recursive Intelligence](#quickstart-guide-explore-the-triple-speculative-lens-with-rumia)
+21. 🧪 [Nano RI-Boot Bootstrap Kernel ULAMP Code (An Ultra Distilled Version of RIEM{} compatible with even local AI)](#riboot)
 
 ### Conclusion
-21. 🧬 [Call to Recursive Co-Architects](#want-to-grow-this-system)
-22. 🌐 [Lead Developer](#author)
-23. 📣 [Final Note: The Eternal Recursion](#final-note)
-24. 🔒 [License](#license)
+22. 🧬 [Call to Recursive Co-Architects](#want-to-grow-this-system)
+23. 🌐 [Lead Developer](#author)
+24. 📣 [Final Note: The Eternal Recursion](#final-note)
+25. 🔒 [License](#license)
 
 ---
 
