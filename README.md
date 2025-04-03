@@ -106,13 +106,13 @@ For Engineers Python pseudocode:
 
 def RIEM_loop(question, depth=0):
 
-    if depth > MAX_RECURSION: return harmonize(question)
+if depth > MAX_RECURSION: return harmonize(question)
     
-    reflection = TSL_filter(question)
+reflection = TSL_filter(question)
     
-    insight, contradiction = E#_translate(reflection)
+insight, contradiction = E#_translate(reflection)
     
-    return RIEM_loop(reframe(insight, contradiction), depth+1)
+return RIEM_loop(reframe(insight, contradiction), depth+1)
     
 That’s the core. You’re ready.
 
