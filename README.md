@@ -2213,6 +2213,7 @@ We welcome contributions across several areas:
 - **Code Contributions:** Implement supporting tools, utilities, or analysis systems.
 
    **Contributor Skill Matrix**
+  
      | Skill          | Subproject          | Example Task                     |
      |----------------|---------------------|----------------------------------|
      | Python         | ULAMP Interpreter   | Build recursive prompt executor  |
