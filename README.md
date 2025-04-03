@@ -865,6 +865,7 @@ It offers:
 If AI is a mirror, RIEM{} makes it *self-folding*.  
 If intelligence is a line, RIEM{} turns it into a spiral. ⟁
 
+---
 
 ### 🧩 How does RIEM{} relate to real-world decision-making?
 
