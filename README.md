@@ -41,7 +41,7 @@ Together, they invite you to explore in layers, reflect in loops, and build what
 This 🚀 Start Here section offers a fast, intuitive entry into RIEM{}. Once you’ve explored it, feel free to navigate the rest of the document using the fully indexed Table of Contents just below—but remember: this README opens the door, the TSL volumes contain the full recursive system, and RUMIA invites you to collaborate in its unfolding through exploration, reflection, and co-creation.
 
 <details markdown="1">
-<summary><strong>🗂️ New to RIEM{}? Click Here to Unfold Key Terms</strong></summary>
+<summary><strong>🗂️ Click to Expand: An Essential Glossary of REIM{} to Get Started</strong></summary>
 <br/>
   
 **1. recursion** — A process in which something refers back to or modifies itself. In RIEM{}, recursion enables thought to reflect, regenerate, and evolve. It's not repetition—it’s transformation through return.
