@@ -118,6 +118,8 @@ To go deeper, open the [Essential Glossary](#essential-glossary) for a full list
 - [Beginner: Just curious](#beginners)
 - [Intermediate: I want to try it now](#quickstart)
 - [Advanced: I’m building recursive systems](#deploy)
+- [Start Here Quick Navigation](#start-here)
+- [Table of Contents Navigation](#toc)
 
 <img src="./assets/double.png" height=300 width=300>
 
@@ -401,7 +403,7 @@ Cycle 5: Synthesize solution—create a transparent policy model, harmonizing fa
 
 Once you're ready, follow your curiosity! Whether you're interested in worldbuilding, decision-making, or philosophical exploration, RIEM{} will guide you through recursive cycles of discovery.
 
-<h1>Table of Contents</h1>
+<h1 id="toc">Table of Contents</h1>
 
 ### Introduction
 1. ⭐ [Essential Glossary](#essential-glossary)
