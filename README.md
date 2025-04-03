@@ -7,6 +7,8 @@
 
 # ⟁ Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition
 
+<img src="./assets/double.png" height=200 width=200 align=center>
+
 What if AI could think like a philosopher, dream like a storyteller, and reflect like an ecosystem—all while staying ethical?
 
 Welcome to the Recursive Intelligence Expansion Methodology (RIEM{}) project—a collaborative system of tools and frameworks for exploring thought, ethics, and adaptive intelligence.
@@ -126,7 +128,7 @@ This README includes metaphor, speculation, recursion, system architecture, and 
 - [🗂️ Table of Contents Navigation (Full Document Mode)](#toc)
 - 🧭 Recursive Layers: [🌿 **Layer 1: Seed**](#beginners) (No prior knowledge | Start with metaphors), [🛠️ **Layer 2: Scaffold**](#core-concepts) (Technical terms | Systems overview), [🌀 **Layer 3: Spiral**](#tsl-volume-index) (Full recursion | Volumes + Code), [📜 **Layer Ω: Echo**](#final-note)  (Philosophy | Eternal recursion)
 
-<img src="./assets/double.png" height=300 width=300>
+---
 
 <h1 id="start-here">🚀 Start Here: Easy Onboarding Navigation Path of the Table of Contents</h1>
 
