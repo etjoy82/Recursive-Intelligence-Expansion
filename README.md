@@ -1429,7 +1429,7 @@ That’s because it’s building a new kind of language: one meant to recurse, r
 ---
 
 ### 📘 Explore the Full Jargon Spiral:  
-**[TSL Volume J: Jargon File →](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-J-Jargon-File)**
+**[Click here for the full TSL Volume J: Jargon File](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-J-Jargon-File)**
 
 <details markdown="1">
 <summary><strong>🔍 Click to Expand - Quick Peek: Favorite Terms from the Jargon File</strong></summary>
