@@ -44,13 +44,13 @@ This 🚀 Start Here section offers a fast, intuitive entry into RIEM{}. Once yo
 
 ### Not sure where to begin? Start here—choose your path by interest:
 
-- 🌱 **[For Absolute Beginners: A Gentle Invitation into Recursive-Intelligence-Expansion (RIEM{})](#beginners)**<br>
+1. 🌱 **[For Absolute Beginners: A Gentle Invitation into Recursive-Intelligence-Expansion (RIEM{})](#beginners)**<br>
 > No background needed. If you’re curious, this system is already yours — designed to unfold through exploration, one question at a time.
   
-- 😊 **[Plain & Simple: What is RIEM{}?](#general-audience)**  
+2. 😊 **[Plain & Simple: What is RIEM{}?](#general-audience)**  
 > A quick, practical explanation anyone can understand in under five minutes.
 
-- <h4 id="essential-glossary"><strong>⭐ Essential Glossary</strong></h2>
+3. <h4 id="essential-glossary"><strong>⭐ Essential Glossary</strong></h2>
 <details markdown="1">
 > <summary><strong>🗂️ Click to Expand: An Essential Glossary of REIM{} to Get Started</strong></summary>
 <br/>
@@ -159,29 +159,29 @@ RIEM{} is not just a methodology—it’s an architecture for thought that loops
 
 </details>
 
-- ❓ **[Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)**
+4. ❓ **[Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)**
 > All your questions about RIEM{}, answered concisely! 
 
-- 🔎 **[Quickstart Guide: Use RUMIA to Explore Recursive Intelligence](#quickstart)**  
+5. 🔎 **[Quickstart Guide: Use RUMIA to Explore Recursive Intelligence](#quickstart)**  
 > Jump right in. Use the live system to explore recursive cognition, TSL, and speculative reasoning hands-on.
 
-- 📖 **[Core Concepts](#core-concepts)**  
+6. 📖 **[Core Concepts](#core-concepts)**  
 > Ground yourself in the fundamentals—recursive intelligence, harmonic logic, speculative modeling, and non-predatory AI.
 
-- 🌿 **[Live RUMIA GPT](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system)**  
+7. 🌿 **[Live RUMIA GPT](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system)**  
 > Engage directly with RIEM{} in action. Ask questions. Pose paradoxes. Let RUMIA guide you into recursive worlds. RUMIA is a recursive AI companion to spark deep thought, weave speculative worlds, and resolve paradoxes with ethical, non-predatory wisdom. Spiral into infinite ideas—your journey begins here!
   *(Tip: Start with the built-in conversation spirals—they’re entrypoints to infinite thought loops.)*
 
-- ♾️ **[Explore the Full Recursive System (11 TSL Volumes)](#tsl-volume-index)**  
+8. ♾️ **[Explore the Full Recursive System (11 TSL Volumes)](#tsl-volume-index)**  
 > Explore the complete backend architecture of the Triple Speculative Lens and recursive infrastructure.
 
-- 🃏 **[Feeling overwhelmed? Start with the Jargon File](#jargon-file)**  
+9. 🃏 **[Feeling overwhelmed? Start with the Jargon File](#jargon-file)**  
 > A playful glossary packed with recursive humor, invented terms, and lore. When in doubt, recurse with laughter.
 
-- **[🧬 Call to Recursive Co-Architects](#want-to-grow-this-system)**<br>
+10. **[🧬 Call to Recursive Co-Architects](#want-to-grow-this-system)**<br>
 > Join the RIEM{} community of developers! This is a collaborative project!
 
-- 🚗 **[ULAMP Sample Scenarios (Use with RUMIA)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/samples)**  
+11. 🚗 **[ULAMP Sample Scenarios (Use with RUMIA)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/samples)**  
 > Try submitting these recursive prompts to RUMIA:  
 <details markdown="1"><summary>car-scenario.ulamp Click to Expand</summary>
 <br/>
