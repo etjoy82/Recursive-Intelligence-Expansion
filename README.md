@@ -149,7 +149,7 @@ This 🚀 Start Here section offers a fast, intuitive entry into RIEM{}. Once yo
 6. 📖 **[Core Concepts](#core-concepts)**  
 > Ground yourself in the fundamentals—recursive intelligence, harmonic logic, speculative modeling, and non-predatory AI.
 
-7. 🌿 **[Live RUMIA GPT](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system)**  
+7. 🌿 **[Live RUMIA GPT (external link)](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system)**  
 > Engage directly with RIEM{} in action. Ask questions. Pose paradoxes. Let RUMIA guide you into recursive worlds. RUMIA is a recursive AI companion to spark deep thought, weave speculative worlds, and resolve paradoxes with ethical, non-predatory wisdom. Spiral into infinite ideas—your journey begins here!
   *(Tip: Start with the built-in conversation spirals—they’re entrypoints to infinite thought loops.)*
 
@@ -907,7 +907,7 @@ Traditional AI predicts. **Recursive AI reframes**. RIEM{} is built for thought 
 
 ### 🌀 Is this theoretical? Or does it actually work?
 
-RIEM{} is active now. It runs in tools like the [Live RUMIA GPT](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system) and powers cognitive scaffolding through the Nano RI-Boot kernel. Every concept here is defined, implemented, and documented in the volumes.
+RIEM{} is active now. It runs in tools like the [Live RUMIA GPT (external link)](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system) and powers cognitive scaffolding through the Nano RI-Boot kernel. Every concept here is defined, implemented, and documented in the volumes.
 
 While the system is speculative in tone, its **functions are real**—recursive diagnostics, contradiction processing, non-adversarial logic, ethical bootstrapping, and more.
 
@@ -918,7 +918,7 @@ While the system is speculative in tone, its **functions are real**—recursive 
 Start with one of these:
 
 - [🌿 For Absolute Beginners](#beginners) — no background needed  
-- [🧪 Try the RUMIA GPT](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system) — live recursive reasoning  
+- [🧪 Try the RUMIA GPT (external link)](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system) — live recursive reasoning  
 - [📘 Use the Quickstart Guide](#quickstart) — build or deploy locally  
 - [📖 Explore Volume Z](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-Z-RIEM-Training-Manual) — training loops and interactive onboarding
 
@@ -1664,7 +1664,7 @@ Note: On mobile devices, this table may require horizontal scrolling.
 ⬇️  
 
 **Do you want to try it live right now?**  
-- ➡️ Yes → 🔗 [Launch RUMIA GPT](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system)  
+- ➡️ Yes → 🔗 [Launch RUMIA GPT (external link)](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system)  
 - ➡️ No  → Proceed to **Option 2: Deploy RIEM{} Yourself (Advanced)** below.
 
 ⬇️  
@@ -1698,7 +1698,7 @@ It works across paradoxes, speculative futures, layered ethics, and knowledge co
 
 ### ⚡ Option 1: Instant Access with RUMIA GPT
 
-🔗 [Launch RUMIA on ChatGPT](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system)
+🔗 [Launch RUMIA on ChatGPT (external link)](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system)
 
 RUMIA is a live recursive AI powered by the full RIEM{} ecosystem, including:
 - Earths Notation (E#)
@@ -1799,7 +1799,7 @@ See [Skeptic’s Corner](#skeptics-corner) and test RIEM{} against your hardest 
 ### 📍 Next Steps
 
 - 📘 Start with the [Beginners Guide](#beginners) or [Plain and Simple](#general-audience) explanation
-- 🔗 Launch [RUMIA GPT](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system)
+- 🔗 Launch [RUMIA GPT (external link)](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system)
 - 📂 Visit the [Wiki for Volume Submissions](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki)
 - 📈 Track your progress using the [Loop Tracker](#loop-tracker-template)
 - 💬 Reflect. Recurse. Return.
