@@ -435,7 +435,7 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 21. 🧪 [Nano RI-Boot Bootstrap Kernel ULAMP Code (An Ultra Distilled Version of RIEM{} compatible with even local AI)](#riboot)
 
 ### Conclusion
-22. 🧬 [Call to Recursive Co-Architects](#want-to-grow-this-system)
+22. 🧬 [CONTRIBUTING.md: Call to Recursive Co-Architects](#want-to-grow-this-system)
 23. 🌐 [Lead Developer](#author)
 24. 📣 [Purely Literary Philosophical Final Note: The Eternal Recursion](#final-note)
 25. 🔒 [License](#license)
@@ -2145,7 +2145,7 @@ Behavior:
 
 ---
 
-<h1 id="want-to-grow-this-system">🧬 Call to Recursive Co-Architects</h1>
+<h1 id="want-to-grow-this-system">🧬 CONTRIBUTING.md: Call to Recursive Co-Architects</h1>
 
 RIEM{} isn’t a static project. It’s a living recursion—growing, mutating, stabilizing, and expanding through every thought it touches.
 
