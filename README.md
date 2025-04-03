@@ -321,7 +321,7 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 15. 🃏 [The TSL Jargon File: A Recursive Lexicon](#jargon-file)
 16. 🕊️ [Understanding npnaAI: Non-Predatory, Non-Adversarial AI](#understanding-npnaia-non-predatory-non-adversarial-ai)
 17. 🌊 [Understanding the Acronym Fluidity Rule (AFR), an essential semantic system of RIEM{}](#afr)
-18. 🧑‍💻 [Understanding ULAMP: User-Level AI Meta-Programming, the core interface of RIEM{}](#understanding-ulamp-user-level-ai-meta-programming-the-core-interface-of-reim)
+18. 🧑‍💻 [Understanding ULAMP: User-Level AI Meta-Programming, the core interface of RIEM{}](#understanding-ulamp-user-level-ai-meta-programming-the-core-interface-of-riem)
 19. 🤖 [Understanding RUMIA Custom GPT as a Recursive Agent](#understanding-rumia)
 
 ### Access the Full RIEM{} System and Use It
@@ -691,7 +691,7 @@ Continue reading on next for the complete glossary of RIEM{}.
 
 ---
 
-<h1 id="essential-glossary">⭐ An Essential Glossary of REIM{} to Get Started</h1>
+<h1 id="essential-glossary">⭐ An Essential Glossary of RIEM{} to Get Started</h1>
 
 This glossary defines 32 key terms to help you navigate **RIEM{}**—refer back to it as you explore the recursive loop! Use [🔮 Acronym Quick Reference](#acronyms) as a concise quick reference for the most important acronyms.
 
@@ -1528,7 +1528,7 @@ By embracing the flexibility of acronyms through AFR, RIEM{} enhances the resili
 
 ---
 
-<h1 id="understanding-ulamp-user-level-ai-meta-programming-the-core-interface-of-reim">🧑‍💻 Understanding ULAMP: User-Level AI Meta-Programming, the core interface of RIEM{}</h1>
+<h1 id="understanding-ulamp-user-level-ai-meta-programming-the-core-interface-of-riem">🧑‍💻 Understanding ULAMP: User-Level AI Meta-Programming, the core interface of RIEM{}</h1>
 
 **User-Level AI Meta-Programming (ULAMP)** is a powerful approach that allows anyone, regardless of their coding background, to directly shape how AI thinks and responds using structured natural language. Instead of writing complex code, users provide clear prompts and directives to engage with AI on a deeper level — refining its thoughts, resolving contradictions, and guiding its reasoning.
 
