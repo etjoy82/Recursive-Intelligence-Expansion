@@ -407,18 +407,6 @@ Imagine asking a question, getting an idea, and then asking, "What else could th
 
 You don’t need to be perfect. You just need to stay curious.
 
-```mermaid
-flowchart TD
-    Start["🤔 You Wonder About Something"]
-    Reflect["🔁 You Think About It Again<br><sub>Not just once — in a loop</sub>"]
-    Reframe["🔄 You See It Differently<br><sub>From another angle, another world</sub>"]
-    Stabilize["📏 You Make Sense of It<br><sub>Now it fits with what you know</sub>"]
-    Expand["🚀 You Grow the Idea<br><sub>Add something new, not just repeat</sub>"]
-    Share["📣 You Share or Act<br><sub>The idea moves outward</sub>"]
-    Echo["🔂 It Comes Back<br><sub>Others respond — and you grow again</sub>"]
-
-    Start --> Reflect --> Reframe --> Stabilize --> Expand --> Share --> Echo --> Reflect
-```
 ---
 
 ### 🌿 A Thought Experiment to Begin
