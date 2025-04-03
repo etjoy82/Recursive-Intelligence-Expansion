@@ -140,7 +140,7 @@ This 🚀 Start Here section offers a fast, intuitive entry into RIEM{}. Once yo
 3. ⭐ **[GLOSSARY.md: Essential Glossary](#essential-glossary)**
 > Complete easy understanding of all key terms.
 
-5. ❓ **[Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)**
+4. ❓ **[Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)**
 > All your questions about RIEM{}, answered concisely! 
 
 5. 🔎 **[Quickstart Guide: Use RUMIA to Explore Recursive Intelligence](#quickstart)**  
