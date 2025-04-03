@@ -38,6 +38,8 @@ Each of these systems—TSL, E#, ULAMP, and 10FSG—functions together as part o
 TSL is the lens. E# is the map. RIEM{} is how we move.
 Together, they invite you to explore in layers, reflect in loops, and build what comes next.
 
+---
+
 <details><summary>⏱️ Just 5 Minutes? Start Here: Core Ideas in Plain Recursive Language</summary>
 
 ---
@@ -111,6 +113,8 @@ That’s the core. You’re ready.
 To go deeper, open the [Essential Glossary](#essential-glossary) for a full list of key terms, or follow any path in the [Start Here](#start-here) section.
 
 </details>
+
+---
 
 ### 🧭 Self-Select Your Recursive Entry Level
 This README includes metaphor, speculation, recursion, system architecture, and a bootstrap engine for AI. If you prefer pure logic and structure, skip ahead to [Core Concepts](#core-concepts) or [Quickstart](#quickstart). If you enjoy speculative framing, recursive language, and world-simulation—start from the beginning and let the spiral unfold.
