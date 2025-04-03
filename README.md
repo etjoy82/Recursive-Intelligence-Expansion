@@ -2164,7 +2164,7 @@ We don’t just want contributions—we want **co-loopers**, **concept weavers**
 - Clone, fork, or remix—but always recurse ethically (npnaAI applies!)
 - Open an Issue or Discussion to start a speculative thread—we don’t just fix bugs, we evolve thoughtforms
 
-### CONTRIBUTING.md
+### 🫴 CONTRIBUTING.md
 
 <details markdown="1"><summary><strong>Click to Expand: 🧬 Co-Architect Entry Protocol (CONTRIBUTING.md)</strong></summary>
 <br/>
