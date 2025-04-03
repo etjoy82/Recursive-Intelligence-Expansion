@@ -2180,6 +2180,13 @@ We welcome contributions across several areas:
 - **Visualization and Simulation:** Create diagrams, models, or interactive simulations for visualizing recursive logic.
 - **Code Contributions:** Implement supporting tools, utilities, or analysis systems.
 
+   **Contributor Skill Matrix**
+     | Skill          | Subproject          | Example Task                     |
+     |----------------|---------------------|----------------------------------|
+     | Python         | ULAMP Interpreter   | Build recursive prompt executor  |
+     | Ethics         | npnaAI Audits       | Design ethical validation tests  |
+     | Systems Design | TSL Volume Expansion| Draft recursive governance models|
+     
 ### 🚀 **Getting Started**
 
 #### **Step 1: Fork & Clone**
