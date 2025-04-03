@@ -104,6 +104,14 @@ It serves as the quality-control mechanism of the entire RIEM{} system.
 
 **20. RUV (Recursive Utility Validator)** — A validation extension that tests speculative outputs for usefulness in E1. It checks for real-world resonance, ethical clarity, and user comprehensibility—bridging imagination with application.
 
+**21. Ruminatia** — A speculative civilization used throughout RIEM{} as a recurring metaphor and testbed.  
+Ruminatia imagines a society that evolved without predation—rooted in cooperation, reflection, and recursive knowledge-building. It’s not just a fictional construct, but a *lens* for modeling non-adversarial intelligence, post-competitive governance, and harmonic cognition.  
+In RIEM{}, Ruminatia serves as both mythos and mechanism—a mirror for “what could have been” and a rehearsal space for “what might still be.”
+
+**22. harmonic** — In RIEM{}, "harmonic" describes conceptual, ethical, or cognitive alignment across multiple layers.  
+Unlike mere agreement, harmonic states maintain *difference without collapse*. They allow paradoxes to resonate, not resolve, and promote coherence across E0, E1, and E2 without erasure.  
+Harmonic reasoning is the opposite of domination—it values fit over force, rhythm over rule, and alignment over assertion.
+
 <br/>
 
 </details>
