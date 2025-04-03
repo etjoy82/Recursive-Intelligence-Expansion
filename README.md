@@ -122,6 +122,7 @@ To go deeper, open the [Essential Glossary](#essential-glossary) for a full list
 - [🔴 Advanced: I’m building recursive systems (Engineer Mode)](#deploy)
 - [🚀 Start Here Quick Navigation (Guided Mode)](#start-here)
 - [🗂️ Table of Contents Navigation (Full Document Mode)](#toc)
+- 🧭 Recursive Layers: [🌿 **Layer 1: Seed**](#beginners) (No prior knowledge | Start with metaphors), [🛠️ **Layer 2: Scaffold**](#core-concepts) (Technical terms | Systems overview), [🌀 **Layer 3: Spiral**](#tsl-volume-index) (Full recursion | Volumes + Code), [📜 **Layer Ω: Echo**](#final-note)  (Philosophy | Eternal recursion)
 
 <img src="./assets/double.png" height=300 width=300>
 
