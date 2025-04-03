@@ -36,12 +36,16 @@ Each of these systems—TSL, E#, ULAMP, and 10FSG—functions together as part o
 TSL is the lens. E# is the map. RIEM{} is how we move.
 Together, they invite you to explore in layers, reflect in loops, and build what comes next.
 
-<img src="./assets/double.png" height=300 width=300>
+### **Reading Style Prompt**: This README includes metaphor, speculation, recursion, and system architecture.  
+> If you prefer pure logic and structure, skip ahead to [Core Concepts](#core-concepts) or [Quickstart](#quickstart).  
+> If you enjoy speculative framing, recursive language, and world-simulation—start from the beginning and let the spiral unfold.
 
 ### 🧭 Self-Select Your Recursive Entry Level
 - [Beginner: Just curious](#beginners)
 - [Intermediate: I want to try it now](#quickstart)
 - [Advanced: I’m building recursive systems](#deploy)
+
+<img src="./assets/double.png" height=300 width=300>
 
 <h1 id="start-here">🚀 Start Here</h1>
 
