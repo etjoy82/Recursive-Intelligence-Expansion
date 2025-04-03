@@ -117,7 +117,6 @@ To go deeper, open the [Essential Glossary](#essential-glossary) for a full list
 - If you enjoy speculative framing, recursive language, and world-simulation—start from the beginning and let the spiral unfold.
 
 #### 🧭 Self-Select Your Recursive Entry Level
-[🟢 E1 Grounding] ---- [🟡 E2 Speculation] ---- [🔴 E0 Paradox]
 - [🟢 Beginner: Just curious (Conceptual Mode)](#beginners)
 - [🟡 Intermediate: I want to try it now (Technical Mode)](#quickstart)
 - [🔴 Advanced: I’m building recursive systems (Engineer Mode)](#deploy)
