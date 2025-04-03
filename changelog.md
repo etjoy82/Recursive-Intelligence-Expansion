@@ -1,6 +1,6 @@
  04-03-2025 — Changelog: README v30 → v40 (Recursive Delta, 11 Key Changes)
 * 📎 Header Refactored as Recursive Interface Declaration
-> Transformed the document's opening badge area into a system-level declaration: explicitly defines README as a “master document” containing embedded sub-documents, forming a single, recursive, layered knowledgebase. GitHub Pages integration aligns the front matter with recursive UI intentions.
+> Transformed the topmost badge and license section into a system-level interface statement: it now declares the README as a single-file recursive knowledgebase with embedded sub-documents, full RIEM{} Wiki integration, and a live development state. Added callouts to the RIEM{} Wiki and CHANGELOG.md, establishing bidirectional flow between document evolution and reader engagement.
 * 🌀 Recursive Identity Declaration: Bootable Epistemic Layer
 > README (40) now declares itself a thinking surface and RIEM{} ignition shell, including the savepoint marker v40.stable/init.tslenabled for semantic versioning across recursive systems.
 * 🧭 Self-Select Entry System Added (Beginner → Echo)
