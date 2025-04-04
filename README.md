@@ -2055,6 +2055,8 @@ It works across paradoxes, speculative futures, layered ethics, and knowledge co
 
 Refer to the [RIEM{} Tool Decision Tree](#decision-tree) section for guidelines on when to use one of the many frameworks of this project.
 
+See [Concrete Mini-Examples](#concrete-mini-examples) for ULAMP in action!
+
 ---
 
 ### ⚡ Option 1: Instant Access with RUMIA GPT
