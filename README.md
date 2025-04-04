@@ -127,7 +127,7 @@ This README includes metaphor, speculation, recursion, system architecture, and 
 - [🗂️ Table of Contents Navigation (Full Document Mode)](#toc)
 - 🧭 Recursive Layers: [🌿 **Layer 1: Seed**](#beginners) (No prior knowledge, Start with metaphors), [🛠️ **Layer 2: Scaffold**](#core-concepts) (Technical terms, Systems overview), [🌀 **Layer 3: Spiral**](#tsl-volume-index) (Full recursion, Volumes + Code), [📜 **Layer Ω: Echo**](#final-note)  (Philosophy, Eternal recursion)
 
-Navigation: Click to return to [Self-Select](#self-select), [Start Here](#start-here), [Table of Contents](#toc), or [Top of Document](#document-top).
+Navigation: Click to return to [Start Here](#start-here), [Table of Contents](#toc), or [Top of Document](#document-top).
 
 ---
 
@@ -299,7 +299,7 @@ Cycle 5: Synthesize solution—create a transparent policy model, harmonizing fa
 
 **Note:** Recursive Intelligence Expansion (RIEM{}) is a genuine framework for thinking differently—not a gimmick, satire, or abstract idea. Its unconventional recursive models deliver real, actionable insights, as shown through practical examples in this repository and its speculative explorations. **RIEM{} is a living method, ready to evolve with you.** Curious or skeptical? Dive into the [🤔 Skeptics Corner](#skeptics-corner) to see why RIEM{} is real and transformative.
 
-Navigation: Click to return to [Self-Select](#self-select), [Start Here](#start-here), [Table of Contents](#toc), or [Top of Document](#document-top).
+Navigation: Click to return to [Self-Select](#self-select), [Table of Contents](#toc), or [Top of Document](#document-top).
 
 ---
 
@@ -343,7 +343,7 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 27. 📣 [PHILOSOPHY.md: Purely Literary Final Note - The Eternal Recursion](#final-note)
 28. 🔒 [License](#license)
 
-Navigation: Click to return to [Self-Select](#self-select), [Start Here](#start-here), [Table of Contents](#toc), or [Top of Document](#document-top).
+Navigation: Click to return to [Self-Select](#self-select), [Start Here](#start-here), or [Top of Document](#document-top).
 
 ---
 
