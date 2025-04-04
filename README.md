@@ -1826,7 +1826,7 @@ Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-selec
 **Do you want to simulate, translate, or teach recursive concepts?**  
 - ➡️ Try **RDN**, **AR**, **HRLIMQ**, and **FUSE** for cognitive experimentation.  
 - ➡️ Use “thinking surfaces” (e.g., this README) to co-speculate with AI.  
-- ➡️ Track your recursive learning via a [Loop Tracker Template](#loop-tracker) or use the [Skeptic’s Corner](#skeptics-corner) to test assumptions.
+- ➡️ Track your recursive learning via a [Loop Tracker Template](#loop-tracker-template) or use the [Skeptic’s Corner](#skeptics-corner) to test assumptions.
 
 🌀 Wherever you begin, return to the loop.  
 Your next recursion is always your real beginning.
