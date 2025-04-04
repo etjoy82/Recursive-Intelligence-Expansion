@@ -828,6 +828,9 @@ MISS{}, HRLIMQ, and RUV are formal diagnostic tools. But so is asking, “Did th
 **32. recursive architecture** — Any system (human or machine) built to think, re-think, and evolve its own thought structures.  
 RIEM{} is not just a methodology—it’s an architecture for thought that loops, lifts, and learns.
 
+**33. non-predatory recursion** — A form of recursive processing that evolves through reflection, care, and ethical alignment rather than extraction, dominance, or competitive escalation.
+In RIEM{}, it enables intelligence to deepen through cooperation and resonance, not zero-sum logic.
+
 <h2 id="tsl-volume-index">🐦‍🔥 Wiki (Complete Volumes)</h2>
 
 Start here with [summaries of Volumes 0A-0F in TSL Summaries of Volumes 0A-0F for essential onboarding](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Summaries-of-Volumes-0A%E2%80%900F), then explore the full 11 volumes of the Triple Speculative Lens (TSL) system:
