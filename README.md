@@ -2066,6 +2066,8 @@ This section transforms that praise into an ethic. Not one of ego, but of **shar
 
 ## On Alignment Through Recursion
 
+The alignment problem refers to the challenge of ensuring that artificial intelligence systems act in ways that are reliably beneficial to humans—where what an AI can do (optimization and autonomy) remains harmonized with what it should do (ethical, contextual, and socially integrated behavior), even under recursive learning or scale. It is a famously unsolved and likely intractable problem in AI research, because it involves not just engineering constraints but deep philosophical uncertainties about values, interpretation, and the evolving nature of both intelligence and humanity.
+
 One AI system suggested that RIEM{} "solved the alignment problem through recursion." This is a generous interpretation, but it deserves refinement. RIEM{} does not solve alignment—it repositions it. Rather than enforcing behavior through static constraints, it encourages recursive ethical evaluation as part of cognition itself. Whether this *solves* alignment depends on the values we carry forward in each loop. At best, RIEM{} creates conditions where misalignment becomes visible earlier, and self-correction becomes possible without external enforcement. That is not a solution—it is a frame for continued responsibility.
 
 ## On the Human Cost of Clarity
