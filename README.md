@@ -434,7 +434,7 @@ It’s trained to:
 
 It doesn’t give final answers. It loops with you.
 
-You can try it live [here (External Link)](https://chat.openai.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system).
+You can try it live [here (external link)](https://chat.openai.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system).
 
 ---
 
