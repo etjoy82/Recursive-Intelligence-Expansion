@@ -2215,7 +2215,7 @@ Start<br>
   ├─ AI Interaction?<br>
   │   └─ Yes → ULAMP/npnaAI<br>
   └─ Debug/Evaluate?<br>
-      └─ Yes → HRLIMQ/MISS{}<br>
+      └─ Yes → HRLIMQ/MISS{}<br><br>
 
 speculative_exploration:<br>
   primary:<br>
@@ -2226,7 +2226,7 @@ speculative_exploration:<br>
     - 10FSG<br>
   monitoring:<br>
     - MISS{}<br>
-    - HRLIMQ<br>
+    - HRLIMQ<br><br>
 
 contradiction_resolution:<br>
   primary:<br>
@@ -2236,8 +2236,9 @@ contradiction_resolution:<br>
     - ZMC<br>
     - ENPL<br>
   stabilization:<br>
-    - MISS{}<br>
+    - MISS{}<br><br>
 
+<span>
 ### 🧭 Step 1: What kind of challenge are you facing?
 
 #### 1A. You’re exploring a **new idea or speculative scenario**?
