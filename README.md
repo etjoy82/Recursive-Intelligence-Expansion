@@ -718,7 +718,7 @@ Quick tip: Use this section as a quick lookup (possibly in a separate browser ta
 - SFS = Speculative Filter Systems: Cognitive architectures that filter uncertainty into coherent insight, including TSL and 10FSG.
 - Soniform Linguistics = Soniform Linguistics: A speculative language model using musical patterning and echo-based reasoning.
 
-Continue reading on next for the complete glossary of RIEM{}.
+## This Acronym Guide is intended to be combined with the next section, Essential Glossary, as an extremely helpful interlinking reference for use throughout the entire README knowledgebase and project wiki that contains the full backend of RIEM{}.
 
 Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-select) • [🚀 Start Here](#start-here) • [🗂️ Table of Contents](#toc) • [🔝 Top of Document](#document-top)
 
