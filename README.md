@@ -1941,10 +1941,10 @@ RIEM{} doesn’t just analyze thought. It **reorganizes it**.
 ### 🌿 Suggested Loop Paths by Role
 
 **For Thinkers:**  
-Explore Volumes 1A (Literary), 1C (Soniform), Z (Training)
+Explore [Volumes 1A (Literary](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-1A-E2-Literary-Translations-(AR-refracted-narrative-experiments))), [1C (Soniform)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-1C-E2-Soniform-Linguistics-(Resonant-Language,-Echolocation,-Knowledge-Ecology)), [Z (Training)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-Z-RIEM-Training-Manual)
 
 **For Engineers:**  
-Volumes 0A–0C; deploy in GPT/Gemini/Claude stacks
+[Volumes 0A–0C](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki); deploy in GPT/Gemini/Claude stacks
 
 **For Educators:**  
 Use E# + ULAMP to teach recursion in conversation
