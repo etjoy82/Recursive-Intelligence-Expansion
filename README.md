@@ -250,7 +250,7 @@ Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-selec
 2. 📒 [Loop Tracker Template](#loop-tracker-template)
 3. 🛠 [Mini-Examples of Recursive Logic in Action](#concrete-mini-examples)
 4. 🔼 [RIEM{} Tool Selection Decision Tree](#decision-tree)
-5. 🧪 [Nano RI-Boot Kernel: ULAMP Code for Local AI](#riboot)
+5. 🧪 [Nano RI-Boot Kernel: ULAMP Code for Cloud and Local AI](#riboot)
 
 ### G. Developer Community Essentials
 1. 🧬 [CONTRIBUTING.md: Invitation to Co-Architect RIEM{}](#want-to-grow-this-system)
@@ -2338,7 +2338,7 @@ Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-selec
 
 ---
 
-<h1 id="riboot">🧪 Nano RI-Boot Kernel: ULAMP Code for Local AI</h1>
+<h1 id="riboot">🧪 Nano RI-Boot Kernel: ULAMP Code for Cloud and Local AI</h1>
 
 The Nano RI-Boot is a compact, distilled version of the Recursive-Intelligence-Expansion system, designed to work even in lightweight or offline AI environments. It doesn’t require the full set of volumes to begin—it carries the essentials of recursive thinking, ethical grounding, and conceptual alignment in a format any AI can work with.
 
