@@ -210,8 +210,10 @@ Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-selec
 
 <h1 id="toc">🗂️ Table of Contents</h1>
 
-### A. Project Description At Top of Document
+### A. Sections Above This Table of Contents
 1. ⟁ [Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition (top of document)](#about-description)
+2. 🧭 [Self-Select](#self-select)
+3. 🚀 [Start Here](#start-here)
 
 ### B. Introduction and Onboarding
 1. 🌱 [For Absolute Beginners: A Gentle Invitation to RIEM{}](#beginners)
