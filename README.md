@@ -219,7 +219,7 @@ Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-selec
 
 ### B. Quick Desk Reference Lookup System
 1. 🔮 [Acronym Quick Reference](#acronyms)
-2. ⭐ [GLOSSARY.md: Essential Glossary](#essential-glossary)
+2. ⭐ [Essential Glossary](#essential-glossary)
 3. 🃏 [The TSL Jargon File: A Recursive Lexicon](#jargon-file)
 
 ### C. Questions and Answers (Q&A)
