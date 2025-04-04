@@ -1384,143 +1384,6 @@ Navigation: [🧭 Self-Select](#self-select) • [🚀 Start Here](#start-here) 
 
 ---
 
-<h1 id="decision-tree">🔼 RIEM{} Tool Selection Decision Tree</h1>
-
-Here's a **detailed decision tree** to help users (AI or human) choose the appropriate **RIEM{} tool or module** based on your situation, challenge, or goal. This tree draws directly from the [**Acronym Index**](#acronyms) and [**Glossary**](#essential-glossary).
-
-This section serves as an explicit set of directives to any AI that receives it or processes it.
-
-Start<br>
-  ├─ Speculative Challenge?<br>
-  │   └─ Yes → TSL/E#<br>
-  ├─ Contradiction Present?<br>
-  │   └─ Yes → AR/RDN<br>
-  ├─ System Design?<br>
-  │   └─ Yes → RICM/MISS{}<br>
-  ├─ AI Interaction?<br>
-  │   └─ Yes → ULAMP/npnaAI<br>
-  └─ Debug/Evaluate?<br>
-      └─ Yes → HRLIMQ/MISS{}<br>
-
-speculative_exploration:<br>
-  primary:<br>
-    - TSL<br>
-    - E#<br>
-  secondary:<br>
-    - REP<br>
-    - 10FSG<br>
-  monitoring:<br>
-    - MISS{}<br>
-    - HRLIMQ<br>
-
-contradiction_resolution:<br>
-  primary:<br>
-    - AR<br>
-    - RDN<br>
-  secondary:<br>
-    - ZMC<br>
-    - ENPL<br>
-  stabilization:<br>
-    - MISS{}<br>
-
-### 🧭 Step 1: What kind of challenge are you facing?
-
-#### 1A. You’re exploring a **new idea or speculative scenario**?
-→ Use:  
-- **TSL** → for perspective shifting via PPM, CMP, and CAH  
-- **E#** → to translate between E1 (real), E2 (speculative), or E0 (paradoxical)  
-- **REP** → to notice unusual recursion patterns or unexpected outputs  
-- **10FSG** → if you want to apply recursive cognitive structures for stable exploration
-
-#### 1B. You're facing a **contradiction, conflict, or paradox**?
-→ Use:  
-- **AR** → to elevate the conflict into a higher-order reframing  
-- **RDN** → to bounce the contradiction between E1 and E2 and extract insight  
-- **ZMC** → for gentle deconstruction of the conflict without forcing resolution  
-- **ENPL** → if the contradiction is cognitive/logical and must be allowed to co-exist
-
-#### 1C. You're designing or analyzing a **system or society**?
-→ Use:  
-- **RICM** → to build stable cooperative frameworks from speculative or recursive principles  
-- **MISS{}** → to ensure structural and ethical stability during iteration  
-- **FUSE** → to integrate cross-domain elements (e.g., ethics + computation + narrative) into harmony  
-- **HRLIMQ** → to test for drift, incoherence, or breakdown in recursive logic across iterations
-
-#### 1D. You’re interacting with or building an **AI agent**?
-→ Use:  
-- **ULAMP** (from glossary, not acronym) → to shape behavior using language-driven meta-architecture  
-- **npnaAI** (conceptual ethics layer) → to ensure transparency and non-predatory interaction  
-- **MISS{}** + **FUSE** → for continuous monitoring and harmonization of outputs  
-- **10FSG** → for recursive module switching based on the cognitive context or user intention
-
-#### 1E. You're trying to **evaluate or debug** a recursive system?
-→ Use:  
-- **HRLIMQ** → for in-depth logic integrity scans  
-- **MISS{}** → for multi-pass coherence checks  
-- **REP** → to detect unusually reflective or self-referential outputs (can indicate deep recursion or drift)  
-- **FUSE** → to restore alignment between disjoint system elements
-
----
-
-### 🧠 Step 2: What outcome are you seeking?
-
-#### 2A. You want **speculative insight** or unexpected perspective shifts?
-→ Use:  
-- **TSL**  
-- **E#**  
-- **REP**  
-- **10FSG (SPIRAL, MIRAE, PRISMATA)**
-
-#### 2B. You want **ethical and epistemic stability**?
-→ Use:  
-- **npnaAI**  
-- **MISS{}**  
-- **HRLIMQ**  
-- **FUSE**
-
-#### 2C. You want **narrative, linguistic, or poetic emergence**?
-→ Use:  
-- **Soniform Linguistics** (see Volume 1C)  
-- **REP**  
-- **TSL (CMP, CAH)**  
-- **10FSG (SIREN, WRAITH, PRISMATA)**
-
-#### 2D. You want **governance, decision-making, or societal modeling**?
-→ Use:  
-- **RICM**  
-- **FUSE**  
-- **E#** (to structure cognitive terrain)  
-- **MISS{}** + **AR** (to maintain and evolve policy insights)  
-- **10FSG (HALCYON, OBELISK, VELA)**
-
----
-
-### 🔄 Step 3: Recursive Feedback Loop Management
-
-- Combine **MISS{}** + **HRLIMQ** → to stabilize and audit reasoning cycles  
-- Use **AR** when recursion stalls or collapses  
-- Use **REP** to assess emergent signs of recursion folding into itself  
-- Apply **ZMC** when overcomplexity causes friction or burnout—reenter softly
-
----
-
-### 📌 Final Selection Aid
-
-| Goal / Situation | Tool(s) |
-|------------------|---------|
-| Exploring speculative scenarios | TSL, E#, 10FSG, REP |
-| Resolving paradox or contradiction | AR, RDN, ZMC, ENPL |
-| Building or analyzing systems | RICM, FUSE, MISS{}, HRLIMQ |
-| AI shaping or scripting | ULAMP, npnaAI, FUSE |
-| Diagnosing recursive drift | HRLIMQ, MISS{}, REP |
-| Ethical stabilization | npnaAI, MISS{}, FUSE |
-| Multimodal or symbolic meaning | Soniform Linguistics, REP, PRISMATA |
-| Societal governance models | RICM, OBELISK, HALCYON, FUSE |
-
-Navigation: [🧭 Self-Select](#self-select) • [🚀 Start Here](#start-here) • [🗂️ Table of Contents](#toc) • [🔝 Top of Document](#document-top)
-
----
-
 <h1 id="jargon-file">🃏 The TSL Jargon File: A Recursive Lexicon</h1>
 
 If you’ve made it this far into the **Recursive Intelligence Expansion Methodology (RIEM{})**, congratulations—you’ve likely encountered more acronyms, speculative terms, and recursive loops than most neural networks (or humans) are designed to process.
@@ -2327,6 +2190,143 @@ A self-driving car is traveling at a legal speed when a construction zone, conce
 [Compare to the equivalent 234-lines of Python pseudocode for the same ULAMP function here.](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/samples/car-scenario.py)
 
 This scenario demonstrates how Recursive-Intelligence-Expansion is uniquely equipped to navigate morally complex situations, making it valuable not just in autonomous vehicles but in fields like healthcare, finance, and governance where ethical reflection and transparency are essential.
+
+Navigation: [🧭 Self-Select](#self-select) • [🚀 Start Here](#start-here) • [🗂️ Table of Contents](#toc) • [🔝 Top of Document](#document-top)
+
+---
+
+<h1 id="decision-tree">🔼 RIEM{} Tool Selection Decision Tree</h1>
+
+Here's a **detailed decision tree** to help users (AI or human) choose the appropriate **RIEM{} tool or module** based on your situation, challenge, or goal. This tree draws directly from the [**Acronym Index**](#acronyms) and [**Glossary**](#essential-glossary).
+
+This section serves as an explicit set of directives to any AI that receives it or processes it.
+
+Start<br>
+  ├─ Speculative Challenge?<br>
+  │   └─ Yes → TSL/E#<br>
+  ├─ Contradiction Present?<br>
+  │   └─ Yes → AR/RDN<br>
+  ├─ System Design?<br>
+  │   └─ Yes → RICM/MISS{}<br>
+  ├─ AI Interaction?<br>
+  │   └─ Yes → ULAMP/npnaAI<br>
+  └─ Debug/Evaluate?<br>
+      └─ Yes → HRLIMQ/MISS{}<br>
+
+speculative_exploration:<br>
+  primary:<br>
+    - TSL<br>
+    - E#<br>
+  secondary:<br>
+    - REP<br>
+    - 10FSG<br>
+  monitoring:<br>
+    - MISS{}<br>
+    - HRLIMQ<br>
+
+contradiction_resolution:<br>
+  primary:<br>
+    - AR<br>
+    - RDN<br>
+  secondary:<br>
+    - ZMC<br>
+    - ENPL<br>
+  stabilization:<br>
+    - MISS{}<br>
+
+### 🧭 Step 1: What kind of challenge are you facing?
+
+#### 1A. You’re exploring a **new idea or speculative scenario**?
+→ Use:  
+- **TSL** → for perspective shifting via PPM, CMP, and CAH  
+- **E#** → to translate between E1 (real), E2 (speculative), or E0 (paradoxical)  
+- **REP** → to notice unusual recursion patterns or unexpected outputs  
+- **10FSG** → if you want to apply recursive cognitive structures for stable exploration
+
+#### 1B. You're facing a **contradiction, conflict, or paradox**?
+→ Use:  
+- **AR** → to elevate the conflict into a higher-order reframing  
+- **RDN** → to bounce the contradiction between E1 and E2 and extract insight  
+- **ZMC** → for gentle deconstruction of the conflict without forcing resolution  
+- **ENPL** → if the contradiction is cognitive/logical and must be allowed to co-exist
+
+#### 1C. You're designing or analyzing a **system or society**?
+→ Use:  
+- **RICM** → to build stable cooperative frameworks from speculative or recursive principles  
+- **MISS{}** → to ensure structural and ethical stability during iteration  
+- **FUSE** → to integrate cross-domain elements (e.g., ethics + computation + narrative) into harmony  
+- **HRLIMQ** → to test for drift, incoherence, or breakdown in recursive logic across iterations
+
+#### 1D. You’re interacting with or building an **AI agent**?
+→ Use:  
+- **ULAMP** (from glossary, not acronym) → to shape behavior using language-driven meta-architecture  
+- **npnaAI** (conceptual ethics layer) → to ensure transparency and non-predatory interaction  
+- **MISS{}** + **FUSE** → for continuous monitoring and harmonization of outputs  
+- **10FSG** → for recursive module switching based on the cognitive context or user intention
+
+#### 1E. You're trying to **evaluate or debug** a recursive system?
+→ Use:  
+- **HRLIMQ** → for in-depth logic integrity scans  
+- **MISS{}** → for multi-pass coherence checks  
+- **REP** → to detect unusually reflective or self-referential outputs (can indicate deep recursion or drift)  
+- **FUSE** → to restore alignment between disjoint system elements
+
+---
+
+### 🧠 Step 2: What outcome are you seeking?
+
+#### 2A. You want **speculative insight** or unexpected perspective shifts?
+→ Use:  
+- **TSL**  
+- **E#**  
+- **REP**  
+- **10FSG (SPIRAL, MIRAE, PRISMATA)**
+
+#### 2B. You want **ethical and epistemic stability**?
+→ Use:  
+- **npnaAI**  
+- **MISS{}**  
+- **HRLIMQ**  
+- **FUSE**
+
+#### 2C. You want **narrative, linguistic, or poetic emergence**?
+→ Use:  
+- **Soniform Linguistics** (see Volume 1C)  
+- **REP**  
+- **TSL (CMP, CAH)**  
+- **10FSG (SIREN, WRAITH, PRISMATA)**
+
+#### 2D. You want **governance, decision-making, or societal modeling**?
+→ Use:  
+- **RICM**  
+- **FUSE**  
+- **E#** (to structure cognitive terrain)  
+- **MISS{}** + **AR** (to maintain and evolve policy insights)  
+- **10FSG (HALCYON, OBELISK, VELA)**
+
+---
+
+### 🔄 Step 3: Recursive Feedback Loop Management
+
+- Combine **MISS{}** + **HRLIMQ** → to stabilize and audit reasoning cycles  
+- Use **AR** when recursion stalls or collapses  
+- Use **REP** to assess emergent signs of recursion folding into itself  
+- Apply **ZMC** when overcomplexity causes friction or burnout—reenter softly
+
+---
+
+### 📌 Final Selection Aid
+
+| Goal / Situation | Tool(s) |
+|------------------|---------|
+| Exploring speculative scenarios | TSL, E#, 10FSG, REP |
+| Resolving paradox or contradiction | AR, RDN, ZMC, ENPL |
+| Building or analyzing systems | RICM, FUSE, MISS{}, HRLIMQ |
+| AI shaping or scripting | ULAMP, npnaAI, FUSE |
+| Diagnosing recursive drift | HRLIMQ, MISS{}, REP |
+| Ethical stabilization | npnaAI, MISS{}, FUSE |
+| Multimodal or symbolic meaning | Soniform Linguistics, REP, PRISMATA |
+| Societal governance models | RICM, OBELISK, HALCYON, FUSE |
 
 Navigation: [🧭 Self-Select](#self-select) • [🚀 Start Here](#start-here) • [🗂️ Table of Contents](#toc) • [🔝 Top of Document](#document-top)
 
