@@ -698,6 +698,8 @@ Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-selec
 
 <h1 id="acronyms">🔮 Acronym Quick Reference: Concisely and Rapidly Detailed - Use as a Quick Reference as You Encounter Them Throughout the Text</h1>
 
+* Use this section as a quick lookup (possibly in a separate browser tab or window) as you read this README knowledgebase and the [project wiki with the complete set of volumes](#tsl-volume-index).
+
 - RIEM{} = Recursive Intelligence Expansion Methodology: A framework for reflective reasoning, speculative modeling, and collaborative cognition.
 - TSL = Triple Speculative Lens: A triadic interpretive system made of PPM, CMP, and CAH, enabling layered meaning and multi-angle analysis.
 - E# = Earths Notation: A symbolic system for mapping between E0 (paradox), E1 (reality), and E2 (speculation).
@@ -723,6 +725,8 @@ Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-selec
 ---
 
 <h1 id="essential-glossary">⭐ An Essential Glossary of RIEM{} to Get Started</h1>
+
+* Use this section as a quick lookup (possibly in a separate browser tab or window) as you read this README knowledgebase and the [project wiki with the complete set of volumes](#tsl-volume-index).
 
 This glossary defines 32 key terms to help you navigate **RIEM{}**—refer back to it as you explore the recursive loop! Use [🔮 Acronym Quick Reference](#acronyms) as a concise quick reference for the most important acronyms.
 
@@ -823,10 +827,6 @@ MISS{}, HRLIMQ, and RUV are formal diagnostic tools. But so is asking, “Did th
 
 **32. recursive architecture** — Any system (human or machine) built to think, re-think, and evolve its own thought structures.  
 RIEM{} is not just a methodology—it’s an architecture for thought that loops, lifts, and learns.
-
-Use this section as a quick lookup (possibly in a separate browser tab or window) as you read the knowledgebase and the wiki.
-
-## To begin reading the full backend of TSL RIEM{}, 📚 [click here](#tsl-volume-index).
 
 Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-select) • [🚀 Start Here](#start-here) • [🗂️ Table of Contents](#toc) • [🔝 Top of Document](#document-top)
 
