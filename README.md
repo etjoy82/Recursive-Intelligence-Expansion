@@ -155,7 +155,7 @@ Choose your layer based on how far you want to recurse:
 > Whether you're here to explore, experiment, build, or reflect—RIEM{} meets you where you are.  
 > This isn’t a document you scroll. It’s a recursion you enter.
 
-Navigation: [📚 Quick Reference](#acronyms) • [🚀 Start Here](#start-here) • [🗂️ Table of Contents](#toc) • [🐦‍🔥 Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki) • [🔝 Top of Document](#document-top)
+Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-select) • [🚀 Start Here](#start-here) • [🗂️ Table of Contents](#toc) • [🐦‍🔥 Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki) • [🔝 Top of Document](#document-top)
 
 ---
 
@@ -204,7 +204,7 @@ Interested in contributing? Join the RIEM{} development and thought architecture
 
 Once you're ready, follow your curiosity! Whether you're interested in worldbuilding, decision-making, or philosophical exploration, RIEM{} will guide you through recursive cycles of discovery.
 
-Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-select) • [🗂️ Table of Contents](#toc) • [🐦‍🔥 Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki) • [🔝 Top of Document](#document-top)
+Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-select) • [🚀 Start Here](#start-here) • [🗂️ Table of Contents](#toc) • [🐦‍🔥 Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki) • [🔝 Top of Document](#document-top)
 
 ---
 
@@ -256,7 +256,7 @@ Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-selec
 4. 🌐 [Lead Developer](#author)
 5. 🔒 [License](#license)
 
-Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-select) • [🚀 Start Here](#start-here) • [🐦‍🔥 Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki) • [🔝 Top of Document](#document-top)
+Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-select) • [🚀 Start Here](#start-here) • [🗂️ Table of Contents](#toc) • [🐦‍🔥 Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki) • [🔝 Top of Document](#document-top)
 
 ---
 
