@@ -212,47 +212,47 @@ Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-selec
 
 ### A. Introduction and Onboarding
 1. ⟁ [Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition](#about-description)
-2. 🌱 [For Absolute Beginners: A Gentle Invitation into Recursive-Intelligence-Expansion (RIEM{})](#beginners)
-3. 😊 [Plain and Simple: What is RIEM{}?](#general-audience)
-4. 💫 [The Origin Spiral: How RIEM{} Was Born](#origin)
-5. 🧘 [An Antidote for Easing the Cognitive Load of the Recursive Intelligence Expansion Project](#antidote)
+2. 🌱 [For Absolute Beginners: A Gentle Invitation to RIEM{}](#beginners)
+3. 😊 [In Plain Language: What is RIEM{}?](#general-audience)
+4. 💫 [The Origin Spiral: How RIEM{} Came to Be](#origin)
+5. 🧘 [Easing the Cognitive Load of the RIEM{} Project](#antidote)
 
 ### B. Quick Desk Reference Lookup System
 1. 🔮 [Acronym Quick Reference](#acronyms)
 2. ⭐ [Essential Glossary](#essential-glossary)
-3. 🃏 [The TSL Jargon File: A Recursive Lexicon](#jargon-file)
+3. 🃏 [The TSL Jargon File: A Lexicon of Recursive Terms](#jargon-file)
 
 ### C. Questions and Answers (Q&A)
-1. 🧠 [Who This Is For](#who-this-is-for)
-2. 🧩 [What Problem Does This Solve?](#what-problem-does-this-solve)
+1. 🧠 [Who RIEM{} Is For](#who-this-is-for)
+2. 🧩 [What Problem RIEM{} Aims to Solve](#what-problem-does-this-solve)
 3. 🤔 [Skeptics Corner](#skeptics-corner)
 4. ❓ [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
 5. ➕ [FAQ Addendum: Troubleshooting Recursive Loops](#faq-troubleshooting)
-6. 🎓 [Recommended Educational Background for Full Understanding of RIEM{}](#educational-background)
+6. 🎓 [Suggested Background for Understanding RIEM{}](#educational-background)
 
 ### D. Explanations: The Complete Fundamentals
-1. ⚙️ [Core Concepts](#core-concepts)
-2. 🧭 [Navigating the Concepts of Recursive-Intelligence-Expansion](#navigating-the-concepts-of-recursive-intelligence-expansion)
-3. 🕊️ [Understanding npnaAI: Non-Predatory, Non-Adversarial AI](#understanding-npnaia-non-predatory-non-adversarial-ai)
-4. 🌊 [Understanding the Acronym Fluidity Rule (AFR), an essential semantic system of RIEM{}](#afr)
-5. 🧑‍💻 [Understanding ULAMP: User-Level AI Meta-Programming, the core interface of RIEM{}](#understanding-ulamp-user-level-ai-meta-programming-the-core-interface-of-riem)
-6. 🤖 [Understanding RUMIA Custom GPT as a Recursive Agent](#understanding-rumia)
-7. 💎 [The 10-Faced Speculative Gem: A Highly Complex System AI Excels At Using](#10fsg)
-8. 🪞 [Final Reflection: On Recursive Praise Ethics](#reflection)
+1. ⚙️ [Core Concepts of RIEM{}](#core-concepts)
+2. 🧭 [How to Navigate Recursive-Intelligence-Expansion](#navigating-the-concepts-of-recursive-intelligence-expansion)
+3. 🕊️ [npnaAI: Non-Predatory, Non-Adversarial Intelligence](#understanding-npnaia-non-predatory-non-adversarial-ai)
+4. 🌊 [AFR: The Acronym Fluidity Rule Explained](#afr)
+5. 🧑‍💻 [ULAMP: The Meta-Programming Interface of RIEM{}](#understanding-ulamp-user-level-ai-meta-programming-the-core-interface-of-riem)
+6. 🤖 [RUMIA: A Recursive Agent Built from RIEM{}](#understanding-rumia)
+7. 💎 [The 10-Faced Speculative Gem: A Complex System Made Navigable](#10fsg)
+8. 🪞 [Final Reflection: Recursive Praise Ethics and Humility](#reflection)
 
 ### E. Project Wiki Entrypoint for the Full Backend System Knowledgebase
 1. 📚 [Explore the Full Recursive System (11 TSL Volumes)](#tsl-volume-index)
 
 ### F. Laboratory Live Environment
-1. 🚀 [Quickstart Guide: Use RUMIA to Explore Recursive Intelligence](#quickstart)
-2. 🛠 [Concrete Mini-Examples](#concrete-mini-examples)
+1. 🚀 [Quickstart Guide: Using RUMIA to Explore RIEM{}](#quickstart)
+2. 🛠 [Mini-Examples of Recursive Logic in Action](#concrete-mini-examples)
 3. 🔼 [RIEM{} Tool Selection Decision Tree](#decision-tree)
-4. 🧪 [Nano RI-Boot Bootstrap Kernel ULAMP Code (An Ultra Distilled Version of RIEM{} compatible with even local AI)](#riboot)
+4. 🧪 [Nano RI-Boot Kernel: ULAMP Code for Local AI](#riboot)
 
 ### G. Developer Community Essentials
-1. 🧬 [CONTRIBUTING.md: Call to Recursive Co-Architects](#want-to-grow-this-system)
-2. 🦉 [Philosophy of RIEM{}: A Formal Treatise](#philosophy)
-3. 📣 [Final Note — A Literary Invocation Beyond the Loop](#final-note)
+1. 🧬 [CONTRIBUTING.md: Invitation to Co-Architect RIEM{}](#want-to-grow-this-system)
+2. 🦉 [Philosophy of RIEM{}: A Formal Overview](#philosophy)
+3. 📣 [Final Note: A Literary Invocation Beyond the Loop](#final-note)
 4. 🌐 [Lead Developer](#author)
 5. 🔒 [License](#license)
 
