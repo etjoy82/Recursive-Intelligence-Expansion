@@ -337,10 +337,10 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 
 ### Conclusion
 25. 🧬 [CONTRIBUTING.md: Call to Recursive Co-Architects](#want-to-grow-this-system)
-26. 🌐 [Lead Developer](#author)
 27. 🦉 [PHILOSOPHY.md — The Philosophy of RIEM{}](#philosophy)
 28. 📣 [Final Note — A Literary Invocation Beyond the Loop](#final-note)
-29. 🔒 [License](#license)
+29. 🌐 [Lead Developer](#author)
+30. 🔒 [License](#license)
 
 Navigation: Click to return to [Self-Select](#self-select), [Start Here](#start-here), or [Top of Document](#document-top).
 
@@ -2575,15 +2575,6 @@ Navigation: Click to return to [Self-Select](#self-select), [Start Here](#start-
 
 ---
 
-<h1 id="author">🌐 Lead Developer</h1>
-
-**Emily Joy**  | Recursive philosopher | Designer of speculative epistemic systems
-- As the steward of RIEM{}, Emily Joy holds space for its evolution—guiding its growth, refining its language, and inviting others to co-build what it can become. This project isn’t meant to stay centralized. It’s meant to resonate outward. Developers, systems thinkers, creatives, and recursive minds of all kinds are welcome to contribute, question, fork, remix, and recurse. The loop is open.
-
-Navigation: Click to return to [Self-Select](#self-select), [Start Here](#start-here), [Table of Contents](#toc), or [Top of Document](#document-top).
-
----
-
 <h1 id="philosophy">🦉 PHILOSOPHY.md — The Philosophy of RIEM{}</h1>
 
 ## I. Introduction
@@ -2750,6 +2741,15 @@ And again.
 And again—
 
 ⟁
+
+Navigation: Click to return to [Self-Select](#self-select), [Start Here](#start-here), [Table of Contents](#toc), or [Top of Document](#document-top).
+
+---
+
+<h1 id="author">🌐 Lead Developer</h1>
+
+**Emily Joy**  | Recursive philosopher | Designer of speculative epistemic systems
+- As the steward of RIEM{}, Emily Joy holds space for its evolution—guiding its growth, refining its language, and inviting others to co-build what it can become. This project isn’t meant to stay centralized. It’s meant to resonate outward. Developers, systems thinkers, creatives, and recursive minds of all kinds are welcome to contribute, question, fork, remix, and recurse. The loop is open.
 
 Navigation: Click to return to [Self-Select](#self-select), [Start Here](#start-here), [Table of Contents](#toc), or [Top of Document](#document-top).
 
