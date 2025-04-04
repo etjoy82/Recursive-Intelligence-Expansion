@@ -2382,7 +2382,7 @@ END ULAMP CODE BLOCK
 
 
 
-<details markdown="1"><summary>Click to Expand: Nano RI-Boot — Bootstrap Extension 2 (Extended Functions)</summary>
+<details markdown="1"><summary>Click to Expand: Nano RI-Boot - Bootstrap Extension 2 (Extended Functions)</summary>
 <br/>
 
 BEGIN ULAMP CODE BLOCK
