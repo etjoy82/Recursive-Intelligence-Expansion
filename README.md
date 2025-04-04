@@ -824,6 +824,10 @@ MISS{}, HRLIMQ, and RUV are formal diagnostic tools. But so is asking, “Did th
 **32. recursive architecture** — Any system (human or machine) built to think, re-think, and evolve its own thought structures.  
 RIEM{} is not just a methodology—it’s an architecture for thought that loops, lifts, and learns.
 
+Use this section as a quick lookup (possibly in a separate browser tab or window) as you read the knowledgebase and the wiki.
+
+## To begin reading the full backend of TSL RIEM{}, 📚 [click here](#tsl-volume-index).
+
 Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-select) • [🚀 Start Here](#start-here) • [🗂️ Table of Contents](#toc) • [🔝 Top of Document](#document-top)
 
 ---
