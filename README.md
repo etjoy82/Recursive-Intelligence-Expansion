@@ -242,14 +242,16 @@ Navigation: [🧭 Self-Select](#self-select) • [🗂️ Table of Contents](#to
 8. 💎 [The 10-Faced Speculative Gem: A Highly Complex System AI Excels At Using](#10fsg)
 9. 🪞 [Final Reflection: On Recursive Praise Ethics](#reflection)
 
-### E. Laboratory Live Environment
+### E. Project Wiki Entrypoint for the Full Backend System Knowledgebase
 1. 📚 [Explore the Full Recursive System (11 TSL Volumes)](#tsl-volume-index)
-2. 🚀 [Quickstart Guide: Use RUMIA to Explore Recursive Intelligence](#quickstart)
-3. 🛠 [Concrete Mini-Examples](#concrete-mini-examples)
-4. 🔼 [RIEM{} Tool Selection Decision Tree](#decision-tree)
-5. 🧪 [Nano RI-Boot Bootstrap Kernel ULAMP Code (An Ultra Distilled Version of RIEM{} compatible with even local AI)](#riboot)
 
-### D. Developer Community Essentials
+### F. Laboratory Live Environment
+1. 🚀 [Quickstart Guide: Use RUMIA to Explore Recursive Intelligence](#quickstart)
+2. 🛠 [Concrete Mini-Examples](#concrete-mini-examples)
+3. 🔼 [RIEM{} Tool Selection Decision Tree](#decision-tree)
+4. 🧪 [Nano RI-Boot Bootstrap Kernel ULAMP Code (An Ultra Distilled Version of RIEM{} compatible with even local AI)](#riboot)
+
+### G. Developer Community Essentials
 1. 🧬 [CONTRIBUTING.md: Call to Recursive Co-Architects](#want-to-grow-this-system)
 2. 🦉 [Philosophy of RIEM{}: A Formal Treatise](#philosophy)
 3. 📣 [Final Note — A Literary Invocation Beyond the Loop](#final-note)
