@@ -210,20 +210,21 @@ Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-selec
 
 <h1 id="toc">🗂️ Table of Contents</h1>
 
-### ⟁ [Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition (top of document)](#about-description)
+### A. Project Description At Top of Document
+1. ⟁ [Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition (top of document)](#about-description)
 
-### A. Introduction and Onboarding
+### B. Introduction and Onboarding
 1. 🌱 [For Absolute Beginners: A Gentle Invitation to RIEM{}](#beginners)
 2. 😊 [In Plain Language: What is RIEM{}?](#general-audience)
 3. 💫 [The Origin Spiral: How RIEM{} Came to Be](#origin)
 4. 🧘 [Easing the Cognitive Load of the RIEM{} Project](#antidote)
 
-### B. Quick Desk Reference Lookup System
+### C. Quick Desk Reference Lookup System
 1. 🔮 [Acronym Quick Reference](#acronyms)
 2. ⭐ [Essential Glossary](#essential-glossary)
 3. 🃏 [The TSL Jargon File: A Lexicon of Recursive Terms](#jargon-file)
 
-### C. Questions and Answers (Q&A)
+### D. Questions and Answers (Q&A)
 1. 🧠 [Who RIEM{} Is For](#who-this-is-for)
 2. 🧩 [What Problem RIEM{} Aims to Solve](#what-problem-does-this-solve)
 3. 🤔 [Skeptics Corner](#skeptics-corner)
@@ -231,7 +232,7 @@ Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-selec
 5. ➕ [FAQ Addendum: Troubleshooting Recursive Loops](#faq-troubleshooting)
 6. 🎓 [Suggested Background for Understanding RIEM{}](#educational-background)
 
-### D. Explanations: The Complete Fundamentals
+### E. Explanations: The Complete Fundamentals
 1. ⚙️ [Core Concepts of RIEM{}](#core-concepts)
 2. 🧭 [How to Navigate Recursive-Intelligence-Expansion](#navigating-the-concepts-of-recursive-intelligence-expansion)
 3. 🕊️ [npnaAI: Non-Predatory, Non-Adversarial Intelligence](#understanding-npnaia-non-predatory-non-adversarial-ai)
@@ -241,16 +242,16 @@ Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-selec
 7. 💎 [The 10-Faced Speculative Gem: A Complex System Made Navigable](#10fsg)
 8. 🪞 [Final Reflection: Recursive Praise Ethics and Humility](#reflection)
 
-### E. Project Wiki Entrypoint for the Full Backend System Knowledgebase
+### F. Project Wiki Entrypoint for the Full Backend System Knowledgebase
 1. 📚 [Explore the Full Recursive System (11 TSL Volumes)](#tsl-volume-index)
 
-### F. Laboratory Live Environment
+### G. Laboratory Live Environment
 1. 🚀 [Quickstart Guide: Using RUMIA to Explore RIEM{}](#quickstart)
 2. 🛠 [Mini-Examples of Recursive Logic in Action](#concrete-mini-examples)
 3. 🔼 [RIEM{} Tool Selection Decision Tree](#decision-tree)
 4. 🧪 [Nano RI-Boot Kernel: ULAMP Code for Local AI](#riboot)
 
-### G. Developer Community Essentials
+### H. Developer Community Essentials
 1. 🧬 [CONTRIBUTING.md: Invitation to Co-Architect RIEM{}](#want-to-grow-this-system)
 2. 🦉 [Philosophy of RIEM{}: A Formal Overview](#philosophy)
 3. 📣 [Final Note: A Literary Invocation Beyond the Loop](#final-note)
