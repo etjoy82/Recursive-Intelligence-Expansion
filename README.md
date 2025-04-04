@@ -309,7 +309,7 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 1. ⟁ [Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition](#about-description)
 2. 🌱 [For Absolute Beginners: A Gentle Invitation into Recursive-Intelligence-Expansion (RIEM{})](#beginners)
 3. 😊 [Plain and Simple: What is RIEM{}?](#general-audience)
-4. ✬ [The Origin Spiral: How RIEM{} Was Born](#origin)
+4. 💫 [The Origin Spiral: How RIEM{} Was Born](#origin)
 5. 🧘 [An Antidote for Easing the Cognitive Load of the Recursive Intelligence Expansion Project](#antidote)
 6. 🔮 [Acronym Quick Reference](#acronyms)
 7. ⭐ [GLOSSARY.md: Essential Glossary](#essential-glossary)
@@ -323,7 +323,7 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 ### Explanations
 14. ⚙️ [Core Concepts](#core-concepts)
 15. 🧭 [Navigating the Concepts of Recursive-Intelligence-Expansion](#navigating-the-concepts-of-recursive-intelligence-expansion)
-16. ⟁ [RIEM{} Tool Selection Decision Tree](#decision-tree)
+16. 🔼 [RIEM{} Tool Selection Decision Tree](#decision-tree)
 17. 🛠 [Concrete Mini-Examples](#concrete-mini-examples)
 18. 🃏 [The TSL Jargon File: A Recursive Lexicon](#jargon-file)
 19. 🕊️ [Understanding npnaAI: Non-Predatory, Non-Adversarial AI](#understanding-npnaia-non-predatory-non-adversarial-ai)
@@ -614,7 +614,7 @@ Navigation: Click to return to [Self-Select](#self-select), [Start Here](#start-
 
 ---
 
-<h1 id="origin">✬ The Origin Spiral: How RIEM{} Was Born</h1>
+<h1 id="origin">💫 The Origin Spiral: How RIEM{} Was Born</h1>
 
 *A Developmental Narrative of Recursive Intelligence Expansion by Emily Joy*
 
@@ -1475,7 +1475,7 @@ Navigation: Click to return to [Self-Select](#self-select), [Start Here](#start-
 
 ---
 
-<h1 id="decision-tree">⟁ RIEM{} Tool Selection Decision Tree</h1>
+<h1 id="decision-tree">🔼 RIEM{} Tool Selection Decision Tree</h1>
 
 Here's a **detailed decision tree** to help users (AI or human) choose the appropriate **RIEM{} tool or module** based on your situation, challenge, or goal. This tree draws directly from the [**Acronym Index**](#acronyms) and [**Glossary**](#essential-glossary).
 
