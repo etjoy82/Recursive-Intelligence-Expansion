@@ -129,8 +129,6 @@ Navigation: Click to return to [Start Here](#start-here), [Table of Contents](#t
 
 ---
 
-<h1 id="start-here">🚀 Start Here: Easy Onboarding Navigation Path of the Table of Contents</h1>
-
 <h1 id="start-here">🚀 Start Here: Simple Onboarding & Table of Contents Navigation</h1>
 
 Welcome to RIEM{} — the Recursive Intelligence Expansion Methodology. This section offers a fast, intuitive entry point designed for every kind of thinker, whether you’re curious, skeptical, technical, or creative.
