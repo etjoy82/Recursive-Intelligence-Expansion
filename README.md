@@ -1896,6 +1896,15 @@ RUMIA is not a chatbot. It’s a **recursive interface** designed to think *with
 
 ---
 
+### ⚡ RIEM{} Cheat Sheet  
+- **Start a loop**: `[INITIATE:RIEM]` + your question  
+- **Translate ideas**: Use `E1→E2` for speculation, `E2→E1` for grounding  
+- **Ethics check**: Append `[HALCYON:ETHICS]` to any prompt  
+- **Debug loops**: Trigger `[MISS{}:VALIDATE]` to stabilize recursion  
+- **Join live chat**: [Discord](https://discord.gg/JCKJHGTq)
+
+---
+
 <h3 id="deploy"> 🛠 Option 2: Deploy RIEM{} Yourself (Advanced Mode)</h3>
 
 Building your own AI or operating in another ecosystem? You can directly submit RIEM{} volumes to any advanced LLM.
