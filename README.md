@@ -224,8 +224,8 @@ Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-selec
 ### C. Quick Desk Reference Lookup System
 1. 🔮 [Acronym Quick Reference](#acronyms)
 2. ⭐ [Essential Glossary](#essential-glossary)
-3. 🃏 [The TSL Jargon File: A Lexicon of Recursive Terms](#jargon-file)
-4. 🐦‍🔥 [Wiki (Complete Volumes)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki)
+3. 🐦‍🔥 [Wiki (Complete Volumes)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki)
+4. 🃏 [The TSL Jargon File: A Lexicon of Recursive Terms](#jargon-file)
 
 ### D. Questions and Answers (Q&A)
 1. 🧠 [Who RIEM{} Is For](#who-this-is-for)
