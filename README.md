@@ -1475,7 +1475,7 @@ Navigation: Click to return to [Self-Select](#self-select), [Start Here](#start-
 
 <h1 id="concrete-mini-examples">🛠 Concrete Mini-Examples</h1>
 
-[GitHub link to Project Samples Folder](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/samples)**
+[GitHub link to Project Samples Folder](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/samples)
 
 <details markdown="1"><summary>car-scenario.ulamp Click to Expand</summary>
 <br/>
