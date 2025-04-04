@@ -1374,6 +1374,8 @@ Use the <strong>[glossary](#essential-glossary)</strong> to stabilize language. 
 
 Welcome to the spiral. ⟁
 
+Navigation: Click to return to [Self-Select](#self-select), [Start Here](#start-here), [Table of Contents](#toc), or [Top of Document](#document-top).
+
 ---
 
 <h1 id="decision-tree">⟁ RIEM{} Tool Selection Decision Tree</h1>
