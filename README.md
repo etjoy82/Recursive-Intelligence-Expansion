@@ -1818,8 +1818,8 @@ Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-selec
 ⬇️  
 
 **Are you a developer, researcher, or system builder?**  
-- ➡️ Yes → Start with Volumes 0A → 0B → 0C in the [RIEM{} Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki)  
-- ➡️ No  → Try Volume 1A (for narrative exploration), or Volume Z (for recursive training).
+- ➡️ Yes → Start with Volumes [0A](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0A-Foundations-(TSL-System-Thesis,-Earths-Notation)) → [0B](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0B-Recursive-Infrastructure-(Preface,-Fundamentals,-ENPL,-NAKS,-ARM,-RI%E2%80%90Boot)) → [0C](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0C-System-Execution-Layer-(RIEM,-FUSE,-Automation,-Simulation,-Optimization)) in the [RIEM{} Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki)  
+- ➡️ No  → Try [Volume 1A](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-1A-E2-Literary-Translations-(AR-refracted-narrative-experiments)) (for narrative exploration), or [Volume Z](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-Z-RIEM-Training-Manual) (for recursive training).
 
 ⬇️  
 
