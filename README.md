@@ -204,11 +204,11 @@ Feeling overwhelmed? This playful glossary is packed with recursive humor, inven
 11. 🧬 **[Call to Recursive Co-Architects](#want-to-grow-this-system)**  
 Interested in contributing? Join the RIEM{} development and thought architecture community.
 
+Once you're ready, follow your curiosity! Whether you're interested in worldbuilding, decision-making, or philosophical exploration, RIEM{} will guide you through recursive cycles of discovery.
+
 Navigation: [🧭 Self-Select](#self-select) • [🗂️ Table of Contents](#toc) • [🔝 Top of Document](#document-top)
 
 ---
-
-Once you're ready, follow your curiosity! Whether you're interested in worldbuilding, decision-making, or philosophical exploration, RIEM{} will guide you through recursive cycles of discovery.
 
 <h1 id="toc">🗂️ Table of Contents</h1>
 
