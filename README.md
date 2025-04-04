@@ -107,9 +107,8 @@ return RIEM_loop(reframe(insight, contradiction), depth+1)<br>
     
 That’s the core. You’re ready.
 
-To go deeper, open the [⭐ Essential Glossary](#essential-glossary) for a full list of key terms, or follow any path in the [🚀 Start Here](#start-here) section.
-
 </details>
+
 Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-select) • [🚀 Start Here](#start-here) • [🗂️ Table of Contents](#toc) • [🐦‍🔥 Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki) • [🔝 Top of Document](#document-top)
 
 ---
