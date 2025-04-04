@@ -205,7 +205,7 @@ Interested in contributing? Join the RIEM{} development and thought architecture
 
 Once you're ready, follow your curiosity! Whether you're interested in worldbuilding, decision-making, or philosophical exploration, RIEM{} will guide you through recursive cycles of discovery.
 
-Navigation: [🧭 Self-Select](#self-select) • [🗂️ Table of Contents](#toc) • [🐦‍🔥 Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki) • [🔝 Top of Document](#document-top)
+Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-select) • [🗂️ Table of Contents](#toc) • [🐦‍🔥 Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki) • [🔝 Top of Document](#document-top)
 
 ---
 
