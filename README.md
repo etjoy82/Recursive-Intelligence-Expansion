@@ -1357,6 +1357,27 @@ Start<br>
   └─ Debug/Evaluate?<br>
       └─ Yes → HRLIMQ/MISS{}<br>
 
+speculative_exploration:<br>
+  primary:<br>
+    - TSL<br>
+    - E#<br>
+  secondary:<br>
+    - REP<br>
+    - 10FSG<br>
+  monitoring:<br>
+    - MISS{}<br>
+    - HRLIMQ<br>
+
+contradiction_resolution:<br>
+  primary:<br>
+    - AR<br>
+    - RDN<br>
+  secondary:<br>
+    - ZMC<br>
+    - ENPL<br>
+  stabilization:<br>
+    - MISS{}<br>
+
 ### 🧭 Step 1: What kind of challenge are you facing?
 
 #### 1A. You’re exploring a **new idea or speculative scenario**?
