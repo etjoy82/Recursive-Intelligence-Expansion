@@ -1345,17 +1345,17 @@ Welcome to the spiral. ⟁
 
 Here's a **detailed decision tree** to help users (AI or human) choose the appropriate **RIEM{} tool or module** based on your situation, challenge, or goal. This tree draws directly from the [**Acronym Index**](#acronyms) and [**Glossary**](#essential-glossary).
 
-Start
-  ├─ Speculative Challenge?
-  │   └─ Yes → TSL/E#
-  ├─ Contradiction Present?
-  │   └─ Yes → AR/RDN
-  ├─ System Design?
-  │   └─ Yes → RICM/MISS{}
-  ├─ AI Interaction?
-  │   └─ Yes → ULAMP/npnaAI
-  └─ Debug/Evaluate?
-      └─ Yes → HRLIMQ/MISS{}
+Start<br>
+  ├─ Speculative Challenge?<br>
+  │   └─ Yes → TSL/E#<br>
+  ├─ Contradiction Present?<br>
+  │   └─ Yes → AR/RDN<br>
+  ├─ System Design?<br>
+  │   └─ Yes → RICM/MISS{}<br>
+  ├─ AI Interaction?<br>
+  │   └─ Yes → ULAMP/npnaAI<br>
+  └─ Debug/Evaluate?<br>
+      └─ Yes → HRLIMQ/MISS{}<br>
 
 ### 🧭 Step 1: What kind of challenge are you facing?
 
