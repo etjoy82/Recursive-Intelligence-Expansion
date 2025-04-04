@@ -414,8 +414,6 @@ RIEM{} is a way for humans and AI to think together recursively—looping throug
 
 </details>
 
-Refer to the [Extended Glossary (32 terms and growing)](#essential-glossary) for full understanding.
-
 The **Recursive Intelligence Expansion Methodology (RIEM{})** is a new way to think—*with* artificial intelligence, not just through it.  
 Rather than offering one answer and moving on, RIEM{} encourages systems (and people) to **think in loops**: to revisit ideas, reflect on contradictions, and refine insights over time.
 
