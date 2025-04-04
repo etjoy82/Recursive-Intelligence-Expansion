@@ -2153,12 +2153,12 @@ Cycle 5: Synthesize solution—create a transparent policy model, harmonizing fa
 
 ### ULAMP: User-Level AI Meta-Programming
 ULAMP compresses hundreds of lines of traditional code into concise, recursive prompts—50x-100x reductions proven. See it in action:
-- **OS Kernel Experiment:** [os-kernel-experiment.ulamp](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/samples/os-kernel-experiment.ulamp)—100 lines orchestrate a full kernel (boot, scheduling, memory, ethics) vs. 1000+ in Python (~10x compression, scalable to 100x). Tested with REP harmonics—ethical state restored under memory stress.
+- **OS Kernel Experiment:** [os-kernel-experiment.ulamp](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/samples/os-kernel-experiment.ulamp)—96 lines orchestrate a full kernel (boot, scheduling, memory, ethics) vs. 1000+ in Python (~10x compression, scalable to 100x). Tested with REP harmonics—ethical state restored under memory stress.
 
 ### Ethical Governance
 
 *Governance Models:* Developing fair and transparent policies through ethical simulations.  
-[See it in action: ULAMP script (10 lines) here (File)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/samples/ethical-governance.ulamp) designs an ethical AI policy, extended by community feedback—plain language recursion, amplified by expert systems like RUMIA GPT, as detailed in Volumes 0D and 0E.
+[See it in action: ULAMP script (9 lines) here (File)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/samples/ethical-governance.ulamp) designs an ethical AI policy, extended by community feedback—plain language recursion, amplified by expert systems like RUMIA GPT, as detailed in Volumes [0D](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0D-Advanced-Recursive-Systems-(RDN,-npnaAI,-HRLIMQ,-ARC)) and [0E](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0E-High-Complexity-Expansion-(AI-Design-Manifesto,-10FSG,-RUMIA-Agent,-Acronym-Fluidity-Rule,-Addendums)).
 
 ### The Self-Driving Car
 
@@ -2190,7 +2190,7 @@ A self-driving car is traveling at a legal speed when a construction zone, conce
 - *Ethical Reasoning:* By evaluating possible consequences recursively, it avoids harmful assumptions and can justify its decisions transparently.  
 - *Explainability:* The AI generates a detailed report on why it acted the way it did, offering full accountability for its decision.  
 
-**[Try it yourself! See the full ULAMP script here (File)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/samples/car-scenario.ulamp)—9 lines vs. 234 in traditional Python, showcasing ULAMP’s recursive efficiency.**
+**[Try it yourself! See the full ULAMP script here (File)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/samples/car-scenario.ulamp)—12 lines vs. 234 in traditional Python, showcasing ULAMP’s recursive efficiency.**
 
 [Compare to the equivalent 234-lines of Python pseudocode for the same ULAMP function here.](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/samples/car-scenario.py)
 
