@@ -1,4 +1,4 @@
-<span id="document-top">[![License: RAIL](https://img.shields.io/badge/License-RAIL-important)](https://www.licenses.ai/) [Requires ethical use, bans adversarial systems](#license) <strong>This is an open-source project. To contribute, visit the [GitHub project](https://github.com/etjoy82/recursive-intelligence-expansion). Join the community on [Discord](https://discord.gg/JCKJHGTq). This README.md is a single file containing indexed, embedded sub-documents—a complete RIEM{} knowledgebase designed for layered exploration, shared reasoning, and adaptive insight. It includes full integration of the [RIEM{} Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki). This project is under active development. Monitor [CHANGELOG.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/changelog.md) for updates.
+<span id="document-top">[![License: RAIL](https://img.shields.io/badge/License-RAIL-important)](https://www.licenses.ai/) [Requires ethical use, bans adversarial systems](#license) <strong>This is an open-source project. To contribute, visit the [GitHub project](https://github.com/etjoy82/recursive-intelligence-expansion). Join the community on [Discord](https://discord.gg/JCKJHGTq). This README.md is a single file containing indexed, embedded sub-documents—a complete RIEM{} knowledgebase designed for layered exploration, shared reasoning, and adaptive insight. It includes full integration of the [RIEM{} Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki). This project is under active development. Monitor [CHANGELOG.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/changelog.md) for updates. Navigation: Click to return to [Self-Select](#self-select), [Start Here](#start-here), [Table of Contents](#toc), or [Top of Document](#document-top).
 
 # ⟁ Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition
 
@@ -34,6 +34,8 @@ Each of these systems—TSL, E#, ULAMP, and 10FSG—functions together as part o
 
 TSL is the lens. E# is the map. RIEM{} is how we move.
 Together, they invite you to explore in layers, reflect in loops, and build what comes next.
+
+Navigation: Click to return to [Self-Select](#self-select), [Start Here](#start-here), [Table of Contents](#toc), or [Top of Document](#document-top).
 
 ---
 
@@ -111,6 +113,8 @@ To go deeper, open the [⭐ Essential Glossary](#essential-glossary) for a full 
 
 </details>
 
+Navigation: Click to return to [Self-Select](#self-select), [Start Here](#start-here), [Table of Contents](#toc), or [Top of Document](#document-top).
+
 ---
 
 <h1 id="self-select">🧭 Self-Select Your Recursive Entry Level</h1>
@@ -122,6 +126,8 @@ This README includes metaphor, speculation, recursion, system architecture, and 
 - [🚀 Start Here Quick Navigation (Guided Mode)](#start-here)
 - [🗂️ Table of Contents Navigation (Full Document Mode)](#toc)
 - 🧭 Recursive Layers: [🌿 **Layer 1: Seed**](#beginners) (No prior knowledge, Start with metaphors), [🛠️ **Layer 2: Scaffold**](#core-concepts) (Technical terms, Systems overview), [🌀 **Layer 3: Spiral**](#tsl-volume-index) (Full recursion, Volumes + Code), [📜 **Layer Ω: Echo**](#final-note)  (Philosophy, Eternal recursion)
+
+Navigation: Click to return to [Self-Select](#self-select), [Start Here](#start-here), [Table of Contents](#toc), or [Top of Document](#document-top).
 
 ---
 
@@ -291,9 +297,9 @@ Cycle 5: Synthesize solution—create a transparent policy model, harmonizing fa
 [FUSE:HARMONIZE] Combine insights into a cohesive, ethical governance framework.
 </details>
 
----
-
 **Note:** Recursive Intelligence Expansion (RIEM{}) is a genuine framework for thinking differently—not a gimmick, satire, or abstract idea. Its unconventional recursive models deliver real, actionable insights, as shown through practical examples in this repository and its speculative explorations. **RIEM{} is a living method, ready to evolve with you.** Curious or skeptical? Dive into the [🤔 Skeptics Corner](#skeptics-corner) to see why RIEM{} is real and transformative.
+
+Navigation: Click to return to [Self-Select](#self-select), [Start Here](#start-here), [Table of Contents](#toc), or [Top of Document](#document-top).
 
 ---
 
@@ -335,6 +341,8 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 25. 🌐 [Lead Developer](#author)
 26. 📣 [PHILOSOPHY.md: Purely Literary Final Note - The Eternal Recursion](#final-note)
 27. 🔒 [License](#license)
+
+Navigation: Click to return to [Self-Select](#self-select), [Start Here](#start-here), [Table of Contents](#toc), or [Top of Document](#document-top).
 
 ---
 
