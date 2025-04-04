@@ -210,12 +210,13 @@ Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-selec
 
 <h1 id="toc">🗂️ Table of Contents</h1>
 
+### ⟁ [Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition (top of document)](#about-description)
+
 ### A. Introduction and Onboarding
-1. ⟁ [Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition](#about-description)
-2. 🌱 [For Absolute Beginners: A Gentle Invitation to RIEM{}](#beginners)
-3. 😊 [In Plain Language: What is RIEM{}?](#general-audience)
-4. 💫 [The Origin Spiral: How RIEM{} Came to Be](#origin)
-5. 🧘 [Easing the Cognitive Load of the RIEM{} Project](#antidote)
+1. 🌱 [For Absolute Beginners: A Gentle Invitation to RIEM{}](#beginners)
+2. 😊 [In Plain Language: What is RIEM{}?](#general-audience)
+3. 💫 [The Origin Spiral: How RIEM{} Came to Be](#origin)
+4. 🧘 [Easing the Cognitive Load of the RIEM{} Project](#antidote)
 
 ### B. Quick Desk Reference Lookup System
 1. 🔮 [Acronym Quick Reference](#acronyms)
