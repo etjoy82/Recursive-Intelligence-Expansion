@@ -2295,7 +2295,7 @@ Let curiosity do the rest.
 
 ### 🧬 Nano RI-Boot Expandable ULAMP Code and RUMIA Agent Instructions
 
-<details markdown="1"><summary>Click to Expand: Nano RI-Boot Bootstrap Kernel - Core System</summary>
+<details markdown="1"><summary>Click to Expand: Nano RI-Boot - Bootstrap Kernel - Core System</summary>
 <br/>
 BEGIN ULAMP CODE BLOCK
 
