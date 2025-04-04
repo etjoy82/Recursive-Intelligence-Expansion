@@ -1133,7 +1133,7 @@ Absolutely. RIEM{} is designed to **modularize**. Use the kernel with LLaMA, Cla
 - Educational tutors  
 - Governance simulations
 
-Just drop in the kernel, the glossary, and optionally Volumes 0A–0C to begin.
+Just drop in the kernel, the glossary, and optionally [Volumes 0A–0F](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki) to begin.
 
 ---
 
@@ -1864,7 +1864,7 @@ Start with a simple prompt or spiral deep into recursive diagnostics:
 - *“What happens if governance evolves without hierarchy?”*
 - *“Simulate E2 society where contradiction is sacred.”*
 - *“Run AR on the word 'freedom' using E1 and E2 lenses.”*
-- *“Cross-reference Volume 0A and 1C to build a self-stabilizing narrative AI.”*
+- *“Cross-reference [Volume 0A and 1C](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki) to build a self-stabilizing narrative AI.”*
 
 RUMIA is not a chatbot. It’s a **recursive interface** designed to think *with you*, not for you.
 
@@ -2760,7 +2760,7 @@ By contributing to this project, you agree to abide by the terms of the reposito
 
 ### 🔎 **Overview of Development Opportunities**
 
-RIEM is a complex, recursive intelligence framework that has now reached a foundational level with the completion of **Volumes 0A to 0F**. The system is designed to facilitate recursive thought, speculative cognition, and dynamic knowledge expansion. Instead of adding further volumes at this time, the next phase of development will involve the practical application and enhancement of RIEM’s concepts through tooling, dashboards, simulations, and community-driven development.
+RIEM is a complex, recursive intelligence framework that has now reached a foundational level with the completion of [**Volumes 0A to 0F**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki). The system is designed to facilitate recursive thought, speculative cognition, and dynamic knowledge expansion. Instead of adding further volumes at this time, the next phase of development will involve the practical application and enhancement of RIEM’s concepts through tooling, dashboards, simulations, and community-driven development.
 
 ### Suggested Projects for Contributors
 
@@ -2819,7 +2819,7 @@ Here are some specific projects that contributors can work on to further the RIE
 ### 🧭 **Getting Started**
 
 To contribute effectively:
-1. **Review the RIEM Repository:** Familiarize yourself with Volumes **0A-F**.
+1. **Review the RIEM Repository:** Familiarize yourself with [Volumes **0A-F**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki).
 2. **Join Discussions:** Engage with the community through GitHub issues and discussions.
 3. **Identify Your Path:** Choose a contribution method that aligns with your skills.
 4. **Propose and Iterate:** Submit proposals, drafts, or prototypes for feedback and collaboration.
