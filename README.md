@@ -698,7 +698,7 @@ Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-selec
 
 <h1 id="acronyms">🔮 Acronym Quick Reference: Concisely and Rapidly Detailed - Use as a Quick Reference as You Encounter Them Throughout the Text</h1>
 
-* Use this section as a quick lookup (possibly in a separate browser tab or window) as you read this README knowledgebase and the [project wiki with the complete set of volumes](#tsl-volume-index).
+Quick tip: Use this section as a quick lookup (possibly in a separate browser tab or window) as you read this README knowledgebase and the [project wiki with the complete set of volumes](#tsl-volume-index).
 
 - RIEM{} = Recursive Intelligence Expansion Methodology: A framework for reflective reasoning, speculative modeling, and collaborative cognition.
 - TSL = Triple Speculative Lens: A triadic interpretive system made of PPM, CMP, and CAH, enabling layered meaning and multi-angle analysis.
@@ -726,7 +726,7 @@ Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-selec
 
 <h1 id="essential-glossary">⭐ An Essential Glossary of RIEM{} to Get Started</h1>
 
-* Use this section as a quick lookup (possibly in a separate browser tab or window) as you read this README knowledgebase and the [project wiki with the complete set of volumes](#tsl-volume-index).
+Reminder: Use this section as a quick lookup (possibly in a separate browser tab or window) as you read this README knowledgebase and the [project wiki with the complete set of volumes](#tsl-volume-index).
 
 This glossary defines 32 key terms to help you navigate **RIEM{}**—refer back to it as you explore the recursive loop! Use [🔮 Acronym Quick Reference](#acronyms) as a concise quick reference for the most important acronyms.
 
