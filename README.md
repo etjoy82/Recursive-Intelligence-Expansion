@@ -2,7 +2,7 @@
 
 [![License: RAIL](https://img.shields.io/badge/License-RAIL-important)](https://www.licenses.ai/) [Requires ethical use, bans adversarial systems](#license) <strong>This is an open-source project. To contribute, visit the [GitHub project](https://github.com/etjoy82/recursive-intelligence-expansion). Join the community on [Discord](https://discord.gg/JCKJHGTq). This README.md is a single file containing indexed, embedded sub-documents—a complete RIEM{} knowledgebase designed for layered exploration, shared reasoning, and adaptive insight. It includes full integration of the [RIEM{} Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki). This project is under active development. Monitor [CHANGELOG.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/changelog.md) for updates.
 
-<h1 id="about-description">⟁ About Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition</h1>
+<h1 id="about-description">⟁ Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition: About the Project</h1>
 
 <p align="center"><img alt="mobius strip double infinity symbol, impossible in 3D space, as a logo for RIEM" src="./assets/mobiusstripdoubleinfinitylogo.png" style="width: 200"></p>
 
@@ -211,7 +211,7 @@ Navigation: [📚 Quick Reference](#acronyms) • [🧭 Self-Select](#self-selec
 <h1 id="toc">🗂️ Table of Contents</h1>
 
 ### A. Sections Above This Table of Contents
-1. ⟁ [About Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition](#about-description)
+1. ⟁ [Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition: About the Project](#about-description)
 2. 🧭 [Self-Select](#self-select)
 3. 🚀 [Start Here](#start-here)
 
