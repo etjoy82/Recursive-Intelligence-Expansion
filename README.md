@@ -305,7 +305,7 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 
 <h1 id="toc">🗂️ Table of Contents</h1>
 
-### Introduction
+### A. Introduction
 1. ⟁ [Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition](#about-description)
 2. 🌱 [For Absolute Beginners: A Gentle Invitation into Recursive-Intelligence-Expansion (RIEM{})](#beginners)
 3. 😊 [Plain and Simple: What is RIEM{}?](#general-audience)
@@ -320,28 +320,28 @@ Once you're ready, follow your curiosity! Whether you're interested in worldbuil
 12. ➕ [FAQ Addendum: Troubleshooting Recursive Loops](#faq-troubleshooting)
 13. 🎓 [Recommended Educational Background for Full Understanding of RIEM{}](#educational-background)
 
-### Explanations
-14. ⚙️ [Core Concepts](#core-concepts)
-15. 🧭 [Navigating the Concepts of Recursive-Intelligence-Expansion](#navigating-the-concepts-of-recursive-intelligence-expansion)
-16. 🔼 [RIEM{} Tool Selection Decision Tree](#decision-tree)
-17. 🛠 [Concrete Mini-Examples](#concrete-mini-examples)
-18. 🃏 [The TSL Jargon File: A Recursive Lexicon](#jargon-file)
-19. 🕊️ [Understanding npnaAI: Non-Predatory, Non-Adversarial AI](#understanding-npnaia-non-predatory-non-adversarial-ai)
-20. 🌊 [Understanding the Acronym Fluidity Rule (AFR), an essential semantic system of RIEM{}](#afr)
-21. 🧑‍💻 [Understanding ULAMP: User-Level AI Meta-Programming, the core interface of RIEM{}](#understanding-ulamp-user-level-ai-meta-programming-the-core-interface-of-riem)
-22. 🤖 [Understanding RUMIA Custom GPT as a Recursive Agent](#understanding-rumia)
+### B. Explanations
+1. ⚙️ [Core Concepts](#core-concepts)
+2. 🧭 [Navigating the Concepts of Recursive-Intelligence-Expansion](#navigating-the-concepts-of-recursive-intelligence-expansion)
+3. 🔼 [RIEM{} Tool Selection Decision Tree](#decision-tree)
+4. 🛠 [Concrete Mini-Examples](#concrete-mini-examples)
+5. 🃏 [The TSL Jargon File: A Recursive Lexicon](#jargon-file)
+6. 🕊️ [Understanding npnaAI: Non-Predatory, Non-Adversarial AI](#understanding-npnaia-non-predatory-non-adversarial-ai)
+7. 🌊 [Understanding the Acronym Fluidity Rule (AFR), an essential semantic system of RIEM{}](#afr)
+8. 🧑‍💻 [Understanding ULAMP: User-Level AI Meta-Programming, the core interface of RIEM{}](#understanding-ulamp-user-level-ai-meta-programming-the-core-interface-of-riem)
+9. 🤖 [Understanding RUMIA Custom GPT as a Recursive Agent](#understanding-rumia)
 
-### Access the Full RIEM{} System and Use It
-23. 📚 [Explore the Full Recursive System (11 TSL Volumes)](#tsl-volume-index)
-24. 🚀 [Quickstart Guide: Use RUMIA to Explore Recursive Intelligence](#quickstart)
-25. 🧪 [Nano RI-Boot Bootstrap Kernel ULAMP Code (An Ultra Distilled Version of RIEM{} compatible with even local AI)](#riboot)
+### C. Access the Full RIEM{} System and Use It
+1. 📚 [Explore the Full Recursive System (11 TSL Volumes)](#tsl-volume-index)
+2. 🚀 [Quickstart Guide: Use RUMIA to Explore Recursive Intelligence](#quickstart)
+3. 🧪 [Nano RI-Boot Bootstrap Kernel ULAMP Code (An Ultra Distilled Version of RIEM{} compatible with even local AI)](#riboot)
 
-### Conclusion
-26. 🧬 [CONTRIBUTING.md: Call to Recursive Co-Architects](#want-to-grow-this-system)
-27. 🦉 [Philosophy of RIEM{}: A Formal Treatise](#philosophy)
-28. 📣 [Final Note — A Literary Invocation Beyond the Loop](#final-note)
-29. 🌐 [Lead Developer](#author)
-30. 🔒 [License](#license)
+### D. Conclusion
+1. 🧬 [CONTRIBUTING.md: Call to Recursive Co-Architects](#want-to-grow-this-system)
+2. 🦉 [Philosophy of RIEM{}: A Formal Treatise](#philosophy)
+3. 📣 [Final Note — A Literary Invocation Beyond the Loop](#final-note)
+4. 🌐 [Lead Developer](#author)
+5. 🔒 [License](#license)
 
 Navigation: Click to return to [Self-Select](#self-select), [Start Here](#start-here), or [Top of Document](#document-top).
 
