@@ -2239,7 +2239,7 @@ contradiction_resolution:<br>
     - MISS{}<br><br>
 
 <span>
-### 🧭 Step 1: What kind of challenge are you facing?
+<h3>🧭 Step 1: What kind of challenge are you facing?</h3>
 
 #### 1A. You’re exploring a **new idea or speculative scenario**?
 → Use:  
