@@ -2822,7 +2822,7 @@ Here are some specific projects that contributors can work on to further the RIE
 ### 🧭 **Getting Started**
 
 To contribute effectively:
-1. **Review the RIEM Repository:** Familiarize yourself with [Volumes **0A-F**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki).
+1. **Review the RIEM Repository:** Familiarize yourself with [Volumes **0A-0F**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki).
 2. **Join Discussions:** Engage with the community through GitHub issues and discussions.
 3. **Identify Your Path:** Choose a contribution method that aligns with your skills.
 4. **Propose and Iterate:** Submit proposals, drafts, or prototypes for feedback and collaboration.
