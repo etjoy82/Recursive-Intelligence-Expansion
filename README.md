@@ -37,7 +37,7 @@ Each of these systems—TSL, E#, ULAMP, and 10FSG—functions together as part o
 TSL is the lens. E# is the map. RIEM{} is how we move.
 Together, they invite you to explore in layers, reflect in loops, and build what comes next.
 
-Navigation: Click to return to [Self-Select](#self-select), [Start Here](#start-here), [Table of Contents](#toc), or [Top of Document](#document-top).
+Navigation: Click to skip ahead to [Self-Select](#self-select), [Start Here](#start-here), [Table of Contents](#toc), or [Top of Document](#document-top).
 
 ---
 
@@ -115,7 +115,7 @@ To go deeper, open the [⭐ Essential Glossary](#essential-glossary) for a full 
 
 </details>
 
-Navigation: Click to return to [Self-Select](#self-select), [Start Here](#start-here), [Table of Contents](#toc), or [Top of Document](#document-top).
+Navigation: Click to skip ahead to [Self-Select](#self-select), [Start Here](#start-here), [Table of Contents](#toc), or [Top of Document](#document-top).
 
 ---
 
