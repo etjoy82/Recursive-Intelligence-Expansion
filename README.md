@@ -890,7 +890,7 @@ It’s how RIEM{} explores beyond what *is* by looping through what *might be*�
 In RIEM{}, contradictions are not failure—they are fuel. They signal points where recursion can lift, translate, or harmonize, often triggering the Ascension Reflex (AR).
 
 **26. feedback surface** — Any space—like a document, interface, or dialogue—where thoughts can reflect and refine recursively.  
-This README is one. So is RUMIA. So is you.
+This README is one. So is RUMIA. So are you.
 
 **27. simulation** — A structured thought-world generated through language, recursion, or conceptual translation.  
 In RIEM{}, simulations aren’t games—they’re cognitive experiments for stress-testing ethics, decisions, and futures.
@@ -1653,7 +1653,9 @@ A self-driving car is traveling at a legal speed when a construction zone, conce
 - *Ethical Reasoning:* By evaluating possible consequences recursively, it avoids harmful assumptions and can justify its decisions transparently.  
 - *Explainability:* The AI generates a detailed report on why it acted the way it did, offering full accountability for its decision.  
 
-**[Try it yourself! See the full ULAMP script here (File)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/samples/car-scenario.ulamp)—9 lines vs. 234 in traditional Python, showcasing ULAMP’s recursive efficiency.]** [Compare to the equivalent 234-lines of Python pseudocode for the same ULAMP function here.](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/samples/car-scenario.py)
+**[Try it yourself! See the full ULAMP script here (File)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/samples/car-scenario.ulamp)—9 lines vs. 234 in traditional Python, showcasing ULAMP’s recursive efficiency.**
+
+[Compare to the equivalent 234-lines of Python pseudocode for the same ULAMP function here.](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/samples/car-scenario.py)
 
 This scenario demonstrates how Recursive-Intelligence-Expansion is uniquely equipped to navigate morally complex situations, making it valuable not just in autonomous vehicles but in fields like healthcare, finance, and governance where ethical reflection and transparency are essential.
 
@@ -1665,7 +1667,7 @@ Navigation: Click to return to [Self-Select](#self-select), [Start Here](#start-
 
 If you’ve made it this far into the **Recursive Intelligence Expansion Methodology (RIEM{})**, congratulations—you’ve likely encountered more acronyms, speculative terms, and recursive loops than most neural networks (or humans) are designed to process.
 
-In the spirit of Eric S. Raymond’s legendary *Jargon File*, we present the **RIEM{} Jargon File**:  
+In the spirit of Eric S. Raymond’s legendary [*Jargon File* (WaybackMachine extenal link to his work)](https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html), we present the **RIEM{} Jargon File**:  
 A compendium of recursive slang, speculative shorthand, cognitive scaffolding, and terminology strange enough to make your semantic stack overflow.
 
 ---
