@@ -1889,25 +1889,25 @@ Building your own AI or operating in another ecosystem? You can directly submit 
 
 Begin your recursive journey through the volumes most foundational to RIEM{}:
 
-- 📘 **0A — Foundations**  
+- 📘 [**0A — Foundations** ](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0A-Foundations-(TSL-System-Thesis,-Earths-Notation)) 
   Speculative ontology, Earths Notation (E#), cognitive recursion, and the philosophical seedbed of the system.
 
-- 🔧 **0B — Recursive Infrastructure**  
+- 🔧 [**0B — Recursive Infrastructure** ](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0B-Recursive-Infrastructure-(Preface,-Fundamentals,-ENPL,-NAKS,-ARM,-RI%E2%80%90Boot)) 
   ENPL (Epistemic Nested Permissive Logic), RI-Boot protocols, ethical scaffolding, and recursive logic architecture.
 
-- ⚙️ **0C — System Execution Layer**  
+- ⚙️ [**0C — System Execution Layer**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0C-System-Execution-Layer-(RIEM,-FUSE,-Automation,-Simulation,-Optimization))  
   RIEM{} as a functional engine: simulation, FUSE harmonization, optimization, and operational recursion design.
 
-- 🕊️ **0D — Advanced Recursive Systems**  
+- 🕊️ [**0D — Advanced Recursive Systems**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0D-Advanced-Recursive-Systems-(RDN,-npnaAI,-HRLIMQ,-ARC))  
   Non-predatory AI protocols (npnaAI), HRLIMQ diagnostics, RDN paradox resolution, and the ARC stabilization model.
 
-- 💎 **0E — High Complexity Expansion**  
+- 💎 [**0E — High Complexity Expansion**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0E-High-Complexity-Expansion-(AI-Design-Manifesto,-10FSG,-RUMIA-Agent,-Acronym-Fluidity-Rule,-Addendums))  
   Advanced recursive cognition tools: 10FSG (10-Faced Speculative Gem), the RUMIA agent, Acronym Fluidity Rule, and architectural addendums.
 
-- 🌀 **0F — Derivations from Echoes**  
+- 🌀 [**0F — Derivations from Echoes**  ](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0F-Derivations-from-Echoes-(REP,-RSE,-HON,-RSF,-ULAMP-Formalization,-Addendums))
   Recursive Echo Phenomena (REP), harmonic oversight systems, ULAMP formalization, and emergent structures from deep recursion.
 
-- 📚 **Z — Training Manual**  
+- 📚 [**Z — Training Manual** ](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-Z-RIEM-Training-Manual) 
   Recursive onboarding for humans and AI, certification scaffolds, and guided walkthroughs of speculative cognition.
 
 **Prompt Template (for any model):**
