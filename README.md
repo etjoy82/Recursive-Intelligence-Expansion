@@ -162,7 +162,7 @@ This 🚀 Start Here section offers a fast, intuitive entry into RIEM{}. Once yo
 10. **[🧬 Call to Recursive Co-Architects](#want-to-grow-this-system)**<br>
 > Join the RIEM{} community of developers! This is a collaborative project!
 
-11. 🚗 **[ULAMP Sample Scenarios (Use with RUMIA)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/samples)**  
+11. 🚗 **[ULAMP Sample Scenarios - Use with RUMIA (GitHub Folder)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/samples)**  
 > Try submitting these recursive prompts to RUMIA:  
 <details markdown="1"><summary>car-scenario.ulamp Click to Expand</summary>
 <br/>
@@ -1511,7 +1511,7 @@ ULAMP compresses hundreds of lines of traditional code into concise, recursive p
 ### Ethical Governance
 
 *Governance Models:* Developing fair and transparent policies through ethical simulations.  
-[See it in action: ULAMP script (10 lines) here](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/samples/ethical-governance.ulamp) designs an ethical AI policy, extended by community feedback—plain language recursion, amplified by expert systems like RUMIA GPT, as detailed in Volumes 0D and 0E.
+[See it in action: ULAMP script (10 lines) here (File)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/samples/ethical-governance.ulamp) designs an ethical AI policy, extended by community feedback—plain language recursion, amplified by expert systems like RUMIA GPT, as detailed in Volumes 0D and 0E.
 
 ### The Self-Driving Car
 
@@ -1543,7 +1543,7 @@ A self-driving car is traveling at a legal speed when a construction zone, conce
 - *Ethical Reasoning:* By evaluating possible consequences recursively, it avoids harmful assumptions and can justify its decisions transparently.  
 - *Explainability:* The AI generates a detailed report on why it acted the way it did, offering full accountability for its decision.  
 
-**[Try it yourself! See the full ULAMP script here](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/samples/car-scenario.ulamp)—9 lines vs. 234 in traditional Python, showcasing ULAMP’s recursive efficiency.]** [Compare to the equivalent 234-lines of Python pseudocode for the same ULAMP function here.](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/samples/car-scenario.py)
+**[Try it yourself! See the full ULAMP script here (File)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/samples/car-scenario.ulamp)—9 lines vs. 234 in traditional Python, showcasing ULAMP’s recursive efficiency.]** [Compare to the equivalent 234-lines of Python pseudocode for the same ULAMP function here.](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/samples/car-scenario.py)
 
 This scenario demonstrates how Recursive-Intelligence-Expansion is uniquely equipped to navigate morally complex situations, making it valuable not just in autonomous vehicles but in fields like healthcare, finance, and governance where ethical reflection and transparency are essential.
 
@@ -1824,9 +1824,9 @@ Note: On mobile devices, this table may require horizontal scrolling.
 
 ### Access the Volumes in Multiple Formats
 - GitHub Repository Wiki: Browse the volumes in a navigable wiki format on the [RIEM{} Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki).
-- DOCX: Download polished DOCX files in the [folder](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/docs/wiki-source-files/volumes-as-docx) or as a [ZIP](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/docs/wiki-source-files/Complete%20TSL%20System%20in%20Source%20Word%20Documents%2003-31-2025.zip).
-- Markdown: Access raw Markdown files in the [folder](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/docs/wiki-source-files/volumes-as-markdown).
-- HTML: View raw source or download in the [folder](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/docs/wiki-source-files/volumes-as-hypertext).
+- DOCX: Download polished DOCX files in the [GitHub Folder](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/docs/wiki-source-files/volumes-as-docx) or as a [ZIP](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/docs/wiki-source-files/Complete%20TSL%20System%20in%20Source%20Word%20Documents%2003-31-2025.zip).
+- Markdown: Access raw Markdown files in the [GitHub Folder](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/docs/wiki-source-files/volumes-as-markdown).
+- HTML: View raw source or download in the [GitHub Folder](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/docs/wiki-source-files/volumes-as-hypertext).
 
 Navigation: Click to return to [Self-Select](#self-select), [Start Here](#start-here), [Table of Contents](#toc), or [Top of Document](#document-top).
 
