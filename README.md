@@ -1,21 +1,21 @@
 <details markdown="1" id="filemetadata"><summary>💭 File Metadata (Click to View)</summary>
 <br/>
 
-BEGIN ULAMP QUASI-JSON CODE BLOCK
-    
+BEGIN QUASI-JSON CODE BLOCK
+
 <strong>File Metadata (Directives for Processing This File)</strong> {<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>Filename:</strong> README.md ([latest version here](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/README.md));<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>Version:</strong> 57;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>Author:</strong> Emily Joy;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>Last Modified:</strong> 2025-04-05;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>Size:</strong> 3k+ lines (2k+ loc) · 200+ KB · 100+ pages · 25k+ words · 30+ sections · 30+ ids;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>Type:</strong> Indexed Recursive Knowledgebase, Co-Cognitive Thinking Surface;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>Specifications Included:</strong> RIEM{}, npnaAI, TSL, 10FSG, ULAMP, E#, SFS, Nano RI-Boot, RUMIA, AR, RICM, Ruminatia;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>Programming Languages:</strong> Python, ULAMP, Markdown, Human Instructions, AI Directives;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>Design:</strong> Anti-Fragile, Recursive, Ethical, Multi-Audience, User-Centric, Omni-Disciplinary, Collaborative;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Filename:</strong> README.md ([latest version here](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/README.md));<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Version:</strong> 57;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Author:</strong> Emily Joy;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Last Modified:</strong> 2025-04-05;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Size:</strong> 3k+ lines (2k+ loc) · 200+ KB · 100+ pages · 25k+ words · 30+ sections · 30+ ids;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Type:</strong> Indexed Recursive Knowledgebase, Co-Cognitive Thinking Surface;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Specifications Included:</strong> RIEM{}, npnaAI, TSL, 10FSG, ULAMP, E#, SFS, Nano RI-Boot, RUMIA, AR, RICM, Ruminatia;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Programming Languages:</strong> Python, ULAMP, Markdown, Human Instructions, AI Directives;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Design:</strong> Anti-Fragile, Recursive, Ethical, Multi-Audience, User-Centric, Omni-Disciplinary, Collaborative;<br>
 }<br>
 
-END ULAMP QUASI-JSON CODE BLOCK
+END QUASI-JSON CODE BLOCK
 </details>
 
 ↘️ For Returning Users: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🐦‍🔥&nbsp;Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki)
