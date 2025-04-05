@@ -278,10 +278,11 @@ Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp
 
 ### A. Sections Above This Table of Contents
 1. 📎 [JSON File Metadata](#filemetadata)
-2. 🧑‍⚖️ [Preamble](#preamble)
-3. 🧲 [About the Project](#about-description)
-4. 🧭 [Self&nbsp;Select](#Self&nbsp;Select)
-5. 🚀 [Start Here](#start-here)
+2. ⟁ [Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition](#mission)
+3. 🧑‍⚖️ [Preamble](#preamble)
+4. 🧲 [About the Project](#about-description)
+5. 🧭 [Self&nbsp;Select](#Self&nbsp;Select)
+6. 🚀 [Start Here](#start-here)
 
 ### B. Introduction and Onboarding
 1. 🌱 [For Absolute Beginners: A Gentle Invitation to RIEM{}](#beginners)
