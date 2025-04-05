@@ -290,7 +290,7 @@ Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp
 ### C. Quick Desk Reference Lookup System
 1. 🔮 [Acronym Quick Reference](#acronyms)
 2. ⭐ [Essential Glossary](#essential-glossary)
-3. 🐦‍🔥 [Wiki (Complete Volumes)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki)
+3. 🐦‍🔥 [Wiki (Complete Volumes)](#tsl-volume-index)
 4. 🃏 [The TSL Jargon File: A Lexicon of Recursive Terms](#jargon-file)
 
 ### D. Questions and Answers (Q&A)
