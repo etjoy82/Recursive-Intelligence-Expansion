@@ -6,11 +6,14 @@
   "ProjectMetadata": {
     "FileName": "README.md",
     "Tags": ["speculative cognition", "recursive ethics", "AI alignment", "co-cognitive design", "ethical frameworks"],
-    "License": {"Type": "Responsible AI License", "Link": "https://www.licenses.ai/", "Note": "Requires ethical use, bans adversarial systems"},
+    "License": {
+      "Type": "Responsible AI License",
+      "Link": "https://www.licenses.ai/",
+      "Note": "Requires ethical use, bans adversarial systems"},
     "Version": {
       "Number": "60",
       "LatestFileVersionLink": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/README.md",
-      "LatestChangelogLink": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/CHANGELOG.md"},
+      "LatestChangelogLink": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/CHANGELOG.md",
     },
     "Author": "Emily Joy",
     "LastModified": "2025-04-05",
