@@ -56,6 +56,7 @@
 - <strong>This is an open-source project. To contribute, visit the [GitHub project](https://github.com/etjoy82/recursive-intelligence-expansion).
 - This project is under active development. Monitor [CHANGELOG.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/changelog.md) for updates.
 - Join the community on [Discord](https://discord.gg/JCKJHGTq).
+- [Try the System Now](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-recursive-entity-for-idea-transformation).
 
 ---
 
