@@ -3,15 +3,15 @@
     
 File Metadata:<br>
 {<br>
-> Filename: README.md ([latest version here](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/README.md));<br>
-> Version: 57;<br>
-> Author: Emily Joy;<br>
-> Last Modified: 2025-04-05;<br>
-> Size: 3k+ lines (2k+ loc) · 200+ KB · 100+ pages · 25k+ words · 30+ sections · 30+ ids;<br>
-> Type: Indexed Recursive Knowledgebase, Co-Cognitive Thinking Surface;<br>
-> Specifications Included: RIEM{}, npnaAI, TSL, 10FSG, ULAMP, E#, SFS, Nano RI-Boot, RUMIA, AR, RICM, Ruminatia;<br>
-> Programming Languages: Python, ULAMP, Markdown, Human Instructions, AI Directives;<br>
-> Design: Anti-Fragile, Recursive, Ethical, Multi-Audience, User-Centric, Omni-Disciplinary, Collaborative;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Filename: README.md ([latest version here](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/README.md));<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Version: 57;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Author: Emily Joy;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Last Modified: 2025-04-05;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Size: 3k+ lines (2k+ loc) · 200+ KB · 100+ pages · 25k+ words · 30+ sections · 30+ ids;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Type: Indexed Recursive Knowledgebase, Co-Cognitive Thinking Surface;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Specifications Included: RIEM{}, npnaAI, TSL, 10FSG, ULAMP, E#, SFS, Nano RI-Boot, RUMIA, AR, RICM, Ruminatia;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Programming Languages: Python, ULAMP, Markdown, Human Instructions, AI Directives;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Design: Anti-Fragile, Recursive, Ethical, Multi-Audience, User-Centric, Omni-Disciplinary, Collaborative;<br>
 }<br>
 
 </details>
