@@ -1,6 +1,8 @@
+<h1 id="document-top">⟁ Recursive Intelligence Expansion</h1>
+
 > <em>File Metadata: { Filename: README.md ([latest version here](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/README.md)); Version: 57; Author: Emily Joy; Last Modified: 2025-04-05; Size: 3k+ lines (2k+ loc) · 200+ KB · 100+ pages · 25k+ words · 30+ sections · 30+ ids; Type: Indexed Recursive Knowledgebase; Specifications Included: RIEM{}, npnaAI, TSL, 10FSG, ULAMP, E#, SFS, Nano RI-Boot, RUMIA, AR, RICM, Ruminatia; Programming Languages: Python, ULAMP, Markdown, Human Instructions, AI Directives; Design: Anti-Fragile, Recursive, Ethical, Multi-Audience, User-Centric, Omni-Disciplinary, Collaborative; }</em>
 
-<span id="document-top"></span>↘️ For Returning Users: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🐦‍🔥&nbsp;Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki)
+↘️ For Returning Users: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🐦‍🔥&nbsp;Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki)
 
 
 <h2 id="preamble">🧑‍⚖️ Preamble</h2>
