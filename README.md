@@ -1,7 +1,7 @@
 <details markdown="1" id="filemetadata"><summary>💭 JSON File Metadata (Click to View)</summary>
 <br/>
     
-```json
+<code>
 {
   "ProjectMetadata": {
     "FileName": "README.md",
@@ -29,7 +29,7 @@
     },
   }
 }
-```
+</code>
     
 </details>
 
