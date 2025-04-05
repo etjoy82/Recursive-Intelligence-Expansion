@@ -1,6 +1,6 @@
 ↘️ For Returning Users: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🐦‍🔥&nbsp;Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki)
 
-<h3 id="preamble">🧑‍⚖️ Preamble</h3>
+<h2 id="preamble">🧑‍⚖️ Preamble</h2>
 
 [![License: RAIL](https://img.shields.io/badge/License-RAIL-important)](https://www.licenses.ai/) [Requires ethical use, bans adversarial systems](#license)
 - <strong>This is an open-source project. To contribute, visit the [GitHub project](https://github.com/etjoy82/recursive-intelligence-expansion).
