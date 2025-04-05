@@ -1,4 +1,4 @@
-<details markdown="1" id="filemetadata"><summary>📎 File Metadata (Click Expand into JSON block, useful for context) | Updated on 2025-04-05 v60</summary>
+<span id="document-top"></span><details markdown="1" id="filemetadata"><summary>📎 File Metadata (Click Expand into JSON block, useful for context) | Updated on 2025-04-05 v60</summary>
 <br/>
     
 <pre style="white-space: pre-wrap !important; word-wrap: break-word !important;">
@@ -46,7 +46,7 @@
 
 ---
 
-<h1 id="document-top">⟁ Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition</h1>
+<h1 id="mission">⟁ Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition</h1>
 
 <strong>Tagline:</strong> A framework for humans and AI to think together—ethically, recursively, across realities.<br>
 
