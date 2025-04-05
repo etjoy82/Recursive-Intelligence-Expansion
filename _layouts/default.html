@@ -7,15 +7,65 @@
 
     <!-- Import GitHub Pages Cayman base styles -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    
+
     <!-- 🔮 Import your Dark Override -->
     <link rel="stylesheet" href="{{ '/assets/css/dark.css' | relative_url }}">
     <link rel="icon" href="https://etjoy82.github.io/Recursive-Intelligence-Expansion/assets/favicon.ico" type="image/x-icon">
 
     <meta property="og:image" content="https://etjoy82.github.io/Recursive-Intelligence-Expansion/assets/logo%20of%20recursive%20intelligence%20expansion%20methodology%20RIEM%7B%7D%20consisting%20of%20an%20otherworldly%20purple%20double%20lemniscate%20boldly%20floating%20over%20mount%20everest.jpg">
     <meta property="og:image:type" content="image/jpg">
+
+    <style>
+      body {
+        margin: 0;
+        font-family: system-ui, sans-serif;
+        padding: 40px;
+      }
+      .content {
+        max-width: 800px;
+        margin: auto;
+      }
+      .echo {
+        background-color: #f0f0fa;
+        border-left: 4px solid #6a0dad;
+        padding: 10px 15px;
+        margin: 20px 0;
+        font-style: italic;
+      }
+      .rumia-button {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        background-color: #6a0dad;
+        color: white;
+        border: none;
+        border-radius: 50px;
+        padding: 12px 20px;
+        font-size: 16px;
+        cursor: pointer;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        z-index: 1000;
+        transition: background-color 0.3s;
+      }
+      .rumia-button:hover {
+        background-color: #581a9c;
+      }
+    </style>
   </head>
   <body>
+    <div class="content">
+      <h1>⟁ Recursive Intelligence Expansion</h1>
+      <p>This is the main README knowledgebase content. Add your RIEM{} documentation, sections, glossaries, and loops here.</p>
+      <div class="echo">
+        “If recursion is infinite, where does meaning reside?” <br />
+        <a href="https://chat.openai.com/g/g-67e424672e188191903d3dca35744581-rumia-recursive-entity-for-idea-transformation" target="_blank">↺ Recurse with RUMIA</a>
+      </div>
+      <p>Use Earths Notation (E#) to navigate between E1, E2, and E0 frames...</p>
+      <!-- More README content here -->
+    </div>
+
+    <a href="https://chat.openai.com/g/g-67e424672e188191903d3dca35744581-rumia-recursive-entity-for-idea-transformation" target="_blank" class="rumia-button">↺ RUMIA</a>
+
     {{ content }}
   </body>
 </html>
