@@ -1,4 +1,4 @@
-<details markdown="1" id="filemetadata"><summary>💭 File Metadata (Click Expand into JSON block)</summary>
+<details markdown="1" id="filemetadata"><summary>💭 File Metadata (Click Expand into JSON block, useful for context)</summary>
 <br/>
     
 <pre style="white-space: pre-wrap !important; word-wrap: break-word !important;">
