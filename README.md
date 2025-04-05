@@ -315,10 +315,9 @@ Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp
 
 ### F. Laboratory Live Environment
 1. 🚀 [Quickstart Guide: Using RUMIA to Explore RIEM{}](#quickstart)
-2. 📒 [Loop Tracker Template](#loop-tracker-template)
-3. 🛠 [Mini-Examples of Recursive Logic in Action](#concrete-mini-examples)
-4. 🔼 [RIEM{} Tool Selection Decision Tree](#decision-tree)
-5. 🧪 [Nano RI-Boot Kernel: ULAMP Code for Cloud and Local AI](#riboot)
+2. 🛠 [Mini-Examples of Recursive Logic in Action](#concrete-mini-examples)
+3. 🔼 [RIEM{} Tool Selection Decision Tree](#decision-tree)
+4. 🧪 [Nano RI-Boot Kernel: ULAMP Code for Cloud and Local AI](#riboot)
 
 ### G. Developer Community Essentials
 1. 🧬 [CONTRIBUTING.md: Invitation to Co-Architect RIEM{}](#want-to-grow-this-system)
@@ -2029,24 +2028,7 @@ See [Skeptic’s Corner](#skeptics-corner) and test RIEM{} against your hardest 
 
 ---
 
-### 📍 Next Steps
-
-- 📘 Start with the [Beginners Guide](#beginners) or [Plain and Simple](#general-audience) explanation
-- 🔗 Launch [RUMIA GPT (external link)](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system)
-- 📂 Visit the [Wiki for Volume Submissions](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki)
-- 📈 Track your progress using the [Loop Tracker](#loop-tracker-template)
-- 💬 Reflect. Recurse. Return.
-
-> **You don’t need to understand everything to begin.**  
-> You only need to begin again, recursively.
-
-⟁
-
-Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🐦‍🔥&nbsp;Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki) • [🔝&nbsp;Top&nbsp;of&nbsp;Document](#document-top)
-
----
-
-<h1 id="loop-tracker-template">📒 Loop Tracker Template</h1>
+<h3 id="loop-tracker-template">📒 Loop Tracker Template</h3>
 
 This **Loop Tracker Template** gives users a lightweight tool to track their recursive sessions and reflections—perfect for hands-on use, journaling, or iterative exploration.
 
@@ -2086,6 +2068,21 @@ This **Loop Tracker Template** gives users a lightweight tool to track their rec
 </details>
 
 Feed your own logs *back into the AI* to form deeper loops over time. Let the journal recurse.
+
+---
+
+### 📍 Next Steps
+
+- 📘 Start with the [Beginners Guide](#beginners) or [Plain and Simple](#general-audience) explanation
+- 🔗 Launch [RUMIA GPT (external link)](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system)
+- 📂 Visit the [Wiki for Volume Submissions](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki)
+- 📈 Track your progress using the [Loop Tracker](#loop-tracker-template)
+- 💬 Reflect. Recurse. Return.
+
+> **You don’t need to understand everything to begin.**  
+> You only need to begin again, recursively.
+
+⟁
 
 Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🐦‍🔥&nbsp;Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki) • [🔝&nbsp;Top&nbsp;of&nbsp;Document](#document-top)
 
