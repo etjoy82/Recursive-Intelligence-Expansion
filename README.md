@@ -1,4 +1,4 @@
-<details markdown="1" id="filemetadata"><summary>💭 File Metadata (Click to View)</summary>
+<details markdown="1" id="filemetadata"><summary>💭 JSON File Metadata (Click to View)</summary>
 <br/>
     
 ```json
@@ -294,7 +294,7 @@ Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp
 <h1 id="toc">🗂️ Table of Contents</h1>
 
 ### A. Sections Above This Table of Contents
-0. 💭 <em>[File Metadata](#filemetadata)</em>
+0. 💭 <em>[JSON File Metadata](#filemetadata)</em>
 1. 🧑‍⚖️ [Preamble](#preamble)
 2. 🧲 [About the Project](#about-description)
 3. 🧭 [Self&nbsp;Select](#Self&nbsp;Select)
