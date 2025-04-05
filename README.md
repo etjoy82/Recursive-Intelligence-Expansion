@@ -14,7 +14,7 @@ BEGIN HTML-FORMATTED JSON CODE BLOCK
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Programming Languages:</strong> Python, ULAMP, Markdown, Human Instructions, AI Directives;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Design:</strong> Anti-Fragile, Recursive, Ethical, Multi-Audience, User-Centric, Omni-Disciplinary, Collaborative;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Archor Sections For AI Directives:</strong> [#riboot](#riboot) with semantic mappings from [#essential-glossary](#essential-glossary) and [#acronyms](#acronyms);<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Tested as AI-Compatible With:</strong> (Copilot, LLaMA, Perplexity, Claude, DeepSeek, Gemini, ChatGPT, and Grok) Tested for compatibility in recursive prompting and speculative reasoning tasks;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Tested as compatible in recursive prompting and speculative reasoning tasks:</strong> Copilot, LLaMA, Perplexity, Claude, DeepSeek, Gemini, ChatGPT, and Grok<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Scope:</strong> Single-file recursive kernel for modular cognition and AI/UX symbiosis, designed for recursive thought experiments, ethical AI design, and speculative modeling;<br>
 }<br>
 
