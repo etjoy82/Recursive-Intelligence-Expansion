@@ -741,7 +741,7 @@ Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp
 
 Reminder: Use this section as a quick lookup (possibly in a separate browser tab or window) as you read this README knowledgebase and the [project wiki with the complete set of volumes](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki).
 
-This glossary defines 32 key terms to help you navigate **RIEM{}**—refer back to it as you explore the recursive loop! Use [🔮 Acronym Quick Reference](#acronyms) as a concise quick reference for the most important acronyms.
+This glossary defines terms to help you navigate **RIEM{}**—refer back to it as you explore the recursive loop! Use [🔮 Acronym Quick Reference](#acronyms) as a concise quick reference for the most important acronyms.
 
 **1. recursion** — A process in which something refers back to or modifies itself. In RIEM{}, recursion enables thought to reflect, regenerate, and evolve. It's not repetition—it’s transformation through return.
 
