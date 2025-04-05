@@ -1,7 +1,18 @@
-<details markdown="1" id="filemetadata"><summary>File Metadata</summary>
+<details markdown="1" id="filemetadata"><summary>💭 File Metadata (Click to View)</summary>
 <br/>
     
-> <em>💭 File Metadata: { Filename: README.md ([latest version here](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/README.md)); Version: 57; Author: Emily Joy; Last Modified: 2025-04-05; Size: 3k+ lines (2k+ loc) · 200+ KB · 100+ pages · 25k+ words · 30+ sections · 30+ ids; Type: Indexed Recursive Knowledgebase, Co-Cognitive Thinking Surface; Specifications Included: RIEM{}, npnaAI, TSL, 10FSG, ULAMP, E#, SFS, Nano RI-Boot, RUMIA, AR, RICM, Ruminatia; Programming Languages: Python, ULAMP, Markdown, Human Instructions, AI Directives; Design: Anti-Fragile, Recursive, Ethical, Multi-Audience, User-Centric, Omni-Disciplinary, Collaborative; }</em>
+File Metadata:
+{
+    Filename: README.md ([latest version here](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/README.md));
+    Version: 57;
+    Author: Emily Joy;
+    Last Modified: 2025-04-05;
+    Size: 3k+ lines (2k+ loc) · 200+ KB · 100+ pages · 25k+ words · 30+ sections · 30+ ids;
+    Type: Indexed Recursive Knowledgebase, Co-Cognitive Thinking Surface;
+    Specifications Included: RIEM{}, npnaAI, TSL, 10FSG, ULAMP, E#, SFS, Nano RI-Boot, RUMIA, AR, RICM, Ruminatia;
+    Programming Languages: Python, ULAMP, Markdown, Human Instructions, AI Directives;
+    Design: Anti-Fragile, Recursive, Ethical, Multi-Audience, User-Centric, Omni-Disciplinary, Collaborative;
+}
 
 </details>
 
