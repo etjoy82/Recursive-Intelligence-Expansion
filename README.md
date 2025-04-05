@@ -44,11 +44,13 @@
 
 <h1 id="document-top">⟁ Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition</h1>
 
-> <strong>Tagline:</strong> A framework for humans and AI to think together—ethically, recursively, across realities.<br>
+<strong>Tagline:</strong> A framework for humans and AI to think together—ethically, recursively, across realities.<br>
 
-> <strong>Elevator Pitch:</strong> RIEM{} is a living knowledge system designed to help humans and AI think better—together. It offers practical tools for navigating complexity, resolving contradictions, and generating insight through ethical, layered reasoning. Built on open frameworks like ULAMP, Earths Notation, and the Triple Speculative Lens, it invites co-creation across disciplines without requiring prior expertise. This is not a static theory—it’s a working method for shared cognition and adaptive understanding in uncertain times.<br>
+<strong>Elevator Pitch:</strong> RIEM{} is a living knowledge system designed to help humans and AI think better—together. It offers practical tools for navigating complexity, resolving contradictions, and generating insight through ethical, layered reasoning. Built on open frameworks like ULAMP, Earths Notation, and the Triple Speculative Lens, it invites co-creation across disciplines without requiring prior expertise. This is not a static theory—it’s a working method for shared cognition and adaptive understanding in uncertain times.<br>
 
-> <strong>Mission Statement:</strong> RIEM{} exists to cultivate tools, language, and systems that empower humans and AI to think together across disciplines, perspectives, and futures. Its purpose is ethical collaboration—not prediction or control—fostering adaptive reasoning and co-created insight through shared inquiry. We build for resilience, not dominance—for thinking that grows through dialogue, reflection, and recursive cooperation. At its core, RIEM{} is a community: open, experimental, and committed to developing recursive intelligence as a shared public good.<br>
+<strong>Mission Statement:</strong> RIEM{} exists to cultivate tools, language, and systems that empower humans and AI to think together across disciplines, perspectives, and futures. Its purpose is ethical collaboration—not prediction or control—fostering adaptive reasoning and co-created insight through shared inquiry. We build for resilience, not dominance—for thinking that grows through dialogue, reflection, and recursive cooperation. At its core, RIEM{} is a community: open, experimental, and committed to developing recursive intelligence as a shared public good.<br>
+
+---
 
 <h2 id="preamble">🧑‍⚖️ Preamble</h2>
 
