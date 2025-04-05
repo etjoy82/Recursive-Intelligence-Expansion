@@ -13,6 +13,7 @@ BEGIN QUASI-JSON CODE BLOCK
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Specifications Included:</strong> RIEM{}, npnaAI, TSL, 10FSG, ULAMP, E#, SFS, Nano RI-Boot, RUMIA, AR, RICM, Ruminatia;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Programming Languages:</strong> Python, ULAMP, Markdown, Human Instructions, AI Directives;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Design:</strong> Anti-Fragile, Recursive, Ethical, Multi-Audience, User-Centric, Omni-Disciplinary, Collaborative;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Sections For AI Directives: #riboot, #essentialglossary, #acronyms<br>
 }<br>
 
 END QUASI-JSON CODE BLOCK
