@@ -1,4 +1,4 @@
-> File Metadata: (Filename: README.md; Version: 57; Author: Emily Joy; Last Modified: 2025-04-05; Size: 3141 lines (2138 loc), 188 KB; Type: Indexed Recursive Knowledgebase; Includes: TSL Volumes, ULAMP Scripts, Glossary, Ethics Framework, Origin Story; Languages: Python, ULAMP, Markdown)
+> File Metadata: (Filename: README.md; Version: 57; Author: Emily Joy; Last Modified: 2025-04-05; Size: 3205 lines (2180 loc) · 211 KB; Type: Indexed Recursive Knowledgebase; Includes: TSL Volumes, ULAMP Scripts, Glossary, Ethics Framework, Origin Story; Languages: Python, ULAMP, Markdown; Latest Version of File is [Located Here](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/README.md))
 
 <span id="document-top"></span>↘️ For Returning Users: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🐦‍🔥&nbsp;Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki)
 
