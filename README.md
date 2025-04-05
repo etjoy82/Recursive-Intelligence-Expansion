@@ -2,8 +2,7 @@
 <br/>
     
 ```json
-{
-  "File Metadata": "Directives for Processing This File",
+{ "README.md File Metadata (Directives for Processing This File)": {
   "Filename": "README.md",
   "File Size": {
     "Tokens": "50k+",
@@ -67,7 +66,7 @@
     "Grok"
   ],
   "Scope": "Single-file recursive kernel for modular cognition and AI/UX symbiosis, designed for recursive thought experiments, ethical AI design, and speculative modeling"
-}
+}}
 ```
     
 </details>
