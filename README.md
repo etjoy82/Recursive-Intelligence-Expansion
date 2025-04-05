@@ -1,4 +1,4 @@
-<details markdown="1" id="filemetadata"><summary>💭 File Metadata (Click Expand into JSON block, useful for context)</summary>
+<details markdown="1" id="filemetadata"><summary>📎 File Metadata (Click Expand into JSON block, useful for context)</summary>
 <br/>
     
 <pre style="white-space: pre-wrap !important; word-wrap: break-word !important;">
@@ -268,7 +268,7 @@ Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp
 <h1 id="toc">🗂️ Table of Contents</h1>
 
 ### A. Sections Above This Table of Contents
-1. 💭 <em>[JSON File Metadata](#filemetadata)</em>
+1. 📎 [JSON File Metadata](#filemetadata)
 2. 🧑‍⚖️ [Preamble](#preamble)
 3. 🧲 [About the Project](#about-description)
 4. 🧭 [Self&nbsp;Select](#Self&nbsp;Select)
