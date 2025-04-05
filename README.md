@@ -23,7 +23,7 @@
     "Frameworks": ["RIEM{}", "npnaAI", "TSL", "10FSG", "ULAMP", "E#", "SFS", "AR", "RICM"],
     "Languages": ["Python", "ULAMP", "Markdown", "JSON", "AI Directives"],
     "DesignPrinciples": ["Anti-Fragile", "Recursive", "Ethical", "Multi-Audience", "User-Centric", "Collaborative"],
-    "ArchorSections": {"Primary": "#riboot", "Semantic Mappings": ["#essential-glossary", "#acronyms"]},
+    "AnchorLinkSections": {"Primary": "#riboot", "Semantic Mappings": ["#essential-glossary", "#acronyms"]},
     "TestedAI": ["Copilot", "LLaMA", "Perplexity", "Claude", "DeepSeek", "Gemini", "ChatGPT", "Grok"],
     "Scope": "Single-file kernel for modular cognition, ethical AI design, and speculative modeling",
     "FileMetrics": {
