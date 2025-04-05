@@ -1,7 +1,7 @@
 <details markdown="1" id="filemetadata"><summary>💭 JSON File Metadata (Click to View)</summary>
 <br/>
     
-<pre>
+<pre style="white-space: pre-wrap !important; word-wrap: break-word !important;">
 {
   "ProjectMetadata": {
     "FileName": "README.md",
