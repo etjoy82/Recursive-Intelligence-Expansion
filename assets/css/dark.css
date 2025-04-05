@@ -34,6 +34,8 @@ details {
 code, pre {
   background-color: #000000;
   color: #DDDDDD;
+  white-space: pre-wrap !important; /* Ensures line breaks are preserved and wraps long lines */
+  word-wrap: break-word !important; /* Breaks long words to fit within the container */
 }
 
 header, footer, .page-header, .site-footer {
