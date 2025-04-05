@@ -84,15 +84,12 @@ hr {
     overflow-x: auto;
   }
 
-  /* Responsive spacing for mobile readers */
-  @media (max-width: 768px) {
-    body {
-      padding: 12px;
-    }
-    h1, h2, h3 {
-      font-size: 90%;
-    }
-    summary {
-      font-size: 95%;
-    }
+@media (max-width: 768px) {
+  body {
+    padding: 12px;
+    font-size: 90%;
   }
+  h1, h2, h3, summary, p, li, code, pre {
+    font-size: 90%;
+  }
+}
