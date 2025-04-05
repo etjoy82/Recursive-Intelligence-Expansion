@@ -2,7 +2,11 @@ Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp
 
 <h2 id="preamble">🧑‍⚖️ Preamble</h2>
 
-[![License: RAIL](https://img.shields.io/badge/License-RAIL-important)](https://www.licenses.ai/) [Requires ethical use, bans adversarial systems](#license) <strong>This is an open-source project. To contribute, visit the [GitHub project](https://github.com/etjoy82/recursive-intelligence-expansion). Join the community on [Discord](https://discord.gg/JCKJHGTq). This README.md (version 56, last updated 2025/04/04) is a single file containing indexed, embedded sub-documents—a complete RIEM{} knowledgebase designed for layered exploration, shared reasoning, and adaptive insight. It includes full integration of the [RIEM{} Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki). This project is under active development. Monitor [CHANGELOG.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/changelog.md) for updates.
+- [![License: RAIL](https://img.shields.io/badge/License-RAIL-important)](https://www.licenses.ai/) [Requires ethical use, bans adversarial systems](#license)
+- <strong>This is an open-source project. To contribute, visit the [GitHub project](https://github.com/etjoy82/recursive-intelligence-expansion).
+- Join the community on [Discord](https://discord.gg/JCKJHGTq).
+- This README.md (version 56, last updated 2025/04/04) is a single file containing indexed, embedded sub-documents—a complete RIEM{} knowledgebase designed for layered exploration, shared reasoning, and adaptive insight. It includes full integration of the [RIEM{} Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki).
+- This project is under active development. Monitor [CHANGELOG.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/changelog.md) for updates.
 
 ---
 
