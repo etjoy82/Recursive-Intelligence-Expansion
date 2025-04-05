@@ -4,7 +4,7 @@
 
 <h1 id="about-description">⟁ Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition: About the Project</h1>
 
-<p align="center"><img alt="logo of recursive intelligence expansion methodology RIEM{} consisting of an otherworldly purple double lemniscate boldly floating over mount everest 350 x 500 aspect ratio" src="./assets/logo%20of%20recursive%20intelligence%20expansion%20methodology%20RIEM%7B%7D%20consisting%20of%20an%20otherworldly%20purple%20double%20lemniscate%20boldly%20floating%20over%20mount%20everest%20350%20x%20500%20aspect%20ratio.png" width=300></p>
+<p align="center"><img alt="logo of recursive intelligence expansion methodology RIEM{} consisting of an otherworldly purple double lemniscate boldly floating over mount everest 350 x 500 aspect ratio" src="./assets/logo%20of%20recursive%20intelligence%20expansion%20methodology%20RIEM%7B%7D%20consisting%20of%20an%20otherworldly%20purple%20double%20lemniscate%20boldly%20floating%20over%20mount%20everest%20350%20x%20500%20aspect%20ratio.png"></p>
 
 What if AI could think like a philosopher, dream like a storyteller, and reflect like an ecosystem—all while staying ethical?
 
