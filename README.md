@@ -51,6 +51,8 @@
 
 <h1 id="mission">⟁ Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition</h1>
 
+<p align="center"><img alt="logo of recursive intelligence expansion methodology RIEM{} consisting of an otherworldly purple dual lemniscate boldly floating over mount everest 350 x 500 aspect ratio" src="./assets/logo%20of%20recursive%20intelligence%20expansion%20methodology%20RIEM%7B%7D%20consisting%20of%20an%20otherworldly%20purple%20double%20lemniscate%20boldly%20floating%20over%20mount%20everest.jpg" style="width: 100%; min-width: 250px; max-width: 600px; height: auto;"></p>
+
 <strong>Tagline:</strong> A framework for humans and AI to think together—ethically, recursively, across realities.<br>
 
 <strong>Elevator Pitch:</strong> RIEM{} is a living knowledge system designed to help humans and AI think better—together. It offers practical tools for navigating complexity, resolving contradictions, and generating insight through ethical, layered reasoning. Built on open frameworks like ULAMP, Earths Notation, and the Triple Speculative Lens, it invites co-creation across disciplines without requiring prior expertise. This is not a static theory—it’s a working method for shared cognition and adaptive understanding in uncertain times.<br>
@@ -70,8 +72,6 @@
 ---
 
 <h1 id="about-description">🧲 About the Project</h1>
-
-<p align="center"><img alt="logo of recursive intelligence expansion methodology RIEM{} consisting of an otherworldly purple dual lemniscate boldly floating over mount everest 350 x 500 aspect ratio" src="./assets/logo%20of%20recursive%20intelligence%20expansion%20methodology%20RIEM%7B%7D%20consisting%20of%20an%20otherworldly%20purple%20double%20lemniscate%20boldly%20floating%20over%20mount%20everest.jpg" style="width: 100%; min-width: 250px; max-width: 600px; height: auto;"></p>
 
 What if AI could think like a philosopher, dream like a storyteller, and reflect like an ecosystem—all while staying ethical?
 
