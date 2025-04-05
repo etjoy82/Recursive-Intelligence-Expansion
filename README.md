@@ -1,5 +1,7 @@
 <details markdown="1" id="filemetadata"><summary>💭 File Metadata (Click to View)</summary>
 <br/>
+
+BEGIN JSON BLOCK
     
 <strong>File Metadata (Directives for Processing This File)</strong> {<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<strong>Filename:</strong> README.md ([latest version here](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/README.md));<br>
@@ -13,6 +15,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<strong>Design:</strong> Anti-Fragile, Recursive, Ethical, Multi-Audience, User-Centric, Omni-Disciplinary, Collaborative;<br>
 }<br>
 
+END JSON BLOCK
 </details>
 
 ↘️ For Returning Users: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🐦‍🔥&nbsp;Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki)
