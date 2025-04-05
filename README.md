@@ -1,7 +1,10 @@
-<span id="document-top">↪️ For returning users:<br>
 Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🐦‍🔥&nbsp;Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki)
 
+<h1 id="preamble">🧑‍⚖️ Preamble</h1>
+
 [![License: RAIL](https://img.shields.io/badge/License-RAIL-important)](https://www.licenses.ai/) [Requires ethical use, bans adversarial systems](#license) <strong>This is an open-source project. To contribute, visit the [GitHub project](https://github.com/etjoy82/recursive-intelligence-expansion). Join the community on [Discord](https://discord.gg/JCKJHGTq). This README.md (version 56, last updated 2025/04/04) is a single file containing indexed, embedded sub-documents—a complete RIEM{} knowledgebase designed for layered exploration, shared reasoning, and adaptive insight. It includes full integration of the [RIEM{} Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki). This project is under active development. Monitor [CHANGELOG.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/changelog.md) for updates.
+
+---
 
 <h1 id="about-description">⟁ Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition: About the Project</h1>
 
@@ -212,9 +215,10 @@ Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp
 <h1 id="toc">🗂️ Table of Contents</h1>
 
 ### A. Sections Above This Table of Contents
-1. ⟁ [Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition: About the Project](#about-description)
-2. 🧭 [Self&nbsp;Select](#Self&nbsp;Select)
-3. 🚀 [Start Here](#start-here)
+1. 🧑‍⚖️ [Preamble](#preamble)
+2. ⟁ [Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition: About the Project](#about-description)
+3. 🧭 [Self&nbsp;Select](#Self&nbsp;Select)
+4. 🚀 [Start Here](#start-here)
 
 ### B. Introduction and Onboarding
 1. 🌱 [For Absolute Beginners: A Gentle Invitation to RIEM{}](#beginners)
