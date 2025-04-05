@@ -50,3 +50,49 @@ table {
 hr {
   border-color: #333;
 }
+
+
+
+  /* Improve in-page anchor jump behavior */
+  [id]::before {
+    content: "";
+    display: block;
+    height: 90px;
+    margin-top: -90px;
+  }
+
+  /* Universal font scaling for readability */
+  body, html {
+    font-size: 16px;
+    line-height: 1.6;
+    scroll-behavior: smooth;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+  }
+
+  /* Make summary text (e.g. in details blocks) bolder and easier to click */
+  summary {
+    font-weight: 600;
+    cursor: pointer;
+  }
+
+  /* Add a soft border around code blocks for visual clarity */
+  pre, code {
+    background-color: #1e1e1e;
+    border: 1px solid #444;
+    border-radius: 6px;
+    padding: 8px;
+    overflow-x: auto;
+  }
+
+  /* Responsive spacing for mobile readers */
+  @media (max-width: 768px) {
+    body {
+      padding: 12px;
+    }
+    h1, h2, h3 {
+      font-size: 90%;
+    }
+    summary {
+      font-size: 95%;
+    }
+  }
