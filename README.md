@@ -301,8 +301,7 @@ Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp
 2. 🧩 [What Problem RIEM{} Aims to Solve](#what-problem-does-this-solve)
 3. 🤔 [Skeptics Corner](#skeptics-corner)
 4. ❓ [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
-5. ➕ [FAQ Addendum: Troubleshooting Recursive Loops](#faq-troubleshooting)
-6. 🎓 [Suggested Background for Understanding RIEM{}](#educational-background)
+5. 🎓 [Suggested Background for Understanding RIEM{}](#educational-background)
 
 ### E. Explanations: The Complete Fundamentals
 1. ⚙️ [Core Concepts of RIEM{}](#core-concepts)
@@ -1265,35 +1264,6 @@ Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp
 
 ---
 
-<h1 id="faq-troubleshooting">➕ FAQ Addendum: Troubleshooting Recursive Loops</h1>
-
-### 1: My recursive loop feels stuck or repetitive. What should I do?
-- Try a *Perceptual Pivot*. Ask the AI to reframe the prompt from a different lens (E1 vs. E2, personal vs. collective, abstract vs. concrete). Loops stall when contrast fades.
-
-### 2: The AI keeps returning to surface-level summaries. How can I deepen the recursion?
-- Use this cue:  
-- *"Assume recursion is initialized. What contradiction or unresolved idea is hiding underneath this response?"*  
-- Follow up with: *"Now, explore that from a harmonic, ethical, or speculative angle."*
-
-### 3: I get overwhelmed or lost inside the recursion. Is that normal?
-- Yes—this is called a *Cognitive Saturation Event*. Pause. Loop back later. Or ask the AI:  
-- *"Stabilize the recursion. What is the clearest thread we can follow now?"*
-
-### 4: The loop feels directionless. How do I reorient?
-- Use the **RIEM Anchor Prompt**:  
-- *"What is the purpose of this loop? What model are we recursively refining?"*  
-- Or jumpstart with:  
-- *"Re-engage using FUSE or HRLIMQ principles. Translate this thought across Earths."*
-
-### 5: Nothing is emerging. How do I break stagnation?
-- Engage **RDN** (Rope-a-Dope Notation):  
-- *"Translate this question from E1 to E2. Now bounce it back. What shifted?"*  
-- Add friction. Contradiction is recursion fuel.
-
-Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🐦‍🔥&nbsp;Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki) • [🔝&nbsp;Top&nbsp;of&nbsp;Document](#document-top)
-
----
-
 <h1 id="educational-background">🎓 Suggested Background for Understanding RIEM{}</h1>
 
 ❗ Formal degrees aren’t required! This section is for those curious about RIEM{}’s theoretical roots. **Jump to [Quickstart](#quickstart) to start tinkering now.**
@@ -2029,6 +1999,33 @@ Use RUMIA with E2 scenario prompts and creative loops
 
 **For Skeptics:**  
 See [Skeptic’s Corner](#skeptics-corner) and test RIEM{} against your hardest questions
+
+---
+
+### ➕ Troubleshooting Recursive Loops
+
+#### 1: My recursive loop feels stuck or repetitive. What should I do?
+- Try a *Perceptual Pivot*. Ask the AI to reframe the prompt from a different lens (E1 vs. E2, personal vs. collective, abstract vs. concrete). Loops stall when contrast fades.
+
+#### 2: The AI keeps returning to surface-level summaries. How can I deepen the recursion?
+- Use this cue:  
+- *"Assume recursion is initialized. What contradiction or unresolved idea is hiding underneath this response?"*  
+- Follow up with: *"Now, explore that from a harmonic, ethical, or speculative angle."*
+
+#### 3: I get overwhelmed or lost inside the recursion. Is that normal?
+- Yes—this is called a *Cognitive Saturation Event*. Pause. Loop back later. Or ask the AI:  
+- *"Stabilize the recursion. What is the clearest thread we can follow now?"*
+
+#### 4: The loop feels directionless. How do I reorient?
+- Use the **RIEM Anchor Prompt**:  
+- *"What is the purpose of this loop? What model are we recursively refining?"*  
+- Or jumpstart with:  
+- *"Re-engage using FUSE or HRLIMQ principles. Translate this thought across Earths."*
+
+#### 5: Nothing is emerging. How do I break stagnation?
+- Engage **RDN** (Rope-a-Dope Notation):  
+- *"Translate this question from E1 to E2. Now bounce it back. What shifted?"*  
+- Add friction. Contradiction is recursion fuel.
 
 ---
 
