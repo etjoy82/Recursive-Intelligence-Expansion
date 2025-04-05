@@ -2,71 +2,47 @@
 <br/>
     
 ```json
-{ "README.md File Metadata (Directives for Processing This File)": {
-  "Filename": "README.md",
-  "File Size": {
-    "Tokens": "50k+",
-    "Lines": "3k+",
-    "Lines of Code": "2k+",
-    "Size in KB": "200+",
-    "Pages": "100+",
-    "Words": "25k+",
-    "Sections": "30+",
-    "IDs": "30+"
-  },
-  "Version": "57",
-  "Author": "Emily Joy",
-  "Last Modified": "2025-04-05",
-  "Type": "Indexed Recursive Knowledgebase, Co-Cognitive Thinking Surface",
-  "Specifications Included": [
-    "RIEM{}",
-    "npnaAI",
-    "TSL",
-    "10FSG",
-    "ULAMP",
-    "E#",
-    "SFS",
-    "Nano RI-Boot",
-    "RUMIA",
-    "AR",
-    "RICM",
-    "Ruminatia"
-  ],
-  "Programming Languages": [
-    "Python",
-    "ULAMP",
-    "Markdown",
-    "Human Instructions",
-    "AI Directives"
-  ],
-  "Design": [
-    "Anti-Fragile",
-    "Recursive",
-    "Ethical",
-    "Multi-Audience",
-    "User-Centric",
-    "Omni-Disciplinary",
-    "Collaborative"
-  ],
-  "Archor Sections For AI Directives": {
-    "Primary": "#riboot",
-    "Semantic Mappings": [
-      "#essential-glossary",
-      "#acronyms"
-    ]
-  },
-  "Tested as compatible in recursive prompting and speculative reasoning tasks": [
-    "Copilot",
-    "LLaMA",
-    "Perplexity",
-    "Claude",
-    "DeepSeek",
-    "Gemini",
-    "ChatGPT",
-    "Grok"
-  ],
-  "Scope": "Single-file recursive kernel for modular cognition and AI/UX symbiosis, designed for recursive thought experiments, ethical AI design, and speculative modeling"
-}}
+{
+  "ProjectMetadata": {
+    "FileName": "README.md",
+    "LatestFileVersionLink": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/README.md",
+    "FileMetrics": {
+      "Tokens": "50k+",
+      "Lines": "3k+",
+      "LinesOfCode": "2k+",
+      "SizeKB": "200+",
+      "PrintedPages": "100+",
+      "Words": "25k+",
+      "Sections": "30+",
+      "IDs": "30+"
+    },
+    "Tags": [
+      "speculative cognition",
+      "recursive ethics",
+      "AI alignment"
+    ],
+    "License": {
+      "Type": "Responsible AI License",
+      "Link": "https://www.licenses.ai/"
+    },
+    "Version": {
+      "Number": "57",
+      "Link": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/CHANGELOG.md"
+    },
+    "Author": "Emily Joy",
+    "LastModified": "2025-04-05",
+    "Type": "Recursive Knowledgebase | Co-Cognitive Interface",
+    "Frameworks": ["RIEM{}", "npnaAI", "TSL", "10FSG", "ULAMP", "E#", "SFS", "AR", "RICM"],
+    "Languages": ["Python", "ULAMP", "Markdown", "JSON", "AI Directives"],
+    "DesignPrinciples": ["Anti-Fragile", "Recursive", "Ethical", "Multi-Audience", "User-Centric", "Collaborative"],
+    "ArchorSections": {
+      "Primary": "#riboot",
+      "Semantic Mappings": ["#essential-glossary", "#acronyms"]
+    },
+    "TestedAI": ["Copilot", "LLaMA", "Perplexity", "Claude", "DeepSeek", "Gemini", "ChatGPT", "Grok"],
+    "Scope": "Single-file kernel for modular cognition, ethical AI design, and speculative modeling"
+  }
+}
 ```
     
 </details>
