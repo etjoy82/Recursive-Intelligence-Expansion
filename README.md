@@ -262,11 +262,11 @@ Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp
 <h1 id="toc">🗂️ Table of Contents</h1>
 
 ### A. Sections Above This Table of Contents
-0. 💭 <em>[JSON File Metadata](#filemetadata)</em>
-1. 🧑‍⚖️ [Preamble](#preamble)
-2. 🧲 [About the Project](#about-description)
-3. 🧭 [Self&nbsp;Select](#Self&nbsp;Select)
-4. 🚀 [Start Here](#start-here)
+1. 💭 <em>[JSON File Metadata](#filemetadata)</em>
+2. 🧑‍⚖️ [Preamble](#preamble)
+3. 🧲 [About the Project](#about-description)
+4. 🧭 [Self&nbsp;Select](#Self&nbsp;Select)
+5. 🚀 [Start Here](#start-here)
 
 ### B. Introduction and Onboarding
 1. 🌱 [For Absolute Beginners: A Gentle Invitation to RIEM{}](#beginners)
