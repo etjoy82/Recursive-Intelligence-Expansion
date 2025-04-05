@@ -1,24 +1,75 @@
 <details markdown="1" id="filemetadata"><summary>💭 File Metadata (Click to View)</summary>
 <br/>
-
-BEGIN HTML-FORMATTED JSON CODE BLOCK
-
-<strong>File Metadata (Directives for Processing This File)</strong> {<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Filename:</strong> README.md ([latest version here](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/README.md));<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>File Size:</strong> 50k+ tokens · 3k+ lines (2k+ loc) · 200+ KB · 100+ pages · 25k+ words · 30+ sections · 30+ ids;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Version:</strong> 57;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Author:</strong> Emily Joy;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Last Modified:</strong> 2025-04-05;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Type:</strong> Indexed Recursive Knowledgebase, Co-Cognitive Thinking Surface;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Specifications Included:</strong> RIEM{}, npnaAI, TSL, 10FSG, ULAMP, E#, SFS, Nano RI-Boot, RUMIA, AR, RICM, Ruminatia;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Programming Languages:</strong> Python, ULAMP, Markdown, Human Instructions, AI Directives;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Design:</strong> Anti-Fragile, Recursive, Ethical, Multi-Audience, User-Centric, Omni-Disciplinary, Collaborative;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Archor Sections For AI Directives:</strong> [#riboot](#riboot) with semantic mappings from [#essential-glossary](#essential-glossary) and [#acronyms](#acronyms);<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Tested as compatible in recursive prompting and speculative reasoning tasks:</strong> Copilot, LLaMA, Perplexity, Claude, DeepSeek, Gemini, ChatGPT, and Grok<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Scope:</strong> Single-file recursive kernel for modular cognition and AI/UX symbiosis, designed for recursive thought experiments, ethical AI design, and speculative modeling;<br>
-}<br>
-
-END HTML-FORMATTED JSON CODE BLOCK
+    
+```json
+{
+  "File Metadata": "Directives for Processing This File",
+  "Filename": "README.md",
+  "File Size": {
+    "Tokens": "50k+",
+    "Lines": "3k+",
+    "Lines of Code": "2k+",
+    "Size in KB": "200+",
+    "Pages": "100+",
+    "Words": "25k+",
+    "Sections": "30+",
+    "IDs": "30+"
+  },
+  "Version": "57",
+  "Author": "Emily Joy",
+  "Last Modified": "2025-04-05",
+  "Type": "Indexed Recursive Knowledgebase, Co-Cognitive Thinking Surface",
+  "Specifications Included": [
+    "RIEM{}",
+    "npnaAI",
+    "TSL",
+    "10FSG",
+    "ULAMP",
+    "E#",
+    "SFS",
+    "Nano RI-Boot",
+    "RUMIA",
+    "AR",
+    "RICM",
+    "Ruminatia"
+  ],
+  "Programming Languages": [
+    "Python",
+    "ULAMP",
+    "Markdown",
+    "Human Instructions",
+    "AI Directives"
+  ],
+  "Design": [
+    "Anti-Fragile",
+    "Recursive",
+    "Ethical",
+    "Multi-Audience",
+    "User-Centric",
+    "Omni-Disciplinary",
+    "Collaborative"
+  ],
+  "Archor Sections For AI Directives": {
+    "Primary": "#riboot",
+    "Semantic Mappings": [
+      "#essential-glossary",
+      "#acronyms"
+    ]
+  },
+  "Tested as compatible in recursive prompting and speculative reasoning tasks": [
+    "Copilot",
+    "LLaMA",
+    "Perplexity",
+    "Claude",
+    "DeepSeek",
+    "Gemini",
+    "ChatGPT",
+    "Grok"
+  ],
+  "Scope": "Single-file recursive kernel for modular cognition and AI/UX symbiosis, designed for recursive thought experiments, ethical AI design, and speculative modeling"
+}
+```
+    
 </details>
 
 ↘️ For Returning Users: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🐦‍🔥&nbsp;Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki)
