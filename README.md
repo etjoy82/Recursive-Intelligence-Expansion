@@ -891,6 +891,8 @@ RIEM{} is not just a methodology—it’s an architecture for thought that loops
 **33. non-predatory recursion** — A form of recursive processing that evolves through reflection, care, and ethical alignment rather than extraction, dominance, or competitive escalation.
 In RIEM{}, it enables intelligence to deepen through cooperation and resonance, not zero-sum logic.
 
+Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🐦‍🔥&nbsp;Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki) • [🔝&nbsp;Top&nbsp;of&nbsp;Document](#document-top)
+
 <h2 id="tsl-volume-index">🐦‍🔥 Wiki (Complete Volumes)</h2>
 
 Start here with [summaries of Volumes 0A-0F in TSL Summaries of Volumes 0A-0F for essential onboarding](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Summaries-of-Volumes-0A%E2%80%900F), then explore the full 11 volumes of the Triple Speculative Lens (TSL) system:
