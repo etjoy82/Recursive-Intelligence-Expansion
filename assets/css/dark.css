@@ -87,9 +87,8 @@ hr {
 @media (max-width: 768px) {
   body {
     padding: 12px;
-    font-size: 90%;
   }
-  h1, h2, h3, summary, p, li, code, pre {
-    font-size: 90%;
+  body, h1, h2, h3, h4, h5, h6, p, li, summary, code, pre {
+    font-size: 90% !important;
   }
 }
