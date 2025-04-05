@@ -5,7 +5,18 @@
 {
   "ProjectMetadata": {
     "FileName": "README.md",
-    "LatestFileVersionLink": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/README.md",
+    "Tags": ["speculative cognition", "recursive ethics", "AI alignment"],
+    "License": {"Type": "Responsible AI License","Link": "https://www.licenses.ai/"},
+    "Version": {"Number": "60","LatestFileVersionLink": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/README.md", "LatestChangelogLink": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/CHANGELOG.md"},
+    "Author": "Emily Joy",
+    "LastModified": "2025-04-05",
+    "Type": "Recursive Knowledgebase | Co-Cognitive Interface",
+    "Frameworks": ["RIEM{}", "npnaAI", "TSL", "10FSG", "ULAMP", "E#", "SFS", "AR", "RICM"],
+    "Languages": ["Python", "ULAMP", "Markdown", "JSON", "AI Directives"],
+    "DesignPrinciples": ["Anti-Fragile", "Recursive", "Ethical", "Multi-Audience", "User-Centric", "Collaborative"],
+    "ArchorSections": {"Primary": "#riboot", "Semantic Mappings": ["#essential-glossary", "#acronyms"]},
+    "TestedAI": ["Copilot", "LLaMA", "Perplexity", "Claude", "DeepSeek", "Gemini", "ChatGPT", "Grok"],
+    "Scope": "Single-file kernel for modular cognition, ethical AI design, and speculative modeling",
     "FileMetrics": {
       "Tokens": "50k+",
       "Lines": "3k+",
@@ -16,31 +27,6 @@
       "Sections": "30+",
       "IDs": "30+"
     },
-    "Tags": [
-      "speculative cognition",
-      "recursive ethics",
-      "AI alignment"
-    ],
-    "License": {
-      "Type": "Responsible AI License",
-      "Link": "https://www.licenses.ai/"
-    },
-    "Version": {
-      "Number": "57",
-      "Link": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/CHANGELOG.md"
-    },
-    "Author": "Emily Joy",
-    "LastModified": "2025-04-05",
-    "Type": "Recursive Knowledgebase | Co-Cognitive Interface",
-    "Frameworks": ["RIEM{}", "npnaAI", "TSL", "10FSG", "ULAMP", "E#", "SFS", "AR", "RICM"],
-    "Languages": ["Python", "ULAMP", "Markdown", "JSON", "AI Directives"],
-    "DesignPrinciples": ["Anti-Fragile", "Recursive", "Ethical", "Multi-Audience", "User-Centric", "Collaborative"],
-    "ArchorSections": {
-      "Primary": "#riboot",
-      "Semantic Mappings": ["#essential-glossary", "#acronyms"]
-    },
-    "TestedAI": ["Copilot", "LLaMA", "Perplexity", "Claude", "DeepSeek", "Gemini", "ChatGPT", "Grok"],
-    "Scope": "Single-file kernel for modular cognition, ethical AI design, and speculative modeling"
   }
 }
 ```
