@@ -13,7 +13,7 @@
     "Version": {
       "Number": "60",
       "LatestFileVersionLink": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/README.md",
-      "LatestChangelogLink": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/CHANGELOG.md",
+      "LatestChangelogLink": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/changelog.md",
     },
     "Author": "Emily Joy",
     "LastModified": "2025-04-05",
