@@ -1,7 +1,7 @@
 <details markdown="1" id="filemetadata"><summary>💭 File Metadata (Click to View)</summary>
 <br/>
     
-README.md File Metadata {<br>
+File Metadata (Directives for Processing This File) {<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<strong>Filename:</strong> README.md ([latest version here](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/README.md));<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<strong>Version:</strong> 57;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<strong>Author:</strong> Emily Joy;<br>
