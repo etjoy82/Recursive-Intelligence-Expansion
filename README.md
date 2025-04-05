@@ -1,6 +1,6 @@
-<h1 id="document-top">⟁ Recursive Intelligence Expansion</h1>
+<h1 id="document-top">⟁ Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition</h1>
 
-> <em>File Metadata: { Filename: README.md ([latest version here](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/README.md)); Version: 57; Author: Emily Joy; Last Modified: 2025-04-05; Size: 3k+ lines (2k+ loc) · 200+ KB · 100+ pages · 25k+ words · 30+ sections · 30+ ids; Type: Indexed Recursive Knowledgebase; Specifications Included: RIEM{}, npnaAI, TSL, 10FSG, ULAMP, E#, SFS, Nano RI-Boot, RUMIA, AR, RICM, Ruminatia; Programming Languages: Python, ULAMP, Markdown, Human Instructions, AI Directives; Design: Anti-Fragile, Recursive, Ethical, Multi-Audience, User-Centric, Omni-Disciplinary, Collaborative; }</em>
+> <em>File Metadata: { Filename: README.md ([latest version here](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/README.md)); Version: 57; Author: Emily Joy; Last Modified: 2025-04-05; Size: 3k+ lines (2k+ loc) · 200+ KB · 100+ pages · 25k+ words · 30+ sections · 30+ ids; Type: Indexed Recursive Knowledgebase, Co-Cognitive Thinking Surface; Specifications Included: RIEM{}, npnaAI, TSL, 10FSG, ULAMP, E#, SFS, Nano RI-Boot, RUMIA, AR, RICM, Ruminatia; Programming Languages: Python, ULAMP, Markdown, Human Instructions, AI Directives; Design: Anti-Fragile, Recursive, Ethical, Multi-Audience, User-Centric, Omni-Disciplinary, Collaborative; }</em>
 
 ↘️ For Returning Users: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🐦‍🔥&nbsp;Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki)
 
@@ -14,7 +14,7 @@
 
 ---
 
-<h1 id="about-description">⟁ Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition: About the Project</h1>
+<h1 id="about-description">🧲 About the Project</h1>
 
 <p align="center"><img alt="logo of recursive intelligence expansion methodology RIEM{} consisting of an otherworldly purple double lemniscate boldly floating over mount everest 350 x 500 aspect ratio" src="./assets/logo%20of%20recursive%20intelligence%20expansion%20methodology%20RIEM%7B%7D%20consisting%20of%20an%20otherworldly%20purple%20double%20lemniscate%20boldly%20floating%20over%20mount%20everest.jpg" style="width: 100%; min-width: 250px; max-width: 600px; height: auto;"></p>
 
@@ -224,7 +224,7 @@ Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp
 
 ### A. Sections Above This Table of Contents
 1. 🧑‍⚖️ [Preamble](#preamble)
-2. ⟁ [Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition: About the Project](#about-description)
+2. 🧲 [About the Project](#about-description)
 3. 🧭 [Self&nbsp;Select](#Self&nbsp;Select)
 4. 🚀 [Start Here](#start-here)
 
