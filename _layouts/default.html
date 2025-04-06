@@ -663,27 +663,43 @@ a[href*="TSL-Volume"] {
   font-weight: 500;
 }
 
-      /* Improve padding and spacing in tables for readability + accessibility */
-table {
-  border-collapse: collapse;
-  width: 100%;
-  margin-top: 1rem;
-}
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    margin-top: 1rem;
+    font-size: 0.95rem;
+  }
 
-th, td {
-  padding: 12px 16px; /* ↑ This is the key! Adds tap-friendly space */
-  text-align: left;
-  vertical-align: middle;
-}
+  th, td {
+    border: 1px solid #ccc;
+    padding: 12px 16px;
+    text-align: left;
+    vertical-align: top;
+  }
 
-td a {
-  display: inline-block;
-  padding: 6px 8px;
-  min-width: 44px;
-  min-height: 44px;
-  text-decoration: underline;
-}
-  } </style>
+  th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+  }
+
+  tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+
+  tr:nth-child(odd) {
+    background-color: #ffffff;
+  }
+
+  td a {
+    display: inline-block;
+    padding: 8px 10px;
+    min-width: 44px;
+    min-height: 44px;
+    text-decoration: underline;
+  }
+</style>
 
 </head>
 
