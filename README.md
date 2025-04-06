@@ -49,7 +49,7 @@
 
 ---
 
-<h1 id="mission">⟁ Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition</h2>
+<h1 id="mission">⟁ Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition</h1>
 
 <strong>Tagline:</strong> A framework for humans and AI to think together—ethically, recursively, across realities.<br>
 
