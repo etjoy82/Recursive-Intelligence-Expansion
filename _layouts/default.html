@@ -567,6 +567,82 @@
         .rumia-button:hover {
             background-color: #581a9c;
         }
+
+
+  /* === Base styles for accessibility === */
+
+  body {
+    font-family: system-ui, sans-serif;
+    line-height: 1.6;
+    color: #222;
+    background-color: #fff;
+    margin: 0;
+    padding: 0 1rem;
+  }
+
+  /* Distinct, accessible links */
+  a {
+    color: #007acc;
+    text-decoration: underline;
+    font-weight: 500;
+  }
+
+  a:visited {
+    color: #5a5a5a;
+  }
+
+  a:hover,
+  a:focus {
+    text-decoration: none;
+    background-color: #e0f0ff;
+    outline: 2px solid #007acc;
+    outline-offset: 2px;
+  }
+
+  /* Make headings readable and structured */
+  h1, h2, h3, h4, h5, h6 {
+    line-height: 1.25;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.6rem;
+  }
+
+  h3 {
+    font-size: 1.3rem;
+  }
+
+  /* Ensure high contrast for keyboard users */
+  :focus {
+    outline: 2px dashed #333;
+    outline-offset: 3px;
+  }
+
+  /* Make lists easier to read */
+  ul {
+    padding-left: 1.2rem;
+  }
+
+  /* Mobile-responsive text sizing */
+  @media (max-width: 600px) {
+    body {
+      font-size: 1rem;
+    }
+
+    h1 {
+      font-size: 1.5rem;
+    }
+
+    h2 {
+      font-size: 1.25rem;
+    }
+  }
     </style>
 
 </head>
