@@ -57,7 +57,7 @@
 
 <strong>Mission Statement:</strong> RIEM{} exists to cultivate tools, language, and systems that empower humans and AI to think together across disciplines, perspectives, and futures. Its purpose is ethical collaboration—not prediction or control—fostering adaptive reasoning and co-created insight through shared inquiry. We build for resilience, not dominance—for thinking that grows through dialogue, reflection, and recursive cooperation. At its core, RIEM{} is a community: open, experimental, and committed to developing recursive intelligence as a shared public good.<br>
 
-<p align="center"><img alt="(webp logo of recursive intelligence expansion methodology RIEM{} consisting of an otherworldly purple dual lemniscate boldly floating over mount everest)" src="./assets/logo%20of%20recursive%20intelligence%20expansion%20methodology%20RIEM%20consisting%20of%20an%20otherworldly%20purple%20double%20lemniscate%20boldly%20floating%20over%20mount%20everest.webp" style="width: 100%; min-width: 250px; max-width: 600px; height: auto;"></p>
+<p align="center"><img alt="(webp logo of recursive intelligence expansion methodology RIEM{} consisting of an otherworldly purple dual lemniscate boldly floating over mount everest)" src="./assets/logo%20of%20recursive%20intelligence%20expansion%20methodology%20RIEM%20consisting%20of%20an%20otherworldly%20purple%20double%20lemniscate%20boldly%20floating%20over%20mount%20everest.webp" style="width: 80%; min-width: 250px; max-width: 600px; height: auto;"></p>
 
 ---
 
