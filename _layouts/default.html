@@ -552,7 +552,7 @@
             position: fixed;
             bottom: 20px;
             right: 20px;
-            background-color: #6a0dad;
+            background-color: #CCCCCC;
             color: white;
             border: none;
             border-radius: 50px;
@@ -569,12 +569,12 @@
         }
 
 
-    /* === Base Styles === */
+  /* === Base Styles === */
   body {
     font-family: system-ui, sans-serif;
     line-height: 1.6;
-    color: #222;
-    background-color: #fff;
+    color: #1a1a1a; /* Near-black for strong contrast */
+    background-color: #ffffff;
     margin: 0;
     padding: 0 1rem;
   }
@@ -583,33 +583,34 @@
     line-height: 1.25;
     margin-top: 1.5em;
     margin-bottom: 0.5em;
+    color: #111; /* Strong contrast for headings */
   }
 
   h1 { font-size: 2rem; }
   h2 { font-size: 1.6rem; }
   h3 { font-size: 1.3rem; }
 
-  /* === Accessible Links === */
+  /* === High-Contrast Links === */
   a {
-    color: #007acc;
+    color: #0055aa; /* Darker blue for WCAG AA compliance (contrast ratio: 7.17:1) */
     text-decoration: underline;
     font-weight: 500;
   }
 
   a:visited {
-    color: #5a5a5a;
+    color: #444; /* Dark enough to stay compliant */
   }
 
   a:hover,
   a:focus {
     text-decoration: none;
-    background-color: #e0f0ff;
-    outline: 2px solid #007acc;
+    background-color: #dcefff; /* Light blue for accessible hover state */
+    outline: 2px solid #0055aa;
     outline-offset: 2px;
   }
 
   :focus {
-    outline: 2px dashed #333;
+    outline: 2px dashed #222;
     outline-offset: 3px;
   }
 
@@ -620,14 +621,13 @@
     margin: 4px 0;
     min-height: 44px;
     min-width: 44px;
-    text-decoration: underline;
   }
 
   ul li {
     margin-bottom: 6px;
   }
 
-  /* === Responsive Design === */
+  /* === Responsive Typography === */
   @media (max-width: 600px) {
     body {
       font-size: 1rem;
@@ -649,7 +649,7 @@
       padding: 12px 10px;
       font-size: 1rem;
     }
-  }  </style>
+  } </style>
 
 </head>
 
