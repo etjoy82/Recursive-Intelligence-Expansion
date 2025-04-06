@@ -32,12 +32,13 @@ a:visited {
   color: var(--visited-link-color);
 }
 
-/* Headings */
+/* Headings
 h1, h2, h3, h4, h5, h6 {
   color: var(--heading-color);
   border-bottom: 1px solid var(--border-color);
   margin-top: 1.5em;
 }
+ */
 
 /* Code & Preformatted Blocks */
 pre, code {
@@ -72,11 +73,12 @@ hr {
   border-color: #333;
 }
 
-/* Header and Footer (GitHub Pages themes) */
+/* Header and Footer (GitHub Pages themes)
 header, footer, .page-header, .site-footer {
   background-color: #121212;
   color: #dcdcff;
 }
+ */
 
 /* Anchor Fix for Smooth In-Page Navigation */
 [id]::before {
