@@ -1,6 +1,6 @@
 <span id="document-top"></span>
 
-<details markdown="1" id="filemetadata"><summary>📎 File Metadata (Click Expand into JSON block, useful for context) | Updated on 2025-04-05 v60</summary>
+<details markdown="1" id="filemetadata"><summary>📎 File Metadata (Click Expand into JSON block, useful for context) | Updated on 2025-04-05 v60 | This is an ACCESSIBLE Website, with a Google Lighthouse Score of 100 for both web and mobile!</summary>
 <br/>
     
 <pre style="white-space: pre-wrap !important; word-wrap: break-word !important;">
