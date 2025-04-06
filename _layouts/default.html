@@ -569,8 +569,7 @@
         }
 
 
-  /* === Base styles for accessibility === */
-
+    /* === Base Styles === */
   body {
     font-family: system-ui, sans-serif;
     line-height: 1.6;
@@ -580,7 +579,17 @@
     padding: 0 1rem;
   }
 
-  /* Distinct, accessible links */
+  h1, h2, h3, h4, h5, h6 {
+    line-height: 1.25;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+  }
+
+  h1 { font-size: 2rem; }
+  h2 { font-size: 1.6rem; }
+  h3 { font-size: 1.3rem; }
+
+  /* === Accessible Links === */
   a {
     color: #007acc;
     text-decoration: underline;
@@ -599,37 +608,26 @@
     outline-offset: 2px;
   }
 
-  /* Make headings readable and structured */
-  h1, h2, h3, h4, h5, h6 {
-    line-height: 1.25;
-    margin-top: 1.5em;
-    margin-bottom: 0.5em;
-  }
-
-  h1 {
-    font-size: 2rem;
-  }
-
-  h2 {
-    font-size: 1.6rem;
-  }
-
-  h3 {
-    font-size: 1.3rem;
-  }
-
-  /* Ensure high contrast for keyboard users */
   :focus {
     outline: 2px dashed #333;
     outline-offset: 3px;
   }
 
-  /* Make lists easier to read */
-  ul {
-    padding-left: 1.2rem;
+  /* === Touch-Target-Friendly Links in Lists === */
+  ul li a {
+    display: inline-block;
+    padding: 10px 8px;
+    margin: 4px 0;
+    min-height: 44px;
+    min-width: 44px;
+    text-decoration: underline;
   }
 
-  /* Mobile-responsive text sizing */
+  ul li {
+    margin-bottom: 6px;
+  }
+
+  /* === Responsive Design === */
   @media (max-width: 600px) {
     body {
       font-size: 1rem;
@@ -642,8 +640,16 @@
     h2 {
       font-size: 1.25rem;
     }
-  }
-    </style>
+
+    h3 {
+      font-size: 1.1rem;
+    }
+
+    ul li a {
+      padding: 12px 10px;
+      font-size: 1rem;
+    }
+  }  </style>
 
 </head>
 
