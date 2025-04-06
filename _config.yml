@@ -14,3 +14,6 @@ markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
+
+plugins:
+  - jekyll-sitemap
