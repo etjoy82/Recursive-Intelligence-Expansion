@@ -1,6 +1,6 @@
 <span id="document-top"></span>
 
-<details markdown="1" id="filemetadata"><summary>📎 README.me JSON Metadata (Click Expand, useful for context) | Updated on 2025-04-05 v60 | <img alt="WCAG 2.2 AA Compliant]" src="https://img.shields.io/badge/Accessibility-WCAG2.2%20AA-brightgreen">
+<details markdown="1" id="filemetadata"><summary>📎 README.me JSON Metadata (Click Expand, useful for context) | Updated on 2025-04-05 v60 | <img alt="WCAG 2.2 AA Compliant]" src="https://img.shields.io/badge/Accessibility-WCAG2.2%20AA-brightgreen"></summary>
 <br/>
     
 <pre style="white-space: pre-wrap !important; word-wrap: break-word !important;">
