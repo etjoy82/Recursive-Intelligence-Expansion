@@ -1,4 +1,3 @@
-Sitemap: https://etjoy82.github.io/Recursive-Intelligence-Expansion/sitemap.xml
-
 User-agent: *
-Disallow:
+Allow: /
+Sitemap: https://etjoy82.github.io/Recursive-Intelligence-Expansion/sitemap.xml
