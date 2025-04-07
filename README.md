@@ -555,12 +555,14 @@
 
 <h2 id="preamble">🧑‍⚖️ Preamble</h2>
 
+Copyright 2025 (c) Emily Tiffany Joy [emilyjoy.org](https://emilyjoy.org)
+
 [![License: RAIL](https://img.shields.io/badge/License-RAIL-important)](https://www.licenses.ai/) <a href="#license" aria-label="License">Requires ethical use, bans adversarial systems</a>
 - <strong>This is an open-source project. To contribute, visit the [GitHub project](https://github.com/etjoy82/recursive-intelligence-expansion). The GitHub Pages version of this site is located at [https://etjoy82.github.io/Recursive-Intelligence-Expansion](https://etjoy82.github.io/Recursive-Intelligence-Expansion). A customized mirror of this site is located at [https://cnaks.org](https://cnaks.org). CNAKS's founder's site is located at [emilyjoy.org](https://emilyjoy.org).
 - This project is under active development. Monitor [CHANGELOG.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/CHANGELOG.md) for updates.
 - Join the community on [Discord](https://discord.gg/JCKJHGTq).
 - [Try the System Now](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-recursive-entity-for-idea-transformation).
-- Copyright 2025 (c) Emily Tiffany Joy [emilyjoy.org](https://emilyjoy.org)
+
 ---
 
 <h2 id="about-description">🧲 About the Project</h2>
