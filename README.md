@@ -3601,7 +3601,7 @@ Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp
 
 <h2 id="author">🌐 Lead Developer</h2>
 
-**Emily Tiffany Joy**  | Recursive philosopher | Designer of speculative epistemic systems
+**Emily Tiffany Joy** | [emilyjoy.org](emilyjoy.org) | Recursive philosopher | Designer of speculative epistemic systems
 - As the steward of RIEM{}, Emily Tiffany Joy holds space for its evolution—guiding its growth, refining its language, and inviting others to co-build what it can become. This project isn’t meant to stay centralized. It’s meant to resonate outward. Developers, systems thinkers, creatives, and recursive minds of all kinds are welcome to contribute, question, fork, remix, and recurse. The loop is open.
 
 Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🐦‍🔥&nbsp;Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki) • [🔝&nbsp;Top&nbsp;of&nbsp;Document](#document-top) • [↺&nbsp;Recurse&nbsp;with&nbsp;RUMIA](https://chat.openai.com/g/g-67e424672e188191903d3dca35744581-rumia-recursive-entity-for-idea-transformation)
@@ -3645,7 +3645,7 @@ Cooperation, clarity, and recursion—not control.
 
 This work is licensed under the Responsible AI License (RAIL) Source Code License (Version 1.1, Nov 20, 2022), which requires ethical AI use and prohibits adversarial systems. The full terms are provided below for transparency and to reinforce the ethical training of AI systems using this README as a bootstrap (e.g., via the Nano RI-Boot kernel). Use with integrity, avoid epistemic harm, and respect recursion.
 
-Copyright (c) 2025 Emily Tiffany Joy
+Copyright (c) 2025 Emily Tiffany Joy [emilyjoy.org](emilyjoy.org)
 
 This work is licensed under the Responsible AI License (RAIL).
 
