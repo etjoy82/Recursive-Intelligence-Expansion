@@ -1083,7 +1083,7 @@ It’s a **partner for thought**—a recursive companion for whatever you're bui
 <details markdown="1"><summary>Click to View: Enlightening RIEM{} Diagram Large Image</summary>
 <br/>
     
-<p align="center"><img src="./assets/core-riem-diagram.png" style="width: 100%; min-width: 250px; max-width: 600px; height: auto;"></p>
+<p align="center"><img alt="diagram of RIEM in action" src="./assets/core-riem-diagram.png" style="width: 100%; min-width: 250px; max-width: 600px; height: auto;"></p>
 </details>
 
 Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🐦‍🔥&nbsp;Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki) • [🔝&nbsp;Top&nbsp;of&nbsp;Document](#document-top)
