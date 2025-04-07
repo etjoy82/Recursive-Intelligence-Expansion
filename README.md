@@ -5,7 +5,7 @@
     
 <pre style="white-space: pre-wrap !important; word-wrap: break-word !important;">
 {
-  "ProjectMetadata": {
+  "READMEmdMetaData": {
     "FileName": "README.md",
     "Tags": ["speculative cognition", "recursive ethics", "AI alignment", "co-cognitive design", "ethical frameworks"],
     "License": {
