@@ -2,7 +2,7 @@
 
 <span id="document-top"></span>
 
-<img alt="WCAG 2.2 AA Compliant]" src="https://img.shields.io/badge/Accessibility-WCAG2.2%20AA-brightgreen"> Document last updated on 2025-04-06, version 61.
+<img alt="WCAG 2.2 AA Compliant]" src="https://img.shields.io/badge/Accessibility-WCAG2.2%20AA-brightgreen"> Document last updated on 2025-04-07, version 62.
 
 <details markdown="1" id="filemetadata"><summary>📎 README.me JSON Metadata (Click Expand, useful for context)</summary>
 <br/>
@@ -17,7 +17,7 @@
       "Link": "https://www.licenses.ai/",
       "Note": "Requires ethical use, bans adversarial systems"},
     "Version": {
-      "Number": "61",
+      "Number": "62",
       "LatestFileVersionLink": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/README.md",
       "LatestChangelogLink": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/changelog.md",
     },
@@ -445,8 +445,6 @@
                 "@id": "https://www.cnaks.org/"
             },
             "inLanguage": "en",
-            "dateModified": "2025-04-05",
-            "version": "60",
             "description": "README.md for the Recursive Intelligence Expansion Methodology (RIEM{}), a recursive knowledgebase and modular cognition system integrating ULAMP, 10FSG, npnaAI, and speculative AI design. Designed for ethical recursive agents, human-AI co-thinking, and cross-domain systems design.",
             "author": {
                 "@type": "Person",
