@@ -1,6 +1,6 @@
 <span id="document-top"></span>
 
-<details markdown="1" id="filemetadata"><summary>📎 File Metadata (Click Expand into JSON block, useful for context) | Updated on 2025-04-05 v60 | ♿ This is an ACCESSIBLE Website.</summary>
+<details markdown="1" id="filemetadata"><summary>📎 README.me JSON Metadata (Click Expand, useful for context) | Updated on 2025-04-05 v60 | ♿ This is an ACCESSIBLE Website.</summary>
 <br/>
     
 <pre style="white-space: pre-wrap !important; word-wrap: break-word !important;">
@@ -43,7 +43,7 @@
 </details>
 
 
-<details markdown="1" id="filemetadata"><summary>📎 ResearchProject Metadata (Click Expand into JSON-LD block, included in site head tag)</summary>
+<details markdown="1" id="filemetadata"><summary>📎 ResearchProject JSON-LD Metadata (Click to Expand)</summary>
 <br/>
     
 <pre style="white-space: pre-wrap !important; word-wrap: break-word !important;">
