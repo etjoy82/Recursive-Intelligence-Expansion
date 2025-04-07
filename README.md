@@ -701,7 +701,7 @@ This README is structured as a **living, multi-mode knowledgebase**. It contains
 
 Choose your layer based on how far you want to recurse:
 
-- 🌿 **<a href="#beginners" aria-label="🟢 Beginner – Conceptual Mode: "I’m just curious. I want to explore."">Layer 1: Seed</a>**  
+- 🌿 **<a href="#beginners" aria-label="🟢 Beginner">Layer 1: Seed</a>**  
   Start with human-friendly metaphors, gentle onramps, and questions that bloom.
 
 - 🛠️ **[Layer 2: Scaffold](#core-concepts)**  
@@ -729,7 +729,7 @@ Once you're oriented here, you can explore the rest of the document using the fu
 
 ### Choose Your Starting Point by Interest:
 
-1. 🌱 **<a href="#beginners" aria-label="🟢 Beginner – Conceptual Mode: "I’m just curious. I want to explore."">For Absolute Beginners</a>**  
+1. 🌱 **<a href="#beginners" aria-label="🟢 Beginner">For Absolute Beginners</a>**  
 A gentle invitation into RIEM{}—no background needed. If you're curious, you're ready. This path unfolds through exploration, one question at a time.
 
 2. 😊 **[Plain & Simple: What is RIEM{}?](#general-audience)**  
@@ -780,7 +780,7 @@ Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp
 6. 🚀 <a href="#start-here" aria-label="🚀&nbsp;Start&nbsp;Here">Start Here</a>
 
 ### B. Introduction and Onboarding
-1. 🌱 <a href="#beginners" aria-label="🟢 Beginner – Conceptual Mode: "I’m just curious. I want to explore."">For Absolute Beginners: A Gentle Invitation to RIEM{}</a>
+1. 🌱 <a href="#beginners" aria-label="🟢 Beginner">For Absolute Beginners: A Gentle Invitation to RIEM{}</a>
 2. 😊 <a href="#general-audience" aria-label="Plain & Simple: What is RIEM{}?">In Plain Language: What is RIEM{}?</a>
 3. 💫 [The Origin Spiral: How RIEM{} Came to Be](#origin)
 4. 🧘 [Easing the Cognitive Load of the RIEM{} Project](#antidote)
@@ -1644,7 +1644,7 @@ While the system is speculative in tone, its **functions are real**—recursive 
 
 Start with one of these:
 
-- <a href="#beginners" aria-label="🟢 Beginner – Conceptual Mode: "I’m just curious. I want to explore."">🌿 For Absolute Beginners</a> — no background needed  
+- <a href="#beginners" aria-label="🟢 Beginner">🌿 For Absolute Beginners</a> — no background needed  
 - [🧪 Try the RUMIA GPT (external link)](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system) — live recursive reasoning  
 - <a href="#quickstart" aria-label="Quickstart">📘 Use the Quickstart Guide</a> — build or deploy locally  
 - [📖 Explore Volume Z](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-Z-RIEM-Training-Manual) — training loops and interactive onboarding
@@ -2352,7 +2352,7 @@ Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp
 
 **Do you want to try it live right now?**  
 - ➡️ Yes → 🔗 [Launch RUMIA GPT (external link)](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system)  
-- ➡️ No  → Proceed to <a href="#deploy" aria-label="🔴 Advanced – Engineer Mode: "I’m building systems. Give me the architecture."">**Option 2: Deploy RIEM{} Yourself (Advanced)**</a>
+- ➡️ No  → Proceed to <a href="#deploy" aria-label="🔴 Advanced"">**Option 2: Deploy RIEM{} Yourself (Advanced)**</a>
 
 ⬇️  
 
@@ -2568,7 +2568,7 @@ Feed your own logs *back into the AI* to form deeper loops over time. Let the jo
 
 ### 📍 Next Steps
 
-- 📘 Start with the <a href="#beginners" aria-label="🟢 Beginner – Conceptual Mode: "I’m just curious. I want to explore."">Beginners Guide</a> or <a href="#general-audience" aria-label="Plain & Simple: What is RIEM{}?">Plain and Simple</a> explanation
+- 📘 Start with the <a href="#beginners" aria-label="🟢 Beginner">Beginners Guide</a> or <a href="#general-audience" aria-label="Plain & Simple: What is RIEM{}?">Plain and Simple</a> explanation
 - 🔗 Launch [RUMIA GPT (external link)](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system)
 - 📂 Visit the [Wiki for Volume Submissions](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki)
 - 📈 Track your progress using the [Loop Tracker](#loop-tracker-template)
