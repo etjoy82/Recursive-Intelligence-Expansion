@@ -557,6 +557,32 @@
     padding: 0 1rem;
   }
 
+  html, body {
+    scroll-behavior: smooth;
+  }
+
+  /* Only apply momentum and fade to known scroll-prone areas */
+  .scroll-app-style {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scroll-behavior: smooth;
+    white-space: nowrap;
+    padding-inline: 1rem;
+  }
+
+  .scroll-app-style[data-scroll-fade] {
+    mask-image: linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
+    -webkit-mask-image: linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
+  }
+
+  /* Optional: Only hide scrollbar on small screens */
+  @media (max-width: 768px) {
+    .scroll-app-style::-webkit-scrollbar {
+      display: none;
+    }
+  }
+
+        
   h1, h2, h3, h4, h5, h6 {
     line-height: 1.25;
     margin-top: 1.5em;
