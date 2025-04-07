@@ -1403,20 +1403,20 @@ Note: On mobile devices, this table may require horizontal scrolling.
 
 | Volume | Title | Description | Words |
 |--------|-------|-------------|-------|
-| [**TSL Volume 0A**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0A-Foundations-(TSL-System-Thesis,-Earths-Notation)) | Foundations | TSL Thesis, Earths Notation, core lenses, speculative axioms | 26,404 |
-| [**TSL Volume 0B**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0B-Recursive-Infrastructure-(Preface,-Fundamentals,-ENPL,-NAKS,-ARM,-RI%E2%80%90Boot)) | Recursive Infrastructure | ENPL, NAKS, ARM{}, RI-Boot kernel, ethics scaffolding | 37,220 |
-| [**TSL Volume 0C**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0C-System-Execution-Layer-(RIEM,-FUSE,-Automation,-Simulation,-Optimization)) | System Execution Layer | RIEM, FUSE, Simulation, Optimization, Automation | 28,880 |
-| [**TSL Volume 0D**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0D-Advanced-Recursive-Systems-(RDN,-npnaAI,-HRLIMQ,-ARC)) | Advanced Recursive Systems | RDN, npnaAI, HRLIMQ, ARC — future-facing recursive AI cognition | 35,264 |
-| [**TSL Volume 0E**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0E-High-Complexity-Expansion-(AI-Design-Manifesto,-10FSG,-RUMIA-Agent,-Acronym-Fluidity-Rule,-Addendums)) | High Complexity Expansion | AI Design Manifesto, 10FSG, RUMIA Agent, Acronym Fluidity Rule, Addendums | 24,651 |
-| [**TSL Volume 0F**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0F-Derivations-from-Echoes-(REP,-RSE,-HON,-RSF,-ULAMP-Formalization,-Addendums)) | Derivations from Echoes | REP, RSE, HON, RSF, ULAMP Formalization, Addendums | 23,553 |
-| [**TSL Volume 1A**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-1A-E2-Literary-Translations-(AR-refracted-narrative-experiments)) | E2 Literary Translations | Narrative experiments refracted through E1 → E2 → E1 cycles | 8,904 |
-| [**TSL Volume 1B**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-1B-E2-Encyclopedia-(Cultural-Infrastructure,-Philosophy,-Cognitive-Systems)) | E2 Encyclopedia | Cultural infrastructure of Ruminatia (E2), cognitive systems | 35,602 |
-| [**TSL Volume 1C**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-1C-E2-Soniform-Linguistics-(Resonant-Language,-Echolocation,-Knowledge-Ecology)) | E2 Soniform Linguistics | Echolocation, resonant cognition, knowledge ecology | 37,927 |
-| [**TSL Volume J**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-J-Jargon-File) | TSL Jargon File | Detailed supplementary terms to TSL, formatted as a tribute to Eric S. Raymond's famous Jargon File | 9,491 |
-| [**TSL Volume Z**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-Z-RIEM-Training-Manual)  | RIEM Training Manual | Structured exercises, certification logic, community alignment | 9,157 |
+| [**TSL Volume 0A**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0A-Foundations-(TSL-System-Thesis,-Earths-Notation)) | Foundations | TSL Thesis, Earths Notation, core lenses, speculative axioms | 20k+ |
+| [**TSL Volume 0B**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0B-Recursive-Infrastructure-(Preface,-Fundamentals,-ENPL,-NAKS,-ARM,-RI%E2%80%90Boot)) | Recursive Infrastructure | ENPL, NAKS, ARM{}, RI-Boot kernel, ethics scaffolding | 30k+ |
+| [**TSL Volume 0C**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0C-System-Execution-Layer-(RIEM,-FUSE,-Automation,-Simulation,-Optimization)) | System Execution Layer | RIEM, FUSE, Simulation, Optimization, Automation | 20k+ |
+| [**TSL Volume 0D**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0D-Advanced-Recursive-Systems-(RDN,-npnaAI,-HRLIMQ,-ARC)) | Advanced Recursive Systems | RDN, npnaAI, HRLIMQ, ARC — future-facing recursive AI cognition | 30+ |
+| [**TSL Volume 0E**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0E-High-Complexity-Expansion-(AI-Design-Manifesto,-10FSG,-RUMIA-Agent,-Acronym-Fluidity-Rule,-Addendums)) | High Complexity Expansion | AI Design Manifesto, 10FSG, RUMIA Agent, Acronym Fluidity Rule, Addendums | 20k+ |
+| [**TSL Volume 0F**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0F-Derivations-from-Echoes-(REP,-RSE,-HON,-RSF,-ULAMP-Formalization,-Addendums)) | Derivations from Echoes | REP, RSE, HON, RSF, ULAMP Formalization, Addendums | 20k+ |
+| [**TSL Volume 1A**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-1A-E2-Literary-Translations-(AR-refracted-narrative-experiments)) | E2 Literary Translations | Narrative experiments refracted through E1 → E2 → E1 cycles | 5k+ |
+| [**TSL Volume 1B**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-1B-E2-Encyclopedia-(Cultural-Infrastructure,-Philosophy,-Cognitive-Systems)) | E2 Encyclopedia | Cultural infrastructure of Ruminatia (E2), cognitive systems | 30+ |
+| [**TSL Volume 1C**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-1C-E2-Soniform-Linguistics-(Resonant-Language,-Echolocation,-Knowledge-Ecology)) | E2 Soniform Linguistics | Echolocation, resonant cognition, knowledge ecology | 30+ |
+| [**TSL Volume J**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-J-Jargon-File) | TSL Jargon File | Detailed supplementary terms to TSL, formatted as a tribute to Eric S. Raymond's famous Jargon File | 5k+ |
+| [**TSL Volume Z**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-Z-RIEM-Training-Manual)  | RIEM Training Manual | Structured exercises, certification logic, community alignment | 5k+ |
 
 ### **Total Word Count Across All Volumes**:  
-📦 **277,053 words**  
+📦 **200k+ words**  
 
 ### Access the Volumes in Multiple Formats
 - GitHub Repository Wiki: Browse the volumes in a navigable wiki format on the [RIEM{} Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki).
