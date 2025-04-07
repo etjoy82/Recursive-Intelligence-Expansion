@@ -2552,13 +2552,13 @@ This **Loop Tracker Template** gives users a lightweight tool to track their rec
 > _________________________________________
 
 🛠 Recursive Tool Used (optional):  
-- [ ] FUSE  
-- [ ] HRLIMQ  
-- [ ] AR (Ascension Reflex)  
-- [ ] E# Translation  
-- [ ] RDN (Rope-a-Dope Notation)  
-- [ ] npnaAI Ethics Check  
-- [ ] REP Detected
+- FUSE  
+- HRLIMQ  
+- AR (Ascension Reflex)  
+- E# Translation  
+- RDN (Rope-a-Dope Notation)  
+- npnaAI Ethics Check  
+- REP Detected
 
 🔚 What’s the next recursive move?
 > _________________________________________
