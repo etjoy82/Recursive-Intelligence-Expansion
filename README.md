@@ -3650,11 +3650,11 @@ Copyright (c) 2025 Emily Tiffany Joy [emilyjoy.org](https://emilyjoy.org)
 This work is licensed under the Responsible AI License (RAIL).
 
 License Terms:
-This license governs the use, distribution, modification, and experimentation with the Recursive-Intelligence-Expansion (RIE) framework, subject to the following conditions:
+This license governs the use, distribution, modification, and experimentation with the Recursive-Intelligence-Expansion (RIEM{}) framework, subject to the following conditions:
 
 
 **Ethical Usage Requirement**
-Users must commit to using RIE solely in contexts that uphold ethical responsibility. The framework is strictly prohibited from being applied in any adversarial, harmful, unethical, malicious, or illegal activities, including but not limited to:
+Users must commit to usingRIEM{}solely in contexts that uphold ethical responsibility. The framework is strictly prohibited from being applied in any adversarial, harmful, unethical, malicious, or illegal activities, including but not limited to:
 Misinformation: Generating or disseminating false, misleading, or deceptive content intended to misinform or manipulate.
 Harmful AI Development: Contributing to AI systems that exploit, deceive, or cause harm to individuals, communities, or societal structures.
 Adversarial Governance: Facilitating coercive or manipulative policy mechanisms, or enabling speculative governance systems that prioritize control over cooperation.
@@ -3663,14 +3663,14 @@ Violation of Human Rights: Supporting applications that enable oppression, misus
 Permitted Uses
 
 The following applications are explicitly allowed, provided they align with ethical intent, transparency, and the principles of non-predatory AI:
-Ethical Research & Development: Utilizing RIE for scientific, academic, or technological exploration that advances knowledge responsibly.
+Ethical Research & Development: UtilizingRIEM{}for scientific, academic, or technological exploration that advances knowledge responsibly.
 Speculative Intelligence Modeling: Engaging in ethical scenario analysis, epistemic experimentation, and speculative reasoning to foster understanding.
-Cooperative Governance Analysis: Applying RIE to design or evaluate systems that promote ethical decision-making, collaboration, and mutual benefit.
+Cooperative Governance Analysis: ApplyingRIEM{}to design or evaluate systems that promote ethical decision-making, collaboration, and mutual benefit.
 Educational Use: Leveraging the framework for learning, teaching, or non-commercial knowledge-sharing initiatives that prioritize ethical growth.
 Collaborative Contributions: Developing or contributing to open-source projects that adhere to RIE’s ethical standards and enhance its recursive capabilities.
 Attribution Requirement
 
-Any redistribution, publication, or derivative work must provide clear attribution to the original creator, Emily Tiffany Joy, and cite the source of the RIE framework, including a link to the Recursive-Intelligence-Expansion GitHub repository. All ethical usage terms outlined in this license must be included in any further distribution, ensuring that subsequent users and contributors remain committed to responsible AI practices.
+Any redistribution, publication, or derivative work must provide clear attribution to the original creator, Emily Tiffany Joy, and cite the source of theRIEM{}framework, including a link to the Recursive-Intelligence-Expansion GitHub repository. All ethical usage terms outlined in this license must be included in any further distribution, ensuring that subsequent users and contributors remain committed to responsible AI practices.
 
 
 **Ethical Commitment**
