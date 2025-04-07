@@ -546,26 +546,6 @@
 }
 </script>
     <style>
-        .rumia-button {
-            position: fixed;
-            bottom: 20px;
-            right: 20px;
-            background-color: #DDDDDD;
-            color: white;
-            border: none;
-            border-radius: 50px;
-            padding: 12px 20px;
-            font-size: 16px;
-            cursor: pointer;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-            z-index: 1000;
-            transition: background-color 0.3s;
-        }
-
-        .rumia-button:hover {
-            background-color: #581a9c;
-        }
-
 
   /* === Base Styles === */
   body {
@@ -690,8 +670,7 @@ tr:nth-child(even) {
 </head>
 
 <body>
-    <a href="https://chat.openai.com/g/g-67e424672e188191903d3dca35744581-rumia-recursive-entity-for-idea-transformation"
-        target="_blank" class="rumia-button"><font color="black">↺ Live GPT RUMIA</font></a> {{ content }}
+    {{ content }}
 </body>
 
 </html>
