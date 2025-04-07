@@ -1,5 +1,6 @@
+<a href="#main-content" class="skip-link">Skip to main content</a>
 <span id="document-top"></span>
-
+<header>
 <img alt="WCAG 2.2 AA Compliant]" src="https://img.shields.io/badge/Accessibility-WCAG2.2%20AA-brightgreen"> This is an ACCESSIBLE web site.
 
 Document last updated on 2025-04-06, version 61.
@@ -539,10 +540,10 @@ Document last updated on 2025-04-06, version 61.
 ---
 
 ↘️ For Returning Users: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🐦‍🔥&nbsp;Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki) • [↺&nbsp;Recurse&nbsp;with&nbsp;RUMIA](https://chat.openai.com/g/g-67e424672e188191903d3dca35744581-rumia-recursive-entity-for-idea-transformation)
-
+</header>
 
 ---
-
+<main id="main-content">
 <h1 id="mission">⟁ Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition</h1>
 
 <strong>Tagline:</strong> A framework for humans and AI to think together—ethically, recursively, across realities.<br>
@@ -3752,3 +3753,4 @@ While redistributing the Contribution, You may choose to offer, and charge a fee
 END OF TERMS AND CONDITIONS
 
 Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🐦‍🔥&nbsp;Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki) • [🔝&nbsp;Top&nbsp;of&nbsp;Document](#document-top) • [↺&nbsp;Recurse&nbsp;with&nbsp;RUMIA](https://chat.openai.com/g/g-67e424672e188191903d3dca35744581-rumia-recursive-entity-for-idea-transformation)
+</main>
