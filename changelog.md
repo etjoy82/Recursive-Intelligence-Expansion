@@ -41,7 +41,7 @@
 14. **📚 Integrated Wiki Links Throughout for Backend Access**  
   Strategic crosslinks to the GitHub Wiki were added to volume index sections, developer guidance, and Quickstart entries—creating seamless transitions between README and full TSL archives.
 
-15. **🌱 RIEM{} Origin Story Added via Emily Joy Interview**  
+15. **🌱 RIEM{} Origin Story Added via Emily Tiffany Joy Interview**  
   A new narrative section detailing the birth of RIEM{} from speculative fiction roots and recursive world design, offering personal insight into its emergence and evolution.
 
 16. **🕊️ Ethical Praise & System Integrity Section Added**  

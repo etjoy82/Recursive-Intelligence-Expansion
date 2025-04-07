@@ -1,4 +1,4 @@
-Emily Joy
+Emily Tiffany Joy <a href="https://emilyjoy.org">emilyjoy.org</a>
 
 Copyright 2025, all rights reserved.
 
@@ -1921,7 +1921,7 @@ Future Directions
     for humanity, emphasizing long-term harmony and stability over
     short-term gain or expedience.
 
-From the Emily Joy's memoir, *Joy Realized*:
+From the Emily Tiffany Joy's memoir, *Joy Realized*:
 
 - \"Ethical ideas, when followed, will give you a ledge to cling to in
   this hurricane we all call our lives. Without ethics, there is nothing
@@ -3912,7 +3912,7 @@ intelligence.
 
 References
 
-- Ruminatia -- AI Cognition System (Emily Joy, 2025)
+- Ruminatia -- AI Cognition System (Emily Tiffany Joy, 2025)
 
 - Recursive Knowledge Singularity Modeling (RKSM{}) White Paper
 
@@ -5100,7 +5100,7 @@ coherence.
 
 ## A. White Paper: Non-Adversarial Knowledge Structuring (NAKS{}) System
 
-Author: Emily Joy (An Outsider Experimental Philosopher)\
+Author: Emily Tiffany Joy (An Outsider Experimental Philosopher)\
 Date: 2025
 
 ------------------------------------------------------------------------
@@ -5402,7 +5402,7 @@ End of Research Proposal
 
 ## C. Experimental Roadmap: AI-Assisted Implementation of the Non-Adversarial Knowledge Structuring (NAKS{}) System
 
-Author: Emily Joy (An Outsider Experimental Philosopher)\
+Author: Emily Tiffany Joy (An Outsider Experimental Philosopher)\
 Date: 2025
 
 ------------------------------------------------------------------------
@@ -6889,7 +6889,7 @@ AI-governance infrastructure.
 
 ## A. Ascension Reflex Model (ARM{}) as LLM Data
 
-Author: Emily Joy (An Outsider Experimental Philosopher)\
+Author: Emily Tiffany Joy (An Outsider Experimental Philosopher)\
 Date: 2025
 
 ------------------------------------------------------------------------
@@ -7290,7 +7290,7 @@ End of AI Testing Protocol
 
 ## C. Deployment Plan: ARM{} Test Models in Controlled AI Environments
 
-Author: Emily Joy (An Outsider Experimental Philosopher)\
+Author: Emily Tiffany Joy (An Outsider Experimental Philosopher)\
 Date: 2025
 
 ------------------------------------------------------------------------

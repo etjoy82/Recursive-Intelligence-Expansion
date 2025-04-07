@@ -1,4 +1,4 @@
-Emily Joy
+Emily Tiffany Joy <a href="https://emilyjoy.org">emilyjoy.org</a>
 
 Copyright 2025, all rights reserved.
 

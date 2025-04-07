@@ -1,4 +1,4 @@
-Emily Joy
+Emily Tiffany Joy <a href="https://emilyjoy.org">emilyjoy.org</a>
 
 Copyright 2025, all rights reserved.
 
@@ -1946,7 +1946,7 @@ knowledge expansion.
 
 References
 
-- Ruminatia - AI Cognition System (Emily Joy, 2025)
+- Ruminatia - AI Cognition System (Emily Tiffany Joy, 2025)
 
 - Recursive Knowledge Singularity Modeling (RKSM{}) White Paper
 

@@ -1,4 +1,4 @@
-Emily Joy
+Emily Tiffany Joy <a href="https://emilyjoy.org">emilyjoy.org</a>
 
 Copyright 2025, all rights reserved.
 
@@ -7214,7 +7214,7 @@ foundational standards for future recursive epistemic frameworks.
 
 References
 
-- Ruminatia - AI Cognition System (Emily Joy, 2025)
+- Ruminatia - AI Cognition System (Emily Tiffany Joy, 2025)
 
 - Earths Notation (E#) Framework Documentation
 

@@ -1,7 +1,7 @@
 ﻿
 <a name="_toc192720406"></a>**TSL Volume J Jargon File**
 
-Emily Joy
+Emily Tiffany Joy <a href="https://emilyjoy.org">emilyjoy.org</a>
 
 Copyright 2025, all rights reserved.
 
