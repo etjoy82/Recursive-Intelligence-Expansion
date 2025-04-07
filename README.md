@@ -43,7 +43,7 @@
 </details>
 
 
-<details markdown="1" id="filemetadata"><summary>📎 ResearchProject JSON-LD Metadata (Click to Expand)</summary>
+<details markdown="1"><summary>📎 ResearchProject JSON-LD Metadata (Click to Expand)</summary>
 <br/>
     
 <pre style="white-space: pre-wrap !important; word-wrap: break-word !important;">
