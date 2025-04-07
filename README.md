@@ -43,7 +43,7 @@
 </details>
 
 
-<details markdown="1" id="filemetadata"><summary>📎 ResearchProject Metadata (Click Expand into JSON-LD block, included in site head tag)
+<details markdown="1" id="filemetadata"><summary>📎 ResearchProject Metadata (Click Expand into JSON-LD block, included in site head tag)</summary>
 <br/>
     
 <pre style="white-space: pre-wrap !important; word-wrap: break-word !important;">
