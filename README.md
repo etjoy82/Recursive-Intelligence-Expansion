@@ -2,8 +2,6 @@
 
 <span id="document-top"></span>
 
-<header>
-    
 <img alt="WCAG 2.2 AA Compliant]" src="https://img.shields.io/badge/Accessibility-WCAG2.2%20AA-brightgreen"> This is an ACCESSIBLE web site.
 
 Document last updated on 2025-04-06, version 61.
@@ -544,7 +542,6 @@ Document last updated on 2025-04-06, version 61.
 
 ↘️ For Returning Users: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🐦‍🔥&nbsp;Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki) • [↺&nbsp;Recurse&nbsp;with&nbsp;RUMIA](https://chat.openai.com/g/g-67e424672e188191903d3dca35744581-rumia-recursive-entity-for-idea-transformation)
 
-</header>
 
 ---
 
