@@ -560,7 +560,7 @@
 - This project is under active development. Monitor [CHANGELOG.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/CHANGELOG.md) for updates.
 - Join the community on [Discord](https://discord.gg/JCKJHGTq).
 - [Try the System Now](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-recursive-entity-for-idea-transformation).
-
+- Copyright 2025 (c) Emily Tiffany Joy [emilyjoy.org](https://emilyjoy.org)
 ---
 
 <h2 id="about-description">🧲 About the Project</h2>
