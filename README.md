@@ -1,6 +1,6 @@
 <span id="document-top"></span>
 
-<details markdown="1" id="filemetadata"><summary>📎 README.me JSON Metadata (Click Expand, useful for context) | Updated on 2025-04-05 v60 | ♿ This is an ACCESSIBLE Website.</summary>
+<details markdown="1" id="filemetadata"><summary>📎 README.me JSON Metadata (Click Expand, useful for context) | Updated on 2025-04-05 v60 | ♿ This is an ACCESSIBLE Website. 100% WCAG 2.2 AA Complaint.</summary>
 <br/>
     
 <pre style="white-space: pre-wrap !important; word-wrap: break-word !important;">
