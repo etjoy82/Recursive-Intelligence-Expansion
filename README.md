@@ -2,7 +2,7 @@
 
 <span id="document-top"></span>
 
-<img alt="WCAG 2.2 AA Compliant]" src="https://img.shields.io/badge/Accessibility-WCAG2.2%20AA-brightgreen"> This is an ACCESSIBLE web site.
+<img alt="WCAG 2.2 AA Compliant]" src="https://img.shields.io/badge/Accessibility-WCAG2.2%20AA-brightgreen">
 
 Document last updated on 2025-04-06, version 61.
 
