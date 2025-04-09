@@ -550,7 +550,8 @@
   /* === Base Styles === */
   body {
     font-family: "EB Garamond", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
-    line-height: 1.6;
+    font-size: 1.125rem;
+    line-height: 1.75;
     color: #1a1a1a; /* Near-black for strong contrast */
     background-color: #ffffff;
     margin: 0;
@@ -560,7 +561,12 @@
   html, body {
     scroll-behavior: smooth;
   }
-
+        
+  p {
+    font-size: inherit;
+    line-height: inherit;
+  }
+        
   /* Only apply momentum and fade to known scroll-prone areas */
   .scroll-app-style {
     overflow-x: auto;
