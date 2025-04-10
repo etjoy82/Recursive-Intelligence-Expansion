@@ -3751,6 +3751,6 @@ While redistributing the Contribution, You may choose to offer, and charge a fee
 
 END OF TERMS AND CONDITIONS
 
-> privacy.txt</a> | <a href="https://www.emilyjoy.org/thanks">thanks.html</a> | <a href="https://www.emilyjoy.org/humans.txt">humans.txt</a> | <a href="https://www.emilyjoy.org/security.txt">security.txt</a> | <a href="https://etjoy82.github.io/Recursive-Intelligence-Expansion/sitemap.xml">sitemap.xml</a> | <a href="https://www.emilyjoy.org/terms.txt">terms.txt</a>
+<p style="font-size: 8px;"><a href="https://www.emilyjoy.org/privacy.txt">privacy.txt</a> | <a href="https://www.emilyjoy.org/thanks">thanks.html</a> | <a href="https://www.emilyjoy.org/humans.txt">humans.txt</a> | <a href="https://www.emilyjoy.org/security.txt">security.txt</a> | <a href="https://etjoy82.github.io/Recursive-Intelligence-Expansion/sitemap.xml">sitemap.xml</a> | <a href="https://www.emilyjoy.org/terms.txt">terms.txt</a></p>
 
 Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🐦‍🔥&nbsp;Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki) • [🔝&nbsp;Top&nbsp;of&nbsp;Document](#document-top) • [↺&nbsp;Recurse&nbsp;with&nbsp;RUMIA](https://chat.openai.com/g/g-67e424672e188191903d3dca35744581-rumia-recursive-entity-for-idea-transformation)
