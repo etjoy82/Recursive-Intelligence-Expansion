@@ -2352,7 +2352,7 @@ Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp
 
 **Do you want to try it live right now?**  
 - ➡️ Yes → 🔗 [Launch RUMIA GPT (external link)](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system)  
-- ➡️ No  → Proceed to <a href="#deploy" aria-label="🔴 Advanced"">**Option 2: Deploy RIEM{} Yourself (Advanced)**</a>
+- ➡️ No  → Proceed to <a href="#deploy" aria-label="🔴 Advanced">**Option 2: Deploy RIEM{} Yourself (Advanced)**</a>
 
 ⬇️  
 
