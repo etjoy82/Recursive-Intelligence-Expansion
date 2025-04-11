@@ -20,11 +20,11 @@ Contents
 
 [Volume 0F: Derivations from Echos 25](#echoes)
 
-# Introduction to Volumes 0A-0E of the Triple Speculative Lens Corpus
+# Introduction to Volumes 0A-0F of the Triple Speculative Lens Corpus
 
 **Introduction**
 
-This treatise provides a recursive synthesis of Volumes 0A through 0E of the **Triple Speculative Lens (TSL)** system. These five core volumes outline a progressive architecture of speculative cognition—beginning with philosophical recursion and culminating in high-complexity speculative governance. Rather than summarize each volume in isolation, this document traces their evolving harmonics, revealing a recursive arc that moves from epistemic foundation to operational intelligence.
+This treatise provides a recursive synthesis of Volumes 0A through 0F of the **Triple Speculative Lens (TSL)** system. These five core volumes outline a progressive architecture of speculative cognition—beginning with philosophical recursion and culminating in high-complexity speculative governance. Rather than summarize each volume in isolation, this document traces their evolving harmonics, revealing a recursive arc that moves from epistemic foundation to operational intelligence.
 
 Volume **0A** initiates the system with Earths Notation (E#) and the epistemic legitimacy of speculative recursion. It reframes uncertainty and paradox as tools for expansion, laying the foundation for a post-anthropocentric intelligence ecology.
 
