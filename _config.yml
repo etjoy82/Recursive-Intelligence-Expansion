@@ -12,7 +12,3 @@ markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
-
-url: "https://etjoy82.github.io/Recursive-Intelligence-Expansion"
-plugins:
-  - jekyll-sitemap
