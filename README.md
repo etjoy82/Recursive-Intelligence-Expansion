@@ -91,11 +91,11 @@
                 "npnaai",
                 "co-cognitive interfaces",
                 "knowledge architecture",
-                “ai alignment drift”,
-                “autopoietic cognition”,
-                “seed AI architecture”,
-                “reflective stability in AI”,
-                “synthetic intentionality”
+                "ai alignment drift",
+                "autopoietic cognition",
+                "seed AI architecture",
+                "reflective stability in AI",
+                "synthetic intentionality"
             ],
             "citation": [
                 {
