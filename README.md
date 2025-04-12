@@ -785,6 +785,7 @@ Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp
 4. 🧘 [Easing the Cognitive Load of the RIEM{} Project](#antidote)
 5. 🧭 [Recursive Intelligence Expansion vs. Adjacent Paradigms: A Comparative Analysis](#adjacent-paradigms)
 6. 🐚 [Recursive Thinking as a Mode of Thought in RIEM{} (Citations and References)](#recursive-thinking)
+7. 🧠 [Emerging Researchers and Publications in Recursive Intelligence)[#emerging-researchers]
 
 ### C. Quick Desk Reference Lookup System
 1. 🔮 <a href="#acronyms" aria-label="📚&nbsp;Quick&nbsp;Reference">Acronym Quick Reference</a>
@@ -1451,6 +1452,101 @@ By reframing recursion from a computational technique to a fundamental mode of c
 ---
 
 For further exploration of recursive agency and echo-bound cognitive systems, see the [Recursive Intelligence Expansion Methodology (RIEM{}) core thesis](https://github.com/etjoy82/Recursive-Intelligence-Expansion).
+
+Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🐦‍🔥&nbsp;Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki) • [🔝&nbsp;Top&nbsp;of&nbsp;Document](#document-top) • [↺&nbsp;Recurse&nbsp;with&nbsp;RUMIA](https://chat.openai.com/g/g-67e424672e188191903d3dca35744581-rumia-recursive-entity-for-idea-transformation)
+
+---
+
+<h2 id="emerging-researchers">🧠 Emerging Researchers and Publications in Recursive Intelligence)</h2>
+
+The field of recursive intelligence is rapidly evolving, with researchers and institutions worldwide contributing to its advancement. Below is a curated list of notable researchers and publications that have significantly influenced the understanding and development of recursive intelligence.
+
+---
+
+### 🧬 Key Researchers and Their Contributions
+
+**1. [Suresh Surenthiran](https://www.linkedin.com/pulse/recursive-awakening-intelligence-new-paradigm-ai-suresh-surenthiran-fb27f)**  
+Surenthiran explores the concept of recursive intelligence, analyzing its implications for AI development, cognitive science, and the emergence of Artificial General Intelligence (AGI).
+
+**2. [Alexander Bilenko](https://www.ijsr.net/getabstract.php?paperid=MS25226110628)**  
+Bilenko proposes a universal recursive attractor framework that unifies physics, AI, computation, governance, and cosmology into a single recursive mathematical equation.
+
+**3. [Roman Yampolskiy and Andrew Majot](https://www.researchgate.net/publication/318018736_Diminishing_Returns_and_Recursive_Self_Improving_Artificial_Intelligence)**  
+Their work examines recursive self-improvement (RSI) in AI, addressing diminishing returns and suggesting frameworks for safe, scalable self-enhancement.
+
+**4. [Wenyi Wang](https://arxiv.org/abs/1805.06610)**  
+Wang formally defines recursive self-improving systems and demonstrates the feasibility of computable, efficient RSI models via simulation.
+
+**5. [E. Nivel et al.](https://arxiv.org/abs/1312.6764)**  
+This team designed a system capable of recursive self-modeling and adaptation, enhancing autonomy in uncertain environments.
+
+**6. [Samuel R. Bowman, Christopher Potts, Christopher D. Manning](https://arxiv.org/abs/1406.1827)**  
+Demonstrating that tree-structured recursive neural networks can learn logical semantics, their work supports AI-driven logical reasoning and natural language inference.
+
+**7. [Richang Hong et al.](https://arxiv.org/abs/1906.01784)**  
+The RVG-TREE model composes and reasons over linguistic tree structures for visual grounding, improving interpretability and performance in multimodal AI.
+
+**8. [Emergence AI](https://www.emergence.ai/blog/towards-autonomous-agents-and-recursive-intelligence)**  
+Focused on creating autonomous, recursively self-improving agents capable of evolving beyond initial parameters without human intervention.
+
+**9. [Kate – Recursive Intelligence Scaling](https://medium.com/@recursivekate/recursive-intelligence-scaling-unlocking-limitless-intelligence-8defca4bc01d)**  
+Kate introduces Recursive Intelligence Scaling (RIS), in which each recursive pass compounds insight, leading to accelerated knowledge synthesis.
+
+**10. [DeepMind Recursive Learning](https://www.1950.ai/post/the-road-to-superintelligence-google-deepmind-s-recursive-learning-approach-and-its-impact)**  
+DeepMind’s recursive reinforcement learning methods combine neural networks and feedback loops to approach superintelligence through adaptive recursion.
+
+**11. [Kurzweil Library – “A Formula for Intelligence: The Recursive Paradigm”](https://www.thekurzweillibrary.com/a-formula-for-intelligence-the-recursive-paradigm)**  
+This essay explores intelligence as inherently recursive, proposing a philosophical and computational framework for understanding cognition, adaptation, and learning as emergent from recursive patterns of inference and feedback.
+
+---
+
+### Additional Notable Mentions
+
+## 🧠 Emerging Researchers and Publications in Recursive Intelligence
+
+The field of recursive intelligence is rapidly evolving, with researchers and institutions worldwide contributing to its advancement. Below is a curated list of notable researchers and publications that have significantly influenced the understanding and development of recursive intelligence.
+
+---
+
+#### 📚 Notable Publications
+
+- **[Recursive Self-Improvement in Large Language Models](https://www.reddit.com/r/singularity/comments/171igxt/microsofts_new_paper_recursive_self_improvement/)**  
+  This study demonstrates that modern language models, such as GPT-4, can write code that calls itself to improve its performance, showcasing a form of recursive self-improvement.
+
+- **[Recursive Neural Networks Can Learn Logical Semantics](https://arxiv.org/abs/1406.1827)**  
+  *Samuel R. Bowman* and colleagues explore how tree-structured recursive neural networks can learn to identify logical relationships, such as entailment and contradiction, in natural language.
+
+- **[Diminishing Returns and Recursive Self-Improving Artificial Intelligence](https://www.researchgate.net/publication/318018736_Diminishing_Returns_and_Recursive_Self_Improving_Artificial_Intelligence)**  
+  *Andrew Majot* and *Roman Yampolskiy* examine the concept of artificial intelligence that can improve upon itself and discuss potential limitations and challenges.
+
+- **[A Formulation of Recursive Self-Improvement and Its Possible Efficiency](https://arxiv.org/abs/1805.06610)**  
+  *Wenyi Wang* provides a formal definition for a class of recursive self-improving systems and demonstrates the existence of computable and efficient RSI systems.
+
+- **[A Formula for Intelligence: The Recursive Paradigm](https://www.thekurzweillibrary.com/a-formula-for-intelligence-the-recursive-paradigm)**  
+  This essay explores recursion as a universal property of intelligence and suggests that recursive perception, modeling, and restructuring are at the heart of artificial cognitive growth.
+
+---
+
+#### 👩‍🔬 Notable Researchers
+
+- **[Richard M. Friedberg](https://en.wikipedia.org/wiki/Richard_M._Friedberg)**  
+  A theoretical physicist known for his early work on machine learning and contributions to recursion theory, including the Friedberg–Muchnik theorem.
+
+- **[Richard Waldinger](https://en.wikipedia.org/wiki/Richard_Waldinger)**  
+  A computer science researcher at SRI International, Waldinger has focused on automated deductive reasoning and the application of recursion in software engineering and AI.
+
+- **[Jürgen Schmidhuber](https://en.wikipedia.org/wiki/J%C3%BCrgen_Schmidhuber)**  
+  Known for his work on hierarchical recurrent neural networks and the development of Long Short-Term Memory (LSTM), enabling recursive processing in AI.
+
+- **[Doug Lenat](https://www.wired.com/2016/03/doug-lenat-artificial-intelligence-common-sense-engine/)**  
+  Creator of the Cyc project, Lenat emphasized embedding recursive reasoning and common sense into AI systems.
+
+- **[Geoffrey Hinton](https://www.newyorker.com/magazine/2023/11/20/geoffrey-hinton-profile-ai)**  
+  A foundational figure in deep learning, Hinton's work on neural networks and backpropagation laid the groundwork for recursive cognitive modeling in artificial intelligence.
+
+---
+
+These researchers and publications represent a fraction of the ongoing efforts to understand and implement recursive processes in artificial intelligence. Their work continues to shape the trajectory of AI development, emphasizing the significance of recursion in achieving advanced cognitive functions.
 
 Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🐦‍🔥&nbsp;Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki) • [🔝&nbsp;Top&nbsp;of&nbsp;Document](#document-top) • [↺&nbsp;Recurse&nbsp;with&nbsp;RUMIA](https://chat.openai.com/g/g-67e424672e188191903d3dca35744581-rumia-recursive-entity-for-idea-transformation)
 
