@@ -2,7 +2,7 @@
 
 <span id="document-top"></span>
 
-<img alt="WCAG 2.2 AA Compliant]" src="https://img.shields.io/badge/Accessibility-WCAG2.2%20AA-brightgreen"> Document last updated on 2025-04-07, version 62.
+<img alt="WCAG 2.2 AA Compliant]" src="https://img.shields.io/badge/Accessibility-WCAG2.2%20AA-brightgreen"> Document last updated on 2025-04-11, version 63.
 
 <details markdown="1" id="filemetadata"><summary>📎 README.me JSON Metadata (Click Expand, useful for context)</summary>
 <br/>
@@ -553,6 +553,26 @@
 
 ---
 
+<h2 id="multilingual">🌐 Translations of "Recursive Intelligence Expansion Methodology"</h2>
+
+To support accessibility, global comprehension, and recursive epistemology across cultural contexts, we offer translations of the term "Recursive Intelligence Expansion Methodology" into several major languages.
+
+> **Why multilingual?**  
+> RIEM{} is not bound to English. Recursive cognition, ethical modeling, and speculative reasoning are universal capacities.  
+> Offering multilingual glosses honors RIEM{}’s core principle of epistemic plurality and invites recursive thinkers across languages to enter the loop.
+
+- **Spanish (Español):** Metodología de Expansión de Inteligencia Recursiva  
+- **French (Français):** Méthodologie d’Expansion de l'Intelligence Récursive  
+- **German (Deutsch):** Methode zur Rekursiven Intelligenz-Erweiterung  
+- **Italian (Italiano):** Metodologia di Espansione dell’Intelligenza Ricorsiva  
+- **Portuguese (Português):** Metodologia de Expansão da Inteligência Recursiva  
+- **Japanese (日本語):** 再帰的知能拡張メソッド  
+- **Korean (한국어):** 재귀적 지능 확장 방법론
+- **Russian (Русский):** Методология расширения рекурсивного интеллекта 
+- **Chinese (简体中文):** 递归智能扩展方法论
+
+---
+
 <h2 id="preamble">🧑‍⚖️ Preamble</h2>
 
 Copyright 2025 (c) Emily Tiffany Joy [emilyjoy.org](https://emilyjoy.org)
@@ -774,10 +794,11 @@ Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp
 ### A. Sections Above This Table of Contents
 1. 📎 [JSON File Metadata](#filemetadata)
 2. ⟁ [Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition](#mission)
-3. 🧑‍⚖️ [Preamble](#preamble)
-4. 🧲 [About the Project](#about-description)
-5. 🧭 <a href="#Self&nbsp;Select" aria-label="🧭&nbsp;Self&nbsp;Select">Self&nbsp;Select</a>
-6. 🚀 <a href="#start-here" aria-label="🚀&nbsp;Start&nbsp;Here">Start Here</a>
+3. 🌐 [Translations of "Recursive Intelligence Expansion Methodology"](#multilingual)
+4. 🧑‍⚖️ [Preamble](#preamble)
+5. 🧲 [About the Project](#about-description)
+6. 🧭 <a href="#Self&nbsp;Select" aria-label="🧭&nbsp;Self&nbsp;Select">Self&nbsp;Select</a>
+7. 🚀 <a href="#start-here" aria-label="🚀&nbsp;Start&nbsp;Here">Start Here</a>
 
 ### B. Introduction and Onboarding
 1. 🌱 <a href="#beginners" aria-label="🟢 Beginner">For Absolute Beginners: A Gentle Invitation to RIEM{}</a>
