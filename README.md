@@ -785,7 +785,7 @@ Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp
 4. 🧘 [Easing the Cognitive Load of the RIEM{} Project](#antidote)
 5. 🧭 [Recursive Intelligence Expansion vs. Adjacent Paradigms: A Comparative Analysis](#adjacent-paradigms)
 6. 🐚 [Recursive Thinking as a Mode of Thought in RIEM{} (Citations and References)](#recursive-thinking)
-7. 🧠 [Emerging Researchers and Publications in Recursive Intelligence)[#emerging-researchers]
+7. 🧠 [Emerging Researchers and Publications in Recursive Intelligence](#emerging-researchers)
 
 ### C. Quick Desk Reference Lookup System
 1. 🔮 <a href="#acronyms" aria-label="📚&nbsp;Quick&nbsp;Reference">Acronym Quick Reference</a>
