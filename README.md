@@ -1436,7 +1436,7 @@ By reframing recursion from a computational technique to a fundamental mode of c
 
 ## References
 - [Recursion – Wikipedia](https://en.wikipedia.org/wiki/Recursion)
-- [Peano Axioms – Encyclopedia Britannica](https://en.wikipedia.org/wiki/Peano_axioms)
+- [Peano Axioms – Encyclopedia Britannica](https://www.britannica.com/science/Peano-axioms)
 - [Pinker, S. (1994). *The Language Instinct*](https://en.wikipedia.org/wiki/Recursion#In_language)
 - [Alejandro, A. (2021). Reflexive discourse analysis](https://en.wikipedia.org/wiki/Recursion#In_the_social_sciences)
 - [Bellman Equation – Recursive Optimization](https://en.wikipedia.org/wiki/Recursion#Recursive_optimization)
