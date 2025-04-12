@@ -2,7 +2,7 @@
 
 <span id="document-top"></span>
 
-<img alt="WCAG 2.2 AA Compliant]" src="https://img.shields.io/badge/Accessibility-WCAG2.2%20AA-brightgreen"> Document last updated on 2025-04-12, version 64.
+<img alt="WCAG 2.2 AA Compliant]" src="https://img.shields.io/badge/Accessibility-WCAG2.2%20AA-brightgreen"> Document last updated on 2025-04-12, version 65.
 
 <details markdown="1" id="filemetadata"><summary>📎 README.me JSON Metadata (Click Expand, useful for context)</summary>
 <br/>
@@ -31,14 +31,14 @@
     "TestedAI": ["Copilot", "LLaMA", "Perplexity", "Claude", "DeepSeek", "Gemini", "ChatGPT", "Grok"],
     "Scope": "Single-file kernel for modular cognition, ethical AI design, and speculative modeling",
     "FileMetrics": {
-      "Tokens": "50k+",
-      "Lines": "3k+",
-      "LinesOfCode": "2k+",
-      "SizeKB": "200+",
+      "Tokens": "60k+",
+      "Lines": "4k+",
+      "LinesOfCode": "2.5k+",
+      "SizeKB": "250+",
       "PrintedPages": "100+",
-      "Words": "25k+",
-      "Sections": "30+",
-      "IDs": "30+"
+      "Words": "30k+",
+      "Sections": "40+",
+      "IDs": "40+"
     }
   }
 }
