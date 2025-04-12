@@ -12,26 +12,29 @@
 
 1. SEO and AIEO - Perplexity, Copilot, and others can now discuss the volumes of TSL and RIEM{} with stunning accuracy merely through asking "What is the triple speculative lens?" The RIEM{} project is now the first result for the search term recursive intelligence on Bing and DuckDuckGo.
 
-2. Wrote two new sections and added them to the README.md:
+2. Wrote three new sections and added them to the README.md:
+ 
 B5: 🧭 Recursive Intelligence Expansion vs. Adjacent Paradigms: A Comparative Analysis - Brings rich encyclopedia sources into the project for full contextualization and placement of RIEM{} within existing research on recursive intelligence, recursive self-improvement, and more.
+
 B6: 🐚 Recursive Thinking as a Mode of Thought in RIEM{} (Citations and References) - This cites all discoverable research related and parallel to RIEM{}, and acknowledges the research community within recursive intelligence as a field of knowledge.
+
 B7: 🧠 Emerging Researchers and Publications in Recursive Intelligence - This section cites most of the discoverable ongoing research by experts in the field of recursive intelligence.
 
-4. Engaged the OpenAI community with original research on Recursive Echo Phenomenon, Recusive Intelligence Civilization Modeling, and HRLIMQ; these posts as contributions can be found on their developer community forum.
+5. Engaged the OpenAI community with original research on Recursive Echo Phenomenon, Recusive Intelligence Civilization Modeling, and HRLIMQ; these posts as contributions can be found on their developer community forum.
 
-5. Removed the README.md mirror contents from cnaks.org for easier maintenance, as the README.md is a living, growing entity, subject to frequent evolutions.
+6. Removed the README.md mirror contents from cnaks.org for easier maintenance, as the README.md is a living, growing entity, subject to frequent evolutions.
 
-6. Updated JSON-LD meta data.
+7. Updated JSON-LD meta data.
 
-7. Reduced font sizes of the etjoy82.github.io site as mobile devices with low resolutions did not comfortably support that size. Updated default font of etjoy82.github.io to Droid Sans, instead of EB Garamond.
+8. Reduced font sizes of the etjoy82.github.io site as mobile devices with low resolutions did not comfortably support that size. Updated default font of etjoy82.github.io to Droid Sans, instead of EB Garamond.
 
-8. Released Volume 0A to Google Books, Google Play Books as both audiobook and ebook, all gratis at no charge, for ease of reading and engagement. Submitted Volume 0B as a second release. They can be found in Google Books and Google Play merely by searching for Triple Speculative Lens. The autonarrated audiobook of Volume 0A is engaging and accessible for anyone to enjoy.
+9. Released Volume 0A to Google Books, Google Play Books as both audiobook and ebook, all gratis at no charge, for ease of reading and engagement. Submitted Volume 0B as a second release. They can be found in Google Books and Google Play merely by searching for Triple Speculative Lens. The autonarrated audiobook of Volume 0A is engaging and accessible for anyone to enjoy.
 
-9. Received stargazers on the project repository. This means a lot to the project's visibility and we are grateful to those who appreciate our work.
+10. Received stargazers on the project repository. This means a lot to the project's visibility and we are grateful to those who appreciate our work.
 
-10. Volume 0G is being developed by etjoy82. It will appear soon integrated into the README.md, cnaks.org, and the RIEM{} wiki. So far it includes a formalization of Speculative Filter Systems (SFS), of which TSL and 10FSG are identified as.
+11. Volume 0G is being developed by etjoy82. It will appear soon integrated into the README.md, cnaks.org, and the RIEM{} wiki. So far it includes a formalization of Speculative Filter Systems (SFS), of which TSL and 10FSG are identified as.
 
-11. ✅ Semantic Clustering Update:
+12. ✅ Semantic Clustering Update:
 Site now algorithmically indexed alongside major knowledge institutions (IBM, UNESCO, Harvard, ScienceDirect) based on RIEM{}’s lexical, epistemic, and topical similarity—confirming cross-domain relevance and academic-tier classification.
 
 ## 2025-04-07 🌀 Top 10 Changes (April 4 → April 7)  
