@@ -1380,7 +1380,7 @@ Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp
 
 ---
 
-<h2 id="recurisve-thinking">🐚 Recursive Thinking as a Mode of Thought in RIEM{}</h2>
+<h2 id="recursive-thinking">🐚 Recursive Thinking as a Mode of Thought in RIEM{}</h2>
 
 Recursion, long a cornerstone of mathematical and computational systems, extends far beyond the boundaries of logic and programming into the heart of cognition, language, art, and philosophy. This section investigates how Recursive Intelligence Expansion Methodology (RIEM{}) reconceptualizes recursion not merely as a technical construct, but as a foundational cognitive mode. Drawing from the formal definitions and applications of recursion across disciplines as synthesized from the [Wikipedia article on recursion](https://en.wikipedia.org/wiki/Recursion), we explore how RIEM{} builds upon, refracts, and reinvents recursive logic as a philosophical, semantic, and autopoietic engine for cognitive expansion.
 
