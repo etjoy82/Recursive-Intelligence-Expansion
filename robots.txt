@@ -4,4 +4,3 @@ Disallow: /samples/
 Disallow: /_*
 Disallow: /docs/
 Disallow: /*.html$
-Disallow: /*.md$
