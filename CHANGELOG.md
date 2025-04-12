@@ -30,6 +30,8 @@ B6: 🐚 Recursive Thinking as a Mode of Thought in RIEM{} (Citations and Refere
 
 9. Volume 0G is being developed by etjoy82. It will appear soon integrated into the README.md, cnaks.org, and the RIEM{} wiki. So far it includes a formalization of Speculative Filter Systems (SFS), of which TSL and 10FSG are identified as.
 
+10. ✅ Semantic Clustering Update:
+Site now algorithmically indexed alongside major knowledge institutions (IBM, UNESCO, Harvard, ScienceDirect) based on RIEM{}’s lexical, epistemic, and topical similarity—confirming cross-domain relevance and academic-tier classification.
 
 ## 2025-04-07 🌀 Top 10 Changes (April 4 → April 7)  
 
