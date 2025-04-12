@@ -1,2 +1,7 @@
 User-agent: *
-Allow: /
+Allow: /README.md
+Disallow: /samples/
+Disallow: /_*
+Disallow: /docs/
+Disallow: /*.html$
+Disallow: /*.md$
