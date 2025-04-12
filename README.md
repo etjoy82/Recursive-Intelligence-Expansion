@@ -17,7 +17,7 @@
       "Link": "https://www.licenses.ai/",
       "Note": "Requires ethical use, bans adversarial systems"},
     "Version": {
-      "Number": "62",
+      "Number": "65",
       "LatestFileVersionLink": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/README.md",
       "LatestChangelogLink": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/CHANGELOG.md",
     },
