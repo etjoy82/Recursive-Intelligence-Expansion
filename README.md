@@ -2,7 +2,7 @@
 
 <span id="document-top"></span>
 
-<img alt="WCAG 2.2 AA Compliant]" src="https://img.shields.io/badge/Accessibility-WCAG2.2%20AA-brightgreen"> Document last updated on 2025-04-11, version 63.
+<img alt="WCAG 2.2 AA Compliant]" src="https://img.shields.io/badge/Accessibility-WCAG2.2%20AA-brightgreen"> Document last updated on 2025-04-12, version 64.
 
 <details markdown="1" id="filemetadata"><summary>📎 README.me JSON Metadata (Click Expand, useful for context)</summary>
 <br/>
