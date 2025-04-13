@@ -16,7 +16,7 @@
 
 3. This repository now fulfills all GitHub community standards on the checklist, having implemented all of the following: Description, README, Code of conduct, Contributing, License, Security policy, Issue templates, Pull request template.
 
-4. Added the following badges to the start of the README.md: Join us on Discord, License: RAIL, WCAG 2.2 AA Compliant, Community Standards, Security Policy, GitHub Repo stars, GitHub commit activity, GitHub last commit, GitHub issues
+4. Added the following badges to the start of the README.md: Join us on Discord, Share on LinkedIn, Discuss on Reddit, Boost on Mastodon, License: RAIL, WCAG 2.2 AA Compliant, Community Standards, Security Policy, GitHub Repo stars, GitHub commit activity, GitHub last commit, GitHub issues
 
 ## 2025-04-12
 
