@@ -43,7 +43,7 @@ Although this project is non-operational software, we invite anyone who believes
 
 ## 📘 Licensing Reminder
 
-All contributions and forks must comply with the [Responsible AI License](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/LICENSE.md). Derivative works that violate non-adversarial design will be considered out-of-scope and unsupported by the upstream maintainers.
+All contributions and forks must comply with the [Responsible AI License](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/LICENSE). Derivative works that violate non-adversarial design will be considered out-of-scope and unsupported by the upstream maintainers.
 
 ---
 
