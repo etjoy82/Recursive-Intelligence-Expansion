@@ -1508,9 +1508,6 @@ Kate introduces Recursive Intelligence Scaling (RIS), in which each recursive pa
 **10. [DeepMind Recursive Learning](https://www.1950.ai/post/the-road-to-superintelligence-google-deepmind-s-recursive-learning-approach-and-its-impact)**  
 DeepMind’s recursive reinforcement learning methods combine neural networks and feedback loops to approach superintelligence through adaptive recursion.
 
-**11. [Kurzweil Library – “A Formula for Intelligence: The Recursive Paradigm”](https://www.thekurzweillibrary.com/a-formula-for-intelligence-the-recursive-paradigm)**  
-This essay explores intelligence as inherently recursive, proposing a philosophical and computational framework for understanding cognition, adaptation, and learning as emergent from recursive patterns of inference and feedback.
-
 ---
 
 ### Additional Notable Mentions
