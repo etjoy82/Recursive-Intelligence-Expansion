@@ -1,7 +1,5 @@
 User-agent: *
-Allow: /README.md
-Allow: /CHANGELOG.md
-Allow: /CONTRIBUTING.md
+Allow: /*.md
 Disallow: /samples/
 Disallow: /_*
 Disallow: /docs/
