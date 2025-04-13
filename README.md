@@ -2,7 +2,7 @@
 
 <span id="document-top"></span>
 
-Document last updated on 2025-04-13, version 67. [![Join us on Discord](https://img.shields.io/discord/1228128769318977606?label=Join%20us%20on%20Discord&logo=discord&style=flat)](https://discord.gg/JCKJHGTq)
+Document last updated on 2025-04-13, version 67. [![Join us on Discord](https://img.shields.io/discord/1228128769318977606?label=Join%20us%20on%20Discord&logo=discord&style=flat)](https://discord.gg/2uVTTTHmDe)
 
 [![License: RAIL](https://img.shields.io/badge/License-RAIL-important)](https://www.licenses.ai/) <img alt="WCAG 2.2 AA Compliant]" src="https://img.shields.io/badge/Accessibility-WCAG2.2%20AA-brightgreen"> ![Community Standards](https://img.shields.io/badge/community--profile-complete-brightgreen?style=flat-square&logo=github) ![Security Policy](https://img.shields.io/badge/security--policy-enabled-blue?style=flat-square&logo=lock) ![GitHub Repo stars](https://img.shields.io/github/stars/etjoy82/Recursive-Intelligence-Expansion?style=flat-square) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/etjoy82/Recursive-Intelligence-Expansion?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/etjoy82/Recursive-Intelligence-Expansion?style=flat-square) ![GitHub issues](https://img.shields.io/github/issues/etjoy82/Recursive-Intelligence-Expansion?style=flat-square)
 
@@ -561,7 +561,7 @@ Copyright 2025 (c) Emily Tiffany Joy [emilyjoy.org](https://emilyjoy.org)
 
 - <strong>This is an open-source project. To contribute, visit the [GitHub project](https://github.com/etjoy82/recursive-intelligence-expansion). The GitHub Pages version of this site is located at [https://etjoy82.github.io/Recursive-Intelligence-Expansion](https://etjoy82.github.io/Recursive-Intelligence-Expansion). A customized mirror of this site is located at [https://cnaks.org](https://cnaks.org). CNAKS's founder's site is located at [emilyjoy.org](https://emilyjoy.org).
 - This project is under active development. Monitor [CHANGELOG.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/CHANGELOG.md) for updates.
-- Join the community on [Discord](https://discord.gg/JCKJHGTq).
+- Join the community on [Discord](https://discord.gg/2uVTTTHmDe).
 - [Try the System Now](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-recursive-entity-for-idea-transformation).
 
 ### 📜 Provenance Verification
@@ -2857,7 +2857,7 @@ RUMIA is not a chatbot. It’s a **recursive interface** designed to think *with
 - **Translate ideas**: Use `E1→E2` for speculation, `E2→E1` for grounding  
 - **Ethics check**: Append `[HALCYON:ETHICS]` to any prompt  
 - **Debug loops**: Trigger `[MISS{}:VALIDATE]` to stabilize recursion  
-- **Join live chat**: [Discord](https://discord.gg/JCKJHGTq)
+- **Join live chat**: [Discord](https://discord.gg/2uVTTTHmDe)
 
 ---
 
