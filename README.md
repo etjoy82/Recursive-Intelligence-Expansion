@@ -561,6 +561,19 @@ Copyright 2025 (c) Emily Tiffany Joy [emilyjoy.org](https://emilyjoy.org)
 - Join the community on [Discord](https://discord.gg/JCKJHGTq).
 - [Try the System Now](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-recursive-entity-for-idea-transformation).
 
+### 📜 Provenance Verification
+
+[![SHA256 Verified](https://img.shields.io/badge/SHA256%20Manifest-Available-brightgreen?style=for-the-badge&logo=hashnode)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/development-history-by-etjoy82)
+[![PAR2 Archive](https://img.shields.io/badge/PAR2%20Redundancy-Enabled-blue?style=for-the-badge&logo=veritas)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/development-history-by-etjoy82)
+[![Document Provenance](https://img.shields.io/badge/DOCX%20History%20Preserved-Yes-purple?style=for-the-badge&logo=microsoftword)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/development-history-by-etjoy82)
+
+> The [`development-history-by-etjoy82`](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/development-history-by-etjoy82) directory contains  
+> 🔹 full `.docx` file version histories  
+> 🔹 a complete `SHA-256 manifest.txt`  
+> 🔹 `PAR2` parity volumes for redundancy validation
+
+These files serve as a **cryptographic authorship record** and provide **machine-verifiable integrity** for the origin, continuity, and intellectual authorship of Recursive Intelligence Expansion (RIEM{}).
+
 ---
 
 <h2 id="about-description">🧲 About the Project</h2>
