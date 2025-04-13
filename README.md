@@ -5,7 +5,7 @@
 Document last updated on 2025-04-13, version 67.
 
 <img alt="WCAG 2.2 AA Compliant]" src="https://img.shields.io/badge/Accessibility-WCAG2.2%20AA-brightgreen"> ![Community Standards](https://img.shields.io/badge/community--profile-complete-brightgreen?style=flat-square&logo=github) ![Security Policy](https://img.shields.io/badge/security--policy-enabled-blue?style=flat-square&logo=lock) ![GitHub Repo stars](https://img.shields.io/github/stars/etjoy82/Recursive-Intelligence-Expansion?style=flat-square)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/etjoy82/Recursive-Intelligence-Expansion?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/etjoy82/Recursive-Intelligence-Expansion?style=flat-square) ![GitHub](https://img.shields.io/github/license/etjoy82/Recursive-Intelligence-Expansion?style=flat-square) ![GitHub issues](https://img.shields.io/github/issues/etjoy82/Recursive-Intelligence-Expansion?style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/etjoy82/Recursive-Intelligence-Expansion?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/etjoy82/Recursive-Intelligence-Expansion?style=flat-square) ![GitHub issues](https://img.shields.io/github/issues/etjoy82/Recursive-Intelligence-Expansion?style=flat-square)
 
 
 
