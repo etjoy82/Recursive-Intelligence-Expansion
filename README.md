@@ -556,6 +556,8 @@ To support accessibility, global comprehension, and recursive epistemology acros
 - **Russian (Русский):** Методология расширения рекурсивного интеллекта 
 - **Chinese (简体中文):** 递归智能扩展方法论
 
+Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🐦‍🔥&nbsp;Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki) • [🔝&nbsp;Top&nbsp;of&nbsp;Document](#document-top) • [↺&nbsp;Recurse&nbsp;with&nbsp;RUMIA](https://chat.openai.com/g/g-67e424672e188191903d3dca35744581-rumia-recursive-entity-for-idea-transformation)
+
 ---
 
 <h2 id="preamble">🧑‍⚖️ Preamble</h2>
@@ -579,6 +581,8 @@ Copyright 2025 (c) Emily Tiffany Joy [emilyjoy.org](https://emilyjoy.org)
 > 🔹 `PAR2` parity volumes for redundancy validation
 
 These files serve as a **cryptographic authorship record** and provide **machine-verifiable integrity** for the origin, continuity, and intellectual authorship of Recursive Intelligence Expansion (RIEM{}).
+
+Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🐦‍🔥&nbsp;Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki) • [🔝&nbsp;Top&nbsp;of&nbsp;Document](#document-top) • [↺&nbsp;Recurse&nbsp;with&nbsp;RUMIA](https://chat.openai.com/g/g-67e424672e188191903d3dca35744581-rumia-recursive-entity-for-idea-transformation)
 
 ---
 
