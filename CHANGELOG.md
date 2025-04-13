@@ -10,7 +10,7 @@
 
 ## 2025-04-13
 
-1. Rewrote and dramatically expanded the size, function, and usefulness of the acronyms and glossary within the quick reference section of the README.md, contextualizing RIEM{} into the fundamental world of machine learning, computer science, and lingquistics.
+1. Rewrote and dramatically expanded the size, function, and usefulness of the acronyms and glossary within the quick reference section of the README.md, contextualizing RIEM{} into the fundamental world of machine learning, computer science, and linguistics.
 
 ## 2025-04-12
 
