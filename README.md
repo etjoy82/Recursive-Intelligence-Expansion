@@ -2,7 +2,10 @@
 
 <span id="document-top"></span>
 
-Document last updated on 2025-04-13, version 67. [![Join us on Discord](https://img.shields.io/discord/1357082014615863446?label=Join%20us%20on%20Discord&logo=discord&style=flat)](https://discord.gg/2uVTTTHmDe)
+Document last updated on 2025-04-13, version 67.
+
+[![Join us on Discord](https://img.shields.io/discord/1357082014615863446?label=Join%20us%20on%20Discord&logo=discord&style=flat)](https://discord.gg/2uVTTTHmDe) [![Share on LinkedIn](https://img.shields.io/badge/LinkedIn-Share-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fetjoy82%2FRecursive-Intelligence-Expansion) [![Discuss on Reddit](https://img.shields.io/badge/Reddit-Discuss-orange?logo=reddit&style=flat-square)](https://reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fetjoy82%2FRecursive-Intelligence-Expansion) [![Boost on Mastodon](https://img.shields.io/badge/Mastodon-Boost-6364FF?logo=mastodon&logoColor=white&style=flat-square)](https://mastodon.social/share?text=Check%20out%20Recursive%20Intelligence%20Expansion%20on%20GitHub%20by%20@etjoy82&url=https%3A%2F%2Fgithub.com%2Fetjoy82%2FRecursive-Intelligence-Expansion)
+
 
 [![License: RAIL](https://img.shields.io/badge/License-RAIL-important)](https://www.licenses.ai/) <img alt="WCAG 2.2 AA Compliant]" src="https://img.shields.io/badge/Accessibility-WCAG2.2%20AA-brightgreen"> ![Community Standards](https://img.shields.io/badge/community--profile-complete-brightgreen?style=flat-square&logo=github) ![Security Policy](https://img.shields.io/badge/security--policy-enabled-blue?style=flat-square&logo=lock) ![GitHub Repo stars](https://img.shields.io/github/stars/etjoy82/Recursive-Intelligence-Expansion?style=flat-square) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/etjoy82/Recursive-Intelligence-Expansion?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/etjoy82/Recursive-Intelligence-Expansion?style=flat-square) ![GitHub issues](https://img.shields.io/github/issues/etjoy82/Recursive-Intelligence-Expansion?style=flat-square)
 
