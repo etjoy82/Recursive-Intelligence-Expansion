@@ -4,11 +4,7 @@
 
 Document last updated on 2025-04-13, version 67.
 
-<img alt="WCAG 2.2 AA Compliant]" src="https://img.shields.io/badge/Accessibility-WCAG2.2%20AA-brightgreen">
-
-![Community Standards](https://img.shields.io/badge/community--profile-complete-brightgreen?style=flat-square&logo=github)
-
-![Security Policy](https://img.shields.io/badge/security--policy-enabled-blue?style=flat-square&logo=lock)
+<img alt="WCAG 2.2 AA Compliant]" src="https://img.shields.io/badge/Accessibility-WCAG2.2%20AA-brightgreen"> ![Community Standards](https://img.shields.io/badge/community--profile-complete-brightgreen?style=flat-square&logo=github) ![Security Policy](https://img.shields.io/badge/security--policy-enabled-blue?style=flat-square&logo=lock)
 
 
 <details markdown="1" id="filemetadata"><summary>📎 README.me JSON Metadata (Click Expand, useful for context)</summary>
