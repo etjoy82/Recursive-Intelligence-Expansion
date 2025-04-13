@@ -793,13 +793,14 @@ Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp
 <h2 id="toc">🗂️ Table of Contents</h2>
 
 ### A. Sections Above This Table of Contents
-1. 📎 [JSON File Metadata](#filemetadata)
-2. ⟁ [Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition](#mission)
-3. 🌐 [Translations of "Recursive Intelligence Expansion Methodology"](#multilingual)
-4. 🧑‍⚖️ [Preamble](#preamble)
-5. 🧲 [About the Project](#about-description)
-6. 🧭 <a href="#Self&nbsp;Select" aria-label="🧭&nbsp;Self&nbsp;Select">Self&nbsp;Select</a>
-7. 🚀 <a href="#start-here" aria-label="🚀&nbsp;Start&nbsp;Here">Start Here</a>
+1. 🎖️ [Social Sharing and Project Badges](#document-top)
+2. 📎 [JSON File Metadata](#filemetadata)
+3. ⟁ [Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition](#mission)
+4. 🌐 [Translations of "Recursive Intelligence Expansion Methodology"](#multilingual)
+5. 🧑‍⚖️ [Preamble](#preamble)
+6. 🧲 [About the Project](#about-description)
+7. 🧭 <a href="#Self&nbsp;Select" aria-label="🧭&nbsp;Self&nbsp;Select">Self&nbsp;Select</a>
+8. 🚀 <a href="#start-here" aria-label="🚀&nbsp;Start&nbsp;Here">Start Here</a>
 
 ### B. Introduction and Onboarding
 1. 🌱 <a href="#beginners" aria-label="🟢 Beginner">For Absolute Beginners: A Gentle Invitation to RIEM{}</a>
