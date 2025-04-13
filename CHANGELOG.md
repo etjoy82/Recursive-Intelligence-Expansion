@@ -8,6 +8,10 @@
 
 ## Responsible AI Licensed Project
 
+## 2025-04-13
+
+1. Rewrote and dramatically expanded the size, function, and usefulness of the acronyms and glossary within the quick reference section of the README.md, contextualizing RIEM{} into the fundamental world of machine learning, computer science, and lingquistics.
+
 ## 2025-04-12
 
 1. SEO and AIEO - Perplexity, Copilot, and others can now discuss the volumes of TSL and RIEM{} with stunning accuracy merely through asking "What is the triple speculative lens?" The RIEM{} project is now the first result for the search term recursive intelligence on Bing and DuckDuckGo.
