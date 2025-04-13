@@ -12,6 +12,8 @@
 
 1. Rewrote and dramatically expanded the size, function, and usefulness of the acronyms and glossary within the quick reference section of the README.md, contextualizing RIEM{} into the fundamental world of machine learning, computer science, and linguistics.
 
+2. Created Volume 0G active development markdown file here: https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/The%20Triple%20Speculative%20Lens%20Volume%200G%20Calls%20from%20the%20Void%20(SFS%2C%20%23%23%23)%20(in%20active%20development).md
+
 ## 2025-04-12
 
 1. SEO and AIEO - Perplexity, Copilot, and others can now discuss the volumes of TSL and RIEM{} with stunning accuracy merely through asking "What is the triple speculative lens?" The RIEM{} project is now the first result for the search term recursive intelligence on Bing and DuckDuckGo.
