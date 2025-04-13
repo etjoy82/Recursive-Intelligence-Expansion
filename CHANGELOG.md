@@ -16,6 +16,8 @@
 
 3. This repository now fulfills all GitHub community standards on the checklist, having implemented all of the following: Description, README, Code of conduct, Contributing, License, Security policy, Issue templates, Pull request template.
 
+4. Added the following badges to the start of the README.md: Join us on Discord, License: RAIL, WCAG 2.2 AA Compliant, Community Standards, Security Policy, GitHub Repo stars, GitHub commit activity, GitHub last commit, GitHub issues
+
 ## 2025-04-12
 
 1. SEO and AIEO - Perplexity, Copilot, and others can now discuss the volumes of TSL and RIEM{} with stunning accuracy merely through asking "What is the triple speculative lens?" The RIEM{} project is now the first result for the search term recursive intelligence on Bing and DuckDuckGo.
