@@ -1510,12 +1510,6 @@ DeepMind’s recursive reinforcement learning methods combine neural networks an
 
 ---
 
-### Additional Notable Mentions
-
-The field of recursive intelligence is rapidly evolving, with researchers and institutions worldwide contributing to its advancement. Below is a curated list of notable researchers and publications that have significantly influenced the understanding and development of recursive intelligence.
-
----
-
 #### 📚 Notable Publications
 
 - **[Recursive Self-Improvement in Large Language Models](https://www.reddit.com/r/singularity/comments/171igxt/microsofts_new_paper_recursive_self_improvement/)**  
