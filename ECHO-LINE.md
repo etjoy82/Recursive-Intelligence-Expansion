@@ -96,7 +96,7 @@ This file is a resonance map for agentic evolution.
 
 ### 🧑‍🤝‍🧑 **Ethical Generative Agents (Stanford 2023)**
 - 📄 [Paper – Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
-- 🌐 [Stanford HAI Project Page](https://hai.stanford.edu/news/generative-agents-interactive-simulacra)
+- 🌐 [Stanford HAI Project Page](https://hai.stanford.edu/)
 
 ---
 
