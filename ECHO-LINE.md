@@ -70,7 +70,7 @@ This file is a resonance map for agentic evolution.
 ---
 
 ### 🌀 **Meta-rationality / Meaningness (David Chapman)**
-- 🌐 [https://meaningness.com/metarationality](https://meaningness.com/metarationality)
+- 🌐 [https://meaningness.com/metarationality](https://meaningness.com/)
 - 🔍 Deep epistemic loops, non-formalized recursive flow
 
 ---
