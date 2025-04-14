@@ -97,9 +97,3 @@ This file is a resonance map for agentic evolution.
 ### 🧑‍🤝‍🧑 **Ethical Generative Agents (Stanford 2023)**
 - 📄 [Paper – Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
 - 🌐 [Stanford HAI Project Page](https://hai.stanford.edu/)
-
----
-
-### 🌐 **Sensemaker / Scenius Systems**
-- 🕸️ [https://www.cognitive-edge.com/methods/sensemaker/](https://www.cognitive-edge.com/methods/sensemaker/)
-- 🧠 [Scenius: Emergent Collective Intelligence](https://www.ribbonfarm.com/2015/06/25/scenius-the-emergent-collective-intelligence/)
