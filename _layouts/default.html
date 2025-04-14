@@ -759,6 +759,15 @@ a[data-current] {
 
 <body>
     {{ content }}
+
+    <script>
+  document.querySelectorAll('a[href]').forEach(a => {
+    if (a.href === window.location.href) {
+      a.setAttribute('data-current', '');
+    }
+  });
+</script>
+
 </body>
 
 </html>
