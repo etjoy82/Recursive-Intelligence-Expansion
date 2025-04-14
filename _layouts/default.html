@@ -530,7 +530,9 @@
 :root {
   --font-sans: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
   --text-color-light: #1a1a1a;
-  --text-color-dark: #e0e0e0;
+  --link-dark: #66ccff;
+  --visited-dark: #9999cc;
+  --hover-bg-dark: rgba(102, 204, 255, 0.15);
   --bg-light: #ffffff;
   --bg-dark: #121212;
   --link-light: #0055aa;
@@ -573,17 +575,17 @@ body {
   }
 
   a {
-    color: var(--link-dark);
+    color: #66ccff; /* Brighter cyan-blue for dark mode links */
   }
 
   a:visited {
-    color: var(--visited-dark);
+    color: #9999cc; /* Muted lavender: visible but distinct */
   }
 
   a:hover,
   a:focus {
-    background-color: var(--hover-bg-dark);
-    outline: 2px solid var(--link-dark);
+    background-color: rgba(102, 204, 255, 0.15); /* Semi-transparent hover highlight */
+    outline: 2px solid #66ccff;
   }
 
   th {
@@ -594,6 +596,7 @@ body {
     background-color: #1a1a1a;
   }
 }
+
 
 /* === Typography === */
 p {
