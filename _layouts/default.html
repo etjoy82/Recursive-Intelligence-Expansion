@@ -529,66 +529,84 @@
     <style>
 :root {
   --font-sans: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
-  --text-color-light: #1a1a1a;
-  --link-dark: #66ccff;
-  --visited-dark: #9999cc;
-  --hover-bg-dark: rgba(102, 204, 255, 0.15);
-  --bg-light: #ffffff;
-  --bg-dark: #121212;
-  --link-light: #0055aa;
-  --link-dark: #7ab8ff;
-  --visited-light: #444;
-  --visited-dark: #aaa;
-  --hover-bg-light: #dcefff;
-  --hover-bg-dark: #1e2a38;
-  --heading-light: #111;
-  --heading-dark: #f5f5f5;
+
+  /* Light mode defaults */
+  --text-color: #1a1a1a;
+  --bg-color: #ffffff;
+  --link-color: #0055aa;
+  --visited-color: #444;
+  --hover-bg: #dcefff;
+  --heading-color: #111;
   --outline-focus: #222;
 }
 
-/* === Base Styles === */
-html {
-  scroll-behavior: smooth;
+/* Dark mode overrides */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text-color: #e0e0e0;
+    --bg-color: #121212;
+    --link-color: #66ccff;
+    --visited-color: #9999cc;
+    --hover-bg: rgba(102, 204, 255, 0.15);
+    --heading-color: #f5f5f5;
+  }
 }
 
+/* === Base Styles === */
 body {
   font-family: var(--font-sans);
   font-size: 1rem;
   line-height: 1.6;
-  color: var(--text-color-light);
-  background-color: var(--bg-light);
+  color: var(--text-color);
+  background-color: var(--bg-color);
   margin: 2rem auto;
   padding: 0 1rem;
   max-width: 1000px;
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-/* === Dark Mode Support === */
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: var(--bg-dark);
-    color: var(--text-color-dark);
-  }
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.25;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  color: var(--heading-color);
+}
 
-  h1, h2, h3, h4, h5, h6 {
-    color: var(--heading-dark);
-  }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.6rem; }
+h3 { font-size: 1.3rem; }
 
-  a {
-    color: #66ccff; /* Brighter cyan-blue for dark mode links */
-  }
+p {
+  font-size: inherit;
+  line-height: inherit;
+}
 
-  a:visited {
-    color: #9999cc; /* Muted lavender: visible but distinct */
-  }
+/* === Link Styles (Variable-Driven) === */
+a {
+  color: var(--link-color);
+  text-decoration: underline;
+  font-weight: 500;
+  transition: background-color 0.2s ease;
+}
 
-  a:hover,
-  a:focus {
-    background-color: rgba(102, 204, 255, 0.15); /* Semi-transparent hover highlight */
-    outline: 2px solid #66ccff;
-  }
+a:visited {
+  color: var(--visited-color);
+}
 
-  th {
+a:hover,
+a:focus {
+  text-decoration: none;
+  background-color: var(--hover-bg);
+  outline: 2px solid var(--link-color);
+  outline-offset: 2px;
+}
+
+:focus {
+  outline: 2px dashed var(--outline-focus);
+  outline-offset: 3px;
+}
+
+        th {
     background-color: #1e1e1e;
   }
 
