@@ -721,6 +721,38 @@ th, td {
     font-size: 1rem;
   }
 }
+        /* === Highlight tab-focused links === */
+a:focus-visible {
+  outline: 3px solid var(--link-color, #0055aa);
+  outline-offset: 4px;
+  background-color: var(--hover-bg, #dcefff);
+  border-radius: 4px;
+  transition: outline 0.2s ease, background-color 0.2s ease;
+}
+
+/* === Highlight current page link using exact match (JS assisted below) === */
+a[data-current] {
+  font-weight: bold;
+  border-bottom: 2px solid var(--link-color, #0055aa);
+  background-color: var(--hover-bg, #dcefff);
+  color: var(--link-color, #0055aa);
+  border-radius: 4px;
+}
+
+/* === Dark Mode Support === */
+@media (prefers-color-scheme: dark) {
+  a:focus-visible {
+    outline-color: var(--link-color, #66ccff);
+    background-color: var(--hover-bg-dark, rgba(102, 204, 255, 0.15));
+  }
+
+  a[data-current] {
+    background-color: var(--hover-bg-dark, rgba(102, 204, 255, 0.15));
+    color: var(--link-color, #66ccff);
+    border-bottom-color: var(--link-color, #66ccff);
+  }
+}
+
 </style>
 
 </head>
