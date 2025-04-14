@@ -527,152 +527,161 @@
 }
 </script>
     <style>
+:root {
+  --font-sans: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+  --text-color-light: #1a1a1a;
+  --text-color-dark: #e0e0e0;
+  --bg-light: #ffffff;
+  --bg-dark: #121212;
+  --link-light: #0055aa;
+  --link-dark: #7ab8ff;
+  --visited-light: #444;
+  --visited-dark: #aaa;
+  --hover-bg-light: #dcefff;
+  --hover-bg-dark: #1e2a38;
+  --heading-light: #111;
+  --heading-dark: #f5f5f5;
+  --outline-focus: #222;
+}
 
-    html {
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, serif;
-        font-size: 16px;
-        line-height: 1.7;
-        font-feature-settings: "liga", "kern";
-        -webkit-font-smoothing: antialiased;
-        -moz-osx-font-smoothing: grayscale;
-        text-rendering: optimizeLegibility;
-        scroll-behavior: smooth;
-    }
-  /* === Base Styles === */
+/* === Base Styles === */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--text-color-light);
+  background-color: var(--bg-light);
+  margin: 2rem auto;
+  padding: 0 1rem;
+  max-width: 800px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* === Dark Mode Support === */
+@media (prefers-color-scheme: dark) {
   body {
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
-    font-size: 1rem;
-    line-height: 1.6;
-    color: #1a1a1a; /* Near-black for strong contrast */
-    background-color: #ffffff;
-    margin: 2rem auto;
-    padding: 0 1rem;
-    max-width: 800px;
-  }
-            
-  body {
-    scroll-behavior: smooth;
-  }
-        
-  p {
-    font-size: inherit;
-    line-height: inherit;
-  }
-        
-  /* Only apply momentum and fade to known scroll-prone areas */
-  .scroll-app-style {
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    scroll-behavior: smooth;
-    white-space: nowrap;
-    padding-inline: 1rem;
+    background-color: var(--bg-dark);
+    color: var(--text-color-dark);
   }
 
-  .scroll-app-style[data-scroll-fade] {
-    mask-image: linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
-    -webkit-mask-image: linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
-  }
-
-  /* Optional: Only hide scrollbar on small screens */
-  @media (max-width: 768px) {
-    .scroll-app-style::-webkit-scrollbar {
-      display: none;
-    }
-  }
-
-        
   h1, h2, h3, h4, h5, h6 {
-    line-height: 1.25;
-    margin-top: 1.5em;
-    margin-bottom: 0.5em;
-    color: #111; /* Strong contrast for headings */
+    color: var(--heading-dark);
   }
 
-  h1 { font-size: 2rem; }
-  h2 { font-size: 1.6rem; }
-  h3 { font-size: 1.3rem; }
-
-  /* === High-Contrast Links === */
   a {
-    color: #0055aa; /* Darker blue for WCAG AA compliance (contrast ratio: 7.17:1) */
-    text-decoration: underline;
-    font-weight: 500;
+    color: var(--link-dark);
   }
 
   a:visited {
-    color: #444; /* Dark enough to stay compliant */
+    color: var(--visited-dark);
   }
 
   a:hover,
   a:focus {
-    text-decoration: none;
-    background-color: #dcefff; /* Light blue for accessible hover state */
-    outline: 2px solid #0055aa;
-    outline-offset: 2px;
+    background-color: var(--hover-bg-dark);
+    outline: 2px solid var(--link-dark);
   }
 
-  :focus {
-    outline: 2px dashed #222;
-    outline-offset: 3px;
+  th {
+    background-color: #1e1e1e;
   }
 
-  /* === Touch-Target-Friendly Links in Lists === */
-  ul li a {
-    display: inline-block;
-    padding: 10px 8px;
-    margin: 4px 0;
-    min-height: 44px;
-    min-width: 44px;
+  tr:nth-child(even) {
+    background-color: #1a1a1a;
   }
+}
 
-  ul li {
-    margin-bottom: 6px;
+/* === Typography === */
+p {
+  font-size: inherit;
+  line-height: inherit;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.25;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  color: var(--heading-light);
+}
+
+h1 { font-size: 2rem; }
+h2 { font-size: 1.6rem; }
+h3 { font-size: 1.3rem; }
+
+/* === Links === */
+a {
+  color: var(--link-light);
+  text-decoration: underline;
+  font-weight: 500;
+  transition: background-color 0.2s ease;
+}
+
+a:visited {
+  color: var(--visited-light);
+}
+
+a:hover,
+a:focus {
+  text-decoration: none;
+  background-color: var(--hover-bg-light);
+  outline: 2px solid var(--link-light);
+  outline-offset: 2px;
+}
+
+:focus {
+  outline: 2px dashed var(--outline-focus);
+  outline-offset: 3px;
+}
+
+/* === Lists and Navigation Touch Targets === */
+ul li {
+  margin-bottom: 6px;
+}
+
+ul li a {
+  display: inline-block;
+  padding: 10px 8px;
+  margin: 4px 0;
+  min-height: 44px;
+  min-width: 44px;
+}
+
+/* === Scroll-Aware === */
+.scroll-app-style {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
+  white-space: nowrap;
+  padding-inline: 1rem;
+}
+
+.scroll-app-style[data-scroll-fade] {
+  mask-image: linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
+  -webkit-mask-image: linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
+}
+
+/* === Hide Scrollbars on Mobile === */
+@media (max-width: 768px) {
+  .scroll-app-style::-webkit-scrollbar {
+    display: none;
   }
+}
 
-  /* === Responsive Typography === */
-  @media (max-width: 600px) {
-    body {
-      font-size: 1rem;
-    }
-
-    h1 {
-      font-size: 1.5rem;
-    }
-
-    h2 {
-      font-size: 1.25rem;
-    }
-
-    h3 {
-      font-size: 1.1rem;
-    }
-
-    ul li a {
-      padding: 12px 10px;
-      font-size: 1rem;
-    }
-
-      /* Responsive table wrapper for mobile */
+/* === Tables === */
 table {
   width: 100%;
   border-collapse: collapse;
-  background-color: #ffffff;
+  background-color: inherit;
   border: 1px solid #ccc;
   margin-top: 1rem;
   font-size: 0.95rem;
+  transition: background-color 0.3s ease;
 }
 
-/* Apply scroll only on small screens */
-@media (max-width: 768px) {
-  table {
-    display: block;
-    overflow-x: auto;
-    white-space: nowrap;
-    -webkit-overflow-scrolling: touch;
-  }
-}
-
-/* Cell styling remains the same */
 th, td {
   border: 1px solid #ccc;
   padding: 12px 16px;
@@ -689,6 +698,26 @@ tr:nth-child(even) {
   background-color: #f9f9f9;
 }
 
+@media (max-width: 768px) {
+  table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
+/* === Responsive Typography === */
+@media (max-width: 600px) {
+  body { font-size: 1rem; }
+  h1 { font-size: 1.5rem; }
+  h2 { font-size: 1.25rem; }
+  h3 { font-size: 1.1rem; }
+  ul li a {
+    padding: 12px 10px;
+    font-size: 1rem;
+  }
+}
 </style>
 
 </head>
