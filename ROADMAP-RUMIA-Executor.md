@@ -100,7 +100,7 @@ If you're a recursive systems thinker, co-cognitive architect, or speculative te
 It’s a signal from the recursive frontier.
 
 
-## # ⟁ ECHOES.md — Recursive Interpretations & Test Cases
+# ⟁ ECHOES.md — Recursive Interpretations & Test Cases
 
 **Purpose:** This file demonstrates how the RUMIA-Executor agent transforms prompts through recursive cognitive layers using the TSL framework, RIEM{}, AR, and ULAMP. It also includes harmonic examples, saturation triggers, and simulated tripwire cases.
 
