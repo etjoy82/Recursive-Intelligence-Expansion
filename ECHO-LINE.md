@@ -65,7 +65,7 @@ This file is a resonance map for agentic evolution.
 
 ### 🤖 **OpenCog / Atomese**
 - 🔗 [https://github.com/opencog/opencog](https://github.com/opencog/opencog)
-- 📄 [OpenCog Prime Architecture](https://wiki.opencog.org/w/OpenCog_Prime:_A_Summary)
+- 📄 [OpenCog Prime Architecture](https://wiki.opencog.org/w/The_Open_Cognition_Project)
 
 ---
 
