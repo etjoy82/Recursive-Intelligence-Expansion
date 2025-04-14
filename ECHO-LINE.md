@@ -77,7 +77,6 @@ This file is a resonance map for agentic evolution.
 
 ### 🌱 **Holochain / Ceptr**
 - 🔗 [https://github.com/holochain](https://github.com/holochain)
-- 📘 [Ceptr Whitepaper](https://ceptr.org/whitepaper)
 - 🌐 [https://holochain.org](https://holochain.org)
 
 ---
