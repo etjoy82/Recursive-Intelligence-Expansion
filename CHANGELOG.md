@@ -8,6 +8,12 @@
 
 ## Responsible AI Licensed Project
 
+## 2025-04-16
+
+1. Development has been occurring behind the scenes, not on GitHub, at the moment, and my focus has been on publicity.
+
+2. This is an easter egg moment. To those who want to contribute to RIEM{}, do not email me. If you email me, I will be upset. Do a pull request. Open an issue. Anything but email. Two people attempted to offer me far too much money than I feel comfortable understanding, by email, internationally, for small amounts of my attention. I do not require money. Do not offer me money. Just clone the repository and contribute. Email throws up a red flag!
+
 ## 2025-04-14
 
 1. Improved the stylesheet for the github pages version of the project. It is now light vs dark mode aware, and the minimum width of the body of the text is 200px larger.
