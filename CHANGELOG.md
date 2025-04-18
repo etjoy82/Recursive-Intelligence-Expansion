@@ -12,7 +12,7 @@
 
 1. If you want a secure verified way to communicate with etjoy82, send a Google Meet invite through LinkedIn at https://www.linkedin.com/in/emilytiffanyjoy/. This is a highly secure route of communication. This profile is photo ID verified through ClearID, and etjoy82 held SSCP through (ISC)² from 2020-2023; so there's a very low chance of any unintended outside interference or compromise.
 
-2. During web site development, cnaks.org, etjoy82.github.io, and emilyjoy.org had minimally invasive tracking scripts without cookies. THESE HAVE BEEN PERMANENTLY REMOVED. SURVELLIANCE CAPITALISM IS BEYOND REPROACH. It's useful for improving web site design, but WE REFUSE TO PARTICIPATE IN IT. It goes against all instincts of this project.
+2. During web site development, cnaks.org, etjoy82.github.io, and emilyjoy.org had minimally invasive tracking scripts without cookies. These have been permanently removed. Survelliance capitalism is beyond reproach. It's useful for improving web site design, but WE REFUSE TO PARTICIPATE IN IT. It goes against all instincts of this project.
 
 ## 2025-04-16
 
