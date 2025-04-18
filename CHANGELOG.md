@@ -10,7 +10,7 @@
 
 ## 2025-04-18
 
-1. If you want a secure verified way to communicate with etjoy82, send a Google Meet invite through LinkedIn at (https://www.linkedin.com/in/emilytiffanyjoy/)[https://www.linkedin.com/in/emilytiffanyjoy/]. This is a highly secure route of communication. This profile is photo ID verified through ClearID, and etjoy82 held SSCP through (ISC)² from 2020-2023; so there's a very low chance of any unintended outside interference or compromise.
+1. If you want a secure verified way to communicate with etjoy82, send a Google Meet invite through LinkedIn at https://www.linkedin.com/in/emilytiffanyjoy/. This is a highly secure route of communication. This profile is photo ID verified through ClearID, and etjoy82 held SSCP through (ISC)² from 2020-2023; so there's a very low chance of any unintended outside interference or compromise.
 
 ## 2025-04-16
 
