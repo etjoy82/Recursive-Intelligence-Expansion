@@ -14,6 +14,8 @@
 
 2. During web site development, cnaks.org, etjoy82.github.io, and emilyjoy.org had minimally invasive tracking scripts without cookies. These have been permanently removed. Survelliance capitalism is beyond reproach. It's useful for improving web site design, but we refuse to participate in it. It goes against all instincts of this project.
 
+3. LinkedIn for etjoy82 was set to decline messages. This has since been fixed. It is now a business premium profile set to open. It also offers services of consulting in project management.
+ 
 ## 2025-04-16
 
 1. Development has been occurring behind the scenes, not on GitHub, at the moment, and my focus has been on publicity.
